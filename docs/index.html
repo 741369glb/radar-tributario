@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar Tributário</title>
+<meta name="description" content="Boletim diário e didático de direito tributário: julgamentos, decisões, normas e debates.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600;7..72,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --papel: #F4F6F5; --superficie: #FFFFFF; --tinta: #1B2331; --suave: #566070;
+  --linha: #D5DBD8; --verde: #1E6A4E; --marca: #F6D84A;
+  --t-julg: #7B3A68; --t-adm: #1E6A4E; --t-norma: #2D5C8E; --t-noticia: #8A6A34;
+  --serif: "Literata", Georgia, "Times New Roman", serif;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papel: #121820; --superficie: #19212B; --tinta: #E5E9EE; --suave: #9AA5B4;
+    --linha: #2C3744; --verde: #5FBF97; --marca: rgba(246,216,74,.38);
+    --t-julg: #D08BBF; --t-adm: #5FBF97; --t-norma: #7FAEE0; --t-noticia: #D3B178;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+body {
+  margin: 0; background: var(--papel); color: var(--tinta);
+  font-family: var(--sans); font-size: 16px; line-height: 1.5;
+  padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+a { color: var(--verde); }
+:focus-visible { outline: 3px solid var(--verde); outline-offset: 2px; border-radius: 3px; }
+.envelope { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
+
+/* Cabeçalho */
+.topo { padding: 40px 0 28px; border-bottom: 2px solid var(--tinta); }
+.topo-linha { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: end; justify-content: space-between; }
+.marca-site { font-family: var(--serif); font-weight: 700; font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1; margin: 0; letter-spacing: -0.02em; }
+.marca-site small { display: block; font-family: var(--sans); font-weight: 400; font-size: 1rem; letter-spacing: 0; color: var(--suave); margin-top: 10px; }
+.edicao { text-align: right; color: var(--suave); font-size: .95rem; }
+.edicao strong { display: block; color: var(--tinta); font-family: var(--serif); font-size: 1.15rem; }
+
+/* Panorama */
+.panorama { display: grid; grid-template-columns: 180px 1fr; gap: 24px; padding: 32px 0; border-bottom: 1px solid var(--linha); }
+.panorama h2 { font-family: var(--serif); font-size: 1.15rem; margin: 4px 0 0; }
+.panorama p { font-family: var(--serif); font-size: 1.22rem; line-height: 1.7; margin: 0; max-width: 68ch; }
+.panorama .vazio { font-family: var(--sans); font-size: 1rem; color: var(--suave); }
+
+/* Filtros */
+.filtros { padding: 22px 0 14px; display: grid; gap: 14px; }
+.abas { display: flex; flex-wrap: wrap; gap: 6px; }
+.aba { font: inherit; font-weight: 500; border: 1px solid var(--linha); background: var(--superficie); color: var(--tinta); padding: 8px 14px; border-radius: 999px; cursor: pointer; }
+.aba[aria-pressed="true"] { background: var(--tinta); color: var(--papel); border-color: var(--tinta); }
+.aba .n { opacity: .65; margin-left: 4px; font-size: .85em; }
+.linha-filtros { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.linha-filtros select, .linha-filtros input {
+  font: inherit; color: var(--tinta); background: var(--superficie);
+  border: 1px solid var(--linha); border-radius: 8px; padding: 8px 10px;
+}
+.linha-filtros input[type="search"] { flex: 1 1 240px; min-width: 0; }
+.so-destaques { display: inline-flex; gap: 6px; align-items: center; color: var(--suave); }
+
+/* Corpo */
+.corpo { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 48px; padding-bottom: 64px; }
+.dia { margin-top: 18px; }
+.dia > h3 { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; color: var(--suave); margin: 18px 0 4px; padding-bottom: 6px; border-bottom: 1px solid var(--linha); }
+.item { padding: 20px 0 22px 18px; border-left: 4px solid var(--cor-tipo, var(--linha)); margin: 14px 0; }
+.item[data-tipo="Julgamento"] { --cor-tipo: var(--t-julg); }
+.item[data-tipo="Decisão administrativa"] { --cor-tipo: var(--t-adm); }
+.item[data-tipo="Norma e legislação"] { --cor-tipo: var(--t-norma); }
+.item[data-tipo="Notícia e debate"] { --cor-tipo: var(--t-noticia); }
+.meta { font-size: .88rem; color: var(--suave); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.meta .tipo { color: var(--cor-tipo); font-weight: 600; }
+.item h4 { font-family: var(--serif); font-size: 1.3rem; line-height: 1.35; margin: 6px 0 10px; font-weight: 600; max-width: 62ch; }
+.item h4 a { color: inherit; text-decoration: none; }
+.item h4 a:hover { text-decoration: underline; }
+/* O marca-texto: sinaliza itens de alta relevância, como um estudante grifando o código */
+.item[data-imp="3"] h4 span {
+  background: linear-gradient(transparent 52%, var(--marca) 52%, var(--marca) 92%, transparent 92%);
+  -webkit-box-decoration-break: clone; box-decoration-break: clone;
+}
+.resumo { font-family: var(--serif); line-height: 1.7; margin: 0; max-width: 68ch; }
+.pratica { margin: 12px 0 0; padding: 10px 14px; background: var(--superficie); border-radius: 6px; max-width: 68ch; font-size: .96rem; }
+.pratica b { color: var(--verde); }
+.termos { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.termos details { font-size: .9rem; }
+.termos summary { cursor: pointer; color: var(--suave); text-decoration: underline dotted; list-style: none; }
+.termos summary::-webkit-details-marker { display: none; }
+.termos details[open] { flex-basis: 100%; }
+.termos details[open] p { margin: 4px 0 0; padding-left: 10px; border-left: 2px solid var(--linha); }
+.rodape-item { margin-top: 12px; font-size: .9rem; }
+.tema-tag { font-size: .85rem; border: 1px solid var(--linha); border-radius: 999px; padding: 1px 9px; }
+.sem-resultado { padding: 40px 0; color: var(--suave); }
+.mais { font: inherit; margin: 20px 0; padding: 10px 18px; border-radius: 8px; border: 1px solid var(--tinta); background: transparent; color: var(--tinta); cursor: pointer; }
+
+/* Lateral */
+aside { padding-top: 22px; }
+aside section { margin-bottom: 36px; }
+aside h2 { font-family: var(--serif); font-size: 1.15rem; margin: 0 0 10px; }
+.legenda { list-style: none; padding: 0; margin: 0; font-size: .93rem; display: grid; gap: 8px; }
+.legenda li { padding-left: 12px; border-left: 4px solid; }
+.grifo { background: linear-gradient(transparent 52%, var(--marca) 52%, var(--marca) 92%, transparent 92%); }
+#glossario-busca { width: 100%; font: inherit; padding: 8px 10px; border: 1px solid var(--linha); border-radius: 8px; background: var(--superficie); color: var(--tinta); }
+#glossario { margin: 10px 0 0; max-height: 460px; overflow-y: auto; font-size: .93rem; }
+#glossario dt { font-weight: 600; margin-top: 10px; }
+#glossario dd { margin: 2px 0 0; color: var(--suave); }
+.aviso { font-size: .85rem; color: var(--suave); }
+
+@media (max-width: 860px) {
+  .corpo { grid-template-columns: 1fr; gap: 0; }
+  .panorama { grid-template-columns: 1fr; gap: 10px; }
+  .edicao { text-align: left; }
+  aside { border-top: 2px solid var(--tinta); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .aba, .mais { transition: background-color .15s, color .15s; }
+}
+</style>
+</head>
+<body>
+<header class="topo">
+  <div class="envelope topo-linha">
+    <h1 class="marca-site">Radar Tributário<small>Julgamentos, decisões, normas e debates do direito tributário, explicados todos os dias.</small></h1>
+    <div class="edicao" id="edicao"><strong>Carregando…</strong></div>
+  </div>
+</header>
+
+<main class="envelope">
+  <section class="panorama" aria-labelledby="titulo-panorama">
+    <h2 id="titulo-panorama">Panorama do dia</h2>
+    <p id="panorama" class="vazio">Carregando o boletim…</p>
+  </section>
+
+  <div class="filtros">
+    <div class="abas" id="abas" role="group" aria-label="Filtrar por tipo"></div>
+    <div class="linha-filtros">
+      <input type="search" id="busca" placeholder="Pesquisar por termo, tributo, tribunal…" aria-label="Pesquisar">
+      <select id="tema" aria-label="Filtrar por tema"><option value="">Todos os temas</option></select>
+      <select id="periodo" aria-label="Período">
+        <option value="1">Hoje</option>
+        <option value="7" selected>Últimos 7 dias</option>
+        <option value="30">Últimos 30 dias</option>
+        <option value="9999">Todo o arquivo</option>
+      </select>
+      <label class="so-destaques"><input type="checkbox" id="destaques"> Só alta relevância</label>
+    </div>
+  </div>
+
+  <div class="corpo">
+    <div id="lista" aria-live="polite"></div>
+    <aside>
+      <section>
+        <h2>Como ler o boletim</h2>
+        <ul class="legenda">
+          <li style="border-color:var(--t-julg)"><b>Julgamento</b>: decisões do STF, STJ e demais tribunais.</li>
+          <li style="border-color:var(--t-adm)"><b>Decisão administrativa</b>: CARF, Receita Federal e órgãos fazendários.</li>
+          <li style="border-color:var(--t-norma)"><b>Norma e legislação</b>: leis, decretos, instruções normativas e projetos.</li>
+          <li style="border-color:var(--t-noticia)"><b>Notícia e debate</b>: análises, eventos e discussões do setor.</li>
+          <li style="border-color:transparent"><span class="grifo">Título grifado</span>: alta relevância, como decisão vinculante ou mudança de lei.</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Glossário</h2>
+        <input type="search" id="glossario-busca" placeholder="Buscar termo" aria-label="Buscar no glossário">
+        <dl id="glossario"></dl>
+      </section>
+      <section>
+        <p class="aviso">Os resumos são gerados automaticamente por inteligência artificial a partir de fontes públicas e têm finalidade informativa e didática. Confira sempre a fonte original antes de usar qualquer informação profissionalmente.</p>
+      </section>
+    </aside>
+  </div>
+</main>
+
+<script>
+(function () {
+  "use strict";
+  const TIPOS_PADRAO = ["Julgamento", "Decisão administrativa", "Norma e legislação", "Notícia e debate"];
+  const estado = { tipo: "", tema: "", busca: "", periodo: 7, destaques: false, limite: 40 };
+  let dados = { itens: [], panoramas: {}, glossario: {} };
+
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const semAcento = (s) => String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  const dataLonga = (iso) => new Date(iso + "T12:00:00").toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  const hojeISO = () => new Date().toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
+
+  function linkSeguro(url) {
+    try { const u = new URL(url); return /^https?:$/.test(u.protocol) ? u.href : "#"; } catch { return "#"; }
+  }
+
+  function filtrar() {
+    const limite = new Date(); limite.setDate(limite.getDate() - (estado.periodo - 1)); limite.setHours(0, 0, 0, 0);
+    const q = semAcento(estado.busca);
+    return dados.itens.filter((i) =>
+      (!estado.tipo || i.tipo === estado.tipo) &&
+      (!estado.tema || i.tema === estado.tema) &&
+      (!estado.destaques || i.importancia >= 3) &&
+      new Date(i.data) >= limite &&
+      (!q || semAcento([i.titulo, i.resumo, i.pratica, i.orgao, i.veiculo, i.tema].join(" ")).includes(q))
+    );
+  }
+
+  function desenharAbas(base) {
+    const tipos = dados.tipos || TIPOS_PADRAO;
+    const opcoes = [["", "Tudo"]].concat(tipos.map((t) => [t, t]));
+    $("abas").innerHTML = opcoes.map(([valor, rotulo]) => {
+      const n = valor ? base.filter((i) => i.tipo === valor).length : base.length;
+      return `<button class="aba" data-tipo="${esc(valor)}" aria-pressed="${estado.tipo === valor}">${esc(rotulo)}<span class="n">${n}</span></button>`;
+    }).join("");
+  }
+
+  function desenharItem(i) {
+    const termos = (i.termos || []).map((t) =>
+      `<details><summary>${esc(t.termo)}</summary><p>${esc(t.explicacao)}</p></details>`).join("");
+    const hora = new Date(i.data).toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit", timeZone: "America/Sao_Paulo" });
+    return `<article class="item" data-tipo="${esc(i.tipo)}" data-imp="${esc(i.importancia)}">
+      <div class="meta"><span class="tipo">${esc(i.tipo)}</span>${i.orgao ? `<span>${esc(i.orgao)}</span>` : ""}<span>${esc(i.veiculo)}, ${hora}</span></div>
+      <h4><a href="${linkSeguro(i.link)}" target="_blank" rel="noopener"><span>${esc(i.titulo)}</span></a></h4>
+      <p class="resumo">${esc(i.resumo)}</p>
+      ${i.pratica ? `<p class="pratica"><b>Na prática:</b> ${esc(i.pratica)}</p>` : ""}
+      ${termos ? `<div class="termos">${termos}</div>` : ""}
+      <div class="rodape-item"><span class="tema-tag">${esc(i.tema)}</span> &nbsp;<a href="${linkSeguro(i.link)}" target="_blank" rel="noopener">Ler na fonte</a></div>
+    </article>`;
+  }
+
+  function desenhar() {
+    const guardado = estado.tipo; estado.tipo = "";
+    const base = filtrar(); estado.tipo = guardado;
+    desenharAbas(base);
+    const itens = filtrar();
+    if (!dados.itens.length) {
+      $("lista").innerHTML = `<p class="sem-resultado">O boletim ainda não tem itens. A primeira coleta acontece quando a automação rodar pela primeira vez; depois disso, o site se atualiza todo dia às 6h.</p>`;
+      return;
+    }
+    if (!itens.length) {
+      $("lista").innerHTML = `<p class="sem-resultado">Nenhum item com esses filtros. Amplie o período ou limpe a pesquisa.</p>`;
+      return;
+    }
+    const visiveis = itens.slice(0, estado.limite);
+    const porDia = {};
+    visiveis.forEach((i) => {
+      const d = new Date(i.data).toLocaleDateString("sv-SE", { timeZone: "America/Sao_Paulo" });
+      (porDia[d] = porDia[d] || []).push(i);
+    });
+    let html = Object.keys(porDia).sort().reverse().map((d) => {
+      const ordenados = porDia[d].sort((a, b) => (b.importancia - a.importancia) || b.data.localeCompare(a.data));
+      return `<section class="dia"><h3>${esc(dataLonga(d))}</h3>${ordenados.map(desenharItem).join("")}</section>`;
+    }).join("");
+    if (itens.length > estado.limite) html += `<button class="mais" id="mais">Mostrar mais ${Math.min(40, itens.length - estado.limite)} itens</button>`;
+    $("lista").innerHTML = html;
+  }
+
+  function desenharGlossario() {
+    const q = semAcento($("glossario-busca").value);
+    const termos = Object.entries(dados.glossario || {})
+      .filter(([t, e]) => !q || semAcento(t + " " + e).includes(q))
+      .sort((a, b) => a[0].localeCompare(b[0], "pt-BR"));
+    $("glossario").innerHTML = termos.length
+      ? termos.map(([t, e]) => `<dt>${esc(t)}</dt><dd>${esc(e)}</dd>`).join("")
+      : `<dd>${q ? "Nenhum termo encontrado." : "Os termos técnicos explicados nos resumos aparecem aqui."}</dd>`;
+  }
+
+  function desenharCabecalho() {
+    const hoje = hojeISO();
+    const atualizado = dados.atualizado_em ? new Date(dados.atualizado_em) : null;
+    $("edicao").innerHTML = `<strong>Edição de ${esc(dataLonga(hoje))}</strong>` +
+      (atualizado ? `Atualizado em ${atualizado.toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short", timeZone: "America/Sao_Paulo" })}` : "Aguardando a primeira atualização");
+    const datas = Object.keys(dados.panoramas || {}).sort().reverse();
+    const p = $("panorama");
+    if (datas.length) {
+      p.classList.remove("vazio");
+      p.textContent = dados.panoramas[datas[0]];
+      if (datas[0] !== hoje) p.insertAdjacentHTML("beforeend", ` <em>(panorama de ${esc(new Date(datas[0] + "T12:00").toLocaleDateString("pt-BR"))})</em>`);
+    } else {
+      p.classList.add("vazio");
+      p.textContent = "O panorama diário aparece aqui quando a análise com inteligência artificial estiver ativada.";
+    }
+  }
+
+  function preencherTemas() {
+    const temas = dados.temas || [...new Set(dados.itens.map((i) => i.tema))];
+    $("tema").insertAdjacentHTML("beforeend", temas.map((t) => `<option>${esc(t)}</option>`).join(""));
+  }
+
+  $("abas").addEventListener("click", (e) => {
+    const b = e.target.closest(".aba"); if (!b) return;
+    estado.tipo = b.dataset.tipo; estado.limite = 40; desenhar();
+  });
+  $("lista").addEventListener("click", (e) => { if (e.target.id === "mais") { estado.limite += 40; desenhar(); } });
+  let espera;
+  $("busca").addEventListener("input", (e) => { clearTimeout(espera); espera = setTimeout(() => { estado.busca = e.target.value; estado.limite = 40; desenhar(); }, 200); });
+  $("tema").addEventListener("change", (e) => { estado.tema = e.target.value; estado.limite = 40; desenhar(); });
+  $("periodo").addEventListener("change", (e) => { estado.periodo = +e.target.value; estado.limite = 40; desenhar(); });
+  $("destaques").addEventListener("change", (e) => { estado.destaques = e.target.checked; desenhar(); });
+  $("glossario-busca").addEventListener("input", desenharGlossario);
+
+  fetch("dados.json?v=" + Date.now())
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((d) => {
+      dados = Object.assign({ itens: [], panoramas: {}, glossario: {} }, d);
+      // Se hoje ainda não tem itens, abre mostrando os últimos 7 dias
+      preencherTemas(); desenharCabecalho(); desenharGlossario(); desenhar();
+    })
+    .catch(() => {
+      $("lista").innerHTML = `<p class="sem-resultado">Não foi possível carregar dados.json. Verifique se o arquivo está na pasta docs do projeto.</p>`;
+      $("edicao").innerHTML = "<strong>Radar Tributário</strong>";
+    });
+})();
+</script>
+</body>
+</html>
