@@ -1,0 +1,24 @@
+# =====================================================================
+#  FONTES DO RADAR TRIBUTÁRIO
+#  Você pode editar este arquivo direto no GitHub (ícone de lápis).
+#
+#  Linhas que começam com "#" são comentários e são ignoradas.
+#
+#  1) Pesquisas no Google Notícias: escreva "busca:" e os termos.
+#     Aspas buscam a expressão exata. OR significa "um ou outro".
+#
+#  2) Feeds RSS de qualquer site: escreva  Nome | endereço-do-feed
+#     Exemplo:  Meu blog favorito | https://exemplo.com.br/feed
+#     Desses feeds, só entram itens que falam de tributos.
+# =====================================================================
+
+busca: "direito tributário"
+busca: STF (tributário OR tributo OR imposto OR ICMS OR contribuição)
+busca: STJ (tributário OR tributo OR imposto OR "execução fiscal")
+busca: CARF julgamento
+busca: "Receita Federal" ("instrução normativa" OR "solução de consulta" OR norma)
+busca: "reforma tributária" (IBS OR CBS OR regulamentação OR "imposto seletivo")
+busca: PGFN (transação OR "dívida ativa" OR edital)
+busca: ICMS (decisão OR convênio OR Confaz OR STF)
+busca: "PIS/Cofins" (crédito OR exclusão OR julgamento)
+busca: "planejamento tributário" OR "tese tributária"
