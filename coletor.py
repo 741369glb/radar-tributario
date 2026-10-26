@@ -31,8 +31,18 @@ RAIZ = Path(__file__).parent
 ARQ_DADOS = RAIZ / "docs" / "dados.json"
 ARQ_FONTES = RAIZ / "fontes.txt"
 
-CHAVE = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+# Aceita uma chave do Claude (sk-ant-...) ou do Google Gemini (AIza..., AQ. ou outros formatos), gratuita.
+# A chave do Gemini pode ficar no segredo GEMINI_API_KEY ou no próprio ANTHROPIC_API_KEY.
+_CHAVE_CLAUDE = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+_CHAVE_GEMINI = os.environ.get("GEMINI_API_KEY", "").strip()
+if not _CHAVE_GEMINI and _CHAVE_CLAUDE and not _CHAVE_CLAUDE.startswith("sk-ant-"):
+    _CHAVE_GEMINI, _CHAVE_CLAUDE = _CHAVE_CLAUDE, ""
+PROVEDOR = "gemini" if _CHAVE_GEMINI else ("claude" if _CHAVE_CLAUDE else "")
+CHAVE = _CHAVE_GEMINI or _CHAVE_CLAUDE
 MODELO = os.environ.get("RADAR_MODELO", "claude-haiku-5-5")
+MODELOS_GEMINI = [m for m in [os.environ.get("RADAR_MODELO_GEMINI", ""),
+                              "gemini-flash-lite-latest", "gemini-2.5-flash-lite",
+                              "gemini-flash-latest", "gemini-2.5-flash"] if m]
 MAX_NOVOS = int(os.environ.get("RADAR_MAX_NOVOS", "40"))   # limite de itens novos por dia
 DIAS_JANELA = 3        # só aceita itens publicados nos últimos N dias
 DIAS_HISTORICO = 120   # quanto tempo os itens ficam no site
@@ -202,7 +212,7 @@ def classificar_simples(item: dict) -> dict:
     tema = next((nome for nome, chaves in REGRAS_TEMA if any(c in t for c in chaves)), "Outros temas")
     return {
         "tipo": tipo, "tema": tema, "orgao": orgao_de(t),
-        "resumo": item["trecho"][:420] or "Resumo indisponível: abra a fonte para ler a íntegra.",
+        "resumo": item["trecho"][:420],
         "pratica": "", "termos": [], "importancia": 1, "analisado_por_ia": False,
     }
 
@@ -210,6 +220,9 @@ def classificar_simples(item: dict) -> dict:
 # ---------------------------------------------------------------- análise com o Claude
 
 def perguntar_claude(prompt: str, max_tokens: int = 900) -> str:
+    """Envia o pedido ao provedor de IA configurado (Gemini gratuito ou Claude)."""
+    if PROVEDOR == "gemini":
+        return perguntar_gemini(prompt, max_tokens)
     for tentativa in range(4):
         resp = requests.post(
             "https://api.anthropic.com/v1/messages",
@@ -225,6 +238,38 @@ def perguntar_claude(prompt: str, max_tokens: int = 900) -> str:
         resp.raise_for_status()
         return "".join(b.get("text", "") for b in resp.json().get("content", []) if b.get("type") == "text")
     raise RuntimeError("API do Claude indisponível após várias tentativas")
+
+
+_modelo_gemini_ok = None
+
+
+def perguntar_gemini(prompt: str, max_tokens: int = 900) -> str:
+    global _modelo_gemini_ok
+    candidatos = [_modelo_gemini_ok] if _modelo_gemini_ok else MODELOS_GEMINI
+    ultimo_erro = None
+    for modelo in candidatos:
+        for tentativa in range(5):
+            time.sleep(5)  # respeita o limite gratuito de pedidos por minuto
+            resp = requests.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
+                headers={"x-goog-api-key": CHAVE, "content-type": "application/json"},
+                json={"contents": [{"parts": [{"text": prompt}]}],
+                      "generationConfig": {"maxOutputTokens": max(max_tokens, 2048), "temperature": 0.3}},
+                timeout=120,
+            )
+            if resp.status_code in (429, 500, 502, 503):
+                time.sleep(20 * (tentativa + 1))
+                continue
+            if resp.status_code == 404:  # modelo não existe mais: tenta o próximo da lista
+                ultimo_erro = f"modelo {modelo} indisponível"
+                break
+            resp.raise_for_status()
+            _modelo_gemini_ok = modelo
+            partes = resp.json().get("candidates", [{}])[0].get("content", {}).get("parts", [])
+            return "".join(p.get("text", "") for p in partes if not p.get("thought"))
+        else:
+            ultimo_erro = "limite gratuito do Gemini atingido"
+    raise RuntimeError(ultimo_erro or "Gemini indisponível")
 
 
 PROMPT_ITEM = """Você é um professor de direito tributário brasileiro que prepara um boletim diário para advogados, contadores e estudantes.
@@ -300,7 +345,8 @@ def carregar_dados() -> dict:
 
 def main() -> int:
     log(f"Radar Tributário: coleta de {agora():%d/%m/%Y %H:%M}")
-    log("Análise com IA: " + ("ATIVADA" if CHAVE else "desativada (sem ANTHROPIC_API_KEY)"))
+    log("Análise com IA: " + {"gemini": "ATIVADA (Google Gemini, gratuito)",
+                             "claude": "ATIVADA (Claude)"}.get(PROVEDOR, "desativada (sem chave)"))
     dados = carregar_dados()
     dados.setdefault("panoramas", {})
     dados.setdefault("glossario", {})
