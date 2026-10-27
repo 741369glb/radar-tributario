@@ -1,6 +1,688 @@
 {
  "itens": [
   {
+   "id": "1a59a8b598e58b01",
+   "titulo": "A eleição acabou. O que falta ser feito na reforma tributária?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1dCNnJ2M29JTU11aEJETVhXOHdDSkJjb0xaMW9ia296c2RJSzFPd0k3bFBXd3ZWNlRVb2Z0SEw5WmkyOHFYUGJka3JhbEtOZDhyQUo3c1BtVXc4b3VFRUlaUkphTmV0aW5YTThrc0VpbDRnYVdyTVIxbGJUUkhYVFlsUWFqX3lKUWJ5NUg3bHpRUQ?oc=5",
+   "veiculo": "Exame",
+   "trecho": "",
+   "data": "2026-10-27T06:09-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da Exame, após o encerramento da eleição em outubro de 2026, abre-se o debate sobre quais etapas ainda precisam ser realizadas para concluir a reforma tributária. O título sugere uma reflexão sobre a agenda legislativa pendente para o novo cenário político do país.",
+   "pratica": "Advogados e contadores devem monitorar os próximos passos do Poder Legislativo e do Executivo para antecipar regulamentações e novas exigências legais que impactarão o planejamento tributário das empresas.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cc83f3412a7f10e7",
+   "titulo": "Jéssica Sant'Ana: Governo avalia editar MP do Imposto Seletivo até a próxima semana",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2l1Sjk3MHVHWEJaQ29naTFCYWE2RW5pYkNkWm1OZ1pjVnlpQ05xTi1tMWhEN1pscGRvaktGOWxvY1l3VnI2MVNnclZQa3Vzakk4bFRfaktJanltMnFiZDhpT0Myc3ZyWmpBUmJlbVd3c29CeV85X0xkUzBHdXpiN3RXME9qUGV2anJ4VTZxZ2RCRGxSSWdXZlpubGlSclhhMmFLV3FMSTNJVEJqSkllZmlBREtQQzdIQ3Z5QkhjdDNzTGczX3NadDdqVUtFd1lUM1lLWDFmdw?oc=5",
+   "veiculo": "UOL Economia",
+   "trecho": "",
+   "data": "2026-10-27T05:34-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Governo",
+   "resumo": "Segundo a manchete, o governo avalia editar uma Medida Provisória tratando do Imposto Seletivo até a próxima semana. A informação foi veiculada pelo UOL Economia em 27 de outubro de 2026.",
+   "pratica": "Empresas e profissionais devem monitorar a possível edição da medida para entender os impactos imediatos do Imposto Seletivo em suas operações.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo previsto na Reforma Tributária incidente sobre produtos e serviços prejudiciais à saúde e ao meio ambiente."
+    },
+    {
+     "termo": "Medida Provisória",
+     "explicacao": "Norma com força de lei editada pelo Presidente da República em casos de relevância e urgência."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a9f9b83dc300a144",
+   "titulo": "Depois da urna, em que pé fica a reforma tributária?",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbDJDOW93N2FhR043MWdzZExpc3cyVjVmTE4xNUs5TEV0LWNXY3MwRU93Mmk3Zk50QzNqZThBcEJHYUUyZ3hzaVJiT3g5ZlM1bVlmc2JaSjlWM3FEdXIwbW9uTEhNN0x2U2xCTVZBU1h6amRaaDhiRG9DUFNNVjBGTHY1QlRRNmdBZkhrQTBTYk54MlN3aGVnTDk4azJmVFE?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-10-27T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do JOTA Info, discute-se o panorama e o andamento da reforma tributária no período posterior às eleições de 2026. A análise aborda os próximos passos políticos e legislativos para a implementação das mudanças no sistema de tributos do país.",
+   "pratica": "Profissionais e empresas devem acompanhar os desdobramentos políticos para antecipar os impactos regulatórios e operacionais das novas regras tributárias na sua rotina de compliance.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Alteração profunda nas regras de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "578045b1b9d11755",
+   "titulo": "Lula 4 colocará reforma tributária em vigor; empresariado começa cobrança",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVTE5eXV6RURNUWhidzBJS3lCeWNLbTRnMmdYMlhFaDFyZHp4bW9RbHFhUmRWTEJRcDdEbi0zd1Y3X1VSYU9ra1NYdk9XT0djcGpXMWRyQU95MjAxY2hCcjJBcmNDUm5iQURxODRZaXFRMDM2YVJBekFpUEMwX2FoOUpzRldaakVOWWZGWWJGd1lUbWpKVmFieEhqTWdIbWVkclBOMGQzS1lzRlNSb0hyNkZlUUVmMTQ1eUM3RGlGa0xBdVYtbXN2NlJsaGY2Vk9m?oc=5",
+   "veiculo": "CNN Brasil",
+   "trecho": "",
+   "data": "2026-10-27T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Governo Federal",
+   "resumo": "Segundo a manchete da CNN Brasil de 27 de outubro de 2026, a gestão Lula 4 colocará a reforma tributária em vigor. Paralelamente, o empresariado já começa a cobrar definições e ações sobre a implementação das novas regras fiscais.",
+   "pratica": "Na prática, as empresas e os profissionais da área devem intensificar a preparação para a entrada em vigor das novas regras da reforma tributária, acompanhando de perto as cobranças do setor produtivo.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de arrecadação de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9d06f7e263aaa6fa",
+   "titulo": "Dívidas do FGTS: PGFN oferece descontos até 2027",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nbHJfQzhUMHRwLWM3ckhvU0d2RFZTRTNCNG5HRDE2SG9EUGRBTjNja3R1OUJudnFxVlBwa2ZqX3dRU0VLZng2djliOEJnemIwX2RudU9md0I4QWVUV1cwbGh1NjQtQi0zMWNkeVVVNlFtWHBDUWl4RUNR?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-10-27T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete, a Procuradoria-Geral da Fazenda Nacional (PGFN) passou a oferecer descontos para a quitação de dívidas do FGTS. A medida de facilitação de pagamento tem vigência prevista até o ano de 2027.",
+   "pratica": "Na prática, a novidade abre uma oportunidade importante para empresas e contribuintes regularizarem seus débitos relativos ao FGTS com condições mais vantajosas de desconto junto à PGFN.",
+   "termos": [
+    {
+     "termo": "FGTS",
+     "explicacao": "Fundo de Garantia do Tempo de Serviço, cujos débitos podem ser objeto de cobrança e negociação pela Procuradoria."
+    },
+    {
+     "termo": "PGFN",
+     "explicacao": "Procuradoria-Geral da Fazenda Nacional, órgão responsável por representar a Fazenda Pública federal na cobrança da dívida ativa."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3d9f60782281db12",
+   "titulo": "Que imposto é esse: TCU decide alíquota da CBS da reforma tributária nesta quarta (28)",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWS03WDc1RzUxQ3lreTBHU3ZrOVpWVDB3My1qa25oSFRVT1JnenhIUnFWQ0pIRFBmakd0WldiY1Y1WXhGSjJYcFl5SU1ud3VUUGYzQ244bUVlN1pxYWk0a3VjQXE3WTRrX1ZHbDBKYTNMLUFleS1pdEQxRm5SQlFmeEJPZzZ3Y2s0NzVRUW9EbVVQVHBueEZQNmliUjdPc3RNVWNrNV9ydkV1VDJhRVI2NTJTcHkwMTVMUlFYZVZrU0ticDQ5eURzSnFXMHQ0UQ?oc=5",
+   "veiculo": "Folha de S.Paulo",
+   "trecho": "",
+   "data": "2026-10-27T04:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete da Folha de S.Paulo, o Tribunal de Contas da União (TCU) tem decisão marcada para esta quarta-feira (28) sobre a alíquota da CBS no âmbito da reforma tributária. O tema envolve diretamente a fiscalização e a definição das regras de transição e alíquotas do novo tributo federal.",
+   "pratica": "A definição pelo TCU pode trazer orientações cruciais e balizar as projeções de carga tributária para empresas e profissionais que já se preparam para as mudanças da reforma.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída pela reforma tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3205ecc8b68addac",
+   "titulo": "TCU decide alíquota da CBS da reforma tributária nesta quarta (28)",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGkwT3ltRUEtWktEeVJ5b2pHZjBfODlLSV9Sb19KYmhEOGJubVN0NGNNbW9DeGU3WFB3MTJWTDVGX2M0UC1fQ2ZnWlI0RUV3N2pyWDlKblctS3ZEeHV2cGpIU1JON2sycm4xMlhweXNHUERhRTgxbHF3UkZvVnJsR3ZGbDh4N1BWakR5VDJPbmtwWlF1UXI5bjg0WmlJTGNMNGI4b1lvV1dmVS1MQVBmczFINmlJcXFFQ1RFVXhocGxodWU2TmE2V3VOOA?oc=5",
+   "veiculo": "Repórter PB",
+   "trecho": "",
+   "data": "2026-10-27T04:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União tem previsão para decidir nesta quarta-feira (28) a questão relativa à alíquota da Contribuição sobre Bens e Serviços (CBS) decorrente da reforma tributária. A definição do órgão de controle externo sobre o tema é aguardada pelos operadores do direito tributário e contribuintes.",
+   "pratica": "Na prática, a decisão pode trazer maior previsibilidade ou embates sobre os parâmetros da nova tributação do consumo, exigindo atenção de advogados e contadores.",
+   "termos": [
+    {
+     "termo": "Contribuição sobre Bens e Serviços",
+     "explicacao": "Tributo federal instituído pela reforma tributária para incidir sobre o consumo de bens e serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "66ba68770ab4800c",
+   "titulo": "STF fixa marco para devolução de créditos tributários na conta de luz",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2pPcUhoSjVDRTJEQ1d0aFdQQjRqZEJ2NkpxT191NDdJSFNqRkRZTDFudkVDU3JnUWo3YTNhbGxhbi1ZRk1UcWhLd1p4cThhWjVubEw4OUpFWEVnOE9xQng3a0RoMGlGV3l6QkdMX1VDX0RJVUt3TmEzUm5yUEUyTFRlVHJmNXBCQ3FDT2xlZm4xSFQ2MnVBRk4xWmJ3SGF0YW9SRUxtaTlXOWxzYWhnZkpFaXd3eVNDZ01qMVBrdVJNREU?oc=5",
+   "veiculo": "Times Brasil | CNBC",
+   "trecho": "",
+   "data": "2026-10-26T22:08-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal fixou um marco temporal para a devolução de créditos tributários incidentes sobre a conta de luz. A decisão impacta diretamente a recuperação de valores pagos a mais pelos contribuintes nessa rubrica.",
+   "pratica": "Na prática, a definição do marco pelo STF orienta advogados e contadores sobre o limite temporal aplicável para reaver esses créditos tributários aos clientes.",
+   "termos": [
+    {
+     "termo": "créditos tributários",
+     "explicacao": "Valores que o contribuinte tem o direito de recuperar junto ao Fisco."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "09c299547de38e50",
+   "titulo": "JCNET: A eleição terminou. As decisões da reforma tributária, não",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGVadmF5VldQY1d1amIweF9qWGcyMEhZT0hRQVNwQXhYVXMtUjdJTENJSE5sd1N1TXgyWHNMN2xEdHptclp6aWNsU0V1RUp0Z0p3VTRaeFZ3SlJGZkNhMExDb2pXeVdId2NtTVJRV3lOa1Y1dG5Ja1daVkJCajJCWk1SWjBvNFBfbXhIdlAtNW9vX21GRWpFc1JjcVFGN1NDMXM1cE9VWDA3WjFOMTZScHJvLWpfdw?oc=5",
+   "veiculo": "sampi.net.br",
+   "trecho": "",
+   "data": "2026-10-26T20:54-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o encerramento das eleições não encerra o ciclo de decisões sobre a reforma tributária. O tema segue em evidência com discussões e definições pendentes que impactam o cenário fiscal.",
+   "pratica": "Advogados e contadores devem manter o acompanhamento atento das futuras regulamentações e deliberações da reforma tributária, pois novas regras impactarão a rotina das empresas.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que mudam o sistema de tributação do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "377395ad39709ef0",
+   "titulo": "Tema 843: advogados apontam incertezas sobre efeitos da decisão do STF que excluiu créditos presumidos de ICMS do PIS e da Cofins",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbnRWXzlyZE5XdHRHMFpicU9QZGdvMlJReFJDdXZsWlJKUWRKbkJFaG1KcGdsZ1BFWklKV1hvSEtWdDBldE1GcUVIR3ZJVXRiVDlDN1hPc3c2My1DRXVxNTY3V2ZOVDVvd19oREFHTHJvLTJhdjZ3cmMxczhIZ3VmcFpvdTA5bDVuVlpBYXpaZmJyVWwzUDFCcGpZYjIwcV9RMnVOcy1pMUtSLVBudGNLa0xYRVE5cS1UOXh6a0lhQ0ktVHR3NExYT0VwQUxKbG83OXR0RWFwamlSRlB0YUdma0Q5anNKSG8?oc=5",
+   "veiculo": "TAGD Advogados",
+   "trecho": "",
+   "data": "2026-10-26T20:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, advogados apontam incertezas sobre os efeitos práticos da decisão do STF no Tema 843. A discussão envolve a exclusão de créditos presumidos de ICMS da base de cálculo do PIS e da Cofins.",
+   "pratica": "Na prática, profissionais e empresas enfrentam dúvidas sobre como aplicar a decisão e lidar com os reflexos financeiros e o cálculo desses tributos.",
+   "termos": [
+    {
+     "termo": "Créditos presumidos de ICMS",
+     "explicacao": "Benefício fiscal concedido pelos estados para incentivar determinados setores econômicos."
+    },
+    {
+     "termo": "Tema 843",
+     "explicacao": "Código que identifica a matéria sob julgamento de repercussão geral no Supremo Tribunal Federal."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4eefd548271c8a5a",
+   "titulo": "Jéssica Sant'Ana: Exclusivo: Alíquota da CBS, novo imposto da reforma, deve superar 10%",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSTZ0X0NkcFhrekFOaS03WS10NXlobjg5VnJLSTFBYUZueXFQdW5mT0R3azNBWG5BREUwUW9naDBNejFBSzBxY0ZteXcwNDU5bGhUdVZUcmg2NUZBYnVLWTZDY3ZqYXd4c2tCNXJsNGxxdlhzbEdQckZES08tc1R3akRtVUJjb0haOGgtS1RFZUVtS3hYV1lSbjliRHlBNHNMUG1vR2YxbFNlNzJxRU8wZko0WmxrV3BfUi1qekZVenM3bDdHRTV3MFI4cW01UQ?oc=5",
+   "veiculo": "UOL Economia",
+   "trecho": "",
+   "data": "2026-10-26T20:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, análises exclusivas apontam que a alíquota da CBS, o novo imposto criado no âmbito da reforma tributária, tem projeção de superar 10%. A discussão envolve a carga tributária estimada para o novo tributo federal sobre consumo.",
+   "pratica": "Na prática, a expectativa de uma alíquota superior a 10% para a CBS impacta diretamente o planejamento tributário e o cálculo de precificação das empresas diante das novas regras da reforma.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, novo imposto federal sobre consumo previsto pela reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9bb63cc7923c37bc",
+   "titulo": "Inscritos no CadÚnico têm direito ao cashback, criado pela Reforma Tributária em 2027; CNM explica",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGN2TGFTX2NPVWZmclg0V3doN2JEWVNkUUEtUGpac0x5QU1vRjJET3h1c1JYanBCMkNXa014dHpjSDhpM194ZU5NU3lRYmFSTnVfYTEyNkFhSElOUHBWMUhreTdJaUpFRFdkalhPZjVIM2ZlQ21WNm0yQUxBTjU0Q2tCNHV6RGVHUTFtMDByS2dKRy1JZU5Gb3pGclllZlcwcTNiS1JfMmVnd21XdDR1RWw5eXQ2Z0RBU19lN0NEVVlTZ2JJaXZYY1RWd0QtczFwb0E?oc=5",
+   "veiculo": "Confederação Nacional de Municípios (CNM)",
+   "trecho": "",
+   "data": "2026-10-26T19:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "CNM",
+   "resumo": "Segundo a manchete, a Confederação Nacional de Municípios (CNM) explicou que os inscritos no CadÚnico terão direito ao mecanismo de cashback. A medida foi criada pela Reforma Tributária e tem previsão de vigência para o ano de 2027.",
+   "pratica": "Na prática, a novidade traz repercussões importantes para a gestão fiscal e social da tributação sobre o consumo, exigindo acompanhamento por parte dos profissionais da área.",
+   "termos": [
+    {
+     "termo": "Cashback",
+     "explicacao": "Mecanismo de devolução de parte do imposto pago, previsto pela Reforma Tributária para beneficiar determinados públicos."
+    },
+    {
+     "termo": "CadÚnico",
+     "explicacao": "Registro unificado que reúne informações das famílias em situação de pobreza e extrema pobreza no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "397155cce8c8950b",
+   "titulo": "Reforma tributária: proposta para alíquota da CBS deve chegar ao Senado até 30 de outubro",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVjVpcExmUTNRUDZxM3E0WnNrcTMxV2IxZVJEcUczTjFGS1pnNXBDSjF0bjlmS2pLZlBaRXFnaUN1cDFwV1pYNTBsQ0JMMnF4RXFOWkdVaVl3bDFUZjBNTVFQRUFQSTQwMF90U2RqZlRDOHMwUVdYbHFiRkdKd0JDZXZ6bXViSmtuaENyREtWa1NuUV9ON3Rxak1lWVV2RVhqa0JrMjVneUFKM3MtSFBVNHJubmRKSUwzTXN5M09YOTFTQkxMNkF5Rnl3dWc5eVVJcEtKSFdwRHFIWGlzcnoyS3VwVE5QOXdnRjI3RHFacUc?oc=5",
+   "veiculo": "Portal do Agronegócio",
+   "trecho": "",
+   "data": "2026-10-26T19:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, a proposta referente à alíquota da CBS deve ser encaminhada ao Senado até o dia 30 de outubro de 2026. O tema insere-se no contexto das discussões e tramitações legislativas da reforma tributária brasileira.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar o andamento da proposta legislativa para antecipar os impactos na carga tributária da Contribuição sobre Bens e Serviços.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a80994a510c599d7",
+   "titulo": "STF afasta ITBI, mas quem vai transferir imóveis para empresas deve esperar?",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTNiWlBqS2FzZ1FWalEyM3ZoeHE1a0djMG1ua0FUNWZlSzIwUGxNT3BiMkR0TC1iemtyR2J1QlNhaktFLVZsbWpVRHJQWjR6eEZWaXlZSU9ZVjRWQkVySjhaTTNOU1FOY0oyQWJtS0NadXJmOWo2T19pVFhxX25FZnNjT2ZJcXVBazVnSFpJVjUxVE9oRUxvZldSWUM2dWswLVNlcUJNRXh2b201SVJBYVRibDc1QnhGNHo4WU41eFgtaWNQQ0V3aHhQeldpWXM?oc=5",
+   "veiculo": "Movimento Econômico",
+   "trecho": "",
+   "data": "2026-10-26T18:27-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal afastou a cobrança de ITBI em operações específicas. A publicação levanta o questionamento se os contribuintes que pretendem transferir imóveis para empresas devem aguardar o desdobramento dessa discussão.",
+   "pratica": "Na prática, profissionais e contribuintes devem avaliar com cautela o timing e a segurança jurídica ao realizar transferências de imóveis para pessoas jurídicas, considerando a decisão do STF.",
+   "termos": [
+    {
+     "termo": "ITBI",
+     "explicacao": "Imposto municipal incidente sobre a transmissão onerosa de bens imóveis."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3555d63917b019e9",
+   "titulo": "Reforma tributária: escolha de modelo acaba sexta (30)",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDlKOU5aWVcxQmhVRWY1XzZQeUxKY1JwYlltVExXTDJtUXV4cEZzN0phZnE5ZUJJUm5xdUJsNUN1Uno1M3I2MDB3Uy1wQXpvdlJnRUlsMzBFZUQ2bURlbDNnblk1S21FbUx2WjlVaUVJcmdrSTlTXzlPcV84MXo2eW95VTJvQzFTLTZ4a1MzaW9vR01LcGNDZ1J3cw?oc=5",
+   "veiculo": "SBT News",
+   "trecho": "",
+   "data": "2026-10-26T18:24-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do SBT News de 26 de outubro de 2026, o prazo para a escolha de modelo no âmbito da reforma tributária se encerra nesta sexta-feira, dia 30. A notícia alerta sobre a urgência de atenção ao cronograma legal para a adaptação dos contribuintes.",
+   "pratica": "Na prática, advogados, contadores e empresas devem revisar imediatamente suas operações para cumprir o prazo e definir o modelo aplicável antes do encerramento.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Mudança estrutural na legislação de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "998470f7fa9a1cbf",
+   "titulo": "IV Seminário Nacional de Tributação do Agronegócio",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOU94WDJ1a1l4elZtdG0wOUtQYTlTeE5NNTRPSGJNZ3c0clpxZ2VVSTZQS25Ea3NTMlFSUWJSb1VpejBmcDZOclc2U0hBM0V6UXdvQllLUTJBRFlIUWNQZ0VkTElEakdNQ0VvckViUm12SXhYQ3dacDBzWk56YmVTRGt5RG5kLWJOWDc0?oc=5",
+   "veiculo": "Portal CNA Brasil",
+   "trecho": "",
+   "data": "2026-10-26T18:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Portal CNA Brasil",
+   "resumo": "Segundo a manchete, foi realizado o IV Seminário Nacional de Tributação do Agronegócio, promovido pela CNA Brasil. O evento debateu questões centrais relacionadas ao sistema tributário aplicável ao setor agropecuário.",
+   "pratica": "Na prática, o evento serve de espaço para profissionais e empresas do setor acompanharem os debates atuais e as tendências sobre a tributação do agronegócio.",
+   "termos": [
+    {
+     "termo": "Tributação do Agronegócio",
+     "explicacao": "Conjunto de regras fiscais e tributos aplicáveis às atividades da cadeia produtiva agropecuária."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3d405f08b6039f8e",
+   "titulo": "PGF define critérios de relevância A, B e C para demandas judiciais e regras de atuação prioritária",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjlrckw0a05qazNYcFFiZER0T2NHUjUtY2JfZXFBTXFmdHowOGowVU5LV20wWTNlTjA5em04ei12R2V1ejBPZWsxYW9OcnRKRllTM2VsOXNaOHZrM2JucGk2ejFmbGF5akZyWVZ3MHRESXNBUEZJWEZjcVpKREhNem4xX053YTRHVGgxQ3V2MmNnUmFHN1M2ZUplLXNOZjFt?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-10-26T18:05-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGF",
+   "resumo": "Segundo a manchete, a Procuradoria-Geral Federal definiu novos critérios de relevância (classificados em A, B e C) para as demandas judiciais. Além disso, foram estabelecidas regras para orientar a atuação prioritária do órgão nessas matérias.",
+   "pratica": "Na prática, a categorização em níveis de relevância tende a direcionar o foco e os esforços dos procuradores para as teses de maior impacto, o que pode influenciar a velocidade e a estratégia na condução do contencioso.",
+   "termos": [
+    {
+     "termo": "PGF",
+     "explicacao": "Procuradoria-Geral Federal, órgão responsável pela representação judicial e extrajudicial das autarquias e fundações públicas federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c09fe06b8e497329",
+   "titulo": "STF tem na pauta poupança, previdência e caso Buser",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDNBTkRsYnlIVE5tamNqbjdjN1RUWEZyUmJ2SVYzOXBldDdRSk1VMzR5M2hhcHRCcVMwbDlDLXN5c2pEb1pZZUx0LXc0dmFxNXNrZkN5dnJZem13U3d6NmhIYVlyLVN6VXgxakJTbkxMTlF3cnFxMDl0UVlrbktYUDY3bnl0U2t2cWNvMzhjeXZaRGEycWZPdQ?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-10-26T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete do portal Migalhas, o Supremo Tribunal Federal tem em sua pauta temas envolvendo poupança, previdência e o caso Buser. Como não há trecho detalhado disponível, o resumo baseia-se estritamente na pauta anunciada pela corte.",
+   "pratica": "Advogados e profissionais da área devem acompanhar os julgamentos pautados no STF para antecipar eventuais desdobramentos jurisprudenciais que possam impactar clientes e estratégias jurídicas.",
+   "termos": [
+    {
+     "termo": "STF",
+     "explicacao": "Supremo Tribunal Federal, a mais alta Corte do Poder Judiciário brasileiro."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a40450b9740a0af6",
+   "titulo": "STF reduz base de cálculo do PIS e da Cofins, mas efeitos futuros tendem a ser pequenos; especialista explica",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFFIVVotYXZqOUl1Xzh5dXhLdEJTXzRmM2hIX0hDNHJ2VWxzNTN2ZFdudkNvT1Q5TXgtN0g1eUFMSWM0OUZEOHplOUotd21VbUVKSURkWF92MHhYZHluaGx5SkhEZG1FQXdqTzJLZGYtYTZySEhwVnZ0U0R4LXRWY1FYSGxMSHdiRWFwbjUwczBXcERvcXpHb0FfWVI2a0dXdDFXT3FwMFQ2eHFVaWNnZzF6Sl92eHZhZU4ycmcwYm1ILXpSYmI4VURXSmlHTm5sRy0zYThjZkdvZlV2WGoxeU9tbFdIaXNJeUE?oc=5",
+   "veiculo": "Jornal Opção",
+   "trecho": "",
+   "data": "2026-10-26T17:33-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o STF reduziu a base de cálculo do PIS e da Cofins. A publicação aponta que, apesar da decisão, os efeitos futuros tendem a ser pequenos, conforme a avaliação de um especialista.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar os detalhes da decisão para avaliar se há reflexos nos cálculos atuais dessas contribuições, mesmo com a expectativa de impacto futuro reduzido.",
+   "termos": [
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "O valor sobre o qual se aplica a alíquota para calcular o tributo devido."
+    },
+    {
+     "termo": "PIS e da Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou o faturamento das empresas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f4559f30607ca298",
+   "titulo": "FGTS em atraso pode ser negociado na PGFN com desconto de até 70% e prazo até janeiro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRk9nNEpRNnBPUExzN2QwSGZ5NWhnUzluV1hBVjE0YmFxeG5RXzcxSVFIQ0NaRURlT2N5NDdrQkU5MEI1bjJEdm10eGZDU1pMZ28xX2loQllXTF8tUHA4S0p4QmpoQWIyVEUxY0ZaRUtQY0JvVVhwOTlKMzQ3V05jMEVvR1c1SUFkVUoxMVVsWmg5eWl0cXVOSkdDNlUzeWNJclJ0LWF1aEtlNks1Wmg4NHNCNHZiX0phQVVmOTJIX19RSndoZ2ZJN0ZrMA?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-10-26T17:32-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete, o FGTS em atraso passou a poder ser negociado junto à PGFN. A facilidade prevê descontos de até 70% e prazo de parcelamento estendido até janeiro de 2027.",
+   "pratica": "Na prática, a medida abre uma oportunidade estratégica para empresas e contribuintes regularizarem seus débitos de FGTS com condições mais vantajosas de desconto e parcelamento.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Procuradoria-Geral da Fazenda Nacional, órgão responsável por representar a União na cobrança e negociação de sua dívida ativa."
+    },
+    {
+     "termo": "Transação",
+     "explicacao": "Acordo entre o Fisco e o contribuinte para a quitação de débitos mediante concessões mútuas, como descontos e prazos diferenciados."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "763279bc7cb975b5",
+   "titulo": "STF decide que o ISS não integra a base de cálculo do PIS e da Cofins; modulação dos efeitos ainda está pendente",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0M5QU9oRnJtaUtEVV9rUkpUanM1dWs5ZVNDdEVjcFh5RnN3dkJnN2xsdDZFbmJxNFUyTlAxX29ibnl4QXdFX3NoaF91OENmeHVvMHI2Z1laeTBGUDR1WlNoTlR1bDROT05sTnQ3cElYRkE2WGU0QUs0WE1nZVpqYkIxaUhCMHpsS1V5OTdIQTh2SDdfY2laNUMweHpLOTlIdkt3VUxWRlNxaWZEU0x0NkFSVjVfTWFhdlllaC1yT0N2MGdZcExISWs3dU1DemJi?oc=5",
+   "veiculo": "TAGD Advogados",
+   "trecho": "",
+   "data": "2026-10-26T17:16-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal decidiu que o ISS não deve integrar a base de cálculo do PIS e da Cofins. A publicação destaca, contudo, que a modulação dos efeitos dessa decisão ainda está pendente de julgamento.",
+   "pratica": "Na prática, a decisão abre caminho para que empresas discutam a exclusão do ISS do cálculo dessas contribuições, embora os efeitos financeiros retroativos dependam da futura definição da modulação.",
+   "termos": [
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Valor sobre o qual se aplica a alíquota para calcular o imposto devido."
+    },
+    {
+     "termo": "Modulação dos efeitos",
+     "explicacao": "Decisão do tribunal que define a partir de quando e para quem a nova regra passa a valer."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7758afd01fec287e",
+   "titulo": "Reforma Tributária: Quando será definida a Alíquota da CBS?",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXgwdUNOdWVfN1dPWVprdHRvS0hmU1pHbGhWYTFFRjYzWXpVWmNGYmpfb3JrWlBhcWpBVEdUTjdrQ0FwcDZSeG1FY1VoUDluSVBIb2pEelFYcHRLa1FzdTlGSl8xUDItRExoclJaT3VHdXFCU1NnVjl3UU42S3Uwag?oc=5",
+   "veiculo": "Forbes Brasil",
+   "trecho": "",
+   "data": "2026-10-26T17:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da Forbes Brasil, levanta-se o debate sobre quando será definida a alíquota da CBS no contexto da Reforma Tributária. A indefinição gera expectativas entre os operadores jurídicos e econômicos quanto à carga tributária futura.",
+   "pratica": "Na prática, a indefinição da alíquota dificulta o planejamento financeiro e tributário de longo prazo das empresas. Contribuintes e profissionais devem acompanhar os desdobramentos legislativos para mensurar os impactos nos custos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na Reforma Tributária para unificar tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ee40167d9d63c1c9",
+   "titulo": "Aposentados e pensionistas que tiveram câncer podem ter direito à isenção do Imposto de Renda mesmo após o término do tratamento e sem apresentar sintomas da doença. O assunto ganha espaço durante a campanha Outubro Rosa, tradicionalmente vo",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvOTdKdlZQeTJmSkt0WFMzSHBVbUdYVTN2TGNrSFRWejVtOTEwb21pemVmdWY0dGw5OVBJVjhZUUdQOXlsR3pxYldwcW1Ud0tWQWc?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-10-26T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete, aposentados e pensionistas que tiveram câncer podem ter direito à isenção do Imposto de Renda mesmo após o término do tratamento e sem apresentar sintomas da doença. O tema ganha destaque durante a campanha Outubro Rosa.",
+   "pratica": "Na prática, abre espaço para que profissionais orientem clientes nessa condição a buscarem o reconhecimento da isenção do tributo, mesmo sem sintomas atuais.",
+   "termos": [
+    {
+     "termo": "Isenção do Imposto de Renda",
+     "explicacao": "Dispensa legal do pagamento do imposto para determinados contribuintes que preenchem os requisitos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "01fbf6431b0d1e92",
+   "titulo": "Reforma tributária: Neutra para o Tesouro, cara para a Universidade",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDVkQXVJMXBya2VzTVN0UXE4ZnVfdEp5aTZBeXptdVY3aXhDZ0dTeUdveWRwMnZBam5VYV9yeUJGc2F5TnMzdjRld1U5d1VLeHJ0NUxsMldEc0hMdmttaHVtdUdmVXQ5aGE5dTR2SlVsdTcza1UzTG9WYlJHR1ZZVmtiUFVzYWltcWhjQ2w1WldsVnNJb2dFQUpkRnlsZjJmT25Laktwa3pzMlVRblFxWUVVOWU?oc=5",
+   "veiculo": "Congresso em Foco",
+   "trecho": "",
+   "data": "2026-10-26T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária é apontada como neutra para o Tesouro, mas cara para a universidade. A discussão envolve os impactos econômicos e setoriais das novas regras fiscais em debate.",
+   "pratica": "Instituições de ensino superior e profissionais da área devem redobrar a atenção aos impactos de custo trazidos pelas novas regras da reforma tributária.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Alteração estrutural nas regras de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e7ada17b2bcc3df5",
+   "titulo": "Reforma Tributária e holding para empresas de tecnologia: o que revisar na prática",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVU3ZTBkQTNIWkh6Qlk1d1pheUtBdGt4MUlmN2U0a2Z5YVk4bGR0aUl2TEpGTmowdno3SjBFVDZoQ1lLMGxNQ2hvQ053alYtek9YODlZVE5oemZEWW9Tb1BJT3c2WTA2VVg1VVBlVzQyM1NTaS05ZjBXdkNBM09xUHREb0lLakVOYWozWThsNU5oRnBTQlZGemQzMW5FLUF0dWxDSUZQeF9TNXhmQkp2WVVYRmUzWWNjM0cyaWZGMlRwd1k?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-26T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis, a Reforma Tributária traz impactos para o uso de holdings em empresas de tecnologia, exigindo revisões práticas. O tema aborda o planejamento societário e tributário diante do novo cenário normativo.",
+   "pratica": "Advogados e contadores devem revisar as estruturas de holdings de clientes do setor tecnológico para adaptá-las às mudanças trazidas pela Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Holding",
+     "explicacao": "Sociedade criada com o objetivo de administrar e deter participações no capital de outras empresas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f603e300f88dba01",
+   "titulo": "Empresários buscam orientação para se adaptar à Reforma Tributária",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWendwb2ZHS0N5dnVfVld0dmJmdTR6azgzZk5fMFVCZjl6eGNWdVNjSUdDeXlYRVBkaFNMNGpNZ1VXWGZxb1JXYURKQ1RseWhwZzQwa1MxWG91UDIxSkV3V2dMUnpMOC1RSTk0cQ?oc=5",
+   "veiculo": "ES Hoje",
+   "trecho": "",
+   "data": "2026-10-26T16:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, empresários têm buscado orientação profissional para conseguir se adaptar às novas regras trazidas pela Reforma Tributária. A movimentação reflete a necessidade do setor produtivo em compreender o novo cenário normativo e evitar riscos fiscais.",
+   "pratica": "Na prática, a demanda aquecida abre oportunidades para advogados e contadores especializados prestarem consultoria preventiva e de adaptação aos novos tributos.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que remodela o sistema de tributos sobre o consumo no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "359690aa0a34d1b4",
+   "titulo": "Corte Especial define critérios para penhora de salário por dívidas não alimentares",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFpuMV9sZG52WVpzUl9OMmd2VGVyekFOZms3MWVRYjdpMVlUQ0RPM00wOUJ0bTZsZGQydmRsU1BSS21xMG1jbEVKZkVJamlJWTZjZGZWR0gySDFzc0F1WFpQWGNpM1VYaExBeU00NXBqTXBLMkUtZFhXMk82LXFPYUdaUmFRbFNLZElKeFZmeF9SM0NFSVVFT0RsR3ZSMWpXYkZXUTNvY1pYVVdJZS1TblZGQ0x1TkdDR2l5Qm5GX04?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-10-26T16:33-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete do Diário de Justiça de 2026-10-26, a Corte Especial definiu critérios para a penhora de salário destinada à quitação de dívidas não alimentares. A medida impacta diretamente a execução fiscal e a cobrança de obrigações tributárias e patrimoniais dos contribuintes.",
+   "pratica": "Na prática, a decisão orienta advogados e contadores sobre os limites e requisitos legais para que o Poder Judiciário alcance verbas salariais na satisfação de débitos que não possuem natureza alimentar.",
+   "termos": [
+    {
+     "termo": "Penhora de salário",
+     "explicacao": "Ato judicial que retém parte da remuneração do devedor para o pagamento de dívidas."
+    },
+    {
+     "termo": "Dívidas não alimentares",
+     "explicacao": "Obrigações financeiras que não decorrem de pensão alimentícia ou verbas essenciais à subsistência."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4732ca1ae8185bf3",
+   "titulo": "Governo Lula deve retomar tributação sobre compras internacionais de baixo valor",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHVCaHh3eEdrNkRDbWIyTjNUU1FnZjNTekN2a042X1B0MlBJNC1MV3ZfQ2VhaHl6MHFfeG53b1JfNmg1MTEwYlpxOTltZ3J3N2h5azNJS2ljaENRMUtkUHN0TEdNNC1FbkQ1VU5DWTVsSmM3QXktLWs4MW8wZHVrWmdpT2VRNVNScjB6c0NRZkM5TXM2OWJqUHFvalhqUHlMZ1k3RjVSdlZzXzVWNTh5WHVDSjBvTEppV1Fr?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-10-26T16:32-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Governo Federal",
+   "resumo": "Segundo a manchete, o Governo Lula deve retomar a tributação incidente sobre compras internacionais de baixo valor. A medida recoloca em pauta a discussão fiscal e aduaneira sobre essas operações de comércio eletrônico.",
+   "pratica": "Na prática, profissionais e empresas do setor devem monitorar os atos normativos do Executivo para adequar suas operações e orientar clientes sobre a nova incidência tributária.",
+   "termos": [],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "154e5135d205173c",
+   "titulo": "Reforma tributária avança após as eleições",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzBrZnNXVThuNVVWY0NSUWpUSzZobS1sdnBTQ2RhdHVCTjdENGJmVmhDRUVhbFAxNUFYclV5M0EtRC1yVDZnT09tamRFSHh2NlBQQTNhNW40TFhiVGlRbTRmUmZzVndJSWRmRllqcVJOLWIzekNQck1PWVFzQkV5VDVkNlFCaTJzbTl2UktIWQ?oc=5",
+   "veiculo": "SBT News",
+   "trecho": "",
+   "data": "2026-10-26T16:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária avança após as eleições, conforme veiculado pelo SBT News em 26 de outubro de 2026. A notícia indica o andamento das discussões legislativas sobre a alteração do sistema de tributos no país.",
+   "pratica": "Advogados, contadores e empresas devem monitorar os desdobramentos legislativos para antecipar impactos operacionais e estratégicos com a possível alteração das regras tributárias.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Processo de alteração profunda das regras e dos impostos cobrados no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "85ffd9ff4a609aa7",
+   "titulo": "Empresas têm até sexta-feira para regularizar pendências do Simples Nacional",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkxvRHNZWW9hNDlfcUdWUjEtV0cwQWlGZlZRLWxXazBfSm9oMXlyUm4wUXZTMzd5eThBNnVabXBmelpGRi1KY1NaWGhkenh3WllIMWxKNUpLcmk1Y1BGQXozU3JmOWdpbDBPcjhXZlFZQmdNSWw5bEw0N3UtMEhWQ1NQUlRYT18yZ2lNLTBLOFFielFpSEY3S2tzdmVvYjJuakViQzh5b1NTaVRJN09XTUZ4MkM?oc=5",
+   "veiculo": "Gerais News",
+   "trecho": "",
+   "data": "2026-10-26T16:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Gerais News, as empresas têm até sexta-feira para regularizar suas pendências vinculadas ao Simples Nacional. Trata-se de um prazo limite importante para que os contribuintes evitem a exclusão ou penalidades decorrentes de irregularidades fiscais.",
+   "pratica": "Na prática, contadores e advogados devem apurar e sanar eventuais débitos ou omissões dos clientes optantes pelo regime até o prazo estipulado para evitar prejuízos à regularidade fiscal da empresa.",
+   "termos": [
+    {
+     "termo": "Simples Nacional",
+     "explicacao": "Regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às microempresas e empresas de pequeno porte."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5e6db0c416d1f822",
+   "titulo": "O Superior Tribunal de Justiça (STJ) estabeleceu critérios para o cálculo do seguro-garantia judicial e para a rejeição de apólices que condicionam o pagamento ao trânsito em julgado. Em artigo publicado no Portal Rota Jurídica, o advogado tributarista Jan",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLQjZwZ1ZVTkJ1VDhZOWo0cWFUVTd4X01aM2EySjhfdHcyMW9LRUJUeDYtRUxleGFkVU92SGJVRE1ydFlMaHVRclp1Znhrdmlqb0E?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-10-26T16:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça (STJ) estabeleceu critérios para o cálculo do seguro-garantia judicial. A Corte também definiu regras para a rejeição de apólices que condicionam o pagamento ao trânsito em julgado.",
+   "pratica": "Na prática, a decisão orienta advogados e empresas sobre os requisitos aceitos pelo tribunal para a utilização do seguro-garantia em execuções fiscais.",
+   "termos": [
+    {
+     "termo": "seguro-garantia judicial",
+     "explicacao": "Modalidade de garantia oferecida por seguradoras para garantir o pagamento de dívidas em processos judiciais."
+    },
+    {
+     "termo": "trânsito em julgado",
+     "explicacao": "Momento processual em que não cabem mais recursos contra uma decisão."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "b8c1151e1d008fca",
    "titulo": "STF define prazo para devolver tributos da conta de luz",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGE2ak44S3FfX0twMVU3VDRqQUpRcjBKVm9FQ1kyVGc0QjRlQkNheHV2VFFXRGY1S3pPaHRFZ0kyM1lrNXVjTVdNUnJZcXk2dFo5aHQ3VkViR1lidkRmdDdpUzc4akswZnNGcjRHU0ctTkFGemdTRDdJdWRpc19nSmtjUk50SXZGZ3dialdKYUpWc0lBR1dUNEQ2dVlQYzhyWGc?oc=5",
@@ -746,7 +1428,8 @@
   }
  ],
  "panoramas": {
-  "2026-10-26": "No boletim de hoje, destacam-se três assuntos fundamentais para o direito tributário brasileiro. Primeiramente, o Supremo Tribunal Federal excluiu o ISS da base de cálculo do PIS e da Cofins, alinhando o entendimento à famosa tese da exclusão do ICMS e impactando diretamente a apuração dessas contribuições. Em segundo lugar, o STF reconheceu a imunidade do ITBI na integralização de capital em empresas imobiliárias, trazendo segurança jurídica para transferências de bens a sociedades. Por fim, no âmbito da Reforma Tributária, as discussões legislativas avançam sobre a alíquota e as definições da CBS, que substituirá o PIS e a Cofins a partir de 2027, exigindo atenção contínua dos contribuintes e operadores do direito."
+  "2026-10-26": "No boletim de hoje, destacam-se três assuntos fundamentais para o direito tributário brasileiro. Primeiramente, o Supremo Tribunal Federal excluiu o ISS da base de cálculo do PIS e da Cofins, alinhando o entendimento à famosa tese da exclusão do ICMS e impactando diretamente a apuração dessas contribuições. Em segundo lugar, o STF reconheceu a imunidade do ITBI na integralização de capital em empresas imobiliárias, trazendo segurança jurídica para transferências de bens a sociedades. Por fim, no âmbito da Reforma Tributária, as discussões legislativas avançam sobre a alíquota e as definições da CBS, que substituirá o PIS e a Cofins a partir de 2027, exigindo atenção contínua dos contribuintes e operadores do direito.",
+  "2026-10-27": "O destaque de hoje no direito tributário brasileiro concentra-se nos desdobramentos da Reforma Tributária e em decisões recentes do Supremo Tribunal Federal. No âmbito da reforma, o Tribunal de Contas da União tem decisão marcada para definir a alíquota da CBS, cuja proposta deve chegar ao Senado até 30 de outubro, com projeções de superar 10%. Paralelamente, o STF decidiu que o ISS não integra a base de cálculo do PIS e da Cofins, mantendo a modulação de efeitos pendente, e fixou um marco temporal para a devolução de créditos tributários na conta de luz. Esses temas importam porque impactam diretamente a carga tributária dos contribuintes, a recuperação de valores pagos e a aplicação das novas regras fiscais."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -784,9 +1467,26 @@
   "Arrendamento rural": "Contrato agrário de locação de imóvel rural para exploração agrícola, pecuária, agroindustrial, extrativa ou mista.",
   "Dívida ativa": "Conjunto de créditos tributários e não tributários devidos à Fazenda Pública que não foram pagos no prazo legal.",
   "Dívida tributária": "Valores devidos por contribuintes relativos a tributos que não foram pagos no prazo legal.",
-  "Renegociação de dívidas": "Processo de facilitação de pagamento de débitos, frequentemente envolvendo descontos ou prazos estendidos."
+  "Renegociação de dívidas": "Processo de facilitação de pagamento de débitos, frequentemente envolvendo descontos ou prazos estendidos.",
+  "Medida Provisória": "Norma com força de lei editada pelo Presidente da República em casos de relevância e urgência.",
+  "Contribuição sobre Bens e Serviços": "Tributo federal instituído pela reforma tributária para incidir sobre o consumo de bens e serviços.",
+  "créditos tributários": "Valores que o contribuinte tem o direito de recuperar junto ao Fisco.",
+  "Créditos presumidos de ICMS": "Benefício fiscal concedido pelos estados para incentivar determinados setores econômicos.",
+  "Tema 843": "Código que identifica a matéria sob julgamento de repercussão geral no Supremo Tribunal Federal.",
+  "Cashback": "Mecanismo de devolução de parte do imposto pago, previsto pela Reforma Tributária para beneficiar determinados públicos.",
+  "CadÚnico": "Registro unificado que reúne informações das famílias em situação de pobreza e extrema pobreza no Brasil.",
+  "Tributação do Agronegócio": "Conjunto de regras fiscais e tributos aplicáveis às atividades da cadeia produtiva agropecuária.",
+  "PGF": "Procuradoria-Geral Federal, órgão responsável pela representação judicial e extrajudicial das autarquias e fundações públicas federais.",
+  "Modulação dos efeitos": "Decisão do tribunal que define a partir de quando e para quem a nova regra passa a valer.",
+  "Isenção do Imposto de Renda": "Dispensa legal do pagamento do imposto para determinados contribuintes que preenchem os requisitos.",
+  "Holding": "Sociedade criada com o objetivo de administrar e deter participações no capital de outras empresas.",
+  "Penhora de salário": "Ato judicial que retém parte da remuneração do devedor para o pagamento de dívidas.",
+  "Dívidas não alimentares": "Obrigações financeiras que não decorrem de pensão alimentícia ou verbas essenciais à subsistência.",
+  "Simples Nacional": "Regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às microempresas e empresas de pequeno porte.",
+  "seguro-garantia judicial": "Modalidade de garantia oferecida por seguradoras para garantir o pagamento de dívidas em processos judiciais.",
+  "trânsito em julgado": "Momento processual em que não cabem mais recursos contra uma decisão."
  },
- "atualizado_em": "2026-10-26T15:12-03:00",
+ "atualizado_em": "2026-10-27T06:29-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
