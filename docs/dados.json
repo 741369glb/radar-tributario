@@ -1,6 +1,896 @@
 {
  "itens": [
   {
+   "id": "8d4118eaafc8cfb1",
+   "titulo": "Reforma Tributária: TCU decide cálculo da alíquota da CBS nesta quarta (28)",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGphR1N1aEtsUDI4cTMzRkhwc1hISnVXZkI0TnlIZU9ianc3TUlObFFmMjNQSFN1NFRWMDVFMG9aLXVzOTE1em9iNzA4S3l6eGNZQXM3dThtY1g0cDBRZDA0WVdwcDdrN05jUDlhZGZ3WmlDY2VWbHVYbkc1R2x2T0ZlZlJYRXRsclMyZDBsazlmY0VCalhjYVlnWVN3SzJzUFp1bUMxTG01LV9TMGRWSTZvOEJXYUZVNEt2dnB3UkVPUjVyTW9EbWJQYw?oc=5",
+   "veiculo": "CNN Brasil",
+   "trecho": "",
+   "data": "2026-10-28T06:20-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete da CNN Brasil, o Tribunal de Contas da União tem decisão marcada para esta quarta-feira (28) a respeito do cálculo da alíquota da CBS. A discussão envolve a apuração e definição técnica relacionada a um dos novos tributos previstos na Reforma Tributária.",
+   "pratica": "A decisão pode trazer maior clareza ou diretrizes sobre a carga tributária e o dimensionamento da nova contribuição, impactando o planejamento das empresas.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, novo tributo federal instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "TCU",
+     "explicacao": "Tribunal de Contas da União, órgão que fiscaliza a aplicação dos recursos públicos e a legalidade de atos administrativos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "982d88f8e645ea7c",
+   "titulo": "Levantamento: Reforma tributária pode comprometer capital de giro por até 63 dias -",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONVVFMkdxRGZuUWdmcmtoNGdtTnhlc2otcFZYS1NtUmh1d2RvWFNrcldBcmRDUlFfRThGNDYxNlBoQmZzTktUcFNwZTF3VXAwTW9icnFiOUtpelBkWDFTQm9TUlhJa0I2akVrcFNrWXp4dnlKdWY4eXV1LTU2QXVsZUktd2dDUzlVb3pDUWNndlFpczhCSWphZksyZ0x1MzV4TDRpWjFEVXd4aTV6SzVJ?oc=5",
+   "veiculo": "Folha de Campo Grande -",
+   "trecho": "",
+   "data": "2026-10-28T06:04-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Folha de Campo Grande, um levantamento indica que a reforma tributária pode comprometer o capital de giro das empresas por até 63 dias. A informação aponta para um impacto financeiro relevante decorrente das novas regras do sistema tributário em andamento.",
+   "pratica": "Na prática, advogados e contadores devem alertar seus clientes sobre a necessidade de planejar o fluxo de caixa para absorver a retenção temporária de recursos. O dado reforça a urgência de simulações financeiras preventivas diante do novo cenário normativo.",
+   "termos": [
+    {
+     "termo": "capital de giro",
+     "explicacao": "Recursos financeiros necessários para manter a empresa funcionando no dia a dia."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fea41d157e17adb6",
+   "titulo": "Refis III passa a incluir débitos até abril de 2026 com descontos de até 90%",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEdYd3JDdkNlZXhIVUVKdVU5U0VEQURReF9QS3dfZ2FPMFlpVlFVRjQtazlqU1JEVkNVcm5nYjlSLUhZd0IydmJ4ZmpMSnpKY1RSRWJYREpkbVVXMHZvV2RRTGkwbkZNR053QmpmN3JzVXAwNnlwUUpOVEQzbnF6VWlYN1J4b29ST0FnZVVtZlQ0UHk2VlhmMU9PcjhjaTZaWGppNGVWaUFTQUYtc2xUU2pqZw?oc=5",
+   "veiculo": "Notícia Exata",
+   "trecho": "",
+   "data": "2026-10-28T05:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Refis III passa a abranger débitos tributários constituídos até abril de 2026. A medida prevê a concessão de descontos expressivos de até 90% para a quitação dos valores em aberto.",
+   "pratica": "Na prática, a medida abre uma nova oportunidade para empresas e contribuintes regularizarem sua situação fiscal com reduções significativas nos encargos. Profissionais da área devem acompanhar a regulamentação para orientar clientes sobre os requisitos de adesão.",
+   "termos": [
+    {
+     "termo": "Refis III",
+     "explicacao": "Programa de recuperação fiscal voltado para a regularização facilitada de débitos tributários."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "84be8c1c95519fdb",
+   "titulo": "O boleto, o split e o crédito alheio",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTIwSXV0cl9MYWwzOWdNbmxtbmZwenhIcDJrdTVTMW9VMW5rbTNudFBVWkdJMmdkcmxLT0lqcmtlUmZXWlBRa25kNnYzME9GdzhoSWxjQWxXY3hJd0hMVl9oN2FSNVBKVWtvaHNzVk96dTB4UWpvX2JzdlFwV1RyQVFxMFYyWDRQMDhv?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-10-28T05:10-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate gira em torno de temas cruciais da nova realidade tributária, envolvendo o boleto, o mecanismo de split e a questão do crédito alheio. O título levanta discussões essenciais para profissionais que acompanham as inovações trazidas ao sistema fiscal.",
+   "pratica": "Na prática, exige que advogados, contadores e empresas fiquem atentos às novas regras operacionais e de apuração de créditos decorrentes das discussões sobre o split e meios de pagamento.",
+   "termos": [
+    {
+     "termo": "split",
+     "explicacao": "Mecanismo de divisão automática de valores e tributos no momento do pagamento."
+    },
+    {
+     "termo": "crédito alheio",
+     "explicacao": "Discussão sobre a aprofundação ou restrição de aproveitamento de créditos fiscais de terceiros."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9777724bd9382409",
+   "titulo": "Justiça reduz multa e determina revisão de acordo com PGFN",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEZIdEQ1UkJhTnNzd2tOX0dkVHJUNFY2amhfcTFnQ3BZMUVTUFJWX1UyaWM4bVZqRW5hbER0ZUN3a0tJR041aEZ2RUxHNkh2a1Y3QllxaTAxd0dkc3lRaUJ2VXdMNE9SQWdTZURSVWhrSGZoYnlHNElOQzZpcHpGaXBsVEVCMV8tdndsb01GSU9KamlpR250LTV2U0hZRU1wTzdsOE5GRDRlWEtYbEo1eUlyNUZrVDdia3c?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-10-28T05:09-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete do Valor Econômico, a Justiça determinou a redução de multa e ordenou a revisão de um acordo firmado com a Procuradoria-Geral da Fazenda Nacional. A medida impacta a relação entre contribuintes e o órgão na gestão de débitos fiscais.",
+   "pratica": "Na prática, a decisão abre espaço para que contribuintes busquem judicialmente a revisão de acordos e a diminuição de penalidades consideradas excessivas em negociações com a PGFN.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Órgão que representa a União na cobrança da dívida ativa de natureza tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b4a83b1661a8c1cd",
+   "titulo": "Carga tributária: TCU deve decidir alíquota da CBS nesta quarta (28/10)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NVmJ2RjFhbXZvdWZIUFVfcG1UWW1XZW04OExVT2xub1o0VTRwcmphMjlDX2RhNWdVREhzZmdTUWNzZ0Y2V2dlUjVKMGZPVVZabl9yV2hkVmFweFNSams3cnFpNmpHUE1iaHZ0VkZlWFY?oc=5",
+   "veiculo": "Metrópoles",
+   "trecho": "",
+   "data": "2026-10-28T04:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União deve decidir nesta quarta-feira (28/10) sobre a alíquota da CBS. O julgamento promete movimentar o debate tributário nacional em torno da nova contribuição.",
+   "pratica": "Profissionais e empresas devem acompanhar a decisão para entender os reflexos na carga tributária da nova exação. O desfecho pode orientar o planejamento financeiro frente às mudanças da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma dos tributos sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "39aba3ac538b1dc7",
+   "titulo": "TCU decide alíquota da CBS, novo tributo que substituirá PIS e Cofins em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamhDRVdpMktVb2RVN2ViS01VVGhVSjBjVmVTTWZSUDcxUndKcWpoMlZiUWR2MzVxUm93LU9pekRUdWxuNzNHRzlGWklDWlRhYV9ZQVZ5c2dKb1o4cnRLNUQ0WWF0aUNBWEVadWZJVEQ5YmNINnFmWnhSVkNuREMyN0ZYWTNXUElWdXZWMC1ySzRRdFZCTTVBaDJPcllJc1dRYlZjaUtKS0lRZw?oc=5",
+   "veiculo": "Agenda do Poder",
+   "trecho": "",
+   "data": "2026-10-28T03:13-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União (TCU) tomou uma decisão a respeito da alíquota da Contribuição sobre Bens e Serviços (CBS). O novo tributo mencionado tem previsão para substituir o PIS e a Cofins a partir do ano de 2027.",
+   "pratica": "A decisão sinaliza movimentações importantes nos órgãos de controle sobre a regulamentação do novo tributo da reforma, exigindo atenção de empresas e profissionais quanto à futura carga tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, novo tributo federal criado pela Reforma Tributária para substituir o PIS e a Cofins."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "492be05aaefee0cb",
+   "titulo": "Receita Federal cria grupo de auditoria em Novo Hamburgo (RS) para 80 PER/DCOMP de PIS/Pasep e Cofins",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3pXaWJfc0M5ek5ST2s0OUUwQUViZ2RHakVaYjVCajFJSmJvUE1lTkVqYV9GNDlnLUhndmJTdTdRRGVSTk9iTlVQNDRnWWNQTHg4UTF5THRBNi1VcWE4R3BHV3NBald0aU1tYVpPVUhQaXUzNl9FVmV0RnlTc2dCYkNqRmllYlVOakJSV2xsblFwUHdRaFd1UVBGVHlXSGN3QzhIQw?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-10-28T03:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal criou um grupo de auditoria específico em Novo Hamburgo (RS). O objetivo é analisar 80 declarações de PER/DCOMP relacionadas ao PIS/Pasep e à Cofins.",
+   "pratica": "Na prática, indica maior rigor e foco fiscalizatório em pedidos de compensação e restituição dessas contribuições na região, exigindo atenção redobrada dos contribuintes envolvidos.",
+   "termos": [
+    {
+     "termo": "PER/DCOMP",
+     "explicacao": "Documento eletrônico utilizado pelo contribuinte para declarar compensações, restituições ou ressarcimentos perante a Receita Federal."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1ee3360c046d96e0",
+   "titulo": "Dívidas do FGTS podem ser renegociadas na PGFN",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIRzZ4TnIycE9BTTE3Nmt1XzJiLUxETEdKeGNmbmFiOUxtek85ZUt4UWVTaE5OTkQ2cklORWJIUU9pZWFMYTRVRlVMRlZhVDY0YnhzMXJfQXdkMXVZMnRHdzhKMl93RVFQc2NxTU1FNTJhZFJOLWhVN2U0LUY2TW8?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-10-28T02:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete do veículo Seu Crédito Digital, divulgada em 28 de outubro de 2026, as dívidas relativas ao FGTS passam a ser passíveis de renegociação no âmbito da Procuradoria-Geral da Fazenda Nacional. A medida abre espaço para que os devedores regularizem seus débitos diretamente com o órgão federal responsável pela inscrição e cobrança da dívida ativa.",
+   "pratica": "Na prática, a novidade oferece às empresas e contribuintes uma nova via administrativa para a regularização de passivos vinculados ao FGTS. Profissionais da área devem acompanhar as condições e editais da PGFN para orientar clientes sobre eventuais descontos e parcelamentos.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Órgão responsável por representar a Fazenda Nacional em juízo e cobrar a dívida ativa da União."
+    },
+    {
+     "termo": "Dívida ativa",
+     "explicacao": "Conjunto de débitos de natureza tributária ou não tributária que não foram pagos no prazo legal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3f6096228d24e5b9",
+   "titulo": "Nelson Wilians tem inscrição suspensa pela OAB-SP e contesta medida em meio a investigações sobre bets, ICMS e INSS",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV3ZqeEplTXpMZ2hGeEJXRkRnMGRMV0ZKMzllaTh0RDRpTnZWYnNmZE8zTDh3dmpQdGlLYUhnTTVpNV9ObExraHZZQXRjekgtcVc2UzctN29Iakp4V0xOOFBudXJqc2NXMVFpczJzMHc3ZUtaY21iYXZ1dGlmM19wRDBIX0kwcDRQQUtwSU4zRnNrOHJ6WTlzV3YzR0VSTEhvNHZhODhLZ1ppV1F6SXBXWDNfbnlLcVZaYlMyUjJNeGg5TWxiZHk1OE43N3FmUVZIOUJ5aFhFZzlTTHdhNmhGY1BmUzhNcGdBd0FjYQ?oc=5",
+   "veiculo": "Jornal Grande Bahia",
+   "trecho": "",
+   "data": "2026-10-28T02:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "OAB-SP",
+   "resumo": "Segundo a manchete, o advogado Nelson Wilians teve sua inscrição suspensa pela OAB-SP. A medida é contestada por ele em meio a investigações que envolvem temas como bets, ICMS e INSS.",
+   "pratica": "Na prática, a notícia serve de alerta sobre investigações envolvendo tributos como o ICMS e contribuições previdenciárias. Advogados e profissionais devem redobrar os cuidados de compliance em suas atuações.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "INSS",
+     "explicacao": "Órgão e contribuição voltados à seguridade social e previdência."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6379732a1fca0749",
+   "titulo": "Reforma tributária: alíquota da CBS será definida pelo Senado — Senado Notícias",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGpndFRtcHVQbGxaTENPVjN5OGk2eHVrTTJBUEpOWFpsc19ScEIwZ2Q0RjJONTZXLUs5WV9ReTNLMndodXhVd182SE1XMTlwMHU3TUozeHhfZmFwT2tXMlJSa1BOVVd5bEx5SklaTGNnZGZvbG82WG1oN3BoSFhxbWpPWWdWT1NjWWZaaFUzZUozUVVyWXFsNFRPVHBHa0oyc0k2a2RYSlNMUjVJaHBIMEJaV3ZpcHRtcEE1ZTdyYw?oc=5",
+   "veiculo": "novidades mt",
+   "trecho": "",
+   "data": "2026-10-28T01:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, a reforma tributária trará a definição da alíquota da CBS sob a competência do Senado. A notícia destaca o papel da Casa legislativa na fixação desse tributo federal.",
+   "pratica": "Na prática, operadores do direito e contribuintes devem acompanhar as futuras deliberações senatoriais para mensurar o impacto da carga tributária da CBS.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7179c652ed95a22a",
+   "titulo": "São Paulo avança na criação de programa de parcelamento de débitos de ICMS",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaThva2JZU0ZWZmMyWFIxbWkwYkstOEpRNGdTQzJsdGdma1RudDFieVUwU3M3NjRuOURfOEpCMWxPN1A2cDhtcldKVE5tS0ZfdGlVTU5hc1I1SUVCVWtuOVRwOFV6cTBtTDl2M0R3dk9qSnFHWU1fM2l5RWlLb29xWVdyTWgydmRKcmJJWm15R0RkUThZM3VaU01SXzVEMFYwSk9mZkNEMFNPbHlmaGZmSzUxelRhSFFadU5MdXlMVmhRQjRvOG93ZnNVWFIyMXNy?oc=5",
+   "veiculo": "Lacerda Gama",
+   "trecho": "",
+   "data": "2026-10-28T01:24-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Sefaz-SP",
+   "resumo": "Segundo a manchete, o Estado de São Paulo deu novos passos para a criação de um programa voltado ao parcelamento de débitos de ICMS. A medida sinaliza possíveis facilidades para a regularização fiscal de contribuintes no âmbito estadual.",
+   "pratica": "Na prática, a iniciativa pode abrir uma nova oportunidade para empresas e contribuintes negociarem seus débitos de ICMS com o fisco paulista. É recomendado acompanhar os desdobramentos legislativos para verificar os requisitos e prazos de adesão.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    },
+    {
+     "termo": "Parcelamento de débitos",
+     "explicacao": "Forma de regularização fiscal que permite quitar dívidas com o fisco em prestações."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b5ba1ff250ae50ab",
+   "titulo": "STF julga contribuição abaixo do mínimo no INSS",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSWhZZm9sdklXdXNCSGg4WVJIR0hGcVRBTFpKM2RVZE9XckRnaDQ3NVlsSE5MbVpUVXNfNHNCODRWMTJsNGhwWU84OVpQSnFBSk1HYzQzN3pkMl80WVZaR3pBUFMzeUQ5UG54OWlsLTNoWEZuQTJNSmRMN3YtQkk?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-10-28T01:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal está julgando a questão da contribuição abaixo do limite mínimo destinada ao INSS. Como o trecho original está vazio, detalhes específicos sobre o entendimento adotado pela Corte não foram informados.",
+   "pratica": "Na prática, profissionais da área devem aguardar a publicação oficial do acórdão e do entendimento consolidado pelo STF para orientar clientes sobre eventuais recolhimentos inferiores ao piso.",
+   "termos": [
+    {
+     "termo": "contribuição",
+     "explicacao": "Espécie tributária destinada ao financiamento da seguridade social, como o INSS."
+    },
+    {
+     "termo": "INSS",
+     "explicacao": "Instituto Nacional do Seguro Social, responsável pela gestão dos benefícios previdenciários no Brasil."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "40dea69f8fe9e764",
+   "titulo": "TJRN afasta obrigação de Estado repassar ICMS sobre benefício fiscal",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazBMekFWNnVWQmRqNjd4ZG5BU3c2RUN3V1ptclNhWnI2aUNtQ20taHNNZ2pkZFh4Z05UbTU5ZGEzU3ZmOGh4R1ppaGVRbXI4MTAzZFIwOWtfOWtxNFo4Rm13T3JrajViZHo1ZjNrQjNRM3NpT0l6VGtkZDJKTTM4Mi1GN1BKbDY1MG9hQ2RmVEpCUTZ6ZUxJb1pvU3ZELWN6dVQ3WEt2YWt4Z1k?oc=5",
+   "veiculo": "TJRN",
+   "trecho": "",
+   "data": "2026-10-28T01:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "TJRN",
+   "resumo": "Segundo a manchete, o Tribunal de Justiça do Rio Grande do Norte afastou a obrigação de o Estado realizar o repasse de ICMS relativo a benefício fiscal. Como o trecho não foi fornecido, trata-se de um resumo prudente baseado exclusivamente no título da decisão.",
+   "pratica": "Na prática, a decisão afeta a dinâmica de repasses financeiros estaduais relacionados a incentivos de ICMS, devendo advogados e contadores acompanharem o entendimento do tribunal local.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência dos Estados e do Distrito Federal."
+    },
+    {
+     "termo": "Benefício fiscal",
+     "explicacao": "Vantagem legal que reduz ou elimina o pagamento de um tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "521de2491ae1d573",
+   "titulo": "Receita Federal esclarece tributação do deságio na aquisição de créditos de ICMS",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2Y0bnlVRnZBVnBfMm5iMzR2d0tfaUgwblRmdHUwNFZNUkZoSnNFY1BhaHhEZ25oanp4b2ZsTXdTTmxlRTR5RS1laWU4eTdFRWZMbkllWm1TWUZUcXFqU3RGNnFJQWtUNGVLZlFSRnp3elZ5V0RnbXpNLVIycjBlczFRTW5ETkR3c0hsUzdta1dCcUkzSl9hNzJDNGUtbndPNksyeUlzMnI5TU5hSGg2MmFvQQ?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-10-28T00:08-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal prestou esclarecimentos sobre a tributação incidente no deságio verificado durante a aquisição de créditos de ICMS. Como o trecho da notícia não foi fornecido, detalhes específicos sobre o entendimento do órgão não estão disponíveis.",
+   "pratica": "Empresas e profissionais da área devem acompanhar a manifestação oficial da Receita Federal para avaliar os reflexos tributários na apuração de deságios em operações com créditos de ICMS.",
+   "termos": [
+    {
+     "termo": "Deságio",
+     "explicacao": "Desconto obtido na aquisição de um direito ou crédito por um valor inferior ao seu face."
+    },
+    {
+     "termo": "Crédito de ICMS",
+     "explicacao": "Saldo que o contribuinte possui perante o Fisco estadual decorrente do princípio da não-cumulatividade do imposto."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b6da816782582071",
+   "titulo": "Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS e Cofins em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR3R6UVYwRHZrdFBVV2RjTXBLbk9keU8xd1pIUjdpWTVlQjlTTWw3Y2wtM2tlU0xGNlRPaTVhRXZEQXVpWDBPVFlha1Exa0I5OUFfUWJWYnRHU0haSTJGRW9Ta3JhbEdMVzNRbEpIREdsMzBvdWMyMkVFQktULXduREtHM3RIZnNmTGdURGhrbGgza3dfcDg2VnZuQVNzUzRLb2FBRXR0ZzNvZGYzZFcxN0V2N05MbFhObWN4ems2eHB1M0VMdEJkQ3dOUU1QN1ltaTRIdFJHWWlreWlacEZXZE5mWkE5b3B4MUJibVZ4NENhV1BT0gH0AUFVX3lxTE5HdHpRVjBEdmt0UFVXZGNNcEtuT2R5TzF3WkhSN2lZNWVCOVNNbDdjbC0za2VTTEY2VE9pNWFFdkRBdWlYME9UWWFrUTFrQjk5QV9RYlZidEdTSFpJMkZFb1NrcmFsR0xXM1FsSkhER2wzMG91YzIyRUVCS1Qtd25ES0czdEhmc2ZMZ1REaGtsaDNrd19wODZWdm5BU3NTNEtvYUFFdHRnM29kZjNkVzE3RXY3TkxsWE5tY3h6azZ4cHUzRUx0QmRDd05RTVA3WW1pNEh0UkdZaWt5aVpwRldkTmZaQTlvcHgxQmJtVng0Q2FXUFM?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-10-28T00:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União divulgou o cálculo da alíquota da CBS. Essa nova contribuição tem previsão para substituir o PIS e a Cofins a partir de 2027, conforme o contexto da Reforma Tributária.",
+   "pratica": "Na prática, a divulgação dos cálculos pelo TCU permite que empresas e profissionais comecem a mensurar os impactos financeiros da substituição do PIS e da Cofins pela CBS.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada pela Reforma Tributária para substituir o PIS e a Cofins."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "98525107e03f18bd",
+   "titulo": "A sanção política preservada pelo STF na ADI 5.161",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkNOdDd5YUNjVUZaZUVrRzc4UmJ2cGMzdWJnRHFCQmdUWEtHbGpTc3F4ak9wVU9WZUkxWWtFR3BRNG1vbUVpSG9iOUp1RUh5Mkc5VDJrN1Q0VUg2SUtfcUpEZGMwNjRtTEd0MjBzYmxWc0RrOWY2MHE0am5ITzcwbW1VTUJjaWNGTDE4YS1YQndPOUR3UXQ4WUxDWFFNcS1hYVdVQ1JnSW9rZl9hU1hfV1hLMjF4THNsTzRMVkZB?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-10-27T23:27-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal preservou uma sanção política no julgamento da ADI 5.161. A notícia aborda o entendimento da mais alta Corte do país sobre essa restrição imposta a contribuintes.",
+   "pratica": "Na prática, a decisão orienta advogados e empresas sobre a validade e a manutenção de restrições consideradas sanções políticas pelo STF.",
+   "termos": [
+    {
+     "termo": "Sanção política",
+     "explicacao": "Restrição ou penalidade imposta pelo Fisco ao contribuinte para forçá-lo a pagar tributos, meio considerado indireto de cobrança."
+    },
+    {
+     "termo": "ADI",
+     "explicacao": "Ação Direta de Inconstitucionalidade, instrumento usado para questionar a compatibilidade de uma lei com a Constituição perante o STF."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a7d121a74e57b210",
+   "titulo": "Reforma tributária em 2027: veja o que muda e o que ainda falta definir",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV05CNk1HbVVJM2lLRG5uT3hoWTNhdGJIQk9NOXczWk5NT042QlotT1pPZzJjc3c5MnBmN0poRXB0ZHJyUGxzZnc4T0dmdDM2SkJlZ3RlQTRJWWQ2c3JXbEIyYldtSHBoVThnOWhYdGNEYjkwMS0tczhoR2Y0M1NEZWVVd1Qxd0I5WFNSY093RXM1b3RrVS1DVmhhZi03Q0h2SW1KSm5n?oc=5",
+   "veiculo": "MundoBA",
+   "trecho": "",
+   "data": "2026-10-27T21:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a pauta aborda as mudanças previstas para 2027 decorrentes da reforma tributária. O conteúdo destaca o que já está estipulado para sofrer alterações e o que ainda permanece pendente de definição.",
+   "pratica": "Na prática, advogados, contadores e empresas devem monitorar as futuras regulamentações para se antecipar às novas regras previstas para o ano de 2027.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais no sistema de arrecadação de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fa7117b30340edf6",
+   "titulo": "Reforma Tributária: Prefeitura de João Neiva (ES) orienta contribuintes sobre novos prazos da NFS-e",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYlNhLXc2bHJqSE4xaG1zZm00T3JlVG85OTAxV0lwYjlOTHBEVWZPakh3VVpYNXFUeWR3MHVDb1pKR0R5R0tEcEROM2d1NUVtVVBnWDdqLTBWR1huUDRRbUdVeXJaczlvU0sxb3E3a2tfdFA1T29QOFdRVkFoZ0VYby1iV2ROUWNfWmFuUzNyMVR6aU9wMmVycEszNTdhdFhwWF8yUi1MTkk3SVR6a19YZ0g0SHpaV2JXRGUwM0paekpmNW8?oc=5",
+   "veiculo": "Grafitti News",
+   "trecho": "",
+   "data": "2026-10-27T21:04-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Prefeitura de João Neiva",
+   "resumo": "Segundo a manchete, a Prefeitura de João Neiva, no Espírito Santo, emitiu orientações aos contribuintes sobre os novos prazos da Nota Fiscal de Serviço eletrônica (NFS-e) no contexto da Reforma Tributária. A comunicação busca adequar os prestadores de serviços às recentes alterações normativas que afetam a emissão e o controle fiscal municipal.",
+   "pratica": "Na prática, a medida exige que empresas e profissionais autônomos do município fiquem atentos ao novo cronograma para evitar falhas ou multas na emissão de NFS-e.",
+   "termos": [
+    {
+     "termo": "NFS-e",
+     "explicacao": "Nota Fiscal de Serviço eletrônica utilizada para registrar operações de prestação de serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1e98f1df6a631218",
+   "titulo": "STJ reafirma não incidência de PIS e Cofins sobre operações na Zona Franca de Manaus",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXBETUNSM2N5RmFOQTltaVBlcmdUMGJyRVBIQnhvNXdsOW1yMFFpcmxsWXZkRDdTZkNOa2hxTzdMZW03cW4zYWZKUWN4YVMyNllsUkdHeVZ1N0cwWmNCQ2JzRGg5QTNwb2Jkc2NRem5aVExDT0pCZFFxLTJ5TDF2b1NHT0JhT0s4SHN0SnNRS2ZiUHNkWkZsdXBrQ25YTXdfNFEybUNad2d6MGcwcm9kMkV0YkFfSkxGckUwZGY2aG9mUDZqOUdTa09uT3F0Q21aSEtlZnlJOA?oc=5",
+   "veiculo": "Lacerda Gama",
+   "trecho": "",
+   "data": "2026-10-27T20:41-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça reafirmou a não incidência de PIS e Cofins sobre operações realizadas na Zona Franca de Manaus. A decisão consolida o entendimento da corte sobre o regime fiscal diferenciado aplicável à região.",
+   "pratica": "Na prática, a confirmação traz maior segurança jurídica para empresas que operam na Zona Franca de Manaus, reforçando o afastamento dessas contribuições federais.",
+   "termos": [
+    {
+     "termo": "Zona Franca de Manaus",
+     "explicacao": "Área de livre comércio de importação e exportação com incentivos fiscais especiais."
+    },
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2cee202b06dcbe7f",
+   "titulo": "CARF cancela autuação de R$ 59 milhões sobre amortização de ágio e afasta presunção de artificialidade em reorganização societária",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOckc0ZFZ4SWtCYkZ3dVkxUHI1VHFzeWpsTUlSVWJaZzduSU1kaVREYkdVNVkyMUx4N3FIc0lnQ1ZOODlzbVZpSFVoMFlfdHRJTGxwM2hlakxLOU5UYThmX2l2NWh2QmdYQTk1eTFpU3JCT1VPUjlLTFhRNTB6clhwaG1ibTNGREtxSUFBWUN2Nm4zdEJCQjI1cGJ6UXlud3UxaFpieldranpGWURWTHhqdDMzUHNnYW5rdEo0c3dQbzRwM1Rva1Z2d2F1V0tyVHMxTmRhUHg2aEpjdEQwaVpsbnM5Mkdlc3VsSW1TaHVQR1A1cDUzeE9wSjh6TzdUWVRUWlNNcjB3?oc=5",
+   "veiculo": "Lacerda Gama",
+   "trecho": "",
+   "data": "2026-10-27T20:41-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Imposto de Renda",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o CARF cancelou uma autuação fiscal de R$ 59 milhões envolvendo a amortização de ágio. A decisão também afastou a presunção de artificialidade em uma operação de reorganização societária.",
+   "pratica": "Na prática, a decisão reforça a necessidade de cautela da fiscalização ao desqualificar operações societárias e oferece um precedente favorável aos contribuintes no âmbito administrativo.",
+   "termos": [
+    {
+     "termo": "Amortização de ágio",
+     "explicacao": "Dedução fiscal do valor pago a mais na aquisição de participação societária."
+    },
+    {
+     "termo": "Reorganização societária",
+     "explicacao": "Alterações na estrutura jurídica e empresarial das companhias, como fusões e cisões."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "65bc94202870314f",
+   "titulo": "Gorjetas destinadas aos trabalhadores não integram a base de cálculo do ICMS, decide TJSP",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFZpeVdPeVdveHpCYXVMdlBpZi1VYXRiMmFaWU9RRWdYVmxtYjAtQ1hsOTVYMWdNd3hYN3JfaWptUzNoMlVoXzR6dURVbWU3YUxOUjQxdGN3TWVicmd5U3QxN0hBUWxBMmdTa1dibjcxOXhkR2otMHotODZJeUxVeDFiYXZmV0FBQzFZMlp5SHdiaU9nVHc0bGpYcFpZNGUzY3FmaG5TU3otR3UwMmRZY09fQm1ueVNFUC1iVlRHU2NURk94SHR5RzRRVHUtMzQ?oc=5",
+   "veiculo": "Lacerda Gama",
+   "trecho": "",
+   "data": "2026-10-27T20:41-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "TJSP",
+   "resumo": "Segundo a manchete, o Tribunal de Justiça de São Paulo decidiu que as gorjetas destinadas aos trabalhadores não integram a base de cálculo do ICMS. A decisão afeta a forma como os estabelecimentos calculam o imposto sobre operações relativas à circulação de mercadorias.",
+   "pratica": "Na prática, a decisão afasta a incidência do imposto sobre os valores pagos a título de gorjeta, reduzindo a base de cálculo tributável para os contribuintes do setor.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual incidente sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    },
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Valor sobre o qual se aplica a alíquota para calcular o montante do tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8066fd025d0c2245",
+   "titulo": "Decisão do STF sobre créditos presumidos de ICMS abre espaço para revisão tributária na Zona Franca de Manaus",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUlkOHZlLVRTcU9RM2ZTQVg2RmdXWDQzLXJYSkVuNjJaLWc0TnU0NXZoYl9VbTJ6S01fZ0xjZUJNckt3QUJHV1Q0ZmV5dWFHWGVjLWpZdDdNX0hmSkpQVHJCc1ZCOHdqVEx6enVVNkZINkEyWG1nQ0x6MXFUbDVuc2JVdnpXbmVvc21QMkwweUNQam1ZbXE3aUd3bDJ6YVBySGZxSllZWXl6UHZqeFJScmhLMnBfRk5LNWhXQ1MtaHlLM3lRVHNtZmFmZDlsZUdRVGIzTlB1d0FlclNqb0MxSFJR?oc=5",
+   "veiculo": "Coluna Política",
+   "trecho": "",
+   "data": "2026-10-27T20:04-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, uma recente decisão do STF envolvendo créditos presumidos de ICMS abriu espaço para a realização de revisão tributária voltada à Zona Franca de Manaus. A discussão traz reflexos diretos para o planejamento fiscal das empresas que operam na região beneficiada.",
+   "pratica": "Na prática, a decisão permite que contribuintes da Zona Franca de Manaus avaliem a possibilidade de revisar seus procedimentos fiscais e recuperar eventuais créditos tributários. Profissionais da área devem analisar os impactos específicos da tese do STF sobre as operações locais.",
+   "termos": [
+    {
+     "termo": "Créditos presumidos de ICMS",
+     "explicacao": "Benefício fiscal concedido pelos estados que atribui um crédito fictício de ICMS para desonerar certas cadeias produtivas."
+    },
+    {
+     "termo": "Zona Franca de Manaus",
+     "explicacao": "Área de livre comércio de importação e exportação e de incentivos fiscais especiais situada na Amazônia ocidental."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b8f0fa72ecdf9d54",
+   "titulo": "CBS pode favorecer terceirização e agências em 2027",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1QtcWVLeEtzamo4Y0lFYlB6dEtEcXNjcW1LS252ZmN4U2Z0aXdEQUM0eTJjcDVSX3U5S2xxbUNWeXpwaDFDVHBnbF9kQzRaNmxGT2pRNGhNX1hOWVRFMFUyZ3Y3dGQwZFo0M1h5cjNRaHRYOUxrekNhSW45ZTRTNHBVN3VfRXJDVmY4VklrNzFPeWdDTnZqRUZhNzA?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-27T20:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a CBS pode favorecer a terceirização e as agências a partir de 2027. O título aponta reflexos potenciais do novo tributo federal sobre esses setores específicos.",
+   "pratica": "Na prática, empresas de terceirização e agências devem acompanhar os debates sobre a regulamentação para avaliar futuros impactos em sua carga tributária e planejamento operacional.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na reforma tributária para substituir tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ec657ffa98d2ba9e",
+   "titulo": "Reforma Tributária: atraso amplia riscos às empresas",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlNWQ0JDajRnXzg3U3B0d0dUSHZKMTJRekY5cEcxSzhDTTBjUzBXRDJkcEFaTGQ4Ny1XbWVHRVlEamw0RHdldUxMWXVJUnAxQ2h1bUdkbkpqZkZzV2RmZnBwNTBmaDVKMjlXMzB4ZWFybmN4LUdUekRNLThNdlM5OVo4R3lic1F6TGFzY3hzVkRVdUhrXzB2RDd3Yno?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-27T19:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis, o atraso na Reforma Tributária amplia os riscos enfrentados pelas empresas. A notícia destaca a apreensão do setor corporativo diante da demora na implementação das novas regras fiscais.",
+   "pratica": "Na prática, a indefinição exige cautela redobrada dos gestores no planejamento financeiro e tributário. As empresas devem monitorar o cenário regulatório para mitigar eventuais impactos negativos da transição.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8d042ccc6aca1d71",
+   "titulo": "STF decide que ISS não integra base de cálculo do PIS/Cofins",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGdGMHl2X1dRRmxndlg2NEgyVTRQTFB4STdhbi05eEhfUUd0NGFscUN5WkdJU3FwQmtOaE84cC1KcEVyMFhoR25CajN2elZKcFdRdUVkT3JLRDNlX3d5TVVJX1BxaVQ3SEpiTTU4d2pOSTBhemVwS1N3MGYtUkpVQ21IbnpRZEp3RWtHR2JURHJ2M3NwanVuMi1pa3JzNnZO0gGgAUFVX3lxTE13OHJ5OTd4Q1pnVHRqa0ptVlhzcURxUlVKVURFckJmeDMyUXlQczVCS2ZPcTJYZzFIZFdMbFQxRmU2TFh6S1pKNjNDc1V1cnVYM3MwSWVGVmhyU3g1MHNjMlhZdVhKQnVaMlZ0OC1LNHgwUEZYUFJVb0tjVGY3SW5XTFp6bXpVYlpYUDR2bkZNaXBNLW5HNEhrdjJzYzBPalk?oc=5",
+   "veiculo": "diariodigital.com.br",
+   "trecho": "",
+   "data": "2026-10-27T18:50-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal decidiu que o ISS não deve integrar a base de cálculo do PIS e da Cofins. Trata-se de uma definição importante sobre a composição da base de incidência dessas contribuições federais.",
+   "pratica": "Na prática, segundo a manchete, a decisão tende a reduzir a carga tributária das empresas ao afastar a incidência do PIS e da Cofins sobre o valor do ISS.",
+   "termos": [
+    {
+     "termo": "ISS",
+     "explicacao": "Imposto sobre Serviços, de competência municipal."
+    },
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou o faturamento das empresas."
+    },
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Montante sobre o qual se aplica a alíquota para calcular o tributo devido."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cf956bdd47b1719c",
+   "titulo": "Atraso no processamento do débito automático exige atenção de contribuintes",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnFKTHlrLXZ6bkJjNkxpc01wRXRfSnMzQnRIaU9zdk40X1Q4aTU0SllfcEJQN09vcFNkOW16dzdPQzI3Wk5rbk4yckt3UXUzN3VmNDZEQ3lxR09Edm41VWtLVExJWWh1UG93YnQwSGFWbV94TjJRUkVpaGNUQ05kWHBpUXp5REJmSEJxRDVwUnc5M0owaFZoM1R6dlQ0cVBJeExjSEtPY2Y2UTFFMHhLLXE5MmYxOWRiY3lCclhNZTVoeHgzN0s4?oc=5",
+   "veiculo": "GOV.BR",
+   "trecho": "",
+   "data": "2026-10-27T18:46-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Governo Federal",
+   "resumo": "Segundo a manchete do GOV.BR de 27 de outubro de 2026, o atraso no processamento do débito automático exige atenção redobrada dos contribuintes. A situação demanda monitoramento constante para evitar eventuais transtornos com obrigações fiscais.",
+   "pratica": "Na prática, os contribuintes e profissionais devem conferir manualmente se os pagamentos programados foram efetivados, evitando inadimplência por falhas sistêmicas.",
+   "termos": [
+    {
+     "termo": "débito automático",
+     "explicacao": "Forma de pagamento em que os tributos são descontados diretamente da conta bancária na data de vencimento."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "aa691160ccc2bca1",
+   "titulo": "Reforma Tributária: PEC prevê novas regras para divisão de impostos entre municípios de MS",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGlfR3hTRGNQOGl6enQ1bTZhWjdKX29QMTdJb29BakdtSXZJazJDOFdJYlFqd3FGeEw5TjI3UzA5OUhWVEJhbmxnS0dCV0lkVXptellfaGZNTVZCUERpd1BHU1dIVEU0SzdhMWFydG9QREJVdWJLZVdWa3F1SW53U3UxeU4zRDNnTnNibVQ3NHJVX0VELTJGdFY5NWVZbEF5aWxoNGdrbW9jV2xlanNRM1UxVVlXeUYydEU0NkJ2dnhjLVVPa2pPalZXV1pnelVrMC1ZVXR5OUFFQ1U?oc=5",
+   "veiculo": "Pix News MS",
+   "trecho": "",
+   "data": "2026-10-27T18:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete veiculada pelo Pix News MS em 27 de outubro de 2026, uma PEC relacionada à Reforma Tributária prevê novas regras para a divisão de impostos entre os municípios do estado de Mato Grosso do Sul. A proposta impacta diretamente a distribuição de receitas fiscais na esfera municipal.",
+   "pratica": "Na prática, a medida pode alterar a arrecadação e o repasse de recursos públicos para as prefeituras sul-mato-grossenses, exigindo acompanhamento por parte de profissionais que atuam com finanças públicas municipais.",
+   "termos": [
+    {
+     "termo": "PEC",
+     "explicacao": "Proposta de Emenda à Constituição, instrumento usado para alterar o texto constitucional."
+    },
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f9ce9d7c94ae9e1e",
+   "titulo": "Seminário Jurídico do Secovi-SP alerta para indefinições da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmRzMU1ObWo3VHFZdTZEWFdXLXpjal9HN1FMTEdUNlA4Y3lEbmRlTklfeTVwSDU5Qkx0ZUpyTlV4UmY3UVJPck1kLVFrWXJmN29Ob29Nbi02eGU1SWJsd1lpM1d1MVpCMTlBRXdqckF4OVJ5eUVsTG5aTTdJQU8zZTdpd1ZzZU1ZeU9tUDF3cDA1aXBkcWQ4QUw5TzZHZVBtWkpR?oc=5",
+   "veiculo": "SECOVI-SP",
+   "trecho": "",
+   "data": "2026-10-27T18:23-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Secovi-SP",
+   "resumo": "Segundo a manchete, o Seminário Jurídico do Secovi-SP emitiu um alerta a respeito de indefinições trazidas pela reforma tributária. O evento debateu as incertezas normativas que cercam o novo cenário fiscal brasileiro.",
+   "pratica": "Na prática, a falta de definições claras exige cautela por parte de advogados, contadores e empresas na análise e adaptação às novas regras.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "986b12b479b4aa40",
+   "titulo": "Justiça de São Paulo afasta IBS e CBS da base de cálculo do ICMS por falta de previsão legal",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmd2NWZjNmY1OFNPaUFvMUswa2NGMHNlV3NwLWdCZlNLOG83bGlpSUdnOERqdXd6Wm44eW1reG9GQ3RGMjlyenVYN05aMUNTZGx6OGNJNDZTMkZoalQ3ZVc0UzlzM1RjNENTUHM3VEtMaFRoRkZrMndBNlN6QjBnNlFxU3BjSEtqNGZQaVJhQUNOYlc4UWZibnZmeUxrWHlDNXphWFpocEVBSkxGaFQ5Z25EbzUtaGM?oc=5",
+   "veiculo": "TAGD Advogados",
+   "trecho": "",
+   "data": "2026-10-27T17:50-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "TJSP",
+   "resumo": "Segundo a manchete, a Justiça de São Paulo afastou a inclusão do IBS e da CBS da base de cálculo do ICMS. A decisão fundamentou-se na falta de previsão legal para essa incidência.",
+   "pratica": "Na prática, a medida traz alívio imediato para os contribuintes envolvidos ao impedir a cobrança de ICMS sobre os novos tributos. Profissionais devem acompanhar o desdobramento da tese para avaliar medidas semelhantes em suas defesas.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços previsto na Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada pela Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "043e782d3b071ebb",
+   "titulo": "Fazenda Nacional vence maioria das teses tributárias derivadas da exclusão do ICMS do PIS/Cofins",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3diMGZxMkFFQlB4Ql9LZEhLUjVfUWl1LUhpY1dncFpxR1hmNXNtU3BPbDUyNkktc0dhMmwySHlXUFZTS1RfRTNveTZSWHo3Wm5jbTNSSTRNLVA2N0VENU9WQVFHaGZ4NEVhNE1MUWRNWWZ4RXdQY09GLXlhSDhVUExyWnBvaEx0cWJQUWhYNkNNbTNUV1B0eDJiZ2lDc1NBTXphMlI4ZFg4Z3Ytc1VoeFE0U3NIcDk3bnhwRg?oc=5",
+   "veiculo": "TAGD Advogados",
+   "trecho": "",
+   "data": "2026-10-27T17:49-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Fazenda Nacional",
+   "resumo": "Segundo a manchete, a Fazenda Nacional saiu vitoriosa na maioria das teses tributárias que surgiram a partir da decisão sobre a exclusão do ICMS da base de cálculo do PIS e da Cofins. O tema envolve discussões de grande impacto financeiro e reflexos nas contas públicas e dos contribuintes.",
+   "pratica": "Na prática, os profissionais da área devem redobrar a cautela ao analisar teses filhotes da exclusão do ICMS, pois a Fazenda Nacional tem obtido sucesso na maioria dessas controvérsias.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "391ef3c00eebb3b9",
+   "titulo": "Decisão do STF sobre imunidade do ITBI pode afetar mais de 6 mil processos nos tribunais estaduais",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnNZSDhpYkpxczNQZnRPaVdFdUtfUUZtdTNWb1JJeU1kbUxQMm9YMjA4V0w4NXlpMWlCS0IyX0V1TW1tci0wY3ZQd0JuWnNmU1NkcXdRRktuaS12cVduT21FOGo4T1pKaWloeVJ6Q2FYeWYyc09DTUs2NVpoZWcxSUYxREtEVngyR3FiMlYydzhRNUMxWkRWOHNJTVkwbU5oTU9MbWc2c3ExbTBNSkpnMXlEbWdOVHBwYm14cUZpVQ?oc=5",
+   "veiculo": "TAGD Advogados",
+   "trecho": "",
+   "data": "2026-10-27T17:49-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, uma decisão do Supremo Tribunal Federal sobre a imunidade do ITBI possui o potencial de gerar reflexos em mais de 6 mil processos que tramitam nos tribunais estaduais. O tema envolve diretamente a aplicação e o alcance da imunidade tributária aplicável a esse imposto municipal.",
+   "pratica": "Na prática, a definição do STF serve como diretriz para sobrestar ou solucionar milhares de litígios semelhantes em instâncias inferiores, exigindo atenção de advogados e contadores com causas pendentes sobre o ITBI.",
+   "termos": [
+    {
+     "termo": "Imunidade do ITBI",
+     "explicacao": "Norma constitucional que impede a cobrança do imposto sobre a transmissão de bens imóveis em determinadas situações."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5a9d30e208a8d604",
+   "titulo": "STJ mantém TJLP no limite de dedução dos JCP",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenRPWFhlX20xNlZ5emQwMlZOMUVRR3BYMjB6YUY2Nnl1Um5abHc3U21OLWZON2RNc3B4elhrT0Z3SE13cDhqN2lwUEJFR2pLMDgteHZSOG02TjU4dC1Jc1JQQnQ5NzBsRV96NXpSclloZFJWZVVFblR5RW94WnpkTGMxeFJFWTFQTk9RaVdXY0o5S3c?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-27T17:30-03:00",
+   "tipo": "Julgamento",
+   "tema": "Imposto de Renda",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça manteve a aplicação da TJLP no limite de dedução dos Juros sobre o Capital Próprio. A decisão impacta diretamente a apuração de tributos federais pelas empresas.",
+   "pratica": "Na prática, os contribuintes devem continuar observando as regras da TJLP ao calcular a dedutibilidade dos Juros sobre o Capital Próprio. Isso exige atenção redobrada no planejamento tributário e na apuração do Imposto de Renda e da CSLL.",
+   "termos": [
+    {
+     "termo": "JCP",
+     "explicacao": "Forma de remuneração aos acionistas que pode ser deduzida na apuração do imposto de renda da pessoa jurídica."
+    },
+    {
+     "termo": "TJLP",
+     "explicacao": "Taxa de Juros de Longo Prazo utilizada como indexador em diversas operações e limites fiscais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "da0287edb69f72e4",
+   "titulo": "A imunidade do ITBI e os fundos imobiliários depois do Tema 1.348",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkdha2twQU00NUx3bmFRUXFEeXFMSWZaeWl5dU5uWWwxUkM3UndTX0IxRldfOEhFbmpQeGtkZWl5NlcyVEtXSExNTFcwZHN3V2N6UWxmWjgweTYtNzRPUDhtaFJnVHZReDBLTEQwNWxhRUtJa0pJZktCWUtGbmVUYXctLXlNdWg4MUlQWXltSk84ZWxiU2RuZEZQZUs2Vk5vSHc?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-10-27T17:24-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate jurídico aborda a imunidade do ITBI no contexto dos fundos imobiliários após a fixação do Tema 1.348. Trata-se de uma discussão relevante sobre a incidência do imposto de transmissão municipal em operações que envolvem veículos de investimento imobiliário.",
+   "pratica": "Na prática, a definição em torno do Tema 1.348 orienta advogados e contadores na estruturação de operações com fundos imobiliários e na defesa contra a cobrança do ITBI.",
+   "termos": [
+    {
+     "termo": "ITBI",
+     "explicacao": "Imposto sobre a Transmissão de Bens Imóveis, de competência municipal."
+    },
+    {
+     "termo": "Imunidade",
+     "explicacao": "Limitação constitucional ao poder de tributar que impede a cobrança de impostos em situações específicas."
+    },
+    {
+     "termo": "Tema 1.348",
+     "explicacao": "Tópico de repercussão ou recurso repetitivo que uniformiza o entendimento jurídico sobre o assunto."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3548827c2a24d698",
+   "titulo": "Ato Conjunto nº 9/2026: Receita Federal e CGIBS definem os 25 grupos do IBS e CBS",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeWF2aXQ2bXlXUUdpbjVUSlNmWHVZZjdxQ05QRWlhN3Boay15WTlxc3IwQ1FyUTFobnN0bzA3TFBFRDdNbE13WndEeGZYeHA1cTExNGw1bTBZaEVMZzAwUk85dHRxZ0tLMjVpQ3pVekYwR1NuUUlidElXRkxlUVJtNDN3?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-10-27T17:06-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foi publicado o Ato Conjunto nº 9/2026, por meio do qual a Receita Federal e o CGIBS definiram os 25 grupos do IBS e da CBS. Como o trecho original não foi fornecido, o resumo baseia-se estritamente nas informações contidas no título da notícia.",
+   "pratica": "Na prática, a definição dos 25 grupos do IBS e CBS orienta a estruturação e a adaptação dos contribuintes às novas regras dos tributos decorrentes da reforma tributária.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído no âmbito da reforma tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços que substitui tributos federais no novo sistema."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c3c191a706f85f1a",
+   "titulo": "Pressão em Brasília: o que os empresários exigem da Fazenda para a virada de 2027",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjJHLVhUTURHTVNHT18zSVBidkZSSHZCaVFTRENZZ1pxNHJwLXFVS29BVGY1TVotdDZpLUVGeEFueWQxVFhnN1JSSzZndzh0ektGdnlIT0NLN2pGR0lSWklCVkcwcFRTSTNYeWxFWjVxTjE5TTRmNmY5U292enNjeVNkZkxmazEzN3B5a3BodzJNWkU?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-10-27T17:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Fazenda",
+   "resumo": "Segundo a manchete, empresários exercem pressão em Brasília exigindo demandas da Fazenda com vistas à virada de 2027. O debate envolve expectativas do setor produtivo em relação às diretrizes econômicas e fiscais para o período.",
+   "pratica": "Na prática, a movimentação indica que empresas e contribuintes devem monitorar as negociações políticas e econômicas em Brasília, que podem antecipar exigências e impactos nas regras tributárias futuras.",
+   "termos": [
+    {
+     "termo": "Fazenda",
+     "explicacao": "Referência ao Ministério da Fazenda, órgão responsável pela política econômica e fiscal do governo federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "21817afd0d897a86",
+   "titulo": "Senado avança com alíquota da CBS: impactos para Contadores",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTFVrMFNZbWw5dmRhakMwVmdGVS04emhtWm9HUXBjOVJEU091OEx6U2tPVWVVNjh6MUxrR3p3aDIxUWtTekRncUY0YmwyVjRyWHl2RHViZEFSNmpJRWdGT3l5UTBfQlJUVV81ZnZfbU9XUQ?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-10-27T17:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado está avançando com a definição da alíquota da CBS. O andamento legislativo traz novas expectativas e discussões sobre a carga tributária para os profissionais da área.",
+   "pratica": "Na prática, contadores e advogados devem acompanhar a tramitação para antecipar os impactos na apuração e no planejamento tributário das empresas.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços discutida no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5184007deb1a4a32",
+   "titulo": "TCU analisa alíquota da Contribuição sobre Bens e Serviços da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXy1GdlNqM0xZb2tqUFJnb2lEajUwU0FBQmJibElmVGppQTE2aHI2MXZhWF9fNUxHUldjLV9vaDR2amU3WWprRGtleUt3Y3Z3enZOZUwwcG0wbWRJWHhYMFNyRnZsT2ZJRHo4N2h5SXhUQUNvTmFJcnpXeVI1MjlpWWZIMWp0TlFBMjRFRTR2ejRHYUVYUWN1TTVCUDJMblhfdVBhRm9nWlFXTmR0UktxY053aVZya2VsRC1Z?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-10-27T17:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União está analisando a alíquota da Contribuição sobre Bens e Serviços no contexto da reforma tributária. A discussão envolve a fiscalização e o acompanhamento dos parâmetros econômicos da nova exação.",
+   "pratica": "Na prática, o tema sinaliza um monitoramento rigoroso dos impactos da reforma tributária sobre a carga tributária, o que pode influenciar projeções financeiras das empresas.",
+   "termos": [
+    {
+     "termo": "Contribuição sobre Bens e Serviços",
+     "explicacao": "Tributo federal previsto na reforma tributária para unificar a incidência sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "1a59a8b598e58b01",
    "titulo": "A eleição acabou. O que falta ser feito na reforma tributária?",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1dCNnJ2M29JTU11aEJETVhXOHdDSkJjb0xaMW9ia296c2RJSzFPd0k3bFBXd3ZWNlRVb2Z0SEw5WmkyOHFYUGJka3JhbEtOZDhyQUo3c1BtVXc4b3VFRUlaUkphTmV0aW5YTThrc0VpbDRnYVdyTVIxbGJUUkhYVFlsUWFqX3lKUWJ5NUg3bHpRUQ?oc=5",
@@ -1429,7 +2319,8 @@
  ],
  "panoramas": {
   "2026-10-26": "No boletim de hoje, destacam-se três assuntos fundamentais para o direito tributário brasileiro. Primeiramente, o Supremo Tribunal Federal excluiu o ISS da base de cálculo do PIS e da Cofins, alinhando o entendimento à famosa tese da exclusão do ICMS e impactando diretamente a apuração dessas contribuições. Em segundo lugar, o STF reconheceu a imunidade do ITBI na integralização de capital em empresas imobiliárias, trazendo segurança jurídica para transferências de bens a sociedades. Por fim, no âmbito da Reforma Tributária, as discussões legislativas avançam sobre a alíquota e as definições da CBS, que substituirá o PIS e a Cofins a partir de 2027, exigindo atenção contínua dos contribuintes e operadores do direito.",
-  "2026-10-27": "O destaque de hoje no direito tributário brasileiro concentra-se nos desdobramentos da Reforma Tributária e em decisões recentes do Supremo Tribunal Federal. No âmbito da reforma, o Tribunal de Contas da União tem decisão marcada para definir a alíquota da CBS, cuja proposta deve chegar ao Senado até 30 de outubro, com projeções de superar 10%. Paralelamente, o STF decidiu que o ISS não integra a base de cálculo do PIS e da Cofins, mantendo a modulação de efeitos pendente, e fixou um marco temporal para a devolução de créditos tributários na conta de luz. Esses temas importam porque impactam diretamente a carga tributária dos contribuintes, a recuperação de valores pagos e a aplicação das novas regras fiscais."
+  "2026-10-27": "O destaque de hoje no direito tributário brasileiro concentra-se nos desdobramentos da Reforma Tributária e em decisões recentes do Supremo Tribunal Federal. No âmbito da reforma, o Tribunal de Contas da União tem decisão marcada para definir a alíquota da CBS, cuja proposta deve chegar ao Senado até 30 de outubro, com projeções de superar 10%. Paralelamente, o STF decidiu que o ISS não integra a base de cálculo do PIS e da Cofins, mantendo a modulação de efeitos pendente, e fixou um marco temporal para a devolução de créditos tributários na conta de luz. Esses temas importam porque impactam diretamente a carga tributária dos contribuintes, a recuperação de valores pagos e a aplicação das novas regras fiscais.",
+  "2026-10-28": "O cenário do direito tributário destaca, em âmbito judicial, as decisões do STF que definiram a exclusão do ISS da base de cálculo do PIS e da Cofins e impactaram mais de 6 mil processos sobre a imunidade do ITBI nos tribunais estaduais. Na pauta administrativa e de novos tributos, o Tribunal de Contas da União movimentou o debate nacional ao decidir e divulgar os cálculos da alíquota da CBS, o novo tributo previsto para substituir o PIS e a Cofins a partir de 2027 no contexto da Reforma Tributária. Esses temas importam porque moldam a composição de bases de incidência federais, movimentam milhares de litígios e definem as diretrizes técnicas das inovações fiscais em curso."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -1484,9 +2375,35 @@
   "Dívidas não alimentares": "Obrigações financeiras que não decorrem de pensão alimentícia ou verbas essenciais à subsistência.",
   "Simples Nacional": "Regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às microempresas e empresas de pequeno porte.",
   "seguro-garantia judicial": "Modalidade de garantia oferecida por seguradoras para garantir o pagamento de dívidas em processos judiciais.",
-  "trânsito em julgado": "Momento processual em que não cabem mais recursos contra uma decisão."
+  "trânsito em julgado": "Momento processual em que não cabem mais recursos contra uma decisão.",
+  "TCU": "Tribunal de Contas da União, órgão que fiscaliza a aplicação dos recursos públicos e a legalidade de atos administrativos.",
+  "capital de giro": "Recursos financeiros necessários para manter a empresa funcionando no dia a dia.",
+  "Refis III": "Programa de recuperação fiscal voltado para a regularização facilitada de débitos tributários.",
+  "split": "Mecanismo de divisão automática de valores e tributos no momento do pagamento.",
+  "crédito alheio": "Discussão sobre a aprofundação ou restrição de aproveitamento de créditos fiscais de terceiros.",
+  "PER/DCOMP": "Documento eletrônico utilizado pelo contribuinte para declarar compensações, restituições ou ressarcimentos perante a Receita Federal.",
+  "ICMS": "Imposto estadual sobre a circulação de mercadorias e serviços.",
+  "Parcelamento de débitos": "Forma de regularização fiscal que permite quitar dívidas com o fisco em prestações.",
+  "contribuição": "Espécie tributária destinada ao financiamento da seguridade social, como o INSS.",
+  "Benefício fiscal": "Vantagem legal que reduz ou elimina o pagamento de um tributo.",
+  "Deságio": "Desconto obtido na aquisição de um direito ou crédito por um valor inferior ao seu face.",
+  "Crédito de ICMS": "Saldo que o contribuinte possui perante o Fisco estadual decorrente do princípio da não-cumulatividade do imposto.",
+  "Sanção política": "Restrição ou penalidade imposta pelo Fisco ao contribuinte para forçá-lo a pagar tributos, meio considerado indireto de cobrança.",
+  "ADI": "Ação Direta de Inconstitucionalidade, instrumento usado para questionar a compatibilidade de uma lei com a Constituição perante o STF.",
+  "NFS-e": "Nota Fiscal de Serviço eletrônica utilizada para registrar operações de prestação de serviços.",
+  "Zona Franca de Manaus": "Área de livre comércio de importação e exportação com incentivos fiscais especiais.",
+  "Amortização de ágio": "Dedução fiscal do valor pago a mais na aquisição de participação societária.",
+  "Reorganização societária": "Alterações na estrutura jurídica e empresarial das companhias, como fusões e cisões.",
+  "PIS/Cofins": "Contribuições federais incidentes sobre a receita ou o faturamento das empresas.",
+  "débito automático": "Forma de pagamento em que os tributos são descontados diretamente da conta bancária na data de vencimento.",
+  "PEC": "Proposta de Emenda à Constituição, instrumento usado para alterar o texto constitucional.",
+  "Imunidade do ITBI": "Norma constitucional que impede a cobrança do imposto sobre a transmissão de bens imóveis em determinadas situações.",
+  "JCP": "Forma de remuneração aos acionistas que pode ser deduzida na apuração do imposto de renda da pessoa jurídica.",
+  "TJLP": "Taxa de Juros de Longo Prazo utilizada como indexador em diversas operações e limites fiscais.",
+  "Tema 1.348": "Tópico de repercussão ou recurso repetitivo que uniformiza o entendimento jurídico sobre o assunto.",
+  "Fazenda": "Referência ao Ministério da Fazenda, órgão responsável pela política econômica e fiscal do governo federal."
  },
- "atualizado_em": "2026-10-27T06:29-03:00",
+ "atualizado_em": "2026-10-28T06:36-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
