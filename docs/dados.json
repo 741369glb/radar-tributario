@@ -1,6 +1,834 @@
 {
  "itens": [
   {
+   "id": "2d5f718280c0a491",
+   "titulo": "STF aprova mudanças na isenção previdenciária para aposentados",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MbDJEYzZ0RW1lby1pSEdJWXZFdEZtcFJESzc1ZzdXV285U3N2UjZXTEM5WVRQNmVDSHA2YXI4WEtxSDN0NVplTjMzMGNlclpodTA0Tlp1aE8wN1d6cnZSVXAyeWhjeTZoSWtLTjRjUloxMVhsQmlKcmRpMA?oc=5",
+   "veiculo": "boca.com.br",
+   "trecho": "",
+   "data": "2026-10-31T05:54-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal aprovou mudanças relacionadas à isenção previdenciária destinada a aposentados. Como o trecho da notícia não foi fornecido, os detalhes específicos da decisão ainda não podem ser aprofundados.",
+   "pratica": "Na prática, profissionais e aposentados devem aguardar a publicação oficial do acórdão para verificar os novos critérios e o alcance dessa alteração nas contribuições.",
+   "termos": [
+    {
+     "termo": "isenção previdenciária",
+     "explicacao": "Dispensa legal do pagamento de contribuições destinadas à seguridade social."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c59c3910ddc5d3c6",
+   "titulo": "Reforma tributária: novo imposto sobre consumo pode ficar acima de 30% e superar o de países ricos; veja a comparação",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMnc4MHZTUlRnVlJHU0pMSkMxOFhwUi0tR2tKMnFrbTFGWHdiczg0cmRyMGp0SzhuOVY2cDZodFhsYXNJWWM2T0V6d3plbGtYNlpMbVNkaWhfZnA5bkdsU3d3WkttdjNvS1FfSFBGS01KY2h1aHFTcE10aGswT0IycVdNemMzYmlWRUZTWlVZTkNPaFZTQmUyQllvajlMMXRWejQyYTZTeV9GQko1cExEa1oxMWxzWjMwaEdnODdaSm9wckZSQkJJMm5DSmJGMmZBQXRvQkxSdW1PMTBTVG9xWlVKRUFNOWY4WV9LZldfNHZSb05pSmdtM3FUZm5kbkZVYnZ2ajQ0Y9IBlgJBVV95cUxNN21qN2tXNmMxbFFoaUE0amFTNjZaUnlXdFZpdDJaR3FBd0NZYldTTWM1aGVycG9vdEs0c2tZTldRY0twd2I3UXgtU0NzYXgwd3BZdkpJaTJrNE5adlVfem9idlhRTWhDNXRMNmZCQmJtS2hNS0xSdVBaTG9leW9SMnpsUE5uQnhwTU9LeHRycFlYR0daM1VvdFhJQnpOYi1WWkdWM2NZTk1PZ0kxcFF0Sks2Vks2ZGM0aVVJd1BLSHJ0YThaVnJjXzM2LWh2cllFeHRPNGk5NGV1M08tM2F6VG9seEVVVmMzYURxWmR1aUhjNmgxSEVaTUwyQmR2Z0tndmJ3ZnJTNlk5MTRYeERYUk4ycGJwQQ?oc=5",
+   "veiculo": "G1",
+   "trecho": "",
+   "data": "2026-10-31T00:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o novo imposto sobre consumo decorrente da reforma tributária pode ficar acima de 30% e superar a carga tributária de países ricos. A publicação traz uma comparação a respeito da projeção da alíquota do tributo.",
+   "pratica": "Na prática, a expectativa de uma alíquota elevada exige que empresas e profissionais redobrem o planejamento financeiro e tributário para absorver o impacto nos custos.",
+   "termos": [
+    {
+     "termo": "Imposto sobre consumo",
+     "explicacao": "Tributo incidente sobre a circulação de mercadorias e prestação de serviços, alvo da unificação na reforma."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "576adfcacd853d7e",
+   "titulo": "Aumento do ICMS da gasolina: quem decidiu o reajuste?",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JRXlFckxpZGttcW1lRkl5di1QODNkRWN4RExpbi1LYURnQkxoZGthMWtFTnl0SDE5ejBoR1NjTDNXdmJrTG9HOXpMMW1ZT2w4dmhRWmVDTDZCMzBHUWFXcVBWbktsaU1qaFZCV3NKbWp4ZDFQdDF0YVRCSEc?oc=5",
+   "veiculo": "Acia Araçatuba",
+   "trecho": "",
+   "data": "2026-10-30T23:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foi debatido o aumento do ICMS incidente sobre a gasolina e discutida a autoria da decisão sobre esse reajuste. Como o trecho original não foi fornecido, restam apenas os questionamentos trazidos pelo título acerca da tributação estadual dos combustíveis.",
+   "pratica": "Na prática, a definição sobre quem decide o reajuste impacta o planejamento financeiro e a formação de preços do setor de combustíveis para empresas e contribuintes.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços, incluindo combustíveis."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c70d6cb09c904a65",
+   "titulo": "Perdão de dívidas do MEI vale a partir de 1º de janeiro; veja como consultar",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVFfMVp2Y2hPY0VjQnB2dEJYSmttS3diTmx1SFZNdWRmMzZJYU81OUhueldwUXpCSTBBdXVyblRnRFFxMVBYUkEzT2RNZVpwdXFLUTVqZUt2UGVvOHk1M0I5N1pVSm1hMlJEUW10VWRVY2laZVVpUW5VNWVCa2tlR1lZRmI5YjQyYTZNVThyUmxJcHBDN3ZiS0ZPYktZYk5JYmJOZ3RpZHpkVUctcG9nbG54d0lxQTZIQWc4UGtJZkY2b0VEWlE?oc=5",
+   "veiculo": "TopElegance",
+   "trecho": "",
+   "data": "2026-10-30T20:34-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o perdão de dívidas para microempreendedores individuais (MEI) passará a valer a partir de 1º de janeiro. A notícia também indica que há orientações disponíveis sobre como realizar consultas a respeito da medida.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar os canais oficiais para verificar as regras de elegibilidade e como consultar a situação das dívidas afetadas pelo perdão.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos negócios."
+    },
+    {
+     "termo": "Perdão de dívidas",
+     "explicacao": "Remissão ou anistia de débitos tributários prevista em norma."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f2abe96afa57637e",
+   "titulo": "Rio quer retomar benefício no ICMS do querosene de aviação para atrair voos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTVqaHpxV3JlWWxNX25Nb1hZZl9teHRtODRyYUpJOVhES0ZhbU9mNjBoZVhiOFlhdlFiTTJhVDlkWmtnRWRhRFlpZEk5bTZFdGpxTV8waEtKUnNVczllN3NHS2pKMmI0MjVXWWh4azVjRVZVaUhGWGJ0VWdmSzVzeWUxV3JiQlhrbWJDYy1SVUtUemtOdHhkQWs3dEFJYnNjZGJZUjJ3TDg4VUo0MGJhb25tVzZhLXZFd0Y3ZkwxeGhpR0N5cEE?oc=5",
+   "veiculo": "Ururau Notícias",
+   "trecho": "",
+   "data": "2026-10-30T19:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Estado do Rio de Janeiro",
+   "resumo": "Segundo a manchete, o Estado do Rio de Janeiro tem a intenção de retomar um benefício fiscal relacionado ao ICMS incidente sobre o querosene de aviação. A medida tem como objetivo estratégico atrair mais voos para o estado.",
+   "pratica": "Na prática, a retomada do benefício pode reduzir os custos operacionais das companhias aéreas que operam no Rio de Janeiro, exigindo acompanhamento por parte de advogados e contadores do setor para aproveitar a desoneração.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre circulação de mercadorias e serviços de transporte interestadual e intermunicipal e de comunicação."
+    },
+    {
+     "termo": "Benefício fiscal",
+     "explicacao": "Medida legal que reduz ou elimina a carga tributária para incentivar determinados setores econômicos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "771500a42cc07d1e",
+   "titulo": "Decisão do STF pode reduzir carga tributária de indústrias no Maranhão",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUERLVk5tMkJRUkhQNWkzQ1JBUkppR1lfRVAtSXdDbEdKbzZtWWo1LUJwV29HZ3BSaHY4Y2NodEstUzhrWVo2bDVUM25ld2YybVNTNFJWcUhLSTVQbGp6Z2Y4M2pERnYtUEJXcXFEMFUwUVpkRmhjTkN3WnFhbVpDQVphN3VqU0pBZUhJOVkzUGtSRnI3MkxzZDN3ejAydEZwcUxPcTBfSVM4TDAyVl9V?oc=5",
+   "veiculo": "oprogressonet",
+   "trecho": "",
+   "data": "2026-10-30T19:23-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, uma decisão do Supremo Tribunal Federal pode resultar na redução da carga tributária para o setor industrial no estado do Maranhão. O impacto prático decorre do posicionamento da Suprema Corte em matéria que afeta a tributação estadual.",
+   "pratica": "Para empresas e profissionais da área, a movimentação exige monitoramento dos desdobramentos processuais para eventual aproveitamento de créditos ou revisão de alíquotas aplicadas.",
+   "termos": [
+    {
+     "termo": "carga tributária",
+     "explicacao": "Volume total de tributos que recai sobre a atividade econômica ou o contribuinte."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3ec65680fb300380",
+   "titulo": "Governadores que prometeram não subir impostos aprovam aumento do ICMS",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYVVBdi1Ic3lkOEJaaEtGbFRHOHdYSGxWRW5RX0FENEdnaEhEcmNRSmFpbEEtRE1UdzZVVVVLTTVoSEVEQ29YWG9wM0hWY3hjcEdVZEMyUXk5SXRZVENJZWgtYUQtZ0gzclB5Y0c4WDl3LU80X2tDcWE5bmRSZw?oc=5",
+   "veiculo": "ICL Notícias",
+   "trecho": "",
+   "data": "2026-10-30T19:15-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, governadores que haviam prometido não subir tributos aprovaram o aumento do ICMS. A medida repercute no cenário das finanças públicas estaduais e na política fiscal dos estados.",
+   "pratica": "Na prática, a alteração pode impactar a carga tributária incidente sobre mercadorias e serviços, exigindo atenção de empresas e contribuintes quanto aos novos custos.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8c4d38086e1cd69c",
+   "titulo": "Imunidade do ITBI: os desafios que ainda precisam ser enfrentados",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNk9hem5GVlktMWNDbDJmSWMzd1V3cmNIR1lGMEJ6Q1c2dGZxYVl5RTZuMmRHaDdSbU5hSnA0SDNTMG80RDhrU3BwZWxhUmVHQjBCNlJWMHpaSTg3ZDlBaDl4em5uNjVnSzBrajdXQTZpQ2NDWlJEOXNzSnQzODRDRHNhdWN5NHlOMjZCb1I2dVVvTEd1UXdJMW9mMG1XMkJMSmc?oc=5",
+   "veiculo": "TI INSIDE Online",
+   "trecho": "",
+   "data": "2026-10-30T19:10-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo TI INSIDE Online, o tema da imunidade do ITBI ainda apresenta diversos desafios que precisam ser enfrentados. A discussão envolve a aplicação desse instituto constitucional na transmissão de bens e direitos.",
+   "pratica": "Na prática, a persistência de controvérsias exige cautela de advogados e contadores na orientação de operações imobiliárias e integralizações de capital.",
+   "termos": [
+    {
+     "termo": "Imunidade do ITBI",
+     "explicacao": "Garantia constitucional que impede a cobrança do imposto municipal sobre a transmissão de bens imóveis em determinadas situações, como na integralização de capital."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "29e3afc173d89421",
+   "titulo": "CBS no CT-e: 55% não destacam o tributo em todos",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1lvbHEzanlQUlFrYmxudDA4TEEtd2tWNTFmVW5YOEtqbXF3VXJuc1NGRHVJVEdQTVFkZjg1ejU3a2R3b0d2THZOYndMbnc4ZnlrNVBfNXJ2b0V4WlZZb2tVV3liREN3aGE1VGpGaTZySG5wNi1qV1B5TTljdS1nM0swNTFaZHpnV0tCUEd1UDJjdEVJd1E?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-30T18:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, um levantamento aponta que 55% dos contribuintes não destacam a CBS em todos os Conhecimentos de Transporte Eletrônicos (CT-e). A informação revela um cenário de adaptação e potenciais falhas de compliance em relação ao novo tributo.",
+   "pratica": "Na prática, advogados e contadores devem intensificar a revisão dos sistemas de emissão de documentos fiscais de seus clientes para evitar autuações e garantir o correto destaque da CBS.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    },
+    {
+     "termo": "CT-e",
+     "explicacao": "Conhecimento de Transporte Eletrônico utilizado para acobertar prestações de serviços de transporte."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5021e9e7f259ad85",
+   "titulo": "Abrint projeta aumento de carga tributária com CBS de 11,3%",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vZS00T1RkbVdKSlNQMm0wcXZuMDd4a2h4MXJVYUtzM2dNYjUxcFRSNXpuNG9FMHhuZm5VYzRDX2lLZHhwZUJXV3Nyck5UamVUYzNuQnV4MzE3Y0RoV2p2TVB1eVg?oc=5",
+   "veiculo": "TELETIME News",
+   "trecho": "",
+   "data": "2026-10-30T18:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do TELETIME News, a Abrint projeta um aumento na carga tributária em decorrência da aplicação de uma alíquota de 11,3% para a CBS. A projeção aponta impactos para o setor e acende o debate sobre a transição do novo modelo de tributação do consumo.",
+   "pratica": "Empresas e profissionais do setor devem monitorar os impactos econômicos dessa projeção de alíquota da CBS em seu planejamento financeiro e tributário. A medida reforça a necessidade de simulações detalhadas diante das novas regras da reforma.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na reforma tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5df96cc5dddd1fc1",
+   "titulo": "Folha de pagamento de aposentados tem aumento de descontos confirmado após STF decidir fim da isenção previdenciária para servidores incapacitados",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTUJxdXlQdWkzM1JBMUEzMVBfOFZjbWxTemtiX0ZiM3hSR1A2UjhjN05KTzBwd1RQYV9CSll3X0F3NG1PZGJsX0hVN0xVaVRUSGw1dXJ0MG1ZZkUyU2k3U1AzQXJZLWFqc2ZubERSMWZhMWJjQTFON05ZVm1BdFkyUFBBSTF0MWtzTHNVTkxOdXVXdWRWTTdLSWRvdWxubTFPelA1X3BYLXV0UFdzQ0RMMHFlTWdObFdiTE5PWW1HWlg3Um5wRkEwbDhRcnFDZXZSV3BRSjJvUmlJbm1JWDdRMFl2azAzaERULTNPZHNWYWNpdEVyUVlMUGtsSWVfbWlLZHVkUWIxN04?oc=5",
+   "veiculo": "ND Mais",
+   "trecho": "",
+   "data": "2026-10-30T18:07-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal decidiu pelo fim da isenção previdenciária para servidores públicos incapacitados. Com essa decisão, a folha de pagamento de aposentados passa a ter um aumento confirmado nos descontos.",
+   "pratica": "Na prática, a decisão altera a rotina de retenções e o planejamento financeiro dos servidores públicos aposentados incapacitados, que passarão a recolher contribuições previdenciárias.",
+   "termos": [
+    {
+     "termo": "isenção previdenciária",
+     "explicacao": "Dispensa legal do recolhimento de contribuições destinadas à previdência social."
+    },
+    {
+     "termo": "servidores incapacitados",
+     "explicacao": "Funcionários públicos que se encontram em condição de incapacidade para o exercício de suas funções."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ab8661e7008fecda",
+   "titulo": "Governador eleito do Rio Grande do Sul critica alíquota da CBS e carga tributária sobre o consumo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY092VFpvSkZiTDFOYXZWSFg1NVdEbW5oRmdvSDVyLXl3ZzRjaFFPekpVbmtndzYzdUdTWEs1RWFSUDZqMTF2aDhfd1N2N0k1UVhYSkJkZ240VzE0bHJXcVNva3JVOVViS0ZOUDVwdVNWUHNTbUNxNlliYTExMkpZVVNEdkhSS1pUanVPaU1xUVNKQnJsckg1Q0pXN1RYU256cUFVNW1GclE0WlNZRHJjdnNWVmpzWDFFZm1fSFpOTFJjWElFdHJtbXAxWWZVdThBbVE?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-10-30T18:04-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o governador eleito do Rio Grande do Sul criticou a alíquota da CBS e a atual carga tributária incidente sobre o consumo. A declaração coloca em debate os reflexos econômicos e federativos da nova contribuição federal.",
+   "pratica": "Na prática, a discussão sinaliza a resistência política e regional que as novas alíquotas da Reforma Tributária poderão enfrentar na implementação. Contribuintes e profissionais devem monitorar os desdobramentos políticos sobre a tributação do consumo.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada no âmbito da Reforma Tributária para unificar tributos federais sobre o consumo."
+    },
+    {
+     "termo": "Carga tributária sobre o consumo",
+     "explicacao": "Volume total de tributos embutidos no preço de mercadorias e serviços pagos pelo consumidor final."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "975300be5f13916a",
+   "titulo": "Reforma Tributária exige revisão de notas e cadastros",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3lndFBScUg1WW1mRWxGb0FselRfbmlUU3d6dG0zY082VUxvYTg0RUF1VzZJZGtLVEJPOVZpc0NOaWc4UFZHMzNXemQ4eWtHWWxoVmdZMnNOMWJIblBNUDRUN01xbEJiYjl0S2pTbG5HeHg5bmdWbGstV0NVWHBZRmUtclFfNWQ3elJLSkFUSWs5TGkxM0lVRWF6OXYzdVU?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-30T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Reforma Tributária exige que empresas e profissionais realizem a revisão de notas fiscais e cadastros. O impacto das novas regras do sistema tributário nacional demanda adequação preventiva dos contribuintes.",
+   "pratica": "Na prática, as empresas precisam auditar seus cadastros e documentos fiscais para garantir a conformidade com as exigências trazidas pela Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reestrutura a tributação sobre o consumo no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3e233e43aec644d5",
+   "titulo": "Reforma tributária: Receita Federal e Comitê Gestor atualizam regras para emissão de notas fiscais eletrônicas",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcW96Z3ZFU3FodWh6OER4SERzc2VjY29ZUUc4c242LTVNZlpZZVRfTDFJSkhYd3JJUlNuUjV3elQtQ09HRy1LNGw0d0tUSEZET01WV2lSTzNPbzVDdjluRG1rWVVwTDBYbjZ1blZlTUlEa2FmYnJBdGVjSVhVcTNyWGNwS0dxdTdQbzFjenlGWGJGTnJXMnRyRjNtbjlYLVBRcEt3NUgwLUk4ZnQ4dWVhemcyU05nOWlBczdFbFFOYXFIVnB3cnd1cEZ6dDFTWmxscmtSS3F0VG5aSHhlUkdsanNTUVJnSmhVVUNn?oc=5",
+   "veiculo": "Regionalzão",
+   "trecho": "",
+   "data": "2026-10-30T17:43-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal e o Comitê Gestor atualizaram as regras para a emissão de notas fiscais eletrônicas no contexto da reforma tributária. A medida envolve a adaptação dos procedimentos de faturamento digital pelas autoridades competentes.",
+   "pratica": "Na prática, empresas e profissionais devem acompanhar as novas diretrizes para adequar seus sistemas de emissão de notas fiscais eletrônicas às exigências atualizadas.",
+   "termos": [
+    {
+     "termo": "Nota fiscal eletrônica",
+     "explicacao": "Documento digital utilizado para registrar operações de circulação de mercadorias e prestação de serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7df8c5ff593faa6a",
+   "titulo": "FAESC destaca articulação da CNA para manter benefícios de ICMS ao agro",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUJDQWpBS2d0bV9kUGRqZGxZdGNwN0RWMVJKOGJ3VUVaOWJWaXZmUVBxSDNEdUhOb05FM3p6WEdVZHZobkwzSGdTNjZpZXRURGRPUWZqNVJvZ2JQX2dGdHZ5WGQ5NEZ3MlU3VVNjcjMtcHM3TWs5SFJUeGh6b1U3ZW1ib0o5US1KRy1aMVpKM0dPdDNqaGFjZy1DNVJfaVpONS1FNnFiMUNjZmZk0gGsAUFVX3lxTE81QkNBakFLZ3RtX2RQZGpkbFl0Y3A3RFYxUko4YndVRVo5YlZpdmZRUHFIM0R1SE5vTkUzenpYR1VkdmhuTDNIZ1M2NmlldFREZE9RZmo1Um9nYlBfZ0Z0dnlYZDk0RncyVTdVU2NyMy1wczdNazlIUlR4aHpvVTdlbWJvSjlRLUpHLVoxWkozR090M2poYWNnLUM1Ul9pWk41LUU2cWIxQ2NmZmQ?oc=5",
+   "veiculo": "Blog do Prisco",
+   "trecho": "",
+   "data": "2026-10-30T17:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a FAESC destacou a articulação da CNA com o objetivo de manter os benefícios de ICMS voltados para o setor agropecuário. A notícia evidencia a mobilização de entidades representativas na defesa de incentivos fiscais estaduais para a atividade rural.",
+   "pratica": "Na prática, a movimentação política e institucional sinaliza a tentativa de preservar vantagens fiscais importantes para o planejamento tributário do agronegócio.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e prestação de serviços."
+    },
+    {
+     "termo": "Benefícios de ICMS",
+     "explicacao": "Incentivos fiscais que reduzem ou eliminam o imposto devido para determinados setores."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "77af62a2fb5842c4",
+   "titulo": "IBS e CBS perto de 30% preocupam setor de remessas",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlFGTV9KTjJsRlFJUW16NEdGQlhQdmVGWVZJMFF3d0NybDYzOFE2M0lFbThFNFp6TkxuRUw5VkZpaFdKX3Q4Y25QNmxXMTRESmFnU1JNd2NYQjdzc3RBVl9WMHE1UzNzVExHRFRSZ3JocU5lREFxOHBkM08wSmJfUkRyQUEtRTBocEtWTGIxaGl2Wlc1UXBiYzJR?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-30T17:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis de 30/10/2026, a perspectiva de que a alíquota combinada do IBS e da CBS fique próxima de 30% tem gerado preocupação no setor de remessas. A discussão envolve os impactos dos novos tributos decorrentes da reforma tributária sobre as operações do segmento.",
+   "pratica": "Na prática, operadores do setor de remessas devem redobrar a atenção e monitorar os desdobramentos legislativos e regulatórios para avaliar o impacto dessa carga tributária projetada em seus modelos de negócio.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços, instituído pela reforma tributária para substituir ICMS e ISS."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, criada pela reforma para unificar tributos federais como PIS e Cofins."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "11b868a147d4c890",
+   "titulo": "Pagamento do IBS/CBS pelo Estado",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSVBZRmlJWHRtRnVHUHZnTDJFdlBuYUtqOEdmWldaM1p1ck8zRGhhNEdmeS1yZVcyY3BlX2NVMGh0MTVEOWZ3b29EQWlId2FHQmU2alhJdFdlemhyaTlkQnJPWnF5N2cxWk5HM3V2b1R3WHRNQ0pLNzNEblpqcFNaN3R5WldvUFRZODMxTzZSa3pPLU1FcFBLRUxuaHBfODJWc1JEMk9OSm5TM2pVc0RJN01Lam0yMlZMeDlOMWFWdVVSMHVWVXc?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-10-30T17:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Consultor Jurídico de 30 de outubro de 2026, debate-se o pagamento do IBS e da CBS por parte do Estado. Trata-se de uma discussão decorrente das inovações da Reforma Tributária sobre os novos tributos incidentes sobre o consumo.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar as discussões sobre a incidência dos novos tributos sobre entes estatais, o que pode impactar a dinâmica de arrecadação e as obrigações acessórias.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços criado pela Reforma Tributária para substituir o ICMS e o ISS."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída para unificar tributos federais sobre o consumo como PIS e Cofins."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c33cef1a1bc53a2a",
+   "titulo": "Súmula 254 do Carf: pagamentos sem contrato",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBieWtidHh1djNseU1lMW9Xb1F0cGttakkzZ1RFbEphZlFDWGllVGhSY0x6RVE3dlE3QVpQSVd3ZTRVVXgtSXo3NF9Cb21WWGpEa0otaW41WTJCMmhqNEZudGpXQS1UZ1VyemE2Si1qRTVTWkFC?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-10-30T17:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Outros temas",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o tema em destaque é a Súmula 254 do Carf, que trata de pagamentos sem contrato. Trata-se de um enunciado do Conselho Administrativo de Recursos Fiscais com impacto direto na análise de despesas e glosas fiscais.",
+   "pratica": "Na prática, profissionais e empresas devem atentar para os requisitos probatórios e contratuais exigidos pelo fisco e pelo Carf ao deduzirem pagamentos realizados sem formalização contratual.",
+   "termos": [
+    {
+     "termo": "Súmula do Carf",
+     "explicacao": "Enunciado que resume o entendimento pacificado nas turmas de julgamento do Conselho Administrativo de Recursos Fiscais."
+    },
+    {
+     "termo": "Pagamentos sem contrato",
+     "explicacao": "Despesas corporativas efetuadas sem a formalização de um instrumento contratual escrito entre as partes."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "da0f5e6b62520b4c",
+   "titulo": "Reforma tributária pode elevar IVA brasileiro a 30% sendo a maior do mundo",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcEtJSGM3MVZqT2N5UFAxLUYzTFdaTEpWUUY3blBHRkdyRFRBV1ZOTTliYUgxd3liVTRqVHkxOFJSZG9fbXNfQmtQVFl1SHFSZEpfdUk1YkNnTGd1SGtneHpjUjRvUnN5VndyYnFJbDZlcjhWOUVKMk94Z0ZMMnpOdURWSkxlMUJzTmtjX09jMVprWm0wRmx2Z3R6eGxDTVd5WTZack9nbm9UMEJjcFE?oc=5",
+   "veiculo": "ADVFN",
+   "trecho": "",
+   "data": "2026-10-30T16:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da ADVFN, a reforma tributaria pode elevar o IVA brasileiro a 30 por cento, o que tornaria o imposto o maior do mundo. Como o trecho original nao foi fornecido, trata-se de um alerta preliminar sobre o impacto potencial das novas aliquotas.",
+   "pratica": "Na pratica, advogados e contadores devem monitorar a regulamentacao das aliquotas para preparar o planejamento tributario das empresas frente a uma carga fiscal potencialmente elevada.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado discutido no contexto da reforma tributaria."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "076d9055cfe7a1d1",
+   "titulo": "CBS de 11,3%: o número que as empresas precisam levar a sério",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1I0Y3Q3ZFVUTXVQRHZZeEV6VThvbTNRaUE4MW9PaHdXcHlYYm1JalVMWmZFaEVmb1JVRFhLWm9zRHF4U3RPQzRZQ2FrR1NOa0VyR1cyektsYnk1dnBvRVJMUWUycDBtMWdjcW5IcHZ3RjlLOGJtaXJlN1ZBNUJLSC1sdUpHNmJFY3VTRTZwcC1ITjZD?oc=5",
+   "veiculo": "Folha de Curitiba",
+   "trecho": "",
+   "data": "2026-10-30T16:36-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Folha de Curitiba de 30 de outubro de 2026, a alíquota de 11,3% da CBS é um dado central que as empresas precisam levar a sério. Trata-se de uma projeção ou patamar associado à Contribuição sobre Bens e Serviços no contexto das discussões tributárias atuais.",
+   "pratica": "Na prática, advogados, contadores e empresas devem redobrar a atenção para o impacto dessa carga tributária em seus planejamentos financeiros e operacionais.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na reforma tributária para unificar tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "88fb9f8e1295c4cc",
+   "titulo": "Confaz aprova reajuste do ICMS sobre gasolina, diesel e gás de cozinha a partir de fevereiro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVNHMFBBalhCOWItRUdKR2RCalZYZTcyY0c4UFViMWVOR1c2ZjBhcmltOTZlaHRiLTFSZ3dFaXd6V0VnYzVYcmZsSVhiY0IwMHFyU05Vc0dTRXhJUldvYWhlLVJSTWRUV3I5SlBPb1dOTHRRZ2dTaVV6cVFSLXkwUWNOeDAyU0lldUk1YjQzMTk4ajVrV0dhQzhERER5cVhNalpNaHNfa3JicVdoTHQydms3RnFhTnNsUllrZXp3YTFqVVp4ZS1fb1hodXB0bUhOMTdn?oc=5",
+   "veiculo": "dfmobilidade.com.br",
+   "trecho": "",
+   "data": "2026-10-30T16:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Confaz aprovou o reajuste do ICMS incidente sobre gasolina, diesel e gás de cozinha. A medida tem eficácia prevista para começar a valer a partir de fevereiro de 2027.",
+   "pratica": "Na prática, a alteração exigirá que empresas do setor e profissionais da contabilidade se planejem para a nova carga tributária aplicável a esses combustíveis e ao gás de cozinha.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    },
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho que reúne os secretários de Fazenda de todos os estados e do Distrito Federal para deliberar sobre normas tributárias."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a7eb04dc37c8eaf7",
+   "titulo": "Contiliza lança solução para empresas de cripto que atuam ou estão chegando ao Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaG8xR0tBRHJIWGVBWlpBQmtVUkQ1T1AtbTBsVlNXeHNvNWFFVk1YV1VxeVdWQ1V0X1hCTWo3ay0yZVVOUE9XelJuM3F6TFg3TUlGb3BkVHR2ck1VRFV5aGh0dzRoU1dKc2VSd2h4RHNMZmpPOWNoX3ZBdy10MEZGUXhJOFBtSjctYl9lczRtREdoRGhFbV9BVHFySFVDR3hQX2FDTjBkWjhGTjJhX0Yw?oc=5",
+   "veiculo": "BitNotícias",
+   "trecho": "",
+   "data": "2026-10-30T16:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Contiliza lançou uma solução voltada para empresas de criptoativos que atuam ou estão chegando ao Brasil. A novidade busca atender a esse mercado em expansão no cenário nacional.",
+   "pratica": "Na prática, a ferramenta pode auxiliar empresas do setor de criptomoedas no cumprimento de obrigações e na gestão fiscal e contábil de suas operações.",
+   "termos": [
+    {
+     "termo": "empresas de cripto",
+     "explicacao": "Pessoas jurídicas que operam no mercado de ativos digitais e criptomoedas."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6b192aa4b202c169",
+   "titulo": "CONFAZ mantém incentivos fiscais de ICMS até 2028 para alimentos, agronegócio, saúde, energia e transporte",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVh1VEk2Y2FfZkNoLUo2ZUw4WkRtUGFNdG1WTTR2R0gtd3FKNlJReE5ZWHVwa21ma2dOOXU5VGg4UUpOY3VwYUxudFVuTlg0ZXQ2S2RSMW5hd0p0S3FUeEFtS3F5c3F2SnhiWUF1aDU2RW94VS1tTVlIdm4wenk2YUhBOHJoQS1rdWg1Rld2NXRMMkNyNWFmckxvVHB6ZDM0b1ZnWmhINVVMbzdUay1Rd0c5QlN5bGpscTdKN282d1dkOE5rc1lDQlFhRTk?oc=5",
+   "veiculo": "HONDATAR Advogados",
+   "trecho": "",
+   "data": "2026-10-30T16:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "CONFAZ",
+   "resumo": "Segundo a manchete, o CONFAZ manteve os incentivos fiscais de ICMS até 2028 para os setores de alimentos, agronegócio, saúde, energia e transporte. A medida preserva os benefícios já concedidos a essas atividades econômicas essenciais.",
+   "pratica": "Na prática, empresas dos setores contemplados ganham segurança jurídica para manter o planejamento tributário com os benefícios de ICMS garantidos até 2028. Isso evita impactos financeiros imediatos decorrentes de revogações antecipadas de incentivos estaduais.",
+   "termos": [
+    {
+     "termo": "CONFAZ",
+     "explicacao": "Conselho Nacional de Política Fazendária, que reúne os secretários de Fazenda de todos os estados e do Distrito Federal."
+    },
+    {
+     "termo": "Incentivos fiscais de ICMS",
+     "explicacao": "Reduções ou isenções no pagamento do imposto estadual concedidas para estimular a economia de determinados setores."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "57848042ae262b28",
+   "titulo": "Decisão do STJ reforça direito a créditos de PIS e Cofins na Zona Franca, mas impõe cuidados",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalE4UzZ3MW5MNmsyV2JzQTVOQ1RSZDdVSXBXMlBHNE9WZW1DV2hoanUxR1pZSS1IcFJhYTh5RmxZZkZZUHJYbXJ2QzZJQlN0amJtbnZ5eGpaT21IbHZ2TTEtMTM0aW5jNE1xeWVsaTZHQWhDUU5FOUF2YUhwcktXSVQ5ZDA5eDkzSFZQSmwxVEdJSkVCTklta0RoREg?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-10-30T16:23-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça (STJ) proferiu uma decisão que reforça o direito de empresas a créditos de PIS e Cofins no âmbito da Zona Franca de Manaus. No entanto, a mesma decisão impõe cuidados específicos que devem ser observados pelos contribuintes na apuração desses créditos.",
+   "pratica": "Na prática, os contribuintes com operações na Zona Franca devem redobrar a atenção e revisar seus procedimentos para garantir a segurança jurídica ao aproveitar os créditos de PIS e Cofins.",
+   "termos": [
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Zona Franca",
+     "explicacao": "Área de livre comércio de importação e exportação com incentivos fiscais especiais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0976373fc6964ca4",
+   "titulo": "Entidade questiona alíquota de 11,3% da CBS",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmxVcW11eWJEM0dpQnBBZXJLMHF6VFRSbGUxV0Q1MUEyai1uSzJ2aEJyak9VSENCUXVpRHAxZzkteERjakVVczFZVk0zb1J3cHBhUS10Tm01d3ROYzV5bnl3d3NuVzdyaEhXMHZKQVJBU1hSQ2tJUEZ5UnpFYS10SGtqY0Mzc2kyOEhlZkNWdjE?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-30T16:15-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis de 30/10/2026, uma entidade ajuizou questionamento a respeito da alíquota de 11,3% da CBS. Trata-se de um debate relevante sobre a nova contribuição introduzida no cenário da reforma tributária brasileira.",
+   "pratica": "Na prática, a discussão sobre a alíquota da CBS acende o alerta para empresas e profissionais acompanharem eventuais contestações judiciais ou administrativas sobre a carga tributária do novo imposto.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "be175b8cdbc3ad84",
+   "titulo": "Maranhão: ICMS sobre combustíveis aumenta em fevereiro; saiba os valores",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnE5WklmUDJzMG1QOTNBajVaNkl1bS15NnNieXRvUGo4MWNIMWZzYWd1NUFNMDQzODgxWXpLR211bVEwbGNoUlZnU0hJTWJka29VR1FCa3JwWDN1bnJMVEdLWjlMcmtZcU1pWGJxbEp4ZDdBNXlIMl9JZlh5Q1JoN1M0TGFnY3VEazdBQV9ZSlpsUTdkVzFESWhBNkNNWjE3WEV4VzF3?oc=5",
+   "veiculo": "Diário do Estado",
+   "trecho": "",
+   "data": "2026-10-30T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, haverá um aumento no ICMS incidente sobre combustíveis no estado do Maranhão a partir do mês de fevereiro. A publicação destaca que os novos valores serão divulgados aos contribuintes e interessados.",
+   "pratica": "Na prática, postos de combustíveis e distribuidoras devem se preparar para reajustar seus sistemas de precificação e repasse, enquanto os consumidores enfrentarão maior carga tributária na bomba.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "56877bd3f4041dc4",
+   "titulo": "Expansão da fibra pode pagar a conta da reforma tributária, alertam provedores",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEhfd0NMV1AwaXp0UTktaHJmZFUwMTk3TEdmTG82bTlMZXlLNFNCOXZPOHE5ekxaMXJVdlZFcnlqUTFYdFJYUjFlcVROZGNxMWVpWUwzalViamg4SEZzb3FOVEc2T2h5NzFvRW9zTUVkTkxXMEhtNXNFRWtCOTRxWGlXYkJiSm5MUFdGR2pjR0xjVnY1RHphSThaRVJUczNHb2JuNGoydlJwWGVBWGtBVkN3X19ZR28?oc=5",
+   "veiculo": "BNamericas",
+   "trecho": "",
+   "data": "2026-10-30T15:52-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do portal BNamericas de 30 de outubro de 2026, provedores alertam que a expansão da fibra ótica pode acabar financiando a conta da reforma tributária. O título aponta uma preocupação do setor de telecomunicações em relação ao impacto financeiro das novas regras tributárias.",
+   "pratica": "Empresas e profissionais do setor de telecomunicações devem monitorar os desdobramentos da reforma tributária para antecipar eventuais impactos de custos na expansão de redes de fibra.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "221e88bca63fc7db",
+   "titulo": "CBS de 11,3% pode encarecer transporte de cargas e aviação",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnhpTTZ2UDlodkE3a3Z6RktzNHh1OWFZSHdWdDV1eDE0ZlQzOGhsend1UDV5Rk4zeFRZbmFKbmpPOG1sZTlqV1JCMW1SRHlCckRMdmM0OGVmRjdFMjVSNHdOc2NGNmRudDY4MGM1d0pVS2xQNGVueDNfU2Q0YmtUSzRIZXBsSW1ad0FVeFE1U3NkNXM?oc=5",
+   "veiculo": "BPMoney",
+   "trecho": "",
+   "data": "2026-10-30T15:52-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, uma alíquota de 11,3% da CBS pode encarecer o setor de transporte de cargas e a aviação. A discussão envolve os impactos econômicos da nova contribuição nesses segmentos específicos.",
+   "pratica": "Profissionais e empresas do setor de transportes e aviação devem monitorar o tema para antecipar eventuais impactos na formação de preços e na carga tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços discutida no contexto da Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7c251b0fb511fd50",
+   "titulo": "STF mantém aumento da cobrança previdenciária de aposentados e pensionistas com doenças incapacitantes decorrente da Reforma Previdenciária de 2019",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2xlam5UVTR0aDE1dmRhZm9mbGNvaU1ibjAzNnV4U1QzR2pNakNRUzFOS1VDY0hPYXBmWEdKT1lXR2pmQXVUWTI1YS1Oai1zZTBNSURfaEllRTdLZ21nYV9PeHE3N09nNHVVXzJlOElKelc5UnFyNGJ0clM4UFA4OE9GX2ZpRnVmNzNtbWhocHVZaDdGbDg2XzRiMmRDRERQQTF4UkVudUdLWG01bDBwNnZPdzkyX1RFbmcxcEI4bEZpV0JFNkdZV3BqeXlPN0xnX3lpVy1B?oc=5",
+   "veiculo": "Sindireceita",
+   "trecho": "",
+   "data": "2026-10-30T15:34-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal manteve o aumento da cobrança previdenciária incidente sobre aposentados e pensionistas acometidos por doenças incapacitantes. A medida decorre das alterações promovidas pela Reforma Previdenciária de 2019. A decisão impacta diretamente os proventos desses beneficiários em todo o país.",
+   "pratica": "Na prática, aposentados e pensionistas com doenças incapacitantes continuam sujeitos à alíquota majorada da contribuição previdenciária estabelecida pela reforma, sem possibilidade de afastar a cobrança com base nas regras anteriores.",
+   "termos": [
+    {
+     "termo": "cobrança previdenciária",
+     "explicacao": "Contribuição descontada dos benefícios de aposentados e pensionistas para o custeio da previdência social."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dcb7c53ef1ca4e52",
+   "titulo": "ICMS dos combustíveis terá reajuste em fevereiro após decisão do Confaz",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNF90eUFHeGltWnRCdzVCYldRc25xTEZ4TDljN1VSMnNKZnhWbEVTa21XT3RIUXFsbEFKd0g5LXNTZzhOd0hiWjNxaUtBMjhvOXk4Tjd6UG9NR0djSmFNdHg3RWsybFRWd3Q5NEdIZElNUm1OcU1TREZockxIZDBJNy1kZWZwTUV3YTVUX1JFWVRyUC1Qc1ZpVnNEMzVwWmt0V1c4dmUwY1lJX0ZLbG91Q3ZEUGtHWlhpQWhmN0hnSkNHNzd1R3JVdDVRRVNNQQ?oc=5",
+   "veiculo": "Capital do Pantanal",
+   "trecho": "",
+   "data": "2026-10-30T15:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o ICMS incidentes sobre os combustíveis passará por um reajuste no mês de fevereiro. A alteração decorre de uma decisão tomada pelo Confaz.",
+   "pratica": "Na prática, a decisão exigirá que empresas do setor e profissionais da área tributária redobrem a atenção para o recálculo e a adaptação às novas alíquotas a partir de fevereiro.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    },
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária, que reúne os secretários de Fazenda dos Estados e do Distrito Federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ea40734aba4ddd56",
+   "titulo": "CBS de 11,3% pressiona Senado e preocupa empresas",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2lTR0xXZFZueDRUQzBPWWJmU3hRM3dFM3V6VmlrTUlWMzF2c1BzMHMwQXBQcTZnNmpPa3dMbExENzIwY3BULWZNcGNmMTYxMkotbUh5eTRNWFpYT0dUX19tNGlVXzBqenZDaEJzSWJjQUl6RG9vRWlpRGl6REVILW11c0VEbGExY0hxY3FqaFVGaVU4WlpWcA?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-10-30T15:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, a discussão em torno de uma alíquota de 11,3% para a CBS tem exercido forte pressão sobre o Senado Federal. O percentual tem gerado preocupação no setor empresarial diante dos impactos na carga tributária.",
+   "pratica": "Na prática, a discussão exige que empresas e profissionais acompanhem de perto os debates legislativos para antecipar eventuais reflexos na formação de preços e no planejamento tributário.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária para unificar tributos federais sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7782b5f2fb7a7f9c",
+   "titulo": "Transação tributária e a regularidade fiscal de débitos do FGTS",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnpVYnE2V0hHWXdJSGtETW16QmptZ0dwazVCM1NaaTV3QnQ5dVhYb0kwWGMybXN3bmlDRUNud2l6cTFmV1BXMFpxb19nQ2JlR09GM1F4T2FUeG1fVVZvaG5wSUdwUjZKcFhsYWFuM3pJSnU3cDVCNzlZNlFvX2hmdExhM2I2b25lVF9wM3lnTkUtb0VjZUljNFJ3bEJiX213cnVkWXdvLUw?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-10-30T15:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o tema em debate envolve a transação tributária e a regularidade fiscal de débitos relativos ao FGTS. A discussão aponta para os reflexos da negociação desses débitos na obtenção de certidões de regularidade.",
+   "pratica": "Na prática, o acompanhamento do tema é importante para advogados e contadores que orientam empresas sobre a regularização de passivos vinculados ao FGTS.",
+   "termos": [
+    {
+     "termo": "Transação tributária",
+     "explicacao": "Modalidade de acordo entre o Fisco e o contribuinte para a resolução de litígios e facilitação do pagamento de dívidas."
+    },
+    {
+     "termo": "Regularidade fiscal",
+     "explicacao": "Situação em que o contribuinte está em dia com suas obrigações, comprovada por meio de certidão específica."
+    },
+    {
+     "termo": "FGTS",
+     "explicacao": "Fundo de Garantia do Zeit Prazzo, cujos recolhimentos são obrigatórios para empregadores."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "596a5d3021ebc071",
+   "titulo": "Perdão de dívidas do MEI: confira quem tem direito e os débitos que serão extintos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazZ4c3VMRjY3WEdibG9xM3B6am44aldCaFdJa09xenFWMXFCRWFlZlBqWmRQRHVqWWdUTFNHejg1b0RvaTJxWDBjcmt0LUxac2VkdGlIV2s1aVd6cms3U1QwMVc3X3B1cGRfWVR3TWRJQ3ExUWhnWGVlbDFLMVNhMlRmVXZ3MFFaNVJyMVZXTDJ2Q21ITUhFbXFkNjNLbGRWVUs0Mg?oc=5",
+   "veiculo": "AJN1",
+   "trecho": "",
+   "data": "2026-10-30T15:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foi divulgado um perdão de dívidas voltado para o Microempreendedor Individual (MEI), indicando quais contribuintes possuem direito ao benefício e quais débitos específicos serão extintos. Como o trecho original não está disponível, a análise baseia-se estritamente na notícia veiculada.",
+   "pratica": "Na prática, profissionais e contadores devem aguardar a confirmação oficial das regras para orientar seus clientes MEIs sobre a regularização de eventuais débitos pendentes.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado brasileiro."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "41baeb4ee7696986",
+   "titulo": "Confaz aumenta o ICMS da gasolina e do diesel em todo o Brasil e SC segue com a menor alíquota geral do país",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2xoQlB5Sm15RlhOWndRbjZMTHhoVVZsbUctd2x0NklodjJkdC10dk5uRUlXbzJqeFYzVm16U1dYdUQtdGIyS2RrRG1lU1FrRUU2a2hWY1pFQndRWFlZREtWN3V3ZWExQ2ZBT3hoUjBub2FtaEppaDBYZFh0RkNIdWZEWmhmUTZyQ3BkQUJJcTRRbXI4c0hvcW41dw?oc=5",
+   "veiculo": "Jornal Razão",
+   "trecho": "",
+   "data": "2026-10-30T15:16-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Confaz aumentou o ICMS incidente sobre a gasolina e o diesel em todo o território nacional. Apesar da alta generalizada, o estado de Santa Catarina permanece com a menor alíquota geral do imposto no país.",
+   "pratica": "Na prática, a alteração exige que postos de combustíveis, distribuidores e contribuintes do setor atualizem seus sistemas e planejem o impacto financeiro do encarecimento do tributo na cadeia de circulação das mercadorias.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária que reúne representantes de todos os estados."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e624f7f350633a9a",
+   "titulo": "CBS de 11,3% acende alerta sobre aumento da carga tributária",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTW5QM2tGdFhINkg3RnZHdDZtQTZnckdXYTBGQlhkVGlEWk1FMjZ6YjhWN0NZSkRhbFdwS0d0RE1ZN1JFVmtfN2h3ZkREWmlBUS1PZ2xEVVQyZzd2U3lrNnFGZUMxVW9WZWNkVm1NQUhENFZHaVRxeDAyWDhWU0hnUVJ5dGhMXzNaeU5KRXhTV0tqMzVkS1E?oc=5",
+   "veiculo": "Monitor Mercantil",
+   "trecho": "",
+   "data": "2026-10-30T15:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Monitor Mercantil de 30 de outubro de 2026, a discussão em torno de uma alíquota de 11,3% para a CBS acendeu um alerta no mercado sobre um possível aumento da carga tributária. A notícia reflete os debates atuais em torno da implementação dos novos tributos previstos na reforma.",
+   "pratica": "Na prática, profissionais e empresas devem redobrar a atenção na projeção de custos e no planejamento tributário diante da indefinição sobre o impacto efetivo das novas alíquotas. O monitoramento contínuo do tema é essencial para antecipar eventuais reflexos no fluxo de caixa.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal previsto na reforma tributária para unificar PIS e Cofins."
+    },
+    {
+     "termo": "Carga tributária",
+     "explicacao": "Volume total de tributos pagos pela sociedade ao Estado em relação à economia."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9f76a3c7529c27ae",
+   "titulo": "Justiça extingue execução fiscal após União reconhecer prescrição",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUVFUU1yZkxacEptRm40ZHdZeFo5OWpKcXBHOXZ6MHlzakQ1QVNia3FVbEpmUFM2dWRnRTRZLXpIVVRPRHJDUnNpMXIyMmdBaGFHOTZjVFVKVEM4MGVSRTZaZE1GS3dSeVJxeWprYVlFWG1IMTVYNGFNSW5RTzV4WnFBcHBIbTNxVmZUV2Y4cm1QSGJ0OUxYeHBnQTd1Y3U0WVR3NHZHSFAtcnd5Wm9IbGNR?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-10-30T15:08-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Justiça",
+   "resumo": "Segundo a manchete, a Justiça extinguiu uma execução fiscal após a própria União reconhecer a ocorrência da prescrição. A medida encerra a cobrança judicial do crédito tributário.",
+   "pratica": "Na prática, demonstra que o reconhecimento administrativo da prescrição pela Fazenda Nacional viabiliza a rápida extinção dos processos de execução fiscal pelo Poder Judiciário.",
+   "termos": [
+    {
+     "termo": "Execução fiscal",
+     "explicacao": "Ação judicial usada pelo Estado para cobrar dívidas de impostos não pagas pelos contribuintes."
+    },
+    {
+     "termo": "Prescrição",
+     "explicacao": "Perda do direito do Estado de cobrar judicialmente uma dívida tributária após o decurso do prazo legal."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
    "id": "f07c34c8fa8dac26",
    "titulo": "Projeto de Lei poderá aliviar o bolso de tutores que gastam muito com cães e gatos",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOckVlQTdJZmpDclltdHpmZzlRTGdmMDZjRW9yOElvQWZHSVVGSmNYU19tSmpzNkVWQ0QyTkp2QVVkcHJKV1ppWnVpbEVlRUE2WFB5b1pTeEtzeTZLMlFlbGV6bWViR3pQTmNjRE9TZEsyLWxDZ0ZxTUkwRlo2cE5pWjJ1OE9mVllTd2p3OWwwQ3BmS2c0clBLZFVmaUdTQUotcVRMQUwtdEFmOVJHUEExNHdMR09ORlZ2eWNWRkhhQl9TaFBjX3d4d01idzc1UldoV2NNLURxU3ZiY3JaNWMzNmpFNmJjdw?oc=5",
@@ -4020,7 +4848,8 @@
   "2026-10-27": "O destaque de hoje no direito tributário brasileiro concentra-se nos desdobramentos da Reforma Tributária e em decisões recentes do Supremo Tribunal Federal. No âmbito da reforma, o Tribunal de Contas da União tem decisão marcada para definir a alíquota da CBS, cuja proposta deve chegar ao Senado até 30 de outubro, com projeções de superar 10%. Paralelamente, o STF decidiu que o ISS não integra a base de cálculo do PIS e da Cofins, mantendo a modulação de efeitos pendente, e fixou um marco temporal para a devolução de créditos tributários na conta de luz. Esses temas importam porque impactam diretamente a carga tributária dos contribuintes, a recuperação de valores pagos e a aplicação das novas regras fiscais.",
   "2026-10-28": "O cenário do direito tributário destaca, em âmbito judicial, as decisões do STF que definiram a exclusão do ISS da base de cálculo do PIS e da Cofins e impactaram mais de 6 mil processos sobre a imunidade do ITBI nos tribunais estaduais. Na pauta administrativa e de novos tributos, o Tribunal de Contas da União movimentou o debate nacional ao decidir e divulgar os cálculos da alíquota da CBS, o novo tributo previsto para substituir o PIS e a Cofins a partir de 2027 no contexto da Reforma Tributária. Esses temas importam porque moldam a composição de bases de incidência federais, movimentam milhares de litígios e definem as diretrizes técnicas das inovações fiscais em curso.",
   "2026-10-29": "O destaque desta edição concentra-se nos desdobramentos da Reforma Tributária, com destaque para a aprovação pelo Tribunal de Contas da União (TCU) da alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS) a partir de 2027, tema que também passa por prazos de definição no Senado e debates sobre o dimensionamento da carga tributária. Além disso, o Confaz aprovou o aumento do ICMS incidente sobre gasolina, diesel e gás de cozinha, com nova alta no imposto sobre combustíveis prevista para fevereiro de 2027. Por fim, a Receita Federal e a PGFN regulamentaram o perdão de dívidas de Microempreendedores Individuais (MEIs) vencidas até 13 de outubro de 2026, estabelecendo regras de anistia para o setor.",
-  "2026-10-30": "Nesta edição, destacam-se três temas centrais para o direito tributário brasileiro. Primeiramente, a Reforma Tributária ganha forte evidência com a discussão em torno da alíquota da CBS, fixada em 11,3% (com carga efetiva de 8,5% ou variações projetadas), o que gerou alertas entre especialistas e empresas sobre o impacto nos preços para 2027 e a exigência de planejamento estratégico, além dos prazos para o Simples Nacional. Em segundo lugar, o STF avança em julgamentos relevantes sobre contribuições previdenciárias, validando regras de isenção para servidores incapacitados e portadores de doenças graves, além de analisar o tempo de contribuição de mulheres na previdência complementar. Por fim, o CARF e o conselho fiscal permitiram a adesão ao lucro presumido após reestruturações e incorporações societárias."
+  "2026-10-30": "Nesta edição, destacam-se três temas centrais para o direito tributário brasileiro. Primeiramente, a Reforma Tributária ganha forte evidência com a discussão em torno da alíquota da CBS, fixada em 11,3% (com carga efetiva de 8,5% ou variações projetadas), o que gerou alertas entre especialistas e empresas sobre o impacto nos preços para 2027 e a exigência de planejamento estratégico, além dos prazos para o Simples Nacional. Em segundo lugar, o STF avança em julgamentos relevantes sobre contribuições previdenciárias, validando regras de isenção para servidores incapacitados e portadores de doenças graves, além de analisar o tempo de contribuição de mulheres na previdência complementar. Por fim, o CARF e o conselho fiscal permitiram a adesão ao lucro presumido após reestruturações e incorporações societárias.",
+  "2026-10-31": "Nesta edição, destacam-se os desdobramentos da Reforma Tributária, com forte repercussão em torno da projeção de que o novo imposto sobre consumo e a alíquota da CBS de 11,3% possam elevar a carga tributária, gerando debates e preocupações no setor empresarial, além de novas regras para notas fiscais eletrônicas. No âmbito do Supremo Tribunal Federal, importa registrar a decisão que manteve o fim da isenção previdenciária e o aumento da cobrança para aposentados, pensionistas e servidores públicos com doenças incapacitantes. Por fim, no cenário dos impostos estaduais, o Confaz aprovou o reajuste do ICMS sobre combustíveis com início em fevereiro de 2027 e a manutenção de incentivos fiscais até 2028."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -4148,9 +4977,29 @@
   "servidores": "Agentes públicos que prestam serviços ao Estado.",
   "Crédito presumido": "Mecanismo que concede o direito de aproveitar créditos fiscais de forma abstrata ou simplificada, sem necessariamente seguir a regra padrão de cumulatividade.",
   "Previ": "Caixa de Previdência dos Funcionários do Banco do Brasil, entidade de previdência complementar.",
-  "contencioso": "Conjunto de litígios e discussões judiciais ou administrativas entre os contribuintes e o Fisco."
+  "contencioso": "Conjunto de litígios e discussões judiciais ou administrativas entre os contribuintes e o Fisco.",
+  "Imposto sobre consumo": "Tributo incidente sobre a circulação de mercadorias e prestação de serviços, alvo da unificação na reforma.",
+  "Perdão de dívidas": "Remissão ou anistia de débitos tributários prevista em norma.",
+  "carga tributária": "Volume total de tributos que recai sobre a atividade econômica ou o contribuinte.",
+  "CT-e": "Conhecimento de Transporte Eletrônico utilizado para acobertar prestações de serviços de transporte.",
+  "servidores incapacitados": "Funcionários públicos que se encontram em condição de incapacidade para o exercício de suas funções.",
+  "Carga tributária sobre o consumo": "Volume total de tributos embutidos no preço de mercadorias e serviços pagos pelo consumidor final.",
+  "Nota fiscal eletrônica": "Documento digital utilizado para registrar operações de circulação de mercadorias e prestação de serviços.",
+  "Benefícios de ICMS": "Incentivos fiscais que reduzem ou eliminam o imposto devido para determinados setores.",
+  "Súmula do Carf": "Enunciado que resume o entendimento pacificado nas turmas de julgamento do Conselho Administrativo de Recursos Fiscais.",
+  "Pagamentos sem contrato": "Despesas corporativas efetuadas sem a formalização de um instrumento contratual escrito entre as partes.",
+  "empresas de cripto": "Pessoas jurídicas que operam no mercado de ativos digitais e criptomoedas.",
+  "CONFAZ": "Conselho Nacional de Política Fazendária, que reúne os secretários de Fazenda de todos os estados e do Distrito Federal.",
+  "Incentivos fiscais de ICMS": "Reduções ou isenções no pagamento do imposto estadual concedidas para estimular a economia de determinados setores.",
+  "Zona Franca": "Área de livre comércio de importação e exportação com incentivos fiscais especiais.",
+  "cobrança previdenciária": "Contribuição descontada dos benefícios de aposentados e pensionistas para o custeio da previdência social.",
+  "Transação tributária": "Modalidade de acordo entre o Fisco e o contribuinte para a resolução de litígios e facilitação do pagamento de dívidas.",
+  "Regularidade fiscal": "Situação em que o contribuinte está em dia com suas obrigações, comprovada por meio de certidão específica.",
+  "Carga tributária": "Volume total de tributos pagos pela sociedade ao Estado em relação à economia.",
+  "Execução fiscal": "Ação judicial usada pelo Estado para cobrar dívidas de impostos não pagas pelos contribuintes.",
+  "Prescrição": "Perda do direito do Estado de cobrar judicialmente uma dívida tributária após o decurso do prazo legal."
  },
- "atualizado_em": "2026-10-30T06:39-03:00",
+ "atualizado_em": "2026-10-31T06:30-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
