@@ -1,6 +1,801 @@
 {
  "itens": [
   {
+   "id": "4548cc1df7e60c44",
+   "titulo": "Reforma Tributária: quem planeja não paga a conta do improviso",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVdDdzBBdGVLT3BXUVVWMENQWTAtWkl2YnFYWnZ6TlVXQl9uaWMzS04wSFFFY1JjeVlaLWZhdTU0WmRkMXNMdXM4MWZWVXp4a2dTMGFLT2g4UDMxSVRvbU42YWtOM0VCcXhkeldkOTlCT2VoMXB3UzlsZ2h1Y2F2ODRMRXZ5V2dVbFBrYUd4R0NuREFxd0MwaDV5Qmt5UUgzMk5DSzc0a2ZFdXp4ZDY0d0RPUFNkd3FiQkx4c1dnWEIyRHFKRzRrU0g0UmtnT1M0Zzg0?oc=5",
+   "veiculo": "Diário do Nordeste",
+   "trecho": "",
+   "data": "2026-11-01T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário do Nordeste, o debate sobre a Reforma Tributária destaca a importância do planejamento estratégico para evitar custos decorrentes de improvisações. A publicação enfatiza que a antecipação e a organização são essenciais para lidar com as novas regras tributárias.",
+   "pratica": "Na prática, a notícia reforça que empresas, advogados e contadores devem investir em planejamento preventivo para se adaptarem às mudanças da Reforma Tributária e mitigarem riscos financeiros.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1d86eb761170556e",
+   "titulo": "Jéssica Sant'Ana: Reforma tributária avança, mas alíquota e prazos preocupam setor produtivo",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDlaa29WTkRHalZ1VzRWMFpfZEpYOHJLNEN3UjkzbEtxQUdrcEhhd05Tejd3VHlvTDRKUkhHU3dkRW5ISUI2WWd1YlZ3ckg1eUNkV2VxZjA2TjBWb05ibUtyOGF5cDdkY0xxaFlScDZPckktdHp5U2czMVhZaVl2MDQya0ZVVGZjLTVsejhGbUVPMmJMR0RpcmpLZjhwUzlsOTJjeF9WdmFNLTNoZnpBSXpwVld2dHB0U3l5ZERmRlVnSUdMSV9uTDVsR1pkM09RdlpPZVVkUks?oc=5",
+   "veiculo": "UOL Economia",
+   "trecho": "",
+   "data": "2026-11-01T05:41-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária segue avançando, mas a definição da alíquota e dos prazos gera preocupação no setor produtivo. O debate envolve aspectos cruciais da reestruturação do sistema tributário nacional.",
+   "pratica": "Na prática, empresas e profissionais devem acompanhar de perto as discussões legislativas sobre os prazos de transição e a carga tributária final para antecipar impactos no planejamento estratégico.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural na cobrança de impostos no país."
+    },
+    {
+     "termo": "alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para definir o valor do tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b4a0ea6b94ba5a97",
+   "titulo": "Perdão de dívidas do MEI: veja quem terá débitos cancelados em 2027 e como consultar",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XVHlCY24tVklxQ01zTEdxQ1pmOE1OOTQ4SHY4ZGJpbTFkek5UVHdOSFdONmN6RHR1MXRBVHppZmUwWThYVmUwMks5T0lBMm4zbmdCa0Fuam5pSEJvS0pkWFhqM0YwRnIwU2QwX0R6bmR0YW5CZml1d1BMVVMyQQ?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-01T04:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, haverá um perdão de dívidas para o MEI com cancelamento de débitos previsto para 2027, além de orientações sobre como realizar consultas. A notícia aborda medidas de regularização e extinção de obrigações tributárias para os microempreendedores individuais.",
+   "pratica": "Na prática, a medida exigirá que profissionais e contadores acompanhem as regras de elegibilidade e os canais de consulta para verificar quais débitos serão efetivamente cancelados.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual sujeito a obrigações e benefícios tributários simplificados."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "af9d4c349b199531",
+   "titulo": "O Direito Tributário e a concretização dos direitos humanos sob a perspectiva de gênero",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSi1yWDE5S0E1djA4SkFmV0UteVZPaWViZ0dhWEZ5czZnVTJoVmFOQkZOd2RQbVgzT2hVQlVpNGdXQWFoS0hLYzE3V3dCTFI0d1Y5NHVRTnF0OEdYWEp2NWJhVlM2N0E2TUhtT2tUR2UxOW1WTl9iR29uQkZRRWVld01xbFlXS1EtUUR0SFV5VVJhQXA2UFVCTDNJTW13bkVESWV4TW43aVZoa2RRUG84OEFPd2R0NC0zOGY3RkFWZTZHeXp1N1kyU29sY29xc3RZQ2FnUmotRFBIdnkwRlRSY0Jn?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-01T03:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o artigo aborda a relação entre o Direito Tributário e a efetivação dos direitos humanos sob a perspectiva de gênero. Trata-se de uma discussão doutrinária e de debate sobre como a tributação impacta diferentes gêneros na sociedade.",
+   "pratica": "Na prática, o tema convida profissionais a considerarem a interseção entre gênero e tributação em análises estratégicas e acadêmicas, embora ainda não traga uma mudança normativa direta.",
+   "termos": [
+    {
+     "termo": "Direito Tributário",
+     "explicacao": "Ramo do direito que disciplina a arrecadação e a cobrança dos tributos."
+    },
+    {
+     "termo": "Direitos humanos",
+     "explicacao": "Garantias fundamentais asseguradas a todas as pessoas."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4acba6abd1049dc4",
+   "titulo": "Reforma Tributária e o tiro no pé",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92MDU5UTRDSnB2UWtMMVhvRFphWEdpSDFibXdpdTJJN2xKblA0eEtXZkI5ZTFZbURCdkczSjlJeklVNTJoeU5ESTdMSnZ4WWVaaDhhckg1OVp5WW1qbVFVZFNnNV9TcjNZc25NbE40bXlrckc4Q1Z0ajFqclV4UQ?oc=5",
+   "veiculo": "Foco Cidade",
+   "trecho": "",
+   "data": "2026-11-01T02:12-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo Foco Cidade publicada em novembro de 2026, discute-se criticamente os efeitos da Reforma Tributária. O título sugere um debate sobre potenciais consequências negativas ou indesejadas das novas regras constitucionais e legais do sistema tributário.",
+   "pratica": "Na prática, exige que advogados, contadores e empresas fiquem atentos aos desdobramentos dos debates sobre a Reforma Tributária para antecipar possíveis distorções normativas. Como há apenas o título disponível, recomenda-se cautela na avaliação dos impactos operacionais até que o conteúdo integral seja conhecido.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais destinadas a modificar a estrutura de cobrança de tributos no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2249bb9118b9faa4",
+   "titulo": "Senado tem até dezembro para aprovar alíquota do novo imposto",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbm9CT1o0UDUwSF9uUXUxcVA3emZ5OVI1WnFWZVRJa2V6WTRYT1ZTWGN2cE5zVkpwNDVIMTBJOTdjSTlNZHRtVC01Zjc2dFFiYW9BRllQdTJqcHFTZGtod2JOT0RHWUhqLUVWekp0VWxJT1lFMndIVnBxN3N1OFpBVWdSbXNWVHZtZ3p6eVZza2RNV2pJZXZqeHBXYw?oc=5",
+   "veiculo": "A Tribuna RJ",
+   "trecho": "",
+   "data": "2026-10-31T21:38-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete do veículo A Tribuna RJ publicada em 31 de outubro de 2026, o Senado Federal tem prazo até dezembro para aprovar a alíquota do novo imposto. Trata-se de um debate legislativo essencial para a implementação das mudanças tributárias previstas.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar de perto a tramitação legislativa para mensurar o impacto das novas alíquotas no planejamento financeiro e tributário.",
+   "termos": [
+    {
+     "termo": "alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para determinar o valor do tributo a ser pago."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2fb740a75994a13a",
+   "titulo": "Reforma tributária: IVA no Brasil pode chegar a 31,3%",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtRWxCN1FncVlGbmQ1TF9ZMXRsX1I1TkNjeHNNRVZlVkxuc1lKbmtPWU5JSkJLYlJHaEptandIdWQyOW9lTFZTYkRzYXBBNHlETXJPdUJDMWhieVRpVWZzTlRtb19ZMjc1SnpCZFpkanpIWU84c0E?oc=5",
+   "veiculo": "Acia Araçatuba",
+   "trecho": "",
+   "data": "2026-10-31T21:37-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Acia Araçatuba de 31 de outubro de 2026, debate-se a projeção de que o Imposto sobre Valor Agregado (IVA) no Brasil possa alcançar uma alíquota de 31,3%. A discussão insere-se no contexto das projeções e debates econômicos em torno da implementação da reforma tributária no país.",
+   "pratica": "Na prática, a expectativa de uma alíquota elevada de IVA exige que empresas e profissionais redobrem os cálculos de carga tributária e o planejamento financeiro para a adaptação ao novo modelo.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado previsto na reforma tributária para unificar tributos sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5403f79660aebacd",
+   "titulo": "O Conselho Nacional de Política Fazendária (Confaz) aprovou, na quarta-feira (28), um aumento nas alíquotas do ICMS cobradas sobre a gasolina, o diesel e o gás de cozinha. Os novos valores entram em vigor a partir de fevereiro de 2027. As alíquotas fora",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52R2I4YkN3M3Y2Q1NIcGhGT2o0R0czeUM5RUVaekRMLUhsQjMzdzF0RmN4QWxXdjRRQ2VQdnc3dF84Z3dERXB2OFNrdHJNUVV2enc?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-10-31T20:48-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Conselho Nacional de Política Fazendária (Confaz) aprovou, na quarta-feira (28), um aumento nas alíquotas do ICMS sobre a gasolina, o diesel e o gás de cozinha. De acordo com as informações divulgadas, os novos valores começam a valer a partir de fevereiro de 2027.",
+   "pratica": "Na prática, a alteração exigirá que empresas e contribuintes se planejem para o reajuste na carga tributária desses combustíveis e do gás de cozinha a partir da data de vigência.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "Confaz",
+     "explicacao": "Órgão que reúne representantes dos estados para deliberar sobre a política do ICMS."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "39996b4e35c1c3fc",
+   "titulo": "Senado corre contra o prazo para fixar a alíquota da CBS",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM09xYzdTbDYydGUwa1hDVVNIQUlkb3hUaTlKZnpVampmcU9NcWF1WWNvdmlLRXRUNDd4QTBaakM1SExmLWFkSlVBUUNsampfcDZENzFiUlJDYnplb3JmUHZVSzRHN194cHA3aGx1UWdVX3hHRS1Tb2dvVlNaR3ZLM0JGY0ZTRUQ3YjJRZ29tSHYtMTNyckdkWFMyTWhWMTFQYUtCdNIBqgFBVV95cUxQVEtreGpMX2NYcTFHSktfZmxRYjVhRERHUXEzWWR6VHY3UEdxMDFmOG5xdzBpRERkXzNja1NYQlZUb0VOMTBfUU5UUnRWSHp6V1c0djh5WTlYT0NtRnFyS0wxNXFZU1pBbDNMMzEtS2NyRlhQOUJTX1dKVFVyenNkcTBPNUdwTGxSM09MdGtaN1FNal9SR2NjXzNaaVpfRklYUk9hN2g3QTZJUQ?oc=5",
+   "veiculo": "O Republicano",
+   "trecho": "",
+   "data": "2026-10-31T18:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado corre contra o prazo para fixar a alíquota da CBS. Trata-se de uma movimentação legislativa urgente relacionada à instituição da nova contribuição.",
+   "pratica": "Na prática, profissionais e empresas devem acompanhar de perto a definição da alíquota, pois ela impactará diretamente o planejamento tributário e a carga de novos tributos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "98da0eefe232cc10",
+   "titulo": "Reforma tributária pode elevar imposto acima de 30% no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wOFAtSTZFQWU5ZnpaNmowOTRCQktBMDZiZ0k1Z1FiVmpFWC1fMEZGaFA4VktLbDhPOXAtVnJMT2hwWVlVTWxxU0tiREVqVFlMdmMwNTlZY3lFWnZjd2tWVWs5bG1TQmJjMlFoWlFaNFQ0TlcwMmhXNjhhNA?oc=5",
+   "veiculo": "InMagazine",
+   "trecho": "",
+   "data": "2026-10-31T17:08-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da InMagazine de 31 de outubro de 2026, a reforma tributária pode elevar a carga de impostos acima de 30% no Brasil. A notícia traz um debate de relevância econômica sobre a futura alíquota padrão dos novos tributos.",
+   "pratica": "Na prática, a discussão acende um alerta para profissionais e empresas acompanharem a regulamentação da reforma tributária de perto, antecipando impactos no planejamento financeiro. No entanto, faltam detalhes no título para mensurar efeitos concretos.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "84fae3764dea6d56",
+   "titulo": "Reforma tributária: TCU calcula alíquota da CBS em 11,3% para 2027",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDZNdHFkVlVyOGtnOXF6azVrV3Z4WkJCbDY0U2xWYjE5Zmk5MjUyaERsYXBnOWtIenp5RzIwdnpSeUlYY1FNRXY4Mm0tOEJOX3RoemdySi0tMlVKa1lZMkNGcmFpYXZmWjNmeERjbkFjNzZEOWh6clNfeExjNnRxSzJKVlN6enNLYUh2OWJHSk41UmpHMTVxbk1fTFo1TTd0eGtJa0ln?oc=5",
+   "veiculo": "Tribuna do Norte",
+   "trecho": "",
+   "data": "2026-10-31T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União calculou a alíquota da CBS (Contribuição sobre Bens e Serviços) em 11,3% para o ano de 2027, no contexto da Reforma Tributária. Como o trecho original não foi fornecido, o resumo baseia-se exclusivamente nesta projeção divulgada pela imprensa.",
+   "pratica": "A estimativa serve de parâmetro inicial para que empresas e profissionais comecem a projetar o impacto financeiro da nova contribuição federal em seus planejamentos tributários.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída pela Reforma Tributária para unificar tributos federais sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "98b315eb8136b6d9",
+   "titulo": "Senado inicia debates sobre a alíquota da CBS, novo tributo federal da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblBJdWJ6OThRc2FqaFhnU1B0Ny1EejdoVlhhc1pHXzNPUkFoODlLa1N4UVFhUW1QeTF4NGszb2FNd29VMWlCcVR2UkNhVmk2QlVkSGtSb2dENGJCX3JmRlc4R1lyZERsQ1hJMXdkczBDUzd1Q1JKVkhjWWlQOVJJU2hGZ2NJZm82QnRaLUVSMWMzcmFFakJEaVRzbVlNYW9SQTlDcGxaTjJMc2l0eVE?oc=5",
+   "veiculo": "A Crítica de Campo Grande",
+   "trecho": "",
+   "data": "2026-10-31T16:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado iniciou debates a respeito da alíquota da CBS, o novo tributo federal instituído no âmbito da reforma tributária. A discussão marca o avanço legislativo na definição de um dos pilares do novo sistema de tributação sobre o consumo.",
+   "pratica": "Na prática, os profissionais e empresas devem acompanhar os debates legislativos para antecipar o impacto da nova carga tributária em suas operações e estratégias de conformidade.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, novo tributo federal criado pela reforma tributária para unificar a taxação sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b80f666633e3c94f",
+   "titulo": "TCU analisa alíquota de novo imposto da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczQyaldNX2pPR1lSNjh6QkRURUhVTWYyRm9rd0VQcEVUd2FGdjRIT3d0cjZ5TTBOamVrLTB5OGxKQjAyLWxxR1YzMzFtNUZfNEN6N2djT1RCcTBmMGJMQnFqNTdBS3hBWEs2OHNZS0ZTZUxYOXl6bFdTUjZTQ0tPN1A3RHdyaG1MVjNpSHVlN0pzX1g2UXBleA?oc=5",
+   "veiculo": "Revista Oeste",
+   "trecho": "",
+   "data": "2026-10-31T16:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o Tribunal de Contas da União está analisando a alíquota aplicável a um novo imposto instituído no contexto da reforma tributária brasileira. A discussão envolve a atuação de controle sobre os tributos decorrentes da recente reformulação do sistema fiscal.",
+   "pratica": "Profissionais e empresas que acompanham a regulamentação da reforma tributária devem monitorar a atuação do TCU, pois ela pode influenciar a definição e a segurança jurídica das novas alíquotas.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural na legislação e no sistema de tributos do país."
+    },
+    {
+     "termo": "alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para determinar o valor do tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "32f4783141abc8a7",
+   "titulo": "REFORMA TRIBUTÁRIA: Senado vai ouvir Fazenda e TCU antes de definir alíquota da Contribuição sobre Bens e Serviços (CBS)",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZGZVTWw2WDJ0ODVJQzJPSDFGcDR0azE2M2FtSzVtTl95WUVlWUI0cmZMdnU0MWVOY1poUThFaTBmRGZoUWN4UnNLZ0RydHdQeG80djVPWmw4WTZfNkdNOElsZnBRLVNKYWFnQWxBdGFqMWdHc0tOand3cjdhUTljMDlqcWZkX0xaYnA4dGJGTUE2OVNublRwMV91Wnd6dWtXMmFuWVYydG81S3ZqR1VfRGhEcFBJMkxtRGYwQ1FqdElzNm9TaXY3Y2hWSHJHVGZEakhWYUUtQTd2aHRlbThR?oc=5",
+   "veiculo": "Blog do BG",
+   "trecho": "",
+   "data": "2026-10-31T16:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado Federal pretende ouvir o Ministério da Fazenda e o Tribunal de Contas da União (TCU) antes de definir a alíquota da Contribuição sobre Bens e Serviços (CBS). A medida antecede a tomada de decisão sobre um dos tributos centrais do novo sistema tributário nacional.",
+   "pratica": "Na prática, a movimentação indica que a fixação da alíquota da CBS passará por debates técnicos institucionais, o que pode influenciar o planejamento financeiro e tributário das empresas diante da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Contribuição sobre Bens e Serviços (CBS)",
+     "explicacao": "Tributo federal criado no âmbito da Reforma Tributária para unificar a incidência sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d852dccfc4ad9709",
+   "titulo": "STF voltará a julgar ação que questiona desempate pró-contribuinte no Carf",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOG9vM2dJT3EyRXpKR3F1MUVyQTlYVVM1QURqQXg2LU14SUxDV3hQdXZCakdZM3pEcTVqQ0dESFVFNWNkWmdIcVBOM3dpVVVsdXgyWENTM21wY252VnpqdUQ5M0YwaVBuazVONHF2S3pLdTBvSWRKUnI5QjROdGdvLXplMnkxMmxjcURzMWQyaXQtSTJnOVRJQlJWekVRVnBibWwxVUZoWF8zWHB2bXlrSWdIU3LSAbQBQVVfeXFMTzhvbzNnSU9xMkV6SkdxdTFFckE5WFVTNUFEakF4Ni1NeElMQ1d4UHV2QmpHWTN6RHE1akNHREhVRTVjZFpnSHFQTjN3aVVVbHV4MlhDUzNtcGNudlZ6anVEOTNGMGlQbms1TjRxdkt6S3Uwb0lkSlJyOUI0TnRnby16ZTJ5MTJsY3FEczFkMml0LUkyZzlUSUJSVnpFUVZwYm1sMVVGaFhfM1hwdm15a0lnSFNy?oc=5",
+   "veiculo": "ACidade ON",
+   "trecho": "",
+   "data": "2026-10-31T15:48-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal voltará a julgar uma ação que questiona o desempate pró-contribuinte no Carf. O caso envolve as regras de resolução de empates nos julgamentos do Conselho Administrativo de Recursos Fiscais.",
+   "pratica": "A retomada do julgamento pelo STF mantém a expectativa dos contribuintes e profissionais sobre a definição jurídica definitiva das regras de votação no Carf, impactando a segurança jurídica em litígios fiscais.",
+   "termos": [
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações fiscais federais."
+    },
+    {
+     "termo": "Desempate pró-contribuinte",
+     "explicacao": "Regra em que o empate nas decisões do Carf é resolvido a favor do contribuinte."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6f66a0c9049016fd",
+   "titulo": "Reforma tributária: empresas de mão de obra intensa podem ter carga quase 3 vezes maior em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUFTLWtvSjJIdWU4TTI0ZzhwSnJlUmdmRVJWVkh4d3YySnhmN3cwRTZZVVVlRzlfMy0yeVB0cGM0M1dLdUcyYUNCMmRSc3hKRHBwZTRZdlJUemg0OW9nY1E3cElYREl4dWZzbWJwNEc5cVI4WEpyM042V0hjQVR3X08wbUwtTVZ5OHFXOE1YWVRZQ3NKY0RHQ0ZrOVBsbUNfeThHbUYwdTU3THREZ0xCNE40RElneldsSEszaGRLaTBna1EwYVlLZTVsdmVEMHRwaGc?oc=5",
+   "veiculo": "Guia do Investidor",
+   "trecho": "",
+   "data": "2026-10-31T15:38-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a reforma tributária poderá elevar a carga tributária de empresas de mão de obra intensa a patamares quase três vezes maiores em 2027. O impacto previsto acende o alerta para o setor de serviços e atividades com forte dependência de pessoal.",
+   "pratica": "Na prática, profissionais e empresários desses setores devem redobrar o planejamento financeiro e tributário para antecipar os efeitos da nova carga sobre suas operações.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que remodelam o sistema de tributação sobre o consumo no Brasil."
+    },
+    {
+     "termo": "Carga tributária",
+     "explicacao": "Volume total de impostos e contribuições pagos por uma empresa ou pela sociedade."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "13f32c677e61619a",
+   "titulo": "Família Poncio: R$ 2,9 bilhões em dívida ativa com a União",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa216SGI2Q3JJQnAzZ29vQ2s1dU1aM3d4Y0JGeVNBSG9LYkw1b29MWnBSMC1pZXZhWlZHLWlwc2lGWmhtWlB3R2h1NlBpekdoSW42YjBrcEhSMnNiSkl3YjRZckw0MW5zaG1mcHpOYWt5aDNEa0Y3MFREX1NHVU92YUxvMlpEX0hFRkFEZw?oc=5",
+   "veiculo": "diariodamidia.com.br",
+   "trecho": "",
+   "data": "2026-10-31T15:27-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete de 31/10/2026 do veículo diariodamidia.com.br, a família Poncio possui um montante expressivo de R$ 2,9 bilhões registrado em dívida ativa com a União. A notícia evidencia expressivos débitos fiscais sob a tutela de cobrança da Fazenda Nacional.",
+   "pratica": "Na prática, grandes volumes de dívida ativa chamam a atenção para a gestão de passivos fiscais e aumentam a probabilidade de medidas constritivas por parte do Fisco. Advogados e contadores devem monitorar os riscos de execuções fiscais de grande monta e avaliar alternativas de regularização.",
+   "termos": [
+    {
+     "termo": "Dívida ativa",
+     "explicacao": "Conjunto de valores de créditos tributários e não tributários da Fazenda Pública que não foram pagos no prazo legal."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b970358bb795c6f1",
+   "titulo": "Membros da Receita no Carf dizem que não vão participar de sessões em fevereiro",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3FMTjh1dVNqTGhvNTNmSEtLaHAxMDEydGVJeDM0bUhRbFhSai12dkxYMllVVVdCdkcxa2k4VDY3NW55alZpMy1zRzIwOUViWDRVMmdscFpHOTEwSDVmQWpxMkpzMUJ5QlJWNWpDV21vVW9OaHRPTzJUVFJZVlpyTTB4ZkJkX3FsRzA2djRfNlVULVQ3cXBmQjNvRlVRVVNKcUwzamk0Y2NYOFUxeXhjcWFkeXhwMGJoVm85ZkJn0gG-AUFVX3lxTE5fcUxOOHV1U2pMaG81M2ZIS0tocDEwMTJ0ZUl4MzRtSFFsWFJqLXZ2TFgyWVVVV0J2RzFraThUNjc1bnlqVmkzLXNHMjA5RWJYNFUyZ2xwWkc5MTBINWZBanEySnMxQnlCUlY1akNXbW9Vb05odE9PMlRUUllWWnJNMHhmQmRfcWxHMDZ2NF82VVQtVDdxcGZCM29GVVFVU0pxTDNqaTRjY1g4VTF5eGNxYWR5eHAwYmhWbzlmQmc?oc=5",
+   "veiculo": "ACidade ON",
+   "trecho": "",
+   "data": "2026-10-31T14:50-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, membros da Receita Federal que atuam no Carf informaram que não vão participar das sessões de julgamento previstas para o mês de fevereiro. A notícia indica uma possível paralisação ou ausência desses conselheiros nas atividades do tribunal administrativo.",
+   "pratica": "Na prática, a ausência de conselheiros da Receita Federal pode provocar o adiamento de julgamentos importantes agendados para fevereiro, atrasando a resolução de litígios tributários.",
+   "termos": [
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações fiscais federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7a9187f303252a7e",
+   "titulo": "Reforma tributária: por que franqueadores e franqueados não sentirão o impacto da mesma forma?",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdVdzSU9SWE5LZXJPWXZEVWNldzV5OEUwYzgtNmRvX3Uycm90LTFnaXFOQWI4VlFHLV83TlJlb0xRV1hpUzdQR1RuSUR0b29jMld2c2tDbGVNRWxvTVZPX1FucWNJMmRWdkJCX2Rib0VYN3prNWk3Y01Ka1hiUnh2TjIyd0wwR1ZLRUZlUDhBa1FVU0hNU2MzMHVqRmdMbjZ1bnNMb0JBWm1IM3Rpc2RCSUdIeGpielNOSzlkcGIyTDdEaUFzLVM2Q3paU1ViX0lLYm5JbmtZSVZNT00?oc=5",
+   "veiculo": "Seu Dinheiro",
+   "trecho": "",
+   "data": "2026-10-31T14:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo Seu Dinheiro, a Reforma Tributária trará impactos diferentes para franqueadores e franqueados. A discussão aborda como a nova estrutura de tributos afetará de maneira desigual as partes envolvidas no sistema de franquias.",
+   "pratica": "Na prática, advogados, contadores e empresários do setor de franquias devem monitorar os reflexos da Reforma Tributária para reavaliar seus modelos de negócio e planejamento tributário. Contudo, faltam dados detalhados para mensurar os efeitos exatos em cada operação.",
+   "termos": [
+    {
+     "termo": "Franqueador",
+     "explicacao": "Empresa detentora da marca que cede o direito de exploração comercial a terceiros."
+    },
+    {
+     "termo": "Franqueado",
+     "explicacao": "Empreendedor que adquire o direito de operar uma unidade utilizando a marca e o modelo de negócio."
+    },
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Mudança estrutural na legislação de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f58c77a14a6e89c3",
+   "titulo": "Eduardo Braga vai relatar alíquota da CBS no Senado; votação precisa sair em 2026",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LSC1LM2FhY3YwV2NCcU5IME1fNlNaRG5TbDVHQVFTRXFWVUlKTUN6dFdtenU4cXFiV3hkS1hIVFhYcUdLZ2lfc0ZnRDJ3TG1ZRFR5Q2xYRFNfU3hWV2RkSklyR05BUnJ1SXZwZmRmQk1sNkc4QTBiU1NKRjFuam8?oc=5",
+   "veiculo": "BPMoney",
+   "trecho": "",
+   "data": "2026-10-31T14:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o senador Eduardo Braga será o relator da alíquota da CBS no Senado Federal. A publicação indica ainda que a votação dessa matéria precisa ocorrer em 2026.",
+   "pratica": "Na prática, a movimentação sinaliza o andamento legislativo da regulamentação da nova tributação sobre consumo, exigindo atenção de advogados e contadores quanto aos prazos e impactos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária para unificar tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "268e585511a33d73",
+   "titulo": "Reforma Tributária: Receita Municipal compartilha estudo sobre distribuição de novo imposto",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWJnXzFMaTViZGxyWmp0MjdFcnZVWXRnaXM2TlpYb2FKWm9QZ0kyelRFUjdyV09GaFkyZkFGc3VmTng1Tk5nNm5oZFJmM1JyYTNzQ01NYjh0VWV4ckRkcHBYbjZpRUxRQmVXeE5aMHBrVXlfVVBJekl2YUZRRFlrRTRQUmVKeDktc2ZsV2hlUXJURHVZMUIyTTU4TnRTSkRnUkUtMnFTWUFHQ2tfaWVLSDZEMHVwQQ?oc=5",
+   "veiculo": "Real News",
+   "trecho": "",
+   "data": "2026-10-31T14:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Municipal",
+   "resumo": "Segundo a manchete, a Receita Municipal compartilhou um estudo relacionado à distribuição do novo imposto trazido pela Reforma Tributária. A iniciativa busca debater os impactos e critérios dessa redistribuição para os municípios.",
+   "pratica": "Na prática, a movimentação sinaliza que os fiscos municipais estão se preparando e debatendo os reflexos práticos da nova arquitetura tributária, o que exige atenção de profissionais e empresas quanto às futuras regras de arrecadação.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de impostos do país."
+    },
+    {
+     "termo": "Receita Municipal",
+     "explicacao": "Órgão responsável pela administração e arrecadação dos tributos de competência dos municípios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5fef2905b5b149c9",
+   "titulo": "Reforma tributária: IVA de 30% pode pesar mais sobre serviços",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFBNME9xTk5zUUlPRU5TQWhvdnZLUk1UU2E3RVRGVEQzX1FoVDdybW12TS1NZk5YNXlaYUNlVloxNTczNFdoLXVMUXk0cndodDFmSHg2Y1YtZHJIanV0STBvcDR1TW5rYkRPR2ZlZzFNUmg0X2RPVUp3cDh5V2VaenpucE5mNUMybXVJM01LRjE4NHVCeHZz?oc=5",
+   "veiculo": "BPMoney",
+   "trecho": "",
+   "data": "2026-10-31T14:14-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, debate-se a possibilidade de um IVA de 30% decorrente da reforma tributária. A discussão aponta que essa alíquota pode gerar um peso maior especificamente sobre o setor de serviços.",
+   "pratica": "Na prática, profissionais e empresas do setor de serviços devem monitorar os debates legislativos sobre a regulamentação do IVA para antecipar eventuais impactos na carga tributária.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado previsto para unificar tributos na reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ce7563f2b6f7e1b1",
+   "titulo": "Promessa acaba na urna e governadores aprovam aumento do ICMS",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzlGZE1TbGNIZVF0TnBFeWU3cXR4YVJkalVUbjd0eEVsR0E1T01yTWNyU2tkVjl4YXczSmJ3UnFrb01LRkpRTjVFM294bnZSVVJ0elJITXpmbDBBVTR2MUpjSnVnTFZuQWRoSy1XM2pQTmE1LUVYa3V5T1JSc3NpQ0RWSWxBU0lJcjQ5NTFFdmlWSVZjYWlEbFE3Z0lyUQ?oc=5",
+   "veiculo": "Vermelho",
+   "trecho": "",
+   "data": "2026-10-31T14:12-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, governadores aprovaram o aumento do ICMS após promessas em sentido contrário durante o período eleitoral. O fato envolve diretamente a política fiscal dos estados e a tributação sobre o consumo.",
+   "pratica": "Na prática, a majoração do imposto estadual exige que empresas e contribuintes revisem suas estruturas de custos e preços, pois a carga tributária sobre mercadorias e serviços passará a ser maior.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, de competência dos estados."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6ada4aaf8f55d909",
+   "titulo": "Os erros no procedimento de julgamento, como o na contagem de votos, podem ser discutidos em embargos de declaração",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV1Y2UHNYeHJTUHAtNUoxd1hTemFRNEJtVjFoZ3E0cmM5U0RWXzZsWUNSOUVfbkFienpoc1NnWFBUdVZLRUZucHFUYnF2Z0psSEM5a1F0RElLUlhUVmRxdnh2ZjYxclRsQ2E4ZC1nZXRib1RkNWxTQkU5NXkxMElaendxZXB6WW5SZy1vYVBQWEVqYTJVUXBlRkt0ck9faV9SQXdIOXBYRkpJdThTRTdoZ0hHcDM0eDJJeHpHREQtZXBIMVdaM2lqUFdROUFQclFDTzNXT21idnhhMHQ2LW9ySVl5UW9pZGtF?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-10-31T14:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, erros no procedimento de julgamento, a exemplo de falhas na contagem de votos, podem ser discutidos por meio de embargos de declaração. A orientação jurídica indica o cabimento desse recurso para corrigir defeitos formais na dinâmica de votação.",
+   "pratica": "Na prática, a decisão oferece aos advogados e contribuintes um instrumento processual específico para apontar e corrigir erros procedimentais ocorridos durante o julgamento de litígios.",
+   "termos": [
+    {
+     "termo": "embargos de declaração",
+     "explicacao": "Recurso usado para esclarecer obscuridade, contradição, omissão ou erro material em decisões."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0e620dc9653f80f2",
+   "titulo": "Braga é confirmado relator da alíquota da CBS, hoje em 11,3%",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDVfblpPd0MwZGxRNmdHeXBEMnlZYy1wYVJ0dGxvaW53a2ZaTElNSmVSWWkzNld4RjBGcEZLbFdpZmhvdDR2V1E4RXFSU0FVaHd3ckJNSlZaX3BYeWdvN2ZqR3JzaUQzblBZZTBtY2g2U1c3QXFBRzdMdF9teDlYXzN4b1Zab0FqMXZlVDUxRmpmN1V5c0FWSkpiNUZldU41Ukp5QXFn?oc=5",
+   "veiculo": "TV Sim Brasil",
+   "trecho": "",
+   "data": "2026-10-31T13:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da TV Sim Brasil, Braga foi confirmado como relator da alíquota da CBS, que atualmente está fixada em 11,3%. A notícia indica movimentações legislativas importantes no âmbito da reforma dos tributos federais sobre consumo.",
+   "pratica": "Na prática, a definição do relator é um passo essencial para o andamento das discussões sobre a carga tributária da nova contribuição, exigindo atenção de empresas e profissionais da área tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal previsto na reforma tributária para unificar impostos sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9d0f7889142a7ffb",
+   "titulo": "Empresas tiveram alta de até 21,5% na carga tributária durante Governo Lula",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDJzSHZ4REljcGxEQ25UOHI1V3RuUjVqR1dEN3NILXFfYkZYNl9qV1RhQ0VqcWxwWlBsNjhkRlFibmczQVhWWGhaLW9HbFV1MUVGSkNyY2FUMnZ1N2FZZkV2WnBLUzZEUHZPX29KTi1PSjA4bklNZWVhSXdzUkhNVnpjSzJZTWp2WFBvTXF1Z3JyRkd0bDExWFp1MjRINGVfUnZ1UElNcDEtVGpHSUdHY1NYN0hEMGtfbjRQY0duVnk0b0pZS0wwT3FlTWptTmpuLVdOekdiM2JNejJiVWxVMDBubXFMZ9IB5gFBVV95cUxPWDJzSHZ4REljcGxEQ25UOHI1V3RuUjVqR1dEN3NILXFfYkZYNl9qV1RhQ0VqcWxwWlBsNjhkRlFibmczQVhWWGhaLW9HbFV1MUVGSkNyY2FUMnZ1N2FZZkV2WnBLUzZEUHZPX29KTi1PSjA4bklNZWVhSXdzUkhNVnpjSzJZTWp2WFBvTXF1Z3JyRkd0bDExWFp1MjRINGVfUnZ1UElNcDEtVGpHSUdHY1NYN0hEMGtfbjRQY0duVnk0b0pZS0wwT3FlTWptTmpuLVdOekdiM2JNejJiVWxVMDBubXFMZw?oc=5",
+   "veiculo": "GP1",
+   "trecho": "",
+   "data": "2026-10-31T13:56-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, empresas registraram um aumento de até 21,5% na carga tributária durante o Governo Lula. Como o trecho da notícia não está disponível, os detalhes específicos sobre quais tributos causaram essa alta não foram informados.",
+   "pratica": "Na prática, a informação reforça a necessidade de advogados e contadores monitorarem de perto a evolução da carga tributária corporativa para orientar estratégias de planejamento.",
+   "termos": [
+    {
+     "termo": "carga tributária",
+     "explicacao": "Percentual da renda ou do faturamento das empresas que é destinado ao pagamento de tributos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fa74f8eeaf183fea",
+   "titulo": "Novo imposto sobre consumo pode chegar a 30% e colocar Brasil entre os países com maior tributação",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNGVWSmtOUzRyQVlDNHRKb2h3MWRZYURGMG02NWJSb3YyVVZoVV9oZkl0RW9EUEM2ZzdST252X3VmcElaNTl3RjFncXV4Q0NUWk5nYTdOcllsU3phakJCeVBqakhEOHQtY1lzMEU4MGo2akhVc0RtYktYMENNdjJSMTIxbEtiRlI5eGpjVXBJSjlMREFveXJPX1lhLVlqbVBRRXA3NnNQLVJSdkVCcm9EYm1YN3g2MkIzUk9BR21jaFVaX2kyNW5rVE1DcGJ3blB1b2Zmb0ZZcmpzMW9FbUJlTElB0gHiAUFVX3lxTE80ZVZKa05TNHJBWUM0dEpvaHcxZFlhREYwbTY1YlJvdjJVVmhVX2hmSXRFb0RQQzZnN1JPbnZfdWZwSVo1OXdGMWdxdXhDQ1RaTmdhN05yWWxTemFqQkJ5UGpqSEQ4dC1jWXMwRTgwajZqSFVzRG1iS1gwQ012MlIxMjFsS2JGUjl4amNVcElKOUxEQW95ck9fWWEtWWptUFFFcDc2c1AtUlJ2RUJyb0RibVg3eDYyQjNST0FHbWNoVVpfaTI1bmtUTUNwYnduUHVvZmZvRllyanMxb0VtQmVMSUE?oc=5",
+   "veiculo": "Diário de São Paulo",
+   "trecho": "",
+   "data": "2026-10-31T13:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário de São Paulo de 31 de outubro de 2026, o novo imposto sobre consumo poderá atingir uma alíquota de até 30%. A projeção coloca o Brasil entre os países com a maior carga tributária sobre o consumo no cenário internacional.",
+   "pratica": "Na prática, a discussão sobre uma alíquota elevada reforça a necessidade de advogados e contadores acompanharem de perto a regulamentação do novo sistema para assessorar empresas na mitigação de impactos futuros.",
+   "termos": [
+    {
+     "termo": "Imposto sobre consumo",
+     "explicacao": "Tributo incidente sobre a circulação de mercadorias e prestação de serviços, alvo de unificação na reforma tributária."
+    },
+    {
+     "termo": "Tributação",
+     "explicacao": "Conjunto de regras e valores cobrados pelo Estado sobre a renda, o patrimônio e o consumo dos contribuintes."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b5114136bb056086",
+   "titulo": "CONFAZ não prorroga benefício fiscal do ICMS para pessoas com deficiência na compra de veículos",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFJQSm9ZcVFmVHUtbTA0WDVyUHhDWXg4c2xzZVM5bjg0NWJUX1NDaXY1MUFidjMxNlIyNTBrVFRhaXF2bXVmLUU5MDgwckpVMW9ITDVzNkFBdS1td0tzRHZzTkd0a0R2MkNINFFUS1phX1dCTm1KVGJhN0pGcWRQaXE3X3ZaNjd3ejBKWlUtVGhpS09fWXlEbXFwa1djR3dwU01iYTRvNG1DWXZnWW9OVjNGUnhUX2d0VzJINW53?oc=5",
+   "veiculo": "Diário PcD",
+   "trecho": "",
+   "data": "2026-10-31T13:22-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "ICMS",
+   "orgao": "CONFAZ",
+   "resumo": "Segundo a manchete, o CONFAZ optou por não prorrogar o benefício fiscal do ICMS aplicável à aquisição de veículos por pessoas com deficiência. A decisão encerra a vigência da desoneração nos termos anteriores, impactando diretamente o custo de aquisição para esse público.",
+   "pratica": "Na prática, contribuintes com deficiência perdem a isenção ou redução de ICMS que vigorava para a compra de carros, exigindo atenção redobrada no planejamento financeiro dessas aquisições.",
+   "termos": [
+    {
+     "termo": "CONFAZ",
+     "explicacao": "Conselho Nacional de Política Fazendária, órgão que reúne os secretários de Fazenda dos Estados e do Distrito Federal para deliberar sobre normas de ICMS."
+    },
+    {
+     "termo": "Benefício fiscal",
+     "explicacao": "Medida legal que reduz ou elimina a carga tributária para incentivar determinados setores ou públicos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ee91d249180aa626",
+   "titulo": "Tributária: Comissão do Senado confirma Braga como relator da CBS e vai convidar Durigan para debate",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeUVkRDRwYW5NcENEWW96NHh2VWoyS1ItRHptUy1tN0lrZ081ZHZScklUTHZpWlhnZzFBTTVNbnQtN3hEY01odW5kWHlLLXRWVmVKNFoxQW5lOWZ0b3ZJZnotaHBsdzFwdFgtX1ZFdVBpbGJlckNOb1pNdXUyVi1SaTBwd01OSFoxOVNFNDF0aGxWMTZ0ZnB0STlaTmRBclN6cHctV0hQMzlMOWxsV3E1anExWDJQVXIzZDRKYThidXZOUTlsY0haRHJ6OUkwYzhOS3fSAdcBQVVfeXFMTkVXbHB6S1BsR0dRS3hiM2Z5WnY4dExCdVJscVRaS29XN202bmJmdWVQWjRNdEtPMkgydXhaNFJGMUxUZnA2N3ZYUjJWNUsyazVBMzJBWFJ2ejUwd2NFUXdsaWNhOGpndW1GWnpVeExfMW1BR0pPbzY3VHAwYnp1emZaNTdQSXZHb1BhNkR3cEpJNEd4ZV9sQ016THVQNGQyTjN5cU1teUlYajdIMGZHX1hLbW03dkxnblpGd3FLblY3bXFjUEFOd19FSUh4Ul9jUVRFb2Z0cVk?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-10-31T13:04-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a Comissão do Senado confirmou o parlamentar Braga como relator da CBS. Além disso, o colegiado irá convidar Durigan para participar de debates sobre o tema.",
+   "pratica": "A definição do relator sinaliza o avanço das discussões legislativas sobre a nova contribuição, o que exige acompanhamento atento por parte dos profissionais para antecipar possíveis impactos na carga tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária sobre o consumo."
+    },
+    {
+     "termo": "Relator",
+     "explicacao": "Parlamentar responsável por analisar o projeto e apresentar parecer na comissão."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "90d54046594ebbc0",
+   "titulo": "Carf aplica lei mais benéfica e reduz multa qualificada por sonegação",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2tjTVMtYUhUQmlreDdJWXMxVU85bk95aV9FWjFlbmQyMWdKUDM3X1V2bkVpdUVUWlE5MHZsakdFZ082dnk5X0kwZWJ3SEZ6Ul9QRFhZUFU1b1ZyYVBubVhuRzU5RVludXNuU0w1aElTZkYzdWoxdjR0MWFDdUtwUHJkemdFZ0JidmR2MHhlSTlHQVNmSmRnZEZYUlE2ZS1jcF9zOWMteGZCYlU?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-10-31T12:56-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o Carf aplicou uma lei mais benéfica para reduzir uma multa qualificada por sonegação. A decisão demonstra a aplicação de retroatividade benéfica no âmbito do contencioso administrativo fiscal.",
+   "pratica": "Na prática, a decisão sinaliza que os contribuintes podem buscar a aplicação de penalidades mais brandas previstas em novas leis para fatos geradores anteriores, desde que favoráveis. Isso reforça a importância de revisar autuações fiscais antigas à luz de alterações legislativas posteriores.",
+   "termos": [
+    {
+     "termo": "multa qualificada",
+     "explicacao": "Penalidade aplicada pelo fisco com percentual elevado quando há indícios de dolo, fraude ou sonegação."
+    },
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações da Receita Federal em segunda instância administrativa."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "408c64a3a251ca79",
+   "titulo": "ICMS sobre combustíveis terá atualização de cerca de 4,5% no Piauí em 2027",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWx3dElLX1FGV0ZpUU85ZUJHdU1QU0ZLbXRtMUZqNE56cGlTUnhobl9WdTI0ekt1QWp1TGdRMmw4MktIX29UczN1ajB1dlUxdkpma2pqY0hiUU11X3hNVFJpeG5UT00tNTZ1dXZtZXY0TXRtTlV3Y0g1eldEQVNId2VrUkxMcEIzQVdwQW5VVmV0bHlwWkZvMVJZYnFKSzhOOVhYMDZRZW42c1d4MFAtTzJn?oc=5",
+   "veiculo": "CidadeVerde.com",
+   "trecho": "",
+   "data": "2026-10-31T12:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o ICMS incidente sobre combustíveis no Piauí passará por uma atualização de aproximadamente 4,5% no ano de 2027. A informação aponta um reajuste futuro na tributação estadual aplicável ao setor de combustíveis.",
+   "pratica": "Na prática, a medida exige que empresas e profissionais da área monitorem os impactos desse reajuste na formação de preços e no planejamento tributário para o exercício de 2027.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e a prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9de7c4692585b73f",
+   "titulo": "Eduardo Braga será relator de projeto que define alíquota da CBS no Senado",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2pXakZibmc3QURsOFBwcVRaTG56V29IbDZwMUZ2LVBBOThHVnM1b19sSFB2b0VGblVqQUJSd2lmSWRiSlZXQS0xQVc2ZXdPMk5wOVRXdHQzejc3Vk1uRHJHSTlHbk15UGdJZkFHNUFneGNCcXpyd3BIYTQySlVZRzN1TllEYVhCWm45azZmT0ozdjNGYzhLZ09OMXZjV2x6MUZUcmUtS2FnZHltbm84?oc=5",
+   "veiculo": "Brasil 247",
+   "trecho": "",
+   "data": "2026-10-31T12:34-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o senador Eduardo Braga foi designado como relator para o projeto que define a alíquota da CBS (Contribuição sobre Bens e Serviços) no Senado. A tramitação legislativa avança na definição dos parâmetros da nova exação federal introduzida pela Reforma Tributária.",
+   "pratica": "Na prática, o monitoramento da atuação do relator é essencial para que advogados, contadores e empresas acompanhem o patamar da alíquota e as regras aplicáveis, auxiliando no planejamento tributário estratégico.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal criado pela Reforma Tributária para unificar a incidência sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "156f3d98e7187935",
+   "titulo": "Policiais militares do Rio Grande do Sul pagam até 22 por cento de contribuição previdenciária, a maior alíquota do país, enquanto 25 das 27 unidades federativas cobram percentual fixo de 8 a 14,25",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZU12djlXcGswdF9MdHZxbFh5LTB1bEVfQ0NONGZmbzI3dG84NklROVZOVGUwZzVJXzJZdTM5N2tRTXZ2aGZEbzBQVnZQbTRJdmR3N3k3OGJUZWdaaU0yUWpqY3JsZ1dTLVM4WFByalZNcGp4RlpsY1g2aU1hSjZwQ1E2VG5ENkdSVFJ6SGVYelJMank4endmMktzUlF1UUNlZ0xjV2d2cHRsZW1mb1dONEVfXy1DaVNPNURqQXAtRUsyR0VZZ3lFZXBoZTdDNkVQNmI5YjdCMUtEcFZvUFRMSGF1a0hYZHJmWTJUYzZWZUsxUDVNNy1LdFZJQkQyV0x5Z2gxNS1DSG1FWGVDdWFkUVl5TEJFTHZ4N25vdUx3Yl9MSlg0VGFBQzNhMGY3V2lpUUYwLWZka0FuU0JMWHAwVlBnQjZHelFpY0Ffb2FCU1RIdUVycXcyU3FLT3JzNjNqMWsxNEYwcw?oc=5",
+   "veiculo": "Revista Sociedade Militar",
+   "trecho": "",
+   "data": "2026-10-31T12:10-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "",
+   "resumo": "Segundo a manchete, policiais militares do Rio Grande do Sul enfrentam uma alíquota de contribuição previdenciária de até 22%, apontada como a maior do país. A notícia destaca que a maioria das unidades federativas adota percentuais fixos entre 8% e 14,25%.",
+   "pratica": "O tema evidencia a disparidade regional nas alíquotas de contribuição previdenciária aplicadas a servidores públicos militares no território nacional.",
+   "termos": [
+    {
+     "termo": "contribuição previdenciária",
+     "explicacao": "Tributo destinado ao custeio da Seguridade Social e dos regimes de previdência."
+    },
+    {
+     "termo": "alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para determinar o valor do tributo devido."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8a5390f0eadbfe28",
+   "titulo": "Governadores aprovam aumento do ICMS sobre gasolina, diesel e gás de cozinha",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUUtbmUtQ0hJNDd2TzBGUUZvZ1pkaXJITEYxRC1LZnpxZXNITk5obDNTVWZaUng1Z0RhS0lqNWpBWE8yM2xPaXZfUWhnVF9PeVhTRDFmR1VxRGlPLUd4ODdXRXhMOHh4RTVvOTNqb1dQX25pcjR3b1B4SEhVQlY0Rm11QkVYZ2FLZnhCSjgwb3hYZ1l0SzJSZHpyU0V3U2hwUkRwQ1gzM2hfR2pwdElEQmdZcGJIWnhOY0E?oc=5",
+   "veiculo": "Gazeta 24 Horas Rio",
+   "trecho": "",
+   "data": "2026-10-31T12:08-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, governadores aprovaram o aumento do ICMS incidente sobre gasolina, diesel e gás de cozinha. A medida altera a carga tributária estadual sobre esses combustíveis e itens essenciais.",
+   "pratica": "Na prática, a alteração exigirá que empresas do setor e contribuintes recalculem a carga tributária e ajustem seus planejamentos e preços considerando as novas alíquotas de ICMS aprovadas.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bfa1faf8965f50d6",
+   "titulo": "Tribunal afasta aplicação dos limites da Lei 9.639/1998 aos bloqueios do FPM por débitos previdenciários",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa2stMDdqQUpmdEYzM3N4bzM1Vjk4XzhMXzlUbGFvdWZwd0hTT2RKZHVjVDlTTjlIdGt5c1FMd29NejA4T1pLQmxrNHFCWm1jak1QWGNEX2RzSVJUWTB1SDhzeFlvQmpwQjc2VlVaUlU0ZUxrSWVvZkdaX0Q1MVFmTWJxY01Oa3FIUW1jUUl6NENKUWxsdm0zQkhPb1F4bUNuc2ROMVNuNV93UTJnQVdkbjEtaGdlSjdzVjhkNHFBVDhHSGcxbzhzNlJfaEVHTk1zVnhjVEtpZFF6Q24wa21HeTZMY9IB4wFBVV95cUxQZ2U3RWEyLTJrT3lpZjJzYkdJTFFEY3pGRC1jRGtIOHhYOGZDcGdQR1dEeEpTVHFNMDVCNWdQay1OWkprOVdtRS1HY1p2R2dQejlLSE5scWhWYjNteXZYWU1wWUltelVMc1NmNVNnRjZZVjNPWmhvWVVJMXdmVnRWakRTQm80MWJxN2JRdHpKQVZnWUNwVE54cXlTTDlQS3pGcWhEaUdPTjFhYmtvaExMal92LURDWGhJV1hiWTh4N1pObVpYbGRPZEx4Mm5XV3FMTDh3R3Y0cEo0S0RTb3ZqcVBDQQ?oc=5",
+   "veiculo": "Cassilândia Notícias",
+   "trecho": "",
+   "data": "2026-10-31T12:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "Tribunal",
+   "resumo": "Segundo a manchete, um tribunal afastou a aplicação dos limites previstos na Lei 9.639/1998 em casos de bloqueios do Fundo de Participação dos Municípios (FPM) motivados por débitos previdenciários. A decisão afeta a forma como os repasses constitucionais aos municípios podem ser atingidos por retenções ou constrições fiscais. Como o trecho original não foi disponibilizado, trata-se de um resumo prudente baseado exclusivamente no título da notícia.",
+   "pratica": "Na prática, a medida pode facilitar a retenção de valores do FPM por entes públicos em cobranças de dívidas previdenciárias, exigindo atenção redobrada de procuradorias municipais e advogados públicos na defesa dos repasses.",
+   "termos": [
+    {
+     "termo": "FPM",
+     "explicacao": "Fundo de Participação dos Municípios, que repassa verbas federais para as prefeituras."
+    },
+    {
+     "termo": "Débitos previdenciários",
+     "explicacao": "Dívidas relativas a contribuições devidas à seguridade social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "2d5f718280c0a491",
    "titulo": "STF aprova mudanças na isenção previdenciária para aposentados",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MbDJEYzZ0RW1lby1pSEdJWXZFdEZtcFJESzc1ZzdXV285U3N2UjZXTEM5WVRQNmVDSHA2YXI4WEtxSDN0NVplTjMzMGNlclpodTA0Tlp1aE8wN1d6cnZSVXAyeWhjeTZoSWtLTjRjUloxMVhsQmlKcmRpMA?oc=5",
@@ -4849,7 +5644,8 @@
   "2026-10-28": "O cenário do direito tributário destaca, em âmbito judicial, as decisões do STF que definiram a exclusão do ISS da base de cálculo do PIS e da Cofins e impactaram mais de 6 mil processos sobre a imunidade do ITBI nos tribunais estaduais. Na pauta administrativa e de novos tributos, o Tribunal de Contas da União movimentou o debate nacional ao decidir e divulgar os cálculos da alíquota da CBS, o novo tributo previsto para substituir o PIS e a Cofins a partir de 2027 no contexto da Reforma Tributária. Esses temas importam porque moldam a composição de bases de incidência federais, movimentam milhares de litígios e definem as diretrizes técnicas das inovações fiscais em curso.",
   "2026-10-29": "O destaque desta edição concentra-se nos desdobramentos da Reforma Tributária, com destaque para a aprovação pelo Tribunal de Contas da União (TCU) da alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS) a partir de 2027, tema que também passa por prazos de definição no Senado e debates sobre o dimensionamento da carga tributária. Além disso, o Confaz aprovou o aumento do ICMS incidente sobre gasolina, diesel e gás de cozinha, com nova alta no imposto sobre combustíveis prevista para fevereiro de 2027. Por fim, a Receita Federal e a PGFN regulamentaram o perdão de dívidas de Microempreendedores Individuais (MEIs) vencidas até 13 de outubro de 2026, estabelecendo regras de anistia para o setor.",
   "2026-10-30": "Nesta edição, destacam-se três temas centrais para o direito tributário brasileiro. Primeiramente, a Reforma Tributária ganha forte evidência com a discussão em torno da alíquota da CBS, fixada em 11,3% (com carga efetiva de 8,5% ou variações projetadas), o que gerou alertas entre especialistas e empresas sobre o impacto nos preços para 2027 e a exigência de planejamento estratégico, além dos prazos para o Simples Nacional. Em segundo lugar, o STF avança em julgamentos relevantes sobre contribuições previdenciárias, validando regras de isenção para servidores incapacitados e portadores de doenças graves, além de analisar o tempo de contribuição de mulheres na previdência complementar. Por fim, o CARF e o conselho fiscal permitiram a adesão ao lucro presumido após reestruturações e incorporações societárias.",
-  "2026-10-31": "Nesta edição, destacam-se os desdobramentos da Reforma Tributária, com forte repercussão em torno da projeção de que o novo imposto sobre consumo e a alíquota da CBS de 11,3% possam elevar a carga tributária, gerando debates e preocupações no setor empresarial, além de novas regras para notas fiscais eletrônicas. No âmbito do Supremo Tribunal Federal, importa registrar a decisão que manteve o fim da isenção previdenciária e o aumento da cobrança para aposentados, pensionistas e servidores públicos com doenças incapacitantes. Por fim, no cenário dos impostos estaduais, o Confaz aprovou o reajuste do ICMS sobre combustíveis com início em fevereiro de 2027 e a manutenção de incentivos fiscais até 2028."
+  "2026-10-31": "Nesta edição, destacam-se os desdobramentos da Reforma Tributária, com forte repercussão em torno da projeção de que o novo imposto sobre consumo e a alíquota da CBS de 11,3% possam elevar a carga tributária, gerando debates e preocupações no setor empresarial, além de novas regras para notas fiscais eletrônicas. No âmbito do Supremo Tribunal Federal, importa registrar a decisão que manteve o fim da isenção previdenciária e o aumento da cobrança para aposentados, pensionistas e servidores públicos com doenças incapacitantes. Por fim, no cenário dos impostos estaduais, o Confaz aprovou o reajuste do ICMS sobre combustíveis com início em fevereiro de 2027 e a manutenção de incentivos fiscais até 2028.",
+  "2026-11-01": "O cenário tributário é marcado pelo avanço da Reforma Tributária, destacando-se a movimentação no Senado Federal para definir e votar a alíquota da nova Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Valor Agregado (IVA), cujas projeções e debates econômicos indicam cargas superiores a 30%. Esses temas importam porque a reestruturação do sistema nacional gera forte preocupação no setor produtivo e no setor de serviços. Paralelamente, o Confaz aprovou o aumento nas alíquotas do ICMS sobre combustíveis e gás de cozinha com vigência para 2027, e o STF voltará a julgar a ação sobre o desempate pró-contribuinte no Carf, tribunal que também enfrenta anúncios de paralisação de conselheiros da Receita Federal em fevereiro."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -4997,9 +5793,24 @@
   "Regularidade fiscal": "Situação em que o contribuinte está em dia com suas obrigações, comprovada por meio de certidão específica.",
   "Carga tributária": "Volume total de tributos pagos pela sociedade ao Estado em relação à economia.",
   "Execução fiscal": "Ação judicial usada pelo Estado para cobrar dívidas de impostos não pagas pelos contribuintes.",
-  "Prescrição": "Perda do direito do Estado de cobrar judicialmente uma dívida tributária após o decurso do prazo legal."
+  "Prescrição": "Perda do direito do Estado de cobrar judicialmente uma dívida tributária após o decurso do prazo legal.",
+  "Direito Tributário": "Ramo do direito que disciplina a arrecadação e a cobrança dos tributos.",
+  "Direitos humanos": "Garantias fundamentais asseguradas a todas as pessoas.",
+  "Contribuição sobre Bens e Serviços (CBS)": "Tributo federal criado no âmbito da Reforma Tributária para unificar a incidência sobre o consumo.",
+  "Carf": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações fiscais federais.",
+  "Desempate pró-contribuinte": "Regra em que o empate nas decisões do Carf é resolvido a favor do contribuinte.",
+  "Franqueador": "Empresa detentora da marca que cede o direito de exploração comercial a terceiros.",
+  "Franqueado": "Empreendedor que adquire o direito de operar uma unidade utilizando a marca e o modelo de negócio.",
+  "Receita Municipal": "Órgão responsável pela administração e arrecadação dos tributos de competência dos municípios.",
+  "embargos de declaração": "Recurso usado para esclarecer obscuridade, contradição, omissão ou erro material em decisões.",
+  "Tributação": "Conjunto de regras e valores cobrados pelo Estado sobre a renda, o patrimônio e o consumo dos contribuintes.",
+  "Relator": "Parlamentar responsável por analisar o projeto e apresentar parecer na comissão.",
+  "multa qualificada": "Penalidade aplicada pelo fisco com percentual elevado quando há indícios de dolo, fraude ou sonegação.",
+  "contribuição previdenciária": "Tributo destinado ao custeio da Seguridade Social e dos regimes de previdência.",
+  "FPM": "Fundo de Participação dos Municípios, que repassa verbas federais para as prefeituras.",
+  "Débitos previdenciários": "Dívidas relativas a contribuições devidas à seguridade social."
  },
- "atualizado_em": "2026-10-31T06:30-03:00",
+ "atualizado_em": "2026-11-01T06:32-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
