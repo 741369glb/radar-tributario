@@ -1,6 +1,743 @@
 {
  "itens": [
   {
+   "id": "f29578ff86422200",
+   "titulo": "Carf afasta tese do STF e mantém multa do IPI por notas irregulares",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkdVeDZRVFREMFQ2YmJSNGVkWG5xMVZPSGJzWmlFRjF6dVhnRDlKdXBDd0tzMGF0c2ZLUXpzZFRKYjlmT0t3TnlVcWxSeWxuTk5vMkFRdUxaNnFmUXExWUNLd3hyTzcyRkthWlNlSWdOcnk3N3Nnd2M0NFhDMW51bjd3?oc=5",
+   "veiculo": "Imprensa 24h",
+   "trecho": "",
+   "data": "2026-11-02T06:07-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Outros temas",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o CARF afastou a tese do STF e decidiu manter a multa do IPI aplicada em razão de notas fiscais irregulares. A decisão administrativa evidencia um desalinhamento entre o entendimento do órgão e a jurisprudência da Suprema Corte sobre a matéria.",
+   "pratica": "Na prática, os contribuintes que enfrentam autuações de IPI por notas irregulares devem redobrar a atenção, pois o CARF continua aplicando penalidades apesar de entendimentos divergentes do STF.",
+   "termos": [
+    {
+     "termo": "CARF",
+     "explicacao": "Órgão administrativo que julga recursos de autuações fiscais federais."
+    },
+    {
+     "termo": "IPI",
+     "explicacao": "Imposto federal incidente sobre produtos industrializados."
+    },
+    {
+     "termo": "Multa",
+     "explicacao": "Sanção pecuniária aplicada pelo Fisco por descumprimento de obrigações tributárias."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5e418201aebcf566",
+   "titulo": "Confaz aprova reajuste do ICMS sobre combustíveis para 2027 com alíquotas unificadas em todo o país",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdG50VTJQNnlvUC1OdWdtRTZjM0tJTGxTcUFHOTBBMVZXeFh1LVNneXQ1RC1GMkVPWXkwZWdvRHB0U251S1Q2dE95bm5LSWhCOGs3SDdiZThEanJwVjZYbVhVTElnVFc3VXhFZDNUNXhhR1RyWElVT3NjdDB0dHJ6TWhPb2pFTUhSNGhKQU02ekFiX0h0UlJ5XzJWQWhCQ3pYWWhwaFBhN3NrQ2QxbWtGdUtHWEs5TFFieFRDZV9pb3RiMW5XVWc?oc=5",
+   "veiculo": "Região Noroeste",
+   "trecho": "",
+   "data": "2026-11-02T06:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Confaz aprovou o reajuste do ICMS incidente sobre combustíveis com previsão para 2027. A medida estabelece alíquotas que serão unificadas em todo o território nacional.",
+   "pratica": "Na prática, a medida exigirá que empresas e profissionais do setor se preparem para a nova tabela de alíquotas padronizadas em âmbito nacional a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária, órgão que reúne representantes dos Estados e do Distrito Federal para deliberar sobre a harmonização do ICMS."
+    },
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação."
+    },
+    {
+     "termo": "Alíquotas unificadas",
+     "explicacao": "Percentuais de tributação padronizados que passam a valer de forma idêntica em todas as regiões do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b4839de88823fa40",
+   "titulo": "CBS pode afetar cálculo do ICMS e do ISS na transição tributária",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEhHRjNVa1laNERfdjYxOUdkb3c3aHZpSFVDUHVIeWxXSHJLcjVnaG56X21hTk5ycHd3RHd6SjBCc0REQlhSOXRzMkNWbUZVcjZOV201cS04OVlqWFRkUk5VU0IxcFR6NWI5YlZzUVJYeVVuc0pmVGdoc3p1YXlleXFhX0ZkQlBjU1JRRzRaV0Q5S25SU3ZuX1hrNkFfaGVoWjZmdkRCekE?oc=5",
+   "veiculo": "Jornal Diário do Povo",
+   "trecho": "",
+   "data": "2026-11-02T04:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Jornal Diário do Povo, a futura introdução da CBS pode gerar impactos diretos no cálculo do ICMS e do ISS durante o período de transição tributária. A discussão aponta para a complexidade da convivência entre os tributos atuais e o novo modelo de exação federal sobre bens e serviços.",
+   "pratica": "Na prática, advogados e contadores devem monitorar os reflexos da transição tributária para antecipar eventuais distorções na base de cálculo e na cumulatividade do ICMS e do ISS.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da reforma tributária para substituir PIS e Cofins."
+    },
+    {
+     "termo": "Transição tributária",
+     "explicacao": "Período gradual de adaptação do sistema brasileiro para a substituição de tributos antigos pelos novos impostos da reforma."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cd4b3b4b639e5b37",
+   "titulo": "CBS por dentro ou por fora: entenda como novo tributo pode impactar empresas e a arrecadação de estados e prefeituras",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbVE4eDdWb2xFOXZtWTVFSXoxTHBFUG1oSHdtMjVxa1BWRFdmNFk0NzJFc3ZYcm1hdFh6TmdnZVdoclRUbFF4Yk5KR0E0b0RDaC1vc0haTk9tRmEzR3Ryb2ZzUWZlRFRRQnl0Q3I5OC1wX3JLZHlMU0tkRVNzYWtHYU5OOGVUMFBZYndzOXg3aFgzME9KYmZWRW84T2xlbG54d0pESTY1VndBNEhtQVE2aFpjZ0p6LU1mTzFvYVlpcXdoTEJ2SnNHVV9zbEFBQ1BnalNGa0FBdml5TVpwWDhUWi1pajByM1hIS0s0cWRUNXJBVDRubXZYNzBFdFVBY1BBU2ZYYW130gGUAkFVX3lxTE81RzhGcFlyVVFpbUMzUXFPeWw1eWwxcUJHUE93VUFRVGhjbTZGeGpDeHVNUVVhdW9OSmJSX0Zab0tFcUZrM25KaDBIVHJUY3AtUEEtZlpJQ1pJRTFYMjBlUjZhWUQ0NjNjbXlpb05vUDNrOHRONDFIb1hEbHp6VDdxQkRnVzI3NS1WS0NhbDdMb0hZUnFrSGx4ZGpuZFMxcDBXYWVwSTItMkwtWVFKcVJ2SjhHbGxpVFFreV9SYWxYdFRUYUdSSXVvVEhqaVc5eWtEbEJPVEd6bkdVLWl0WVVuVlN3THdlaTRXcnlXcHNMMGxlYVNZZkdXU2tQWndTMUdzWjVMZVg1dW5ZZXY3UGEwM2hRUA?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-11-02T04:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do jornal O Globo de 02/11/2026, discute-se o impacto da CBS (Contribuição sobre Bens e Serviços) 'por dentro ou por fora' para as empresas e para a arrecadação de estados e prefeituras. O debate aborda a forma de cálculo do novo tributo federal instituído no contexto da Reforma Tributária.",
+   "pratica": "Na prática, a definição de como a CBS incidirá sobre as operações exige atenção de advogados e contadores no planejamento tributário e na adaptação dos sistemas de faturamento das empresas.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, novo tributo federal criado pela Reforma Tributária para unificar a taxação sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "07709f89a0aafbf6",
+   "titulo": "Setor privado pressiona Senado para mudar alíquota da CBS",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdG9Edmk4ZXJHb0VYR202Z2hjT3lselV3aVJKWVFqdE5RdVlyZkk4MGVOd0hjQ2h5TV9HTnVIZU1rTzl3aHNmTWVXSG0tYS02VzBpVXVnN0RkX1ljeVQzRW91UHZGanBVRlpsNm1NZnRZYjhyWGlGc3NsMWU3dFpkcTZOWWtTODBKSFJsRlJkam00YV8tdVNROTRkaVVWWEkxTjA4RzFwMVJFZE1GdFNTZFRWeDY3NTdOUnBUbGtQaG_SAc8BQVVfeXFMTjlZdjZITG4tWENnMW8yb29zOGs3X3VuYjBKUTdvQ1NFaFNYQ05PQTQ5MXV5MFVDeThNT1pldUk2MmZpUE81UnltU3Q3b0ZJOGo0Ykhjb0NoYlRTVWxubjc1NGZxWU1UbGx4NEFjZGg2Q3dKTlh4WXBqZTlDUmltQlJWYUJScjAxVlNRcnpVYTVEVEFtSEplMndWRnZVY1h1dk5uU2Q5R3YxUmpPX1BNQy1MY1dMRW1hRHREVFVTQXBIaV83YkhLTHB4RFRzQkdN?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-11-02T04:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do jornal O GLOBO, o setor privado está exercendo pressão sobre o Senado para alterar a alíquota da CBS. A discussão envolve os debates legislativos em torno da nova contribuição federal inserida no contexto da reforma tributária.",
+   "pratica": "Na prática, a movimentação indica que empresas e entidades de classe buscam influenciar diretamente o texto legal no Senado para mitigar a carga tributária prevista.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal previsto na reforma tributária para unificar a taxação sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1559fc57bb169107",
+   "titulo": "Boulos e Tarcísio divergem sobre alta do ICMS do diesel: “lamentável”",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjdiMnd2c1FQaDRzWFNCOEJPYWgyNTQxYkprOVNMSjhXQVJpTUZCOEdpTldaRnJmUmZfeUsyMnMtYjdwLXgwX05ZZjNLeDRJZkQ0Z0xuY1h4V1I5Ql8tOXpzNnNtYlJiNTA5N0xxWjh6enBKUWpfbU5XSlp3V2NrTXpVR2k0ci1iaHl1SUdaazIyaUNNRHVF?oc=5",
+   "veiculo": "BossaNews Brasil",
+   "trecho": "",
+   "data": "2026-11-02T01:41-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Boulos e Tarcísio divergiram publicamente a respeito da alta do ICMS do diesel, com uma das partes classificando a medida como lamentável. O debate envolve diretamente a política de alíquotas do imposto estadual sobre combustíveis.",
+   "pratica": "Por enquanto, a notícia restringe-se ao debate político, não alterando de forma imediata as rotinas de apuração do ICMS ou o planejamento fiscal das empresas de transporte e logística.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual queincide sobre a circulação de mercadorias e sobre serviços de transporte interestadual, intermunicipal e de comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "310dee6c9d6cdd3b",
+   "titulo": "Boulos é criticado por omitir esquerda em fala sobre ICMS - BNT - Boca no Trombone",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzhzR2tVcWpOblFRRmhEejRhb3k5Wm45Ny1VcjhXSExOVUtHMDYzVjNCaDdhVEJpUVBxaEVfSUpjOUVkSmtuMk9EblhyX3NLd0VlZGQ4dUtmNmRsU2x4eFJPaVlDV2M4WExVbExZVk9URVlFZURrU2RLUzhPcGdTUWJpQTJWQW04?oc=5",
+   "veiculo": "BNT - Boca no Trombone",
+   "trecho": "",
+   "data": "2026-11-02T01:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Boulos foi criticado após omitir a esquerda em um pronunciamento sobre o ICMS. O episódio gerou debates políticos em torno do imposto estadual que incide sobre circulação de mercadorias e serviços.",
+   "pratica": "Na prática, a notícia reflete discussões políticas sobre o ICMS, sem trazer alterações normativas imediatas para a rotina de contribuintes ou profissionais da área tributária.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6ddba79c378473f3",
+   "titulo": "Aposentados com doenças graves podem pagar mais contribuição? Entenda a decisão do STF",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5WXljWHZCYUUtVUJWVTN1cFctU2hHOTBCd19Sd0p0RW9ubTBFTnhpN2xzajdKSkZFeU8wb0I4Mzh4QUtLRFY4WTJMUWRyTjlYUTN1aWdhbGc2WFZoZjdjUmhDbHotLU5DTGt3NDZTdVJCWTdrM3MzZlJMbUw?oc=5",
+   "veiculo": "Surgiu",
+   "trecho": "",
+   "data": "2026-11-01T23:59-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal analisou se aposentados que possuem doenças graves podem vir a pagar um valor maior de contribuição. A discussão aborda a incidência e os limites dessa exação sobre proventos de inatividade.",
+   "pratica": "Na prática, a decisão pode impactar diretamente o planejamento financeiro e a carga tributária de contribuintes aposentados acometidos por moléstias graves.",
+   "termos": [
+    {
+     "termo": "Contribuição",
+     "explicacao": "Espécie de tributo destinada ao custeio da seguridade social e da previdência."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1b991366072d10ff",
+   "titulo": "Boulos e Tarcísio divergem sobre alta do ICMS do diesel; governo chama declaração de “lamentável”",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0VEYkV6SlA1aklKWWtzMmg2MkdqYXFJWG1BSk1nVHJjbTBjUTN2UElzaThzU0xwQ1ZYNWpHXzZoSzVsZHZzRWJvdFVIcTZCQWN1Zy01VjBBUWlkYUtiRnRFTHRlazBJWjB1ckV2eUVPLUNNSUlZRFpBdFVidEdEX2RETk50TmQ5M0R6SGI3amxKUUVyUXEtWGUyb2R3NFJuZTB2T0N6RnFXYVpGSW9DVFBGRERPN3V2MEhJRWJGWlk1NnZzRER3?oc=5",
+   "veiculo": "PAIPEE -",
+   "trecho": "",
+   "data": "2026-11-01T23:51-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Boulos e Tarcísio divergem a respeito da alta do ICMS incidente sobre o diesel. Além disso, o governo classificou a declaração como lamentável.",
+   "pratica": "Por enquanto, a notícia restringe-se ao debate político entre as autoridades, sem alterações normativas concretas sobre a alíquota para as empresas no momento.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ee17726c42cbf31b",
+   "titulo": "Boulos é criticado por não citar a esquerda ao falar do ICMS do diesel",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlVkLURKUVpsOHd1cGpmSGpMemM3dFBiZVg0dGpFT2MtSkZKS1A3QW41cExsV2RVQ3hUMmRERTNvekdqc0FEbXlBS19OT0ZpazZMd0wwekE3MGM5azNWSmhWQmwwR1lwcGNaYllLSkZrbDN3MkduZWdqb2NYM0RhbmtVWUdUS2M4WEtveFJjYzNOQVAyREs4Xy1aTmRIYm5jVEtsd3BOVGUzcFpoR2dXWHJ3SDc?oc=5",
+   "veiculo": "Poder360",
+   "trecho": "",
+   "data": "2026-11-01T23:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Boulos foi criticado por não citar a esquerda ao falar sobre o ICMS do diesel. Trata-se de um debate político envolvendo o imposto estadual sobre combustíveis.",
+   "pratica": "",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a Circulação de Mercadorias e Serviços que incide sobre combustíveis como o diesel."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1d9167bc8e2367b3",
+   "titulo": "Quem decide o aumento do ICMS do diesel que opôs Boulos a Tarcísio",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORk9pcFd1QTVrWFQwZEstTXY5N2xwWUxLcU5DTmppNi1JLU5BaVYtYjZYdS0yMFhqal83VU0yVjNNclJrSnFXTU9iQmNIY3NHQWpPNEpyZTI1OTVnZlYyVXl5eXMzQnQtYjVMNWVUak9vODlXWlJreEs4MkZ3bXV6QnFyM0FxbWRUaWJpRUQwR1l2cXJpRXlPdUZWM29ZMVBFeTl4YWpJMEJzNVVXSzc3R3RB?oc=5",
+   "veiculo": "TV Sim Brasil",
+   "trecho": "",
+   "data": "2026-11-01T22:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete da TV Sim Brasil de 2026-11-01, debate-se a competência para decidir sobre o aumento da alíquota do ICMS incidente sobre o diesel, gerando divergência política entre figuras públicas. Como o trecho original não foi fornecido, o resumo baseia-se estritamente na controvérsia anunciada no título da reportagem.",
+   "pratica": "Na prática, a definição sobre quem detém o poder de decisão e os rumos da tributação estadual de combustíveis pode trazer instabilidade e exigir atenção redobrada de empresas e profissionais da área tributária quanto a eventuais variações de carga tributária.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3c56cd58d54d2192",
+   "titulo": "Eduardo Braga será relator de projeto que definirá alíquota de novo imposto sobre consumo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmVqWWRjc3ZhNlpscTZpTWktUE8zdzhOREJuNnN2NXA2Z1dYaDNIOENyZ09lV2ozd3ZKbE1zUnFYMTVDdTA3MzAwb2pkcnljS2ZwcjJHNTdtMEhyNnN2ZGRuNUJ1czhvb3F4cFdicW9RV3ZRNDl4RHpqT3FKLS12UGI0TTJXd01PaDV3U3EwY1FXWnFhYlJVaGtnUU5xZ0Rvbkc0UC0tRTJzUktwdDVJb1U2R2pyZw?oc=5",
+   "veiculo": "Amazonas1",
+   "trecho": "",
+   "data": "2026-11-01T22:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o senador Eduardo Braga foi designado como relator de um projeto no Congresso que terá a atribuição de definir a alíquota do novo imposto sobre o consumo. A medida avança nos debates legislativos acerca da regulamentação do sistema tributário nacional.",
+   "pratica": "Na prática, o acompanhamento dessa relatoria é essencial para que contribuintes e profissionais antevejam o impacto da carga tributária do novo imposto sobre o consumo em seus planejamentos.",
+   "termos": [
+    {
+     "termo": "alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para definir o valor do tributo a ser pago."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3bab9245a6ae10a9",
+   "titulo": "STF mantém regra que amplia desconto previdenciário para parte dos servidores aposentados; veja quem é afetado",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMm5FMHNLV3lDdjM2WHkxd0J6aWVueHdVN1kzM0h3SnA1OWdocWx6RDFpNEZaVU5xU0hwSFhhYmlCclVwcERKVVVxVklnUzlXSWM0YlRKcFpDNlZNZE5yQ1Zzb1JXLWduV2FXNlgtVnVhU3pzOUtvbVZJOWh6aTNpUjlYN1VieU9tUUNOYnV0T3BmLTVqLV9TWWNhNFAyTVgtQjIwT2VWMTJFaThmUEpXNG95TU1NdkU1YjJnUkU4b0Y1SjNOSGtiRGtPSE9UdDBzcS1zdm5KQ2tDalZDRTRZdEJ3?oc=5",
+   "veiculo": "AU ONLINE",
+   "trecho": "",
+   "data": "2026-11-01T21:41-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal manteve uma regra que amplia o desconto previdenciário para uma parte dos servidores aposentados. A decisão impacta diretamente a incidência de contribuições sobre os proventos desses beneficiários.",
+   "pratica": "A medida afeta o planejamento financeiro e o cálculo dos proventos líquidos dos servidores aposentados enquadrados na regra mantida pelo STF.",
+   "termos": [
+    {
+     "termo": "desconto previdenciário",
+     "explicacao": "Retenção tributária incidente sobre a remuneração ou os proventos para fins de custeio da previdência social."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fa99288e4dc7a93d",
+   "titulo": "Boulos e Tarcísio trocam acusações sobre aumento do ICMS do diesel aprovado pelo Confaz",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaUx2SnF2VXNYZ0I4UXFwNk1BSDBubXpqU1V2Vm9FRG5oQnhPd3QtNGlmdk9UTEdmbjJCSXgzZmdLZldEU0h3c2U3TkhRekpxMEhhbVlyZTFwM0x4bFMxV1UyS1ZkcDA5RWtzQXZPTWpLakZQb0drTFMxcDdpSGZGenY4NHUwRkhiX005Y01fSGMySFEtNFhrUXhLRUk1UmJzR01ESGNyTnp4Tk9BRWE3Y0lqNlZzRDB5WmY0dG03Y09MTkQ0Rmp2VnNEbHJwaXJjd2sw?oc=5",
+   "veiculo": "Diário do Estado de S. Paulo",
+   "trecho": "",
+   "data": "2026-11-01T21:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, houve uma troca de acusações entre Boulos e Tarcísio a respeito de um aumento do ICMS do diesel que teria sido aprovado pelo Confaz. Trata-se de um debate político envolvendo a incidência do imposto estadual sobre combustíveis.",
+   "pratica": "Na prática, a discussão evidencia o impacto político e econômico das variações nas alíquotas do ICMS sobre combustíveis, o que exige atenção de empresas e transportadoras quanto aos custos logísticos.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e a prestação de serviços de transporte e comunicação."
+    },
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária, que reúne os secretários de Fazenda dos estados para deliberar sobre normas e convênios do ICMS."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4122aec7f0f9012c",
+   "titulo": "ICMS dos combustíveis terá reajuste nacional a partir de fevereiro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVlCanVrNkdEMGkyLWFOUGZ5OGdzYmptVFJqOFE2UXdJSzRNUkRZeWNjWmZoTXl5WWl5dXhDV1B2R0JZVXBwOXk1YklKN20wazBmS1ZiVmx1QjcybHN0ZV9mZmRjaGxXUk41MU54cXBoVC1FY0hsOXY5WmVaRzN1VWQwcFRIQkNpem5PXzlVamo4ZGNLME9DMUY1N0JmRXFTcm9mUFN5WmdMQTlUNDVob1RuSk5VZE9KTEdV?oc=5",
+   "veiculo": "Grupo Rio Claro, São Paulo",
+   "trecho": "",
+   "data": "2026-11-01T21:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, haverá um reajuste nacional no ICMS incidente sobre os combustíveis. A alteração de alíquotas ou valores do imposto estadual passará a valer a partir de fevereiro de 2027.",
+   "pratica": "Na prática, a medida exigirá que empresas do setor e profissionais da contabilidade se planejem para a nova carga tributária sobre os combustíveis. Contuintes devem monitorar os atos normativos subsequentes para apurar corretamente os reflexos nos preços e custos.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8eabe1cb352594d0",
+   "titulo": "Quando vai ter perdão de dívida do MEI? O novo teto já está valendo? Entenda",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUR1dFJGbWVtZ3JoQzVram9RZXg1ZVJOdkEzQUpMMkRZSmRkWEFuRm13SzVPMXpEZ1BDZFotYTVzSHFDY0N4UzNlUzJpUVRQZGRlSEdtVWxxUllqNEZ3NU1wQThCV0pnYUNaNzB4cWN0Snc0ZE9XZy1sUnR2YlV4cEJqUk5KYUZqNEZHUTEtR0l0RUxNWTBUQ3hnTUhteGJHbTdJQVVR0gGmAUFVX3lxTE15RHV0UkZtZW1ncmhDNWtqb1FleDVlUk52QTNBSkwyRFlKZGRYQW5GbXdLNU8xekRnUENkWi1hNXNIcUNjQ3hTM2VTMmlRVFBkZGVIR21VbHFSWWo0Rnc1TXBBOEJXSmdhQ1o3MHhxY3RKdzRkT1dnLWxSdHZiVXhwQmpSTkphRmo0RkdRMS1HSXRFTE1ZMFRDeGdNSG14YkdtN0lBVVE?oc=5",
+   "veiculo": "Jornal O Sul",
+   "trecho": "",
+   "data": "2026-11-01T20:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Jornal O Sul, há dúvidas sobre a possibilidade de perdão de dívidas para o Microempreendedor Individual (MEI) e sobre a vigência de um novo teto. A publicação busca esclarecer esses pontos fundamentais para a regularização fiscal desses contribuintes.",
+   "pratica": "Profissionais e contribuintes devem acompanhar os desdobramentos sobre eventuais programas de regularização e limites aplicáveis ao MEI para orientar corretamente seus clientes.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores no Brasil."
+    },
+    {
+     "termo": "Dívida",
+     "explicacao": "Débitos tributários pendentes de pagamento junto ao Fisco."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "39823f96515fecc1",
+   "titulo": "Servidor aposentado com doença grave pagará mais, decide STF",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1hmYmNiQ0s0UkJxUGVpanp5Z2hzSkFLWEY1VXJXdm9nMnVUNnJ3bVNCNUZWVGNUemJTYjFhOGhnUldndFJ2S0UwSUJFV2dnLUMzTE1WcmUxM1M2bGViRUdwcHhkNnR2TnlvR1BfczlhaUNPV1VyZHBWNUdSZ2Y2Z3E5QVVTenk5b3pnUklOY2VoNXRITFYwNzNFcW9MMXNzbXFXRw?oc=5",
+   "veiculo": "DOL",
+   "trecho": "",
+   "data": "2026-11-01T20:50-03:00",
+   "tipo": "Julgamento",
+   "tema": "Imposto de Renda",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal decidiu que servidor aposentado diagnosticado com doença grave pagará mais tributos. A informação indica uma mudança no regime de taxação para essa categoria de contribuintes.",
+   "pratica": "Na prática, a decisão exige atenção redobrada de advogados e contadores que orientam servidores aposentados acometidos por moléstias graves, pois haverá impacto direto no cálculo do tributo devido.",
+   "termos": [
+    {
+     "termo": "Servidor aposentado",
+     "explicacao": "Funcionário público que encerrou suas atividades profissionais e recebe proventos de inatividade."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dc988592368e6c42",
+   "titulo": "Boulos e Tarcísio divergem sobre aumento do ICMS do diesel: \"Lamentável\"",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaER1UVFIaXFLSk5yRllnWnY5THEwVzJ2eWc1UTJwd29JaC1hWXYwNXptMjVCWTljcXZqa1hoREpjVVN3WnZLQmU4Ml9EcXJyZmYtTVB4SzA2WDZnMHJBLXg5NlRRWTZoWWVNTnE4UzlLa1Z6TmR1YTdDS0plbFM2WVlEYnZxMnZrRHFRNGdPYm44N3dsRTc1emhfZlpoNWE5M21XbDhUQUVCdw?oc=5",
+   "veiculo": "Metrópoles",
+   "trecho": "",
+   "data": "2026-11-01T20:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, figuras públicas divergem publicamente a respeito de um suposto aumento da alíquota do ICMS incidente sobre o diesel. A discussão política envolveu críticas diretas à medida.",
+   "pratica": "Na prática, o debate político sinaliza a volatilidade e a sensibilidade em torno da carga tributária sobre combustíveis, exigindo atenção de empresas e transportadoras quanto a eventuais oscilações de custos.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços que incide, entre outros produtos, sobre os combustíveis."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4e8a9732ab194e00",
+   "titulo": "TCU propõe imposto maior que o previsto e Brasil pode ter a maior alíquota do mundo",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWG96MU1GS2JNbmd5dDRMbjNoaWk1OEtNUmtXbkNSck1tQlMtQjllcU92Y002aFJ0RzlxaWV0bnIzM1U4T3dRY0tQUm5ITWNFVEVUN3Rsdk1TTkF4VHh2UktHSUtEM3haand5TlNIZjBJVmhHVWdrTjJuaEJybklPT2ZIdm5RNFpSUGlURDdLOUtZWXFTanpqeTNITnZ1ek1rQWt1WlV6MThVZk1wbUlDd2JmMzNtcVhRTzZnUWtuNG12a3gx?oc=5",
+   "veiculo": "Power Mix",
+   "trecho": "",
+   "data": "2026-11-01T20:17-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o TCU propôs um imposto com alíquota maior do que a prevista inicialmente. Caso a proposta avance, o Brasil poderá passar a ostentar a maior alíquota tributária do mundo.",
+   "pratica": "Na prática, a notícia acende um alerta para profissionais e empresas acompanharem os debates sobre a carga tributária projetada, que pode impactar fortemente o planejamento financeiro.",
+   "termos": [
+    {
+     "termo": "alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para definir o valor do tributo a ser pago."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6f9968b1e7426bfa",
+   "titulo": "Reforma tributária avança, mas alíquota preocupa setor produtivo",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRXlhRmNvNzA2WHFia084dThSS3VQUG9wSGxHUmgxX3F6Vnd2NnhVVF9sX0poTHVOTjZaUlFiczB2NUhBLS0yVUdOZU5zN0xBS01obDhmVnA5VkdaWGhubHJkMEd2UUhNMzFLX3dWN1poaUYxZ0x1a2xqYjBFUUxnVlhYNFhqTnhEQlpmQnJiNA?oc=5",
+   "veiculo": "Acia Araçatuba",
+   "trecho": "",
+   "data": "2026-11-01T20:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária está avançando, mas a definição da alíquota gera preocupação no setor produtivo. Trata-se de uma discussão de relevância econômica para o cenário tributário nacional.",
+   "pratica": "Na prática, empresas e contribuintes devem acompanhar os desdobramentos legislativos da reforma para avaliar o impacto financeiro das novas alíquotas em suas operações.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no país."
+    },
+    {
+     "termo": "Alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para determinar o valor do tributo a ser pago."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "761d7ece6c7eabcc",
+   "titulo": "Aumento de ICMS sobre combustíveis vira nova frente de batalha entre lulistas e Tarcísio",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObFdTc1pGOUI4Mm41TFBKcWtJV0Vra3BWY3NYU3g0SVNhLWRqY0ZSa0h2VTN6cUVTdXFJd2ZZdEN2dXJPV3NoUGRsTDR4YUNQRkZYVEVNc2R2b0FSdlRoN1hESEdZQS1IZklDcUpsUmdyUjVOOXp6WkVqWnAtQjB2bkNJdlNFVmdvRFAtZW55WWUtQkI1bHBpcVhrUklBcF9DWVowdVJLeGtCeGxPaGt3WXdmVEVRWDJNb0x6Vy15VzZMS0Y0TlBnbzVzVU1CYVlESDBWejhzZnAwZXA1M0h4ZdIB7wFBVV95cUxQckpyeU9veDN3cE1LcGhpX3E3LWI0YnFfSUdPTjRLQy1HeU9hYkMtWThIZS1wUFBwSS11MWZVSEgyb19pbWx2dEtWVFduRi10YUdQWjcwcUJoSHJSZXU5cUpCc21TTjJ0dTdnZzRDNXhYd1VjQkdtZGZRMlRXMzA2ZW9wZ2ZCQk1Da2hrWTNtZzFFbEplaXlkLXFoYWlFNE8xcS02WmlFMTk3S1ZGQnB4SGlpQjM2aHRfWC1EYzJ3LUJUZlR0QU1ETUpBTmYwUk55dDMzTkViN0FlX0pMVDE3VWVJTWRZUUIyRUVRZ1pHbw?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-11-01T20:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o aumento do ICMS incidente sobre combustíveis tornou-se uma nova frente de conflito político entre apoiadores do governo federal (lulistas) e o governador Tarcísio. Trata-se de uma discussão de relevância econômica e fiscal envolvendo a tributação estadual.",
+   "pratica": "Na prática, a disputa política em torno das alíquotas do ICMS sobre combustíveis pode gerar instabilidade e expectativas de mudanças na carga tributária para o setor e contribuintes, exigindo monitoramento constante.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fcedf7af2334e88d",
+   "titulo": "Tarcísio rebate Boulos sobre aumento do ICMS: “Distorção”",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXJST2llN1l5WFMxZmRhOTdSdEtWNlRVZVplYV9lVzJ5NGZGX1J6SExabG9vdjhVUlFOWnpCZEZPcF9BcklyVlllMjVqM3NMZ1JBR05xR0RBdW5XZWlEWXFUMHBFWlA3STFUZXJGNlV6Z0pvdHFjbU9Ya3Z1akdhUVlzZWhxQ1k3VUo2VXdqQmlGSDRKY28xR0pkbjhHOWZfNksyV1JB0gGuAUFVX3lxTE1lVzBmN2dWVVlsY1NaZHRueG1qV2FTc2ZwbGlNMGFlQ2dXU1FSYkdpaWFaS3F3c21nbXhIaHFBcGd5OTNnMGI2azhiTmZTMzE5eW9ORzZNclk4WnNpQ1ZPLWFxRFhfNnhlRDBjczJMeUtuX19IV2FMM2JSd056cnB5a3o4QW9FZVJSb3pESnF3QlplTmc2QnlrMFZYS3N6OVFnMUJkTWUwR3BmVld0Zw?oc=5",
+   "veiculo": "Pleno.News",
+   "trecho": "",
+   "data": "2026-11-01T19:13-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o governador Tarcísio rebateu declarações de Boulos sobre um suposto aumento do ICMS, classificando a alegação como uma distorção. O debate político envolve diretamente a política de alíquotas do imposto estadual sobre circulação de mercadorias e serviços.",
+   "pratica": "Por enquanto, trata-se de um debate político sem alteração normativa formal, exigindo que advogados e contadores monitorem o cenário legislativo em busca de eventuais propostas reais de mudança de alíquota.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual queincide sobre a circulação de mercadorias e a prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0ed6c1278847fd5d",
+   "titulo": "Rondonienses cobram Marcos Rocha por decisão que eleva ICMS dos combustíveis após recusa a subsídio do diesel",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb2VHVFU5RjNaOHRHUVkzYWRCQ1BLVUdCdWR3cnFiRTJDdXFlZTdzRXg0eEZZU3NrUzZqX2FBM0xMZjhSd1BVb3U4eG03a18zWm5xYU1aSW5lS3U2SnRrV0VkazkyQjBLbFZ0QUZzbjJlbXVHYUIydEFzdm5WOXRDazgzZVl5YXJSOV9KMl9XVGRwMGVKQXZlTHY3V2RZUHRqWm5sQ2lYZkh1ejFDY1dPZ2RRY2hlNWs3R0VZSlZSbmR3cjBUMndELXk5WmZudW9pSndvNV92dm82RVVGLVFEdkFiSW02Z1V5MGRab0E2cw?oc=5",
+   "veiculo": "News Rondônia",
+   "trecho": "",
+   "data": "2026-11-01T18:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, contribuintes rondonienses estão cobrando o governador Marcos Rocha devido a uma decisão que elevou o ICMS dos combustíveis. A medida teria ocorrido após a recusa à concessão de subsídio para o diesel no estado.",
+   "pratica": "Na prática, a alteração na tributação estadual exige que empresas e consumidores fiquem atentos ao aumento da carga tributária sobre os combustíveis na região.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual queincide sobre a circulação de mercadorias e serviços, incluindo os combustíveis."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7ba28f4e2d68a5a6",
+   "titulo": "ICMS sobre combustíveis vai subir em 2027; veja o que muda | Diário do Grande ABC - Notícias e informações",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVKVEVLdXlBTmhzVTFMQ0s2by1kTjNGaTU0S3pxcWptRnhia0Jmc1RVSUtMZXFrU3hmZXFtU0hSYTlrZlB3OEpLTTdBNUZjRzFOcThfdXc5aUswQ1BJLVlPdVFVdnBOd0pBU0U4VVVMS3NEN0NZRUtURzdwVmJVUlJyWEFadmxuTFlsM1JrRDlncWlXbVdzQW4tTmllSmpWdzZGYnk3XzZrTVBD?oc=5",
+   "veiculo": "Diário do Grande ABC",
+   "trecho": "",
+   "data": "2026-11-01T18:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incidente sobre combustíveis passará por um reajuste de aumento a partir de 2027. A notícia indica que haverá mudanças na tributação do setor, embora os detalhes específicos não constem no trecho disponível.",
+   "pratica": "Para empresas e profissionais do setor de combustíveis, a mudança antecipa a necessidade de planejamento orçamentário e reajuste nos cálculos de precificação para o ano de 2027.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "726aedfbb5f33bb0",
+   "titulo": "Atualização do ICMS sobre Combustíveis: Entenda a Decisão Nacional e o Impacto para 2027",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50Vk15YVhTeU5fOG9EeHVQLVo2a1A4czZXNUxZSFlnYmktR0h1UFdQMkM0eDhOV3N5cEs4TVBab0ZVWmZPQlZ6Umx0NWQ5ZGt5YUJpQnZTZXRaMHJXQVNubHNZRmp1ZkZBMS03aFMySmFpc3pPMTBBeFlsY2dJdw?oc=5",
+   "veiculo": "Jornal Digital da Região Oeste",
+   "trecho": "",
+   "data": "2026-11-01T17:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, houve uma decisão nacional sobre a atualização do ICMS incidente sobre combustíveis. A publicação destaca os impactos previstos dessa medida para o ano de 2027.",
+   "pratica": "Na prática, segundo a manchete, a decisão exige que empresas e profissionais da área acompanhem os desdobramentos sobre a tributação dos combustíveis com vistas ao planejamento para 2027.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "360fcbb731fbd9d2",
+   "titulo": "Servidor aposentado com doença grave volta a pagar contribuição acima do teto do INSS, decide STF",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanhRYnhYb1NNQUxISE05MVBsMnF5VlloWnRoVnlGczM2enZmTTFuNUZUek1HNnA2cWdEU1UwU3ExaTdDSFpnUzNqX1Y5XzFXX0xvWjBRTlY4NndPTGx5Y1BUY2xmbTU0bm5iejZBM3FmU0s3T29zWnBKOEl0U1ZaVWxFUF9BR3VkdWRlQkZla2JfS1A4cGhYOUNTS0hqcWVRQ3FIOVdlOENXUEVhY3Mw?oc=5",
+   "veiculo": "soubrasilia.com",
+   "trecho": "",
+   "data": "2026-11-01T17:02-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal decidiu que servidor público aposentado com doença grave volta a pagar contribuição previdenciária incidente sobre valores que superam o teto do INSS. A medida impacta diretamente a rotina de aposentados que portam moléstias graves ao retomar a exigibilidade dessa exação.",
+   "pratica": "Na prática, profissionais e contribuintes devem recalcular os descontos previdenciários em folha para servidores aposentados afetados por essa decisão do STF.",
+   "termos": [
+    {
+     "termo": "teto do INSS",
+     "explicacao": "Valor máximo estabelecido para o pagamento de benefícios pelo Regime Geral de Previdência Social."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d22fb15fe7a0f44f",
+   "titulo": "STF enterra a esperança de aposentados doentes que pagam desconto a mais desde 2019",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWnFKbXZ3SkcxdS1CRG1iSFNZVFV6S3ZJTzNlb0RtOFZOZ1QydEJHRGI1RlFTQXBSaDNrdDdZYjQxbEV6eldhTXRsU3Q1N0FvaTQ1djdQNHl3ZU9hMG9MRmFPVElRSVRoM3ExV1dHd0F6ZmI4SGh6cnlUQ3U0SklsN2d5ajA2eVFvMWFoR3lqQml0LW0zejVLTE41S01FeUNjcFNYQk4zT0w4Ym1WZkJHYy1FMVJTZHg0ZkdPNUpoZUI1SHNLWTZBM1dVRUVxcE5mTUo1SEdBeHppQQ?oc=5",
+   "veiculo": "O TEMPO",
+   "trecho": "",
+   "data": "2026-11-01T16:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal encerrou as expectativas de aposentados com doenças graves que buscavam afastar a cobrança de um desconto previdenciário considerado excessivo, aplicado desde 2019. A decisão consolida um entendimento desfavorável a esses contribuintes na mais alta Corte do país.",
+   "pratica": "Na prática, a decisão afasta a possibilidade de restituição ou cessação desse desconto previdenciário para os aposentados afetados, mantendo a exigência fiscal nos moldes aplicados desde 2019.",
+   "termos": [
+    {
+     "termo": "desconto a mais",
+     "explicacao": "Cobrança de contribuição previdenciária de aposentados contestada judicialmente desde o ano de 2019."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "753f98e9d9af0195",
+   "titulo": "Governadores que prometeram não aumentar impostos aprovam reajuste do ICMS sobre combustíveis",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaUtIREQ5S0lfZGJOVGp2RmVJR1NoRkhJWGlfZlo2Mk56b29VdHNnamt6czNaSDNxcC1LbHAtTmIzN3QwU0lxcWx1YmFXTk9sODdtN3BFQl9BblVqREZDOTV3OXJJb0FmaXhJcEpDdEozb2wxWGJrT0g1R1RJSzF5T3NEWGU2VFpwYzQ4YTZ2cEV0QkYyQzBCN0hxMGtxSmNtOXV2eEMycUY4QXFfd2gxUi1VTV9hM2ljOWVfRUJfQnNiVlNSdmpBZWRZN3Q1Y2FyX183ckVqSEgzSGd5dVBkRXNTWQ?oc=5",
+   "veiculo": "Jornal Opção",
+   "trecho": "",
+   "data": "2026-11-01T16:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, governadores que haviam prometido não aumentar impostos aprovaram o reajuste da alíquota do ICMS incidentes sobre combustíveis. A medida envolve a tributação estadual aplicável a um dos setores mais sensíveis para a economia e o consumo.",
+   "pratica": "Na prática, a alteração pode impactar o planejamento financeiro e o cálculo de custos para empresas do setor de combustíveis e consumidores. Convém acompanhar a publicação oficial dos decretos estaduais para verificar a vigência exata da nova alíquota.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e prestação de serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "421de3741cac9041",
+   "titulo": "Decisão do STF sobre imunidade de ITBI na integralização de capital social impacta o setor imobiliário",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0ZqSl9TUGZMR0xNc2owZzEtYjBzNTE4MEo2WklZQ2ZmYUpNX0tnaUZkS2JIUThwUU0wV3BWUWFhdl9JQU93VnBIT2tLczNxblBNMDZhWG1ZUWFmR1AxMGozRUczcnJMWHliRUxSN254M01rdlZnWTdFSFdRZmlGdHBvdWNBQlhyZzg2dEo5WHVKV29vQlVTLTllUXN2Rm1JVUx6eVlhcjB4SElRMEdUM1h3dkZ1RFNfU3pndHlpUUxKUHk1anItWlJNZDA1YUVKdVNyRVE0UzA?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-11-01T16:09-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o STF proferiu decisão a respeito da imunidade do ITBI na integralização de capital social. A medida gera impactos diretos sobre as operações do setor imobiliário.",
+   "pratica": "Na prática, a decisão exige atenção de advogados, contadores e empresas do setor imobiliário na estruturação e no planejamento de operações que envolvem a transferência de imóveis para o capital social.",
+   "termos": [
+    {
+     "termo": "ITBI",
+     "explicacao": "Imposto municipal sobre a transmissão de bens imóveis."
+    },
+    {
+     "termo": "Integralização de capital social",
+     "explicacao": "Ato de entrega de bens ou dinheiro pelos sócios para formar o capital da empresa."
+    },
+    {
+     "termo": "Imunidade tributária",
+     "explicacao": "Garantia constitucional que impede a cobrança de determinado tributo em situações específicas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "277ec3a19c98ced8",
+   "titulo": "Governo inicia notificação sobre perdão de dívidas para mais de 3,6 milhões de MEIs; veja quem tem direito e como consultar",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1J5NW5YSS1ZTzcwWGxfZ3BJSE5YRDRJMTQxT05kVllkVFZ2RGE5a2RkYm9YQUxLLWhNOTc3aUE1YXl0RmltT2JSTVBHSUxZOGRjOXVFWXpuMFE3TkQ1RmJRSGZISnFxV0pEc2RyNk9DNk1Sc0stMTNiMWQ1OW96TUhtQUViZE9VTU9FY2s0YTdRVHk4MUhzUV93ZXMxMDFJSWl2d1hiUktYTmFOT2tEUlRhdGp4WlFVN1Z2aC05MU14enZrRmZhWHJqOC04QXpteGR4ZDYxY1cxQmdtLXF0M2JRX3FleHZYSkE?oc=5",
+   "veiculo": "Catu Acontece",
+   "trecho": "",
+   "data": "2026-11-01T16:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Governo",
+   "resumo": "Segundo a manchete, o governo iniciou o processo de notificação sobre o perdão de dívidas voltado para mais de 3,6 milhões de Microempreendedores Individuais (MEIs). A notícia orienta os contribuintes a verificarem quem possui direito ao benefício e como realizar a consulta.",
+   "pratica": "Na prática, a medida exige que profissionais e contadores acompanhem os canais oficiais para verificar a regularização e o perdão de débitos de clientes enquadrados como MEI.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores."
+    },
+    {
+     "termo": "Perdão de dívidas",
+     "explicacao": "Extinção de obrigações tributárias pendentes por ato normativo ou governamental."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "50a9096782f3fced",
+   "titulo": "Entenda como é tomada a decisão da atualização do ICMS dos combustíveis",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkJoQ0ljcUx2d0ZSdFk4RWZwbW9aMG5BeTJWaUIzaFVBNG4wT1BmRlhUdXpmYkVmZm9XWTFJYnBBRjhJZlc5TmRUMmthSkNvSVlVYWhKZXJkWGp5VDZsZDVEanRrb0MyaEE4RG9nNVVvTmRCTHNXY1E4UUtOcHQyX0JXVU5VMzRlZlJfME9nWFhXY1ZmRUlLVGo1M1hNeUZDZk56ZGZUZ0xHNDhNUUdjVlNR?oc=5",
+   "veiculo": "agenciasp.sp.gov.br",
+   "trecho": "",
+   "data": "2026-11-01T16:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o tema aborda o funcionamento da tomada de decisão para a atualização do ICMS incidente sobre os combustíveis. Como não há texto detalhado disponível, a análise fica restrita ao entendimento dos critérios que envolvem essa atualização.",
+   "pratica": "Na prática, profissionais da área e contribuintes devem acompanhar os critérios de atualização do imposto para prever impactos nos custos dos combustíveis.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, estadual e incidente sobre combustíveis."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "771adff2516ad514",
+   "titulo": "Stéfano Ribeiro Ferri: 'Imposto sobre transferência de imóveis: os desafios que ainda precisam ser enfrentados'",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXdjcW1yVXRvbWxSdDhlS1RkQVFueGFIZTR0QjBSc05JVUNqQzh1bHBhZGc5VzJiNFFQX3RCMzJLUEdiaU1pX0MzMk9fbDh2YlVTcmtDaktCRUVIUFc4WEpYNFlXUWlkQnBoVzRCSXZZNm1oU08ybTJiTGItMm1GMVpZNWNWVHhHTjdTNGNHaDVZWVJ2dDNEUmhfaDNEREIwUU1peFAyYzZ0QmdwcThxZTZ6cUJBV2pJclh1Rg?oc=5",
+   "veiculo": "Revista Oeste",
+   "trecho": "",
+   "data": "2026-11-01T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Revista Oeste de 01/11/2026, um artigo assinado por Stéfano Ribeiro Ferri discute os desafios atuais que ainda precisam ser enfrentados em relação ao imposto sobre a transferência de imóveis. O texto propõe uma reflexão sobre as controvérsias e complexidades que envolvem essa exação tributária no cenário nacional.",
+   "pratica": "Na prática, a discussão serve de alerta para advogados, contadores e profissionais da área sobre os entraves e debates jurídicos pendentes na aplicação desse imposto imobiliário.",
+   "termos": [
+    {
+     "termo": "Imposto sobre transferência de imóveis",
+     "explicacao": "Tributo incidente sobre a mudança de propriedade de bens imóveis, cujos desafios de aplicação são o foco do debate."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "70ff0ea39526f6f0",
+   "titulo": "Tarcísio rebate Boulos sobre aumento do ICMS: ‘Distorce os fatos para atacar’",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3YzZWIxWnlSVkZOaFZDeVpuNUhrYjJzYTRMMl9GcTd1OHlubjNsNFR4ek9iZjV0M2FWVnlYSVZaUGxXQXV4dU1UZGFfSUVZQTZKVEtrOXNUajQzWmZUMnl3MFZ6UHZtV01JeVpHN3A4bWdKVFF0S2plUjNqc2lPZjR0X1BlcEZXWHF3UXVWaHFNSVh3MjVnV3JaVHZWMXRBeG1EdkRSSXNiMFE0?oc=5",
+   "veiculo": "Jovem Pan",
+   "trecho": "",
+   "data": "2026-11-01T15:54-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o governador Tarcísio rebateu declarações de Boulos sobre um suposto aumento do ICMS, afirmando que há distorção dos fatos para fins de ataque. A discussão pública envolve o imposto estadual sobre circulação de mercadorias e serviços.",
+   "pratica": "Na prática, o debate político sobre alíquotas e gestão do ICMS exige atenção de profissionais e empresas quanto a possíveis instabilidades na percepção pública e regulatória do tributo, sem alterações normativas imediatas relatadas.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual brasileiro que incide sobre a circulação de mercadorias e a prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
    "id": "4548cc1df7e60c44",
    "titulo": "Reforma Tributária: quem planeja não paga a conta do improviso",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVdDdzBBdGVLT3BXUVVWMENQWTAtWkl2YnFYWnZ6TlVXQl9uaWMzS04wSFFFY1JjeVlaLWZhdTU0WmRkMXNMdXM4MWZWVXp4a2dTMGFLT2g4UDMxSVRvbU42YWtOM0VCcXhkeldkOTlCT2VoMXB3UzlsZ2h1Y2F2ODRMRXZ5V2dVbFBrYUd4R0NuREFxd0MwaDV5Qmt5UUgzMk5DSzc0a2ZFdXp4ZDY0d0RPUFNkd3FiQkx4c1dnWEIyRHFKRzRrU0g0UmtnT1M0Zzg0?oc=5",
@@ -5645,7 +6382,8 @@
   "2026-10-29": "O destaque desta edição concentra-se nos desdobramentos da Reforma Tributária, com destaque para a aprovação pelo Tribunal de Contas da União (TCU) da alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS) a partir de 2027, tema que também passa por prazos de definição no Senado e debates sobre o dimensionamento da carga tributária. Além disso, o Confaz aprovou o aumento do ICMS incidente sobre gasolina, diesel e gás de cozinha, com nova alta no imposto sobre combustíveis prevista para fevereiro de 2027. Por fim, a Receita Federal e a PGFN regulamentaram o perdão de dívidas de Microempreendedores Individuais (MEIs) vencidas até 13 de outubro de 2026, estabelecendo regras de anistia para o setor.",
   "2026-10-30": "Nesta edição, destacam-se três temas centrais para o direito tributário brasileiro. Primeiramente, a Reforma Tributária ganha forte evidência com a discussão em torno da alíquota da CBS, fixada em 11,3% (com carga efetiva de 8,5% ou variações projetadas), o que gerou alertas entre especialistas e empresas sobre o impacto nos preços para 2027 e a exigência de planejamento estratégico, além dos prazos para o Simples Nacional. Em segundo lugar, o STF avança em julgamentos relevantes sobre contribuições previdenciárias, validando regras de isenção para servidores incapacitados e portadores de doenças graves, além de analisar o tempo de contribuição de mulheres na previdência complementar. Por fim, o CARF e o conselho fiscal permitiram a adesão ao lucro presumido após reestruturações e incorporações societárias.",
   "2026-10-31": "Nesta edição, destacam-se os desdobramentos da Reforma Tributária, com forte repercussão em torno da projeção de que o novo imposto sobre consumo e a alíquota da CBS de 11,3% possam elevar a carga tributária, gerando debates e preocupações no setor empresarial, além de novas regras para notas fiscais eletrônicas. No âmbito do Supremo Tribunal Federal, importa registrar a decisão que manteve o fim da isenção previdenciária e o aumento da cobrança para aposentados, pensionistas e servidores públicos com doenças incapacitantes. Por fim, no cenário dos impostos estaduais, o Confaz aprovou o reajuste do ICMS sobre combustíveis com início em fevereiro de 2027 e a manutenção de incentivos fiscais até 2028.",
-  "2026-11-01": "O cenário tributário é marcado pelo avanço da Reforma Tributária, destacando-se a movimentação no Senado Federal para definir e votar a alíquota da nova Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Valor Agregado (IVA), cujas projeções e debates econômicos indicam cargas superiores a 30%. Esses temas importam porque a reestruturação do sistema nacional gera forte preocupação no setor produtivo e no setor de serviços. Paralelamente, o Confaz aprovou o aumento nas alíquotas do ICMS sobre combustíveis e gás de cozinha com vigência para 2027, e o STF voltará a julgar a ação sobre o desempate pró-contribuinte no Carf, tribunal que também enfrenta anúncios de paralisação de conselheiros da Receita Federal em fevereiro."
+  "2026-11-01": "O cenário tributário é marcado pelo avanço da Reforma Tributária, destacando-se a movimentação no Senado Federal para definir e votar a alíquota da nova Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Valor Agregado (IVA), cujas projeções e debates econômicos indicam cargas superiores a 30%. Esses temas importam porque a reestruturação do sistema nacional gera forte preocupação no setor produtivo e no setor de serviços. Paralelamente, o Confaz aprovou o aumento nas alíquotas do ICMS sobre combustíveis e gás de cozinha com vigência para 2027, e o STF voltará a julgar a ação sobre o desempate pró-contribuinte no Carf, tribunal que também enfrenta anúncios de paralisação de conselheiros da Receita Federal em fevereiro.",
+  "2026-11-02": "No cenário tributário de hoje, destacam-se as decisões do Supremo Tribunal Federal que mantiveram a cobrança de contribuições previdenciárias e o aumento de tributos sobre proventos de servidores aposentados com doenças graves, consolidando um entendimento desfavorável a esses contribuintes. Além disso, o Confaz aprovou o reajuste nacional e a unificação das alíquotas do ICMS sobre combustíveis para 2027, gerando intensos debates políticos e econômicos. Por fim, avança a Reforma Tributária com discussões legislativas cruciais sobre a definição da alíquota da CBS e os impactos do novo imposto sobre o consumo."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -5808,9 +6546,23 @@
   "multa qualificada": "Penalidade aplicada pelo fisco com percentual elevado quando há indícios de dolo, fraude ou sonegação.",
   "contribuição previdenciária": "Tributo destinado ao custeio da Seguridade Social e dos regimes de previdência.",
   "FPM": "Fundo de Participação dos Municípios, que repassa verbas federais para as prefeituras.",
-  "Débitos previdenciários": "Dívidas relativas a contribuições devidas à seguridade social."
+  "Débitos previdenciários": "Dívidas relativas a contribuições devidas à seguridade social.",
+  "CARF": "Órgão administrativo que julga recursos de autuações fiscais federais.",
+  "IPI": "Imposto federal incidente sobre produtos industrializados.",
+  "Multa": "Sanção pecuniária aplicada pelo Fisco por descumprimento de obrigações tributárias.",
+  "Alíquotas unificadas": "Percentuais de tributação padronizados que passam a valer de forma idêntica em todas as regiões do país.",
+  "Transição tributária": "Período gradual de adaptação do sistema brasileiro para a substituição de tributos antigos pelos novos impostos da reforma.",
+  "Contribuição": "Espécie de tributo destinada ao custeio da seguridade social e da previdência.",
+  "desconto previdenciário": "Retenção tributária incidente sobre a remuneração ou os proventos para fins de custeio da previdência social.",
+  "Dívida": "Débitos tributários pendentes de pagamento junto ao Fisco.",
+  "Servidor aposentado": "Funcionário público que encerrou suas atividades profissionais e recebe proventos de inatividade.",
+  "teto do INSS": "Valor máximo estabelecido para o pagamento de benefícios pelo Regime Geral de Previdência Social.",
+  "desconto a mais": "Cobrança de contribuição previdenciária de aposentados contestada judicialmente desde o ano de 2019.",
+  "Integralização de capital social": "Ato de entrega de bens ou dinheiro pelos sócios para formar o capital da empresa.",
+  "Imunidade tributária": "Garantia constitucional que impede a cobrança de determinado tributo em situações específicas.",
+  "Imposto sobre transferência de imóveis": "Tributo incidente sobre a mudança de propriedade de bens imóveis, cujos desafios de aplicação são o foco do debate."
  },
- "atualizado_em": "2026-11-01T06:32-03:00",
+ "atualizado_em": "2026-11-02T06:53-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
