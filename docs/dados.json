@@ -1,6 +1,708 @@
 {
  "itens": [
   {
+   "id": "95c03c69145d9898",
+   "titulo": "Tema 118 do STF retira o ISS da base de cálculo do PIS/Cofins",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0JxT3pSQklkWlU3ak9HSVcteTl5Z3d5aDJ4VWFRbElFNXJJZm55d0h6M0tnOWQ0MHBIUGtGUGtSMVduZ0M1UGdtTU9xOHNmUEpoRDk4R3pDdVdzSnh3UWE1V18zNDhQWkZaNVY1UXFhdzJ2ZXljWVpmbndhSGFRc1BVajh1R2JFWG1CMDlhcjRHQU95anRiOWdoUXJ2c1lrQlF6cW1MWUthbHN2VFdwV1V3?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-08T06:04-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal concluiu o julgamento do Tema 118, determinando a retirada do ISS da base de cálculo do PIS e da Cofins. A decisão alinha o entendimento sobre o ISS à famosa tese da exclusão do ICMS da base dessas mesmas contribuições.",
+   "pratica": "Na prática, a decisão abre caminho para que empresas contribuintes do PIS e da Cofins que recolhem ISS reduzam a carga tributária dessas contribuições e busquem a restituição de valores pagos indevidamente no passado, conforme os limites do acórdão.",
+   "termos": [
+    {
+     "termo": "Tema 118 do STF",
+     "explicacao": "Tema de repercussão geral no Supremo Tribunal Federal que discute a inclusão do ISS na base de cálculo do PIS e da Cofins."
+    },
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou o faturamento das empresas."
+    },
+    {
+     "termo": "ISS",
+     "explicacao": "Imposto sobre Serviços de Qualquer Natureza, de competência municipal."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bd28f0294953d8cf",
+   "titulo": "Devedor contumaz: efeitos penais da LC 225/2026 no tempo",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1FDMlBPckpRU2dTSmUtNjltX1FtODdOaENBVVA1SUktUk9VT2Zrd2tjekNJbkFlTXBSX3ZDcEtWQjk1dTV2QUdKS0V1MERsakxlclpPNGZybV9hTkZnVUczc2NKS2RULWN1TjBEeGdEMmhmNU5hZlMwYV84X09FbmtQbnVCTGdpcmJCdzlLRmlwT0VaQW5HZ3hHekVUT1d0aDBSSHNn?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-08T05:01-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, debate-se os efeitos penais da LC 225/2026 em relação à figura do devedor contumaz no tempo. A análise concentra-se nas repercussões jurídicas trazidas por essa nova legislação no âmbito tributário e penal.",
+   "pratica": "Advogados e contadores devem acompanhar a aplicação temporal da LC 225/2026 para orientar clientes sobre os reflexos penais do inadimplemento tributário contumaz.",
+   "termos": [
+    {
+     "termo": "Devedor contumaz",
+     "explicacao": "Contribuinte que pratica o inadimplemento reiterado, fraudulento e sistemático de tributos."
+    },
+    {
+     "termo": "LC 225/2026",
+     "explicacao": "Lei Complementar que trata de efeitos penais e normativas aplicadas aos devedores contumazes."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a1a6a113262fd76c",
+   "titulo": "IBS e CBS: os desafios da composição de preços, das desonerações e das imunidades",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBYNkhOMzJqQzhrTTFEUGN2ZkctMXdlMDhoY2xXNXo5ZmVZRFpDZUFWM25YZDJuekV4akN4a3d0RnJJSGFjX3RpWlJGM3ZLNEdkZ2M4S042U2JyeUJVeFQ4VXFEbGdMT0U3UEJHR1dFLWtPTERNSjMzYlROWWR4aXBBTm4tQWtWdzFDb0dvUy1ORkpwNWFUWURWcF91cEVHTk1SeV8xYVQ4eENNTWYxVEJ2QjJYSGR3ckFYRFFuOS1kS25IdEE?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-08T02:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate em torno do IBS e da CBS envolve importantes desafios relacionados à composição de preços, às desonerações e às imunidades tributárias. A discussão reflete a complexidade da transição e da aplicação das novas regras sobre o consumo.",
+   "pratica": "Na prática, profissionais e empresas devem redobrar a atenção na formação de preços e na análise de benefícios fiscais diante do novo modelo de tributação.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços, criado pela Reforma Tributária para substituir tributos estaduais e municipais."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, instituída para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "241b02e6ee74a520",
+   "titulo": "AgroCastMS: Reforma tributária exige planejamento e atenção redobrada no agronegócio | Notícias de Campo Grande e MS",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVmtwRXg3TjVUeTA4dXpvbmVzcUp4bDVPYmV4Y0c5MmwzS1JZR0hXZFFlNC1WVVhjeUI0SGo4LTdvalltU0d1amJVSU0wZFFfQ2c?oc=5",
+   "veiculo": "capitalnews.com.br",
+   "trecho": "",
+   "data": "2026-11-07T21:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o podcast AgroCastMS debateu os impactos da Reforma Tributária no setor do agronegócio. A discussão destacou que as novas regras exigem planejamento estratégico e atenção redobrada dos contribuintes.",
+   "pratica": "Na prática, os profissionais e empresas do setor agropecuário devem revisar seus modelos de negócios e planejar a adaptação ao novo cenário fiscal trazido pela Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que mudam o sistema de cobrança de impostos no país."
+    },
+    {
+     "termo": "Planejamento",
+     "explicacao": "Organização prévia das atividades da empresa para mitigar a carga tributária dentro da legalidade."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e1a4ca82e4c4538c",
+   "titulo": "O setor vitivinícola do Rio Grande do Sul manifesta preocupação com os impactos da criação do Imposto Seletivo sobre vinhos e espumantes. ▶ Entidades representativas da cadeia produtiva alertam que a nova tributação pode elevar os custos de produçã",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XaEhGSi1Yc0dxMU10c3FhWEgtUHlkdjFrbjRMLTNsb01fcmVDU3pNY2FiS2QyZ1RJMk5qLTNld3VsVC1taU1aaWlxLWtJbmtGY0E?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-11-07T19:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o setor vitivinícola do Rio Grande do Sul manifestou preocupação com os possíveis impactos da criação do Imposto Seletivo sobre vinhos e espumantes. Entidades representativas da cadeia produtiva alertam que a nova tributação pode elevar os custos de produção.",
+   "pratica": "Na prática, empresas e profissionais do setor devem monitorar o avanço das discussões legislativas sobre o Imposto Seletivo para antecipar impactos nos custos e planejar a precificação.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo previsto na Reforma Tributária incidente sobre a produção, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7e24015b0e0f9b0d",
+   "titulo": "STF tem placar de 5 a 5 em julgamento que pode devolver isenções fiscais à combustíveis na Zona Franca",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT1ZtMDBsRVJfWEJsakFfeGIzdW9GTUM4UFJSaFJ6amNIdzl2dkl0THE4NEVhR2V3QkxJYThld1djTVBKbzVOU2k5Sm8wekZNWW84WER3b1UyWnRpNlJxM2k1eUg3aVhTZnoxX1FLd3FsNWQyZGJCMkNzNTRwQkdLNjRpbGJrTmFlSmZzeS1FSE5aRDRGTURMclRYUWNoNjliTU9zcE5wZDBvT3ljdlA5RUZCdkF0dDJpVE5GSVdfVmZtV1BqS0NnNHRxbzItVjA?oc=5",
+   "veiculo": "AM POST",
+   "trecho": "",
+   "data": "2026-11-07T18:50-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal registra um placar empatado de 5 a 5 em julgamento que pode devolver isenções fiscais a combustíveis na Zona Franca. A controvérsia envolve o tratamento tributário aplicável aos combustíveis na referida região incentivada.",
+   "pratica": "Na prática, a definição do julgamento poderá restabelecer benefícios fiscais para o setor de combustíveis na Zona Franca, impactando o planejamento tributário das empresas atuantes na região. Contudo, devido ao empate atual, é prudente aguardar a conclusão da votação para adoção de medidas definitivas.",
+   "termos": [
+    {
+     "termo": "Zona Franca",
+     "explicacao": "Área de livre comércio de importação e exportação e de incentivos fiscais especiais."
+    },
+    {
+     "termo": "isenções fiscais",
+     "explicacao": "Dispensa legal do pagamento de um tributo."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8091c23af76b6c84",
+   "titulo": "A reforma tributária resulta de décadas de debates; o desafio é impedir que vire disputa eleitoral",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmhybEl1MkxkMGtBUjM0X1R4Y3hlbGtqYmdNbVBSaVFNOVA2aXRyU0hXdmpqY1I0S0h3OGRTZXVTZ2R0SHNGLVMwX0FwRGpKTTJEbzFMNHBST2Q1X2pzUGhlbmIzR1I4cUM1YTFJTDBPbGdyZ2JlQzVvLTh1Um9nZG9FSGNLYkVlOGdJUmltNkFWemJneUgwTXJrM3o3WEp2VFlNaFozcktkZHZEVkZraGhOTGRfNm1IWVlvNEpkWWstUlRieFBka0JOUWdtSU3SAdQBQVVfeXFMTnFVQ0ZVRUtUSE5zRnlpb3FCUUxNY3J5VjJWRjRHcGRkMU9uNnRkWXdNdHZGNVY2MDZfTmVUVXpqZEVheENWNjh4bXZMQndkaVlNVkdUTFN6UVBMT1E4a0RMQlQ0akUzTjk2WG1rdDc5T1hqOEZOOFlvZUtTVlFXNG81dndwbDJ3QzkzUmlDb1pma0gxekc2V3dVU0ZuX1JWUTdoRjNXUzFLWGZNS1p1RzloYmozTm1fRVl1dExORTl4WnpKT3RwWDBJcmY1S0RPMi1VNXo?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-11-07T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária é fruto de décadas de debates e enfrenta agora o desafio central de evitar sua politização como disputa eleitoral. O contexto evidencia a complexidade política que envolve a implementação das novas regras fiscais no país.",
+   "pratica": "Na prática, operadores do direito e contribuintes devem acompanhar o cenário político para antecipar possíveis instabilidades na consolidação das normas da reforma.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a4771ef43ce180c0",
+   "titulo": "Imposto seletivo exige equilíbrio entre saúde, preços e contrabando",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXQyRXhWNmFiLTBVT05YcW9jS1NEek9LRlh4Z3JJOUJmN1NWblAxZC16WHdlUTdmMEZsM3FTYU9jVTVvenhKTy1VQXhSN24xRENzTXVvN1NndlhWOHN1RXNqOEg4anpqQlRrR3QwQnNQcGdMVzd0TGs4ZjJZMElRMUdMWGE5b3NTc1RUbFVrRXhGRUxLRGFqRUU2Yw?oc=5",
+   "veiculo": "Jornal GGN",
+   "trecho": "",
+   "data": "2026-11-07T16:13-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate sobre o Imposto Seletivo aponta para a necessidade de buscar um equilíbrio delicado entre a proteção à saúde pública, o controle de preços e o combate ao contrabando. A discussão envolve os impactos econômicos e sociais decorrentes da incidência desse novo tributo.",
+   "pratica": "Na prática, profissionais e empresas que lidam com setores afetados pelo Imposto Seletivo devem monitorar os desdobramentos legislativos e regulatórios para antecipar reflexos na formação de preços e nos riscos de mercado ilegal.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo previsto na Reforma Tributária com foco em desestimular o consumo de bens e serviços prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "868b39bbaf14eb0b",
+   "titulo": "Alíquota de 11,3% da CBS preocupa o empresariado",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanJPOE9rbEFXSnN5cGdOVjZPWDVjWnFCNXEzYVRpWWtaQzB5cWhRTk5ISEVqRTRKcW5fY21XNlhsZmp5RXlzR19laG5HOVhDRDZSaEMyeENkallueWlKTXJDRzc3bVd1aFZyZG54Z2pNYzZYb1ZBRkZReDBiX2h2LUFlb3RVRjdn?oc=5",
+   "veiculo": "A Crítica",
+   "trecho": "",
+   "data": "2026-11-07T15:47-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a previsão de uma alíquota de 11,3% para a CBS gera preocupação no meio empresarial. O tema reflete os debates atuais em torno da implementação dos novos tributos sobre o consumo.",
+   "pratica": "Na prática, a discussão sobre o patamar da alíquota exige atenção redobrada dos contribuintes na projeção de custos e no planejamento tributário para a nova realidade fiscal.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "36e132e135dc067f",
+   "titulo": "Aposentadoria especial: STF derruba idade mínima para insalubridade",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUxCRV9rSWNtUHo0Z1hsSjlPWEFoOEJfWXo2aXNKVHBySDA1NnRuWXRub0ZTLUlqSXVzNXpDQzVIb2UwSDNZZkE1c3hJa2VWSGxaQkprWjJadGd4YjVjb0ZlSW0tUTVQY3ZtSGFMRFJldnZZeFB5bVZjZms4RmRwS2NzX09DMFJnaXpORnZ1ak03ZXF4NUE?oc=5",
+   "veiculo": "TVBV ONLINE",
+   "trecho": "",
+   "data": "2026-11-07T15:36-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal derrubou a exigência de idade mínima para a concessão de aposentadoria especial relacionada a atividades insalubres. A decisão impacta diretamente as regras de inativação para trabalhadores expostos a agentes nocivos.",
+   "pratica": "Na prática, a eliminação da idade mínima pode alterar o planejamento previdenciário e o cálculo de impacto para empresas e contribuintes vinculados a essa modalidade de benefício.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores que exercem atividades nocivas à saúde ou à integridade física."
+    },
+    {
+     "termo": "Insalubridade",
+     "explicacao": "Condição de trabalho que expõe o empregado a agentes nocivos acima dos limites legais de tolerância."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "404d7ee10a462481",
+   "titulo": "Veja quais carros devem escapar do 'imposto do pecado' na Reforma Tributária - Portal 93",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWpSZ1Q3bEFyQklmTGQ3VFlMdW5ReFluU0ZZVnFBcndlTDBMOHlabjhIRGt2QTFRbDdQQzlveXREYkpSZDEzWUlSckdOTzR6YkZwRUppVjdxUmpvQjM4TWxmRE1UMGlxZUlZWFVfOXRmZU11QVoyd0hYclRyS3NCaUlGSm5SUWFGRXBkS2REaFRhbi1FV0ZJbmRZUUp1VWVzS2FaSWNHONIBpwFBVV95cUxPcWpSZ1Q3bEFyQklmTGQ3VFlMdW5ReFluU0ZZVnFBcndlTDBMOHlabjhIRGt2QTFRbDdQQzlveXREYkpSZDEzWUlSckdOTzR6YkZwRUppVjdxUmpvQjM4TWxmRE1UMGlxZUlZWFVfOXRmZU11QVoyd0hYclRyS3NCaUlGSm5SUWFGRXBkS2REaFRhbi1FV0ZJbmRZUUp1VWVzS2FaSWNHOA?oc=5",
+   "veiculo": "Portal 93",
+   "trecho": "",
+   "data": "2026-11-07T15:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, foram divulgados quais modelos de veículos devem escapar do chamado 'imposto do pecado' no contexto da Reforma Tributária. A discussão envolve a definição dos produtos que serão tributados de forma mais gravosa pela nova legislação.",
+   "pratica": "Na prática, a definição dos veículos isentos orienta o planejamento estratégico e tributário das montadoras e concessionárias. Permite antecipar o impacto da nova exação sobre o preço final dos automóveis.",
+   "termos": [
+    {
+     "termo": "Imposto do Pecado",
+     "explicacao": "Apelido dado ao tributo seletivo instituído pela Reforma Tributária para desincentivar o consumo de bens prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5731cbd9577d6dfb",
+   "titulo": "O novo Imposto Seletivo seleciona?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDdiSk5HOEVOY0FveWt3MG45cTN2RU9EU05rbXFIVUpnSnRuWVc0bDN4YnVOM0pBNmVjekFoTTV2cWd6TUVMVm12bUFlbDF1ZGItVHZDSXNIV1ZYT1lkdUJ0Z3ZrU0ZPSV9GcTA5MUczeFpGNkxiMm5VajFCbkFOX3FRa0NfVl9f?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-07T15:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se o alcance e os critérios de seletividade do novo Imposto Seletivo. O debate aborda a forma como o tributo seleciona os produtos ou setores sobre os quais incidirá.",
+   "pratica": "Na prática, a definição dos critérios do Imposto Seletivo impacta diretamente o planejamento estratégico e a carga tributária de empresas de diversos setores.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Novo tributo instituído no âmbito da reforma tributária com foco em desestimular o consumo de determinados bens e serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "336b1cf6ca7e8eca",
+   "titulo": "Justiça reconhece direito de empresa de excluir Difal do PIS/Cofins",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQk9VQmVFQjFJYV9kWUhOeUwzdlhtWnZweEd4SWFRNFZsTU5XQ21idVpxdDRYTFZXbU5XUEotYkpwWFNuWXdtZW1FLTY4MFZRbEh6ZVZTSmdIZXpGVFo5N0o4YnExQmh3dGh1TktrTFhqdU0tRlJ4ckRxbF9heWVLNXRJZ25hZnlyTk84NHNxNHZHT25QR2taSzFEQk1obU9veGxfTmR1d1lhRURsclZDWWkxTTQ?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-07T15:07-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "Justiça",
+   "resumo": "Segundo a manchete, a Justiça reconheceu o direito de uma empresa de excluir o Difal da base de cálculo do PIS e da Cofins. A decisão aborda a apuração dessas contribuições federais em relação ao imposto estadual.",
+   "pratica": "Na prática, a decisão abre espaço para que outras empresas avaliem a possibilidade de discutir judicialmente a exclusão do Difal do PIS e da Cofins, visando reduzir a carga tributária.",
+   "termos": [
+    {
+     "termo": "Difal",
+     "explicacao": "Diferencial de alíquota do ICMS devido nas operações interestaduais destinadas a consumidor final."
+    },
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições sociais federais incidentes sobre o faturamento das empresas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5b4a538eee010292",
+   "titulo": "Qual é a idade mínima para aposentadoria especial? Entenda nova regra",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjJRTVA5aGYwWlU2RUpFSzhzUFpCVVVHQkdVdldwQkpLTjJqSVZaeVZzWXlUVi1vME83Q0tVVHRaTXpFZVNweE5uZkd4RGdBQVNhcWlQVWJkb1JUMVBVYjNUTktGTDZxOGR1RFktMWFvdVBScjhfZWNnQmRKREt3OF9uSHRTdjFja0k5RDZUUHhuTUJiN3VZckREQldRUktmM1RnY3hvZW4tdVNINm9ZWTRhMU4?oc=5",
+   "veiculo": "viva.com.br",
+   "trecho": "",
+   "data": "2026-11-07T15:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se qual é a idade mínima exigida para a concessão da aposentadoria especial. O tema aborda as novas regras aplicáveis a essa modalidade de benefício previdenciário.",
+   "pratica": "Na prática, profissionais e empresas devem acompanhar a alteração dos requisitos etários para orientar adequadamente os segurados sobre o momento da inativação.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores que exercem atividades expostas a agentes nocivos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "99c67d5a57fe8e25",
+   "titulo": "O adiamento da cobrança efetiva da Contribuição sobre Bens e Serviços (CBS) e do Imposto Seletivo (IS) para janeiro de 2028 é defendido por entidades que apontam riscos jurídicos e econômicos na transição da reforma tributária. Em artigo publicado no",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01WnBQYk9nTkM0ZG5idXdIVXBVcVVxb3VGQVU2ekxGb0l3TDhMcFkxdV9pYlYtOVloaTV2MjYwT1pBdEVla1l4eDR1X2puWldnb3c?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-11-07T15:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, entidades defendem o adiamento da cobrança efetiva da Contribuição sobre Bens e Serviços (CBS) e do Imposto Seletivo (IS) para janeiro de 2028. A proposta surge diante de apontamentos sobre riscos jurídicos e econômicos na transição da reforma tributária.",
+   "pratica": "Na prática, a discussão acende o alerta para profissionais e empresas acompanharem os debates sobre o cronograma de implementação dos novos tributos, visando mitigar possíveis inseguranças na transição.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços introduzida no contexto da reforma tributária."
+    },
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Imposto criado para desestimular o consumo de produtos prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "22e29e83e85e7027",
+   "titulo": "STF valida fim do ICMS Verde em Alagoas, mas novo imposto prevê critério ambiental",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ3RsU1NHZ2VpN1Z6cFY4RWlicGZSTGpGMFNjUEVmdHRGWHdaajhmaEs1V3JremxIU1FndjR6R1pkRF9IUmFmZHk4ZlZTY2RkSW1WLVdtdHFJbU1haXAyQTBFUzhXMHJEaVIzMjZ6Uk81LXhxcFp6ZVp6dlVUVGF0SkRMTjF6cm9FVDN0YWFZZlBWMVBGWm95dE5hZ3RzbEw5aXoyeFJ6bHdBdkRfTXhPZHRMZXNzWEVHc2V6NlBsY2Iwb2kxQWM0VnNGX1RDeEdJdzNVSVRsUUl6OWFL?oc=5",
+   "veiculo": "Tribuna do Sertão",
+   "trecho": "",
+   "data": "2026-11-07T14:06-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal validou o fim do chamado ICMS Verde no estado de Alagoas. No entanto, a publicação aponta que o novo imposto implementado passa a prever um critério ambiental.",
+   "pratica": "Na prática, profissionais e contribuintes alagoanos devem atentar-se à substituição do modelo anterior pelas novas regras de tributação estadual que incorporam exigências ambientais.",
+   "termos": [
+    {
+     "termo": "ICMS Verde",
+     "explicacao": "Variação do imposto estadual que utiliza critérios ecológicos para a distribuição de recursos aos municípios."
+    },
+    {
+     "termo": "STF",
+     "explicacao": "Supremo Tribunal Federal, corte máxima do Judiciário brasileiro."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2d41b630731033f1",
+   "titulo": "O imposto que sobe antes do seu salário: o que o novo ICMS dos combustíveis significa para o seu bolso",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMWYtTFB0NF9FczJoTkxVdDVnRzJlbGZfSEtPM3lwa3BKZlhJSTNsVVIyYkE0S01oM21uWnJZSi15OUhqcVgzMW8wMkc3Y1gwWkotN3BKdll1ZzFrdVppa211WnRrUEZzVU5XZE9LcW03Y2xSNzJaa0NyMU5IQTZOY09aZUFPaVNvUUtxazJvaXQ5RlE2TllSQTdlUkFtdmJXZlp1bzlkN2hlV0psR3JCQXhOSFJjbU1QR041aS16dEZWeWI1aDdJTXF2aHZHQXM2M2FJTEF6MTlRcDU0Y2NrX2sxSFdQdw?oc=5",
+   "veiculo": "Fator Brasil",
+   "trecho": "",
+   "data": "2026-11-07T13:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o novo ICMS dos combustíveis gera impactos financeiros diretos para os consumidores e contribuintes. A discussão aborda a elevação desse imposto estadual antes mesmo de um eventual reajuste salarial.",
+   "pratica": "Na prática, a alteração no ICMS dos combustíveis exige que empresas e consumidores redobrem o planejamento financeiro devido ao aumento na carga tributária desse setor.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7b6a2b57aef0dc49",
+   "titulo": "Nota A em transparência fiscal, Piauí se prepara para IVA; arrecadação municipal vai mudar",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3ZfNFhzZmV5MUpZeUpRYVlvLTZSV203M3kxY2F0YzFjWXR2UG5rTmNWSFEyVEh6VlQzSE00WmVsRTlwR09sZjN0alZxSm81YTR0MU5zdXNMd2s3NUpwSm9QdHVWNGU0bDN4ZGxFSDU3YllHd2hHczNUTHNzV1F2UGl4clBYMjhGamZXWk5xSm1iUmxVcWIwaHBWbzc2NzVNUTd1OHFmeVo3cW1IZ00xalRoeFJha3hnVUppWW5MM043WVRwLWk2djVBSVlKZjRqU1F1cXJHOFRRVDBW0gHiAUFVX3lxTE5JdjN6VVhpSkdSaVhGa3gzN21WNkFGalhDOVhPcVZDQWNsMG1iNHNjMVBtRWc2QWFEcFFzU3JrZjVpalAzeVloRDlJWllyendNTWVBaXBCakh2dFZjNFE1cHZIMG5LekZidmZiZHdrbXJDcTVRSnlOYWVsbEUwLVZpUWdwTlA1LWhTclRfM0xsMWdsY1ktckVzcVFaV0xqcTU2Ri1WaGdnaW5JTVNQV3FhbGRQSkpGVGYweVZ0UWpSa3llWURvNFJELXRKTkcyM1ZmZndIdG5nVGppaVBZZ19YYUE?oc=5",
+   "veiculo": "Portal Piauí Hoje",
+   "trecho": "",
+   "data": "2026-11-07T13:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o estado do Piauí obteve nota A em transparência fiscal e já está se preparando para a chegada do IVA, mudança que também afetará a arrecadação municipal. A notícia aponta para adaptações na gestão pública estadual em virtude das novas regras do sistema tributário.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar as movimentações locais para a adaptação ao novo modelo de Imposto sobre Valor Agregado e as reflexões na dinâmica da arrecadação dos municípios.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado previsto pela Reforma Tributária para unificar tributos sobre o consumo."
+    },
+    {
+     "termo": "Transparência fiscal",
+     "explicacao": "Grau de clareza e publicidade na gestão e divulgação de dados das contas públicas."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "303821ef5a5a5da6",
+   "titulo": "Venda particular do imóvel não afasta responsabilidade do proprietário registral pelo IPTU",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmZhM1dHRldsdWVacWUzTHM4SGRlU1V2dmtMTlRwZURheTJBeGpDRWpuOXpBT2p4SlRJWDNIYk5GZ3RSTW01aUp6NzBQZHZxNTdUcE5BNUtJblV1cF9XSGVLcGoyMWtLN2dySlVNc25uSzJxeVZiYkUtd2E4aUhsdEE1SU9uZnlFMUJpY0VNUnAtZFZNN2lSS003cTlWRnpHWkFfVUhqOUtxTnhoRU5nY1YtdmZVbWRGcW5jeTRUb1pHQlBSNlpZQ3lR?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-07T13:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a venda particular de um imóvel não afasta a responsabilidade do proprietário registral pelo pagamento do IPTU. A discussão envolve a definição de quem responde perante o Fisco pelo imposto municipal.",
+   "pratica": "Na prática, para advogados e contadores, demonstra que a mera alienação particular sem a devida atualização do registro imobiliário pode manter o antigo dono vinculado às cobranças fiscais do IPTU.",
+   "termos": [
+    {
+     "termo": "proprietário registral",
+     "explicacao": "Aquele que consta formalmente como dono do imóvel no cartório de registro de imóveis."
+    },
+    {
+     "termo": "IPTU",
+     "explicacao": "Imposto predial e territorial urbano de competência municipal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8af6807d68c403bd",
+   "titulo": "Reajuste do ICMS sobre combustíveis é aprovado pelo Confaz para fevereiro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazNtZy13S05UM0hBV1YtRk1hLXUwbjRBbFlDRWlqZkI4TGY5WFNseWhuX1VSX3ByOU1tNW5kaTQ0UC1QV0w5azdJbW5IcTRmLUdDODhJNXRHZ3czZEc1Wjk4WGJIS0x2WXVKLTJCTTgwdUVHeGN1WERkTFNnclhRQ3dhVQ?oc=5",
+   "veiculo": "Brasil do Trecho",
+   "trecho": "",
+   "data": "2026-11-07T12:54-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Confaz aprovou o reajuste do ICMS incidente sobre combustíveis, com vigência programada para fevereiro de 2027. A medida altera as regras de tributação estadual aplicadas ao setor de combustíveis.",
+   "pratica": "Na prática, a decisão impacta o planejamento financeiro e de compliance de empresas e distribuidoras do setor de combustíveis, que precisarão se adequar à nova carga tributária a partir da data estabelecida.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e prestação de serviços."
+    },
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária que reúne representantes dos Estados e do Distrito Federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "017e804b933c48b5",
+   "titulo": "Aposentadoria especial sem idade mínima muda o valor pago pelo INSS?",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemhRWHVyendDUjVDc0Z0TC1ZNFF3R2FRcTdsZ0dDV0hzSU5pTnBLOURENE5uWF9OdnB5OTFtUDBTZ184ckVMVzh1ZmpwcU1hd2t5a0VQRkJ1MVRVSDFpZG5Zc0FrSFlHUnBxTlRGVXV1N3B4aXlMQkNfTXNwdEItNkl3VUtqRm1EZk1fUWRWYzRSMEh3MXc?oc=5",
+   "veiculo": "Economic News Brasil",
+   "trecho": "",
+   "data": "2026-11-07T12:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "INSS",
+   "resumo": "Segundo a manchete do Economic News Brasil de 07/11/2026, discute-se o impacto da aposentadoria especial sem idade mínima no valor do benefício pago pelo INSS. O tema relaciona-se diretamente ao custeio e às contribuições previdenciárias que financiam o sistema.",
+   "pratica": "Na prática, a definição sobre o cálculo e os requisitos da aposentadoria especial pode influenciar o planejamento previdenciário e a base de incidência de encargos. Contudo, faltam dados detalhados no trecho para mensurar o impacto exato.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores expuestos a agentes nocivos à saúde."
+    },
+    {
+     "termo": "INSS",
+     "explicacao": "Instituto Nacional do Seguro Social, responsável pelo pagamento dos benefícios previdenciários no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d1bead02fa74dc34",
+   "titulo": "Cashback da reforma tributária: quem tem direito e como funciona a devolução de impostos?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFltM0FUSXVWa0RSelAtVWo3WnczdGswZFRONktUcXF0ZHd5N0RfcHhzLUkzWW1jOHhvalp6Vm8tXzR5V1B4RDd3dUgzRmhKY0ZoSFNJMjRFN2sycnRYZ2FZQUlNR0pYRk5ua0VzeXl3LUNLSmJXVzNHbE1rN1k1SzBNV2dURTdER0hQNGJsVHRoWnhxZTI3MjlKb2oxTWN5UjE3clJOSmFHRE5sVjZuRlFBTEc0UQ?oc=5",
+   "veiculo": "Exame",
+   "trecho": "",
+   "data": "2026-11-07T11:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Exame de 07/11/2026, foram discutidos os critérios e o funcionamento do mecanismo de cashback trazido pela reforma tributária. O tema aborda quem possui direito à devolução de impostos e a dinâmica desse processo.",
+   "pratica": "Na prática, a novidade orienta advogados, contadores e contribuintes sobre as regras de restituição de tributos, impactando o planejamento e a adaptação às novas diretrizes da reforma.",
+   "termos": [
+    {
+     "termo": "Cashback",
+     "explicacao": "Mecanismo de devolução parcial de impostos pagos sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "18a7b762e0c64db1",
+   "titulo": "Qual o impacto da CBS em 2027 na safra de verão da soja",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVNGUVdNemhZTllzNWFneW9aSjlPTkpINldKYmpHUU9zZFljbjhNMXVFcnFKaFo1TlBXUlFtQTI3R1M1cDNWTE9WZmlfMzBLVzV6d3ZtT1owSXNacFA5YzdJYXNNLTBzTzRZaWpNeFRFREp1bVNIU01Qd3djQ3RqRW5jaFU2a0tzOGZlbmh2ejVoMHcwUFZsTEV4Tm1nejd3bzFSc0tOUDB3d29QNGRjYlRZS3NlUGVobWJF?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-07T11:23-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Consultor Jurídico, discute-se o impacto da implementação da CBS a partir de 2027 sobre a safra de verão da soja. Trata-se de um debate setorial relevante acerca dos reflexos das novas regras de tributação do consumo na produção agrícola.",
+   "pratica": "Produtores rurais e profissionais do agronegócio devem acompanhar os debates para antecipar os reflexos da nova tributação na cadeia produtiva da soja. É prudente revisar projeções de custos e planejamento tributário para o período.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída pela Reforma Tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "94df37ff7351aa59",
+   "titulo": "Edital PGFN 2026 dá até 70% de desconto em dívida de FGTS e rescisão",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQlY2cmNyWGhVMEdGUXpVcXZIa2ZtZHNQRmk2XzZ3OWVRcUgyY1JSc1E5QXNCTGZFQUt0WmlFS0h1c1c4elNMcENUVnFBaTQ4Q1picmZXSjYzSXRYcS1NRTlYM1Z6bmlneFQtNzl3UHV1TDhxODhBZGwxdGhCZzdvNUx0QVZxdjhTU1JGS3EwT043SVQ1eGlCWEx6c0pNQklSODJPOTJLSHpiZw?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-07T11:20-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete, foi publicado o Edital PGFN 2026, que oferece descontos de até 70% para a quitação de débitos de FGTS e de rescisão. A medida possibilita a regularização de passivos junto à Procuradoria-Geral da Fazenda Nacional sob condições facilitadas.",
+   "pratica": "Na prática, a novidade abre uma oportunidade estratégica para empresas e contribuintes reduzirem o custo de seus passivos trabalhistas e de FGTS negociados pela PGFN.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Órgão responsável por representar a Fazenda Nacional na cobrança de dívidas fiscais e não fiscais."
+    },
+    {
+     "termo": "Transação",
+     "explicacao": "Acordo entre o Fisco e o contribuinte para facilitar a quitação de débitos mediante concessões mútuas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "651fe65dcfe66360",
+   "titulo": "Agronegócio terá mudanças na gestão, nos custos de produção e no planejamento tributário em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnlnLU9lU2NGN0NUTENYUW9sSHZtdlhxdGNYSWxBWG43UGIxendzMUV2cWRYU1A3RFNqcExQaXVNUm52Q1A1aVJwZW9zQlZzUkJESy10dUU2VVk3WnB2NWl3cjd2VzZKOWV4dXpXcURscXoyM1cwcW9FZFlFT3dFaFNySzEwVnNGaWQzckJ3aEg2UWNidW5IWVVsZm1SMldheElEM0tkMnF1Mk12YlVVLWNoTGt0TWVqbWRpdHZqc3A?oc=5",
+   "veiculo": "CBN Ribeirão",
+   "trecho": "",
+   "data": "2026-11-07T10:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da CBN Ribeirão de novembro de 2026, o setor do agronegócio enfrentará importantes alterações em sua gestão, nos custos de produção e no planejamento tributário a partir do ano de 2027. O impacto decorre das novas regras e do cenário fiscal que se aproxima para o segmento produtivo.",
+   "pratica": "Na prática, profissionais e empresas do setor rural devem antecipar revisões em suas estruturas operacionais e estratégias fiscais para se adequarem às novas exigências previstas para 2027.",
+   "termos": [
+    {
+     "termo": "planejamento tributário",
+     "explicacao": "Estudo prévio das atividades para reduzir legalmente a carga de impostos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5523aa7e8e0e9b7d",
+   "titulo": "NF-e e IBS/CBS: como conferir se uma rejeição já vale",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2RDcjl3RUdVUDIySEowdjhGZHRGUlFFOWd6Tm9iWGZYRjMzbkNib3JSRW1Tek1XOXNzVm5Qc1RvY3dCYmZXUC1xN3EwaVhhc1M2TnRfcDZQZWpvTC1lQTV4OW03QlFRamFNOU9CVFNzZHdrWExCRGE1cHVJTDJpbjdxTlJOdWdZWk1jUkttWU55V01EeXQ0aVpqN1VCQQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-07T10:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Portal Contábeis aborda a relação entre a Nota Fiscal Eletrônica (NF-e) e os novos tributos da Reforma Tributária, IBS e CBS. O conteúdo orienta os profissionais sobre como conferir se uma rejeição relacionada a essas exigências já está em vigor.",
+   "pratica": "Na prática, a orientação auxilia empresas e profissionais da contabilidade a adaptarem seus sistemas de emissão de notas fiscais às novas regras da Reforma Tributária, evitando rejeições indevidas.",
+   "termos": [
+    {
+     "termo": "NF-e",
+     "explicacao": "Documento digital utilizado para registrar operações comerciais para fins fiscais."
+    },
+    {
+     "termo": "IBS/CBS",
+     "explicacao": "Novos tributos sobre o consumo criados no âmbito da Reforma Tributária brasileira."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a54b551f1e8a3d9c",
+   "titulo": "Receita Federal decide que compra e venda de stablecoins não gera IOF",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXd1amgxVjV6dmpqV1JrN2o5ZlhtdGtSX1B0ZzhOT2M0N3F1dVp0ZDRIRkgzdnNiaTlHd29RQVI4SEw1RGNtM3N6TGh1VURlUWJSd3BSMzY3NFVPbmFYdV9Qak5UdUY1SExnSjlYYl91Q3dyVXh0SVRrUEJKQlp3dFdwMXYxMlBhenFQc2x4VzJXanRSdW9qcDk5cVVyVEwybjk0?oc=5",
+   "veiculo": "BitNotícias",
+   "trecho": "",
+   "data": "2026-11-07T09:59-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal decidiu que a compra e venda de stablecoins não gera a incidência de IOF. Essa orientação afeta diretamente as operações envolvendo criptoativos atrelados a moedas fiduciárias.",
+   "pratica": "Na prática, a decisão traz maior segurança jurídica para investidores e empresas que realizam transações com stablecoins, afastando o temor da cobrança desse imposto federal.",
+   "termos": [
+    {
+     "termo": "stablecoins",
+     "explicacao": "Criptoativos cujos valores são atrelados a ativos tradicionais, como o dólar."
+    },
+    {
+     "termo": "IOF",
+     "explicacao": "Imposto sobre Operações Finaceiras incidente sobre crédito, câmbio, seguro e títulos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e9111e2a19638272",
+   "titulo": "Deputado cobra Pivetta por aumento do ICMS dos combustíveis e do gás de cozinha",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPemtUY2dIRzd2REFKSVdTV1B0c2sxQXBuS2x3ZGtFUW5TLVZ6Vm5YUnhTTGhtaFB1cno4UVFUbUMxYlZWNERrVVBIa3U5ZzlOU2ZhZzZNSlRYUVFKYkRrcGxHWXh5QnpsV2Y4VFNPSUxUVDRjNWZxalVmUG9oWDMwNHJnUGh6Y2lyeHJST0hwRFY3Y1JiN1lZYUdQc193TmZhZEdjVzB1NGJvVjRwblVqai1zdWl2NF82QlZyMldRWDhGZ3JBcEJLVkZZRjN2N3V5?oc=5",
+   "veiculo": "Isso É Notícia",
+   "trecho": "",
+   "data": "2026-11-07T09:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, um deputado cobrou explicações de Pivetta a respeito do aumento do ICMS incidente sobre combustíveis e gás de cozinha. O debate político evidencia a tensão em torno da carga tributária desses produtos essenciais.",
+   "pratica": "Na prática, a discussão aponta para a volatilidade e o escrutínio político sobre a alíquota estadual desses insumos, exigindo monitoramento por parte dos contribuintes.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0a828ab6de89eedb",
+   "titulo": "Uma dívida de até R$ 45 milhões por pessoa pode sair com desconto de 70%; um detalhe impede abatimento no valor do trabalhador",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZHRQemhZQ2c5SFFWNnFuSlBFZGlTaFFSbW10NGFLMWtXNkRFOUFYMDh2cUczRDkxb25PZkRHMmVoZ3lSTjNQdW8xTzhtck92Y2dPQjFjNC01WXFxRDJqOFYwSmdCNzdlYkhsa3owTkQ1M2stRTloMWpsT2pvaGlYWkVJdW1PRkVaZDhNY3FiSDBMa2o2azZLbzdzTFJZRHpzNjh1WGljRE1DVG1DVWd1Q2JJMFJLOHNUOXg2Z2FHUGxZTXlDYU0zQkRCLUw2YjJaZWtGalptb0tidVIycm9tWDZuM1AwUF9rR2xXZGNpQld4dlp1dWR5cXZOcFI?oc=5",
+   "veiculo": "Diário do Litoral",
+   "trecho": "",
+   "data": "2026-11-07T08:46-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário do Litoral de 07/11/2026, dívidas de até R$ 45 milhões por pessoa podem receber desconto de 70%, embora haja um detalhe que impeça o abatimento no valor do trabalhador. Como o trecho original não foi fornecido, o resumo é prudente e restrito exclusivamente às informações do título.",
+   "pratica": "Na prática, profissionais devem atentar para os requisitos específicos de elegibilidade e para as exceções que impedem o desconto em determinados débitos, como os de natureza trabalhista.",
+   "termos": [
+    {
+     "termo": "dívida ativa",
+     "explicacao": "Conjunto de valores de créditos públicos que podem ser cobrados judicial ou administrativamente."
+    },
+    {
+     "termo": "desconto",
+     "explicacao": "Redução legal aplicada sobre o valor total do débito no âmbito de programas de transação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "61fb71d96d0c8be8",
+   "titulo": "STF valida lei que acabou com o ICMS Verde em Alagoas",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXpaR212TjRMLXhTU3pGcktDbGVPbzk2cm5ldl8yOEtZMDZlLXdjQWo2bEM4MGIta0FsVnRSYTJ5aHFyemtNeklLckVROElrUnlkQmRRR1ZLemNxNXg1QTVuRVMwaFNsTjZfZzBLMW9LN3YzLVVhcEpIQXdCOEphUlpzMzR6MzZHTVZMOXdzODRlaG1aSGJQTmdoclJEUzZVVVFCeQ?oc=5",
+   "veiculo": "Cadaminuto",
+   "trecho": "",
+   "data": "2026-11-07T08:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal validou uma lei do estado de Alagoas que extinguiu o chamado ICMS Verde. Como não há trecho disponível, os detalhes da fundamentação jurídica e os impactos específicos não foram detalhados na notícia.",
+   "pratica": "Na prática, a decisão confirma a extinção desse modelo de incentivo fiscal no estado, exigindo atenção de empresas e profissionais quanto às regras aplicáveis ao imposto.",
+   "termos": [
+    {
+     "termo": "ICMS Verde",
+     "explicacao": "Mecanismo que direcionava recursos do imposto com base em critérios ecológicos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "66d545e8678889b9",
    "titulo": "Reforma Tributária: CACB e entidades pedem mais tempo para adequação às novas regras",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVF5OWxyVFNlSXFLcl90VXBBSHdRbkJxWkJsejZ6dDhndEUxRE1NazQwTmQyNnlxOTZPNGNmTkpBdDhFOWY5MmcyTWhmbjA2NzlSaEE1STR6dE1pdVE2YjIyTVVHNFNSSHdmSWs1WGMtaF82bk1hM0g1SjJiWXRKWmNoaVRCa2d4aHEwS1ZLVDZCN0NaRkpxQklEMS1iT2NSdXJtbG9pQnlGQWpXTlNVMmpkNDAwWEV20gG-AUFVX3lxTFBRRFZGV0h4WnNfM3lVNEtlMGVRcjNmdWF2TVFLYnFJNFRka0hRYjJZa2JYQVhPNThWYzdVemxCWUlOWnFoa2YteFQ1S3ZSWFZNWGk2WFNzUUN4Z2FFM3Jld2ZmNjZOOUVqRG0xREhyUXhWZXpGeDR2T0lqSDhBM1BQTVhSRWpyMFoySDVVTGZoTjJoaVZaSjY0TExmSHRWMTFRZTJqa05BM2FqVHFKYW91YjRIUlBBbm9nQnZuaHc?oc=5",
@@ -10366,7 +11068,8 @@
   "2026-11-04": "O cenário tributário brasileiro é marcado por debates cruciais sobre a adaptação empresarial e a segurança jurídica. Entre os destaques, a proximidade da entrada em vigor das mudanças sistêmicas gera forte mobilização: entidades e grupos de advogados solicitaram o adiamento da reforma tributária devido ao elevado número de pendências a dois meses do prazo, enquanto o governo adiou a edição da Medida Provisória com as alíquotas do Imposto Seletivo. No âmbito jurisprudencial, o STF proferiu decisão relevante sobre a exclusão do ICMS da base de cálculo do PIS e da Cofins, mudando o panorama para as empresas, e o STJ autorizou a dedução de bônus do IRPJ e a exclusão da amortização de deságio da CSLL. Esses temas exigem atenção redobrada dos contribuintes na gestão fiscal.",
   "2026-11-05": "Nesta edição, destacam-se três importantes movimentações no direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça definiu que não incidem contribuições previdenciárias sobre os ganhos de *stock options*, estabelecendo uma diretriz essencial sobre a natureza jurídica dessa remuneração. No âmbito da Reforma Tributária, o governo publicou medida provisória definindo as regras, o período de transição até 2028 e as alíquotas do Imposto Seletivo para 2027, gerando debates intensos entre entidades, como CNI e OAB, que defendem o adiamento das mudanças e cobram revisões devido ao impacto da alíquota de 11,3% da CBS. Por fim, o Supremo Tribunal Federal atuou sobre o ICMS, derrubando alíquotas do Maranhão acima da modal para energia e comunicação.",
   "2026-11-06": "O destaque do dia concentra-se na regulamentação da Reforma Tributária, impulsionada pela edição de medida provisória que define regras de transição e alíquotas para 2027 do Imposto Seletivo — incluindo diretrizes para cigarros, bebidas e veículos —, além de gerar debates sobre o cronograma de implementação e a alíquota de referência da CBS, que preocupa o setor produtivo. Na agenda dos tribunais, o Supremo Tribunal Federal ganhou relevo ao derrubar alíquotas de ICMS mais altas sobre energia elétrica e comunicação no Maranhão, aplicando o princípio da essencialidade. Esses temas são cruciais porque redesenham o panorama da tributação do consumo e afetam diretamente a segurança jurídica e a carga fiscal dos contribuintes.",
-  "2026-11-07": "Bem-vindos ao boletim diário de direito tributário. Entre os destaques de hoje, a Reforma Tributária concentra intensos debates com pedidos formais de entidades, associações comerciais, o governo e a OAB pelo adiamento da implementação ou revisão dos prazos de transição, refletindo a preocupação do setor produtivo com a complexidade das novas regras. Além disso, no âmbito dos julgamentos, o STF derrubou a exigência de idade mínima na aposentadoria especial por insalubridade e validou o fim do ICMS Verde, mantendo a lei do estado de Alagoas. Esses temas exigem atenção redobrada de advogados e contadores devido aos impactos diretos na adaptação normativa e no planejamento tributário."
+  "2026-11-07": "Bem-vindos ao boletim diário de direito tributário. Entre os destaques de hoje, a Reforma Tributária concentra intensos debates com pedidos formais de entidades, associações comerciais, o governo e a OAB pelo adiamento da implementação ou revisão dos prazos de transição, refletindo a preocupação do setor produtivo com a complexidade das novas regras. Além disso, no âmbito dos julgamentos, o STF derrubou a exigência de idade mínima na aposentadoria especial por insalubridade e validou o fim do ICMS Verde, mantendo a lei do estado de Alagoas. Esses temas exigem atenção redobrada de advogados e contadores devido aos impactos diretos na adaptação normativa e no planejamento tributário.",
+  "2026-11-08": "O boletim de hoje destaca três importantes movimentações no cenário tributário brasileiro. No Supremo Tribunal Federal, o encerramento do Tema 118 retirou o ISS da base de cálculo do PIS e da Cofins, alinhando a jurisprudência à tese da exclusão do ICMS. Em outra decisão de grande repercussão, o STF derrubou a exigência de idade mínima para a concessão de aposentadoria especial em atividades insalubres, impactando as regras de inativação de trabalhadores. Por fim, os debates sobre a Reforma Tributária continuam em evidência, com destaque para a preocupação do empresariado com a previsão de uma alíquota de 11,3% para a CBS e para a defesa, por entidades do setor, do adiamento da cobrança efetiva da CBS e do Imposto Seletivo para janeiro de 2028."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -10626,9 +11329,21 @@
   "Consulta pública": "Mecanismo que permite à sociedade e aos interessados opinarem sobre propostas de atos normativos ou administrativos.",
   "Reequilíbrio": "Ajuste financeiro de contratos de concessão para recompor o equilíbrio econômico diante de eventos imprevistos, como mudanças tributárias.",
   "Tema 217 do STJ": "Assunto submetido a julgamento pelo Superior Tribunal de Justiça para definir tese repetitiva.",
-  "LC 224/25": "Lei Complementar citada que impacta o regime tributário aplicável às clínicas."
+  "LC 224/25": "Lei Complementar citada que impacta o regime tributário aplicável às clínicas.",
+  "Tema 118 do STF": "Tema de repercussão geral no Supremo Tribunal Federal que discute a inclusão do ISS na base de cálculo do PIS e da Cofins.",
+  "Devedor contumaz": "Contribuinte que pratica o inadimplemento reiterado, fraudulento e sistemático de tributos.",
+  "LC 225/2026": "Lei Complementar que trata de efeitos penais e normativas aplicadas aos devedores contumazes.",
+  "isenções fiscais": "Dispensa legal do pagamento de um tributo.",
+  "Insalubridade": "Condição de trabalho que expõe o empregado a agentes nocivos acima dos limites legais de tolerância.",
+  "Difal": "Diferencial de alíquota do ICMS devido nas operações interestaduais destinadas a consumidor final.",
+  "Transparência fiscal": "Grau de clareza e publicidade na gestão e divulgação de dados das contas públicas.",
+  "proprietário registral": "Aquele que consta formalmente como dono do imóvel no cartório de registro de imóveis.",
+  "IBS/CBS": "Novos tributos sobre o consumo criados no âmbito da Reforma Tributária brasileira.",
+  "IOF": "Imposto sobre Operações Finaceiras incidente sobre crédito, câmbio, seguro e títulos.",
+  "dívida ativa": "Conjunto de valores de créditos públicos que podem ser cobrados judicial ou administrativamente.",
+  "desconto": "Redução legal aplicada sobre o valor total do débito no âmbito de programas de transação."
  },
- "atualizado_em": "2026-11-07T06:35-03:00",
+ "atualizado_em": "2026-11-08T06:34-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
