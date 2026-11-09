@@ -1,6 +1,592 @@
 {
  "itens": [
   {
+   "id": "e04a58c25f956796",
+   "titulo": "Como a reforma tributária vai afetar a receita de arrendamentos",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVNqV2xWc2tNMlRVa0x2ZWt5SEdiZk9zT05oLXJFbkphRmRJQVNaLW5yYW1Mb3BaNmRMTDNqRi01d1A2UUVtbmdhcW16dUtONXBMVjYwV0lMLV8zQjMyQ3JveWlxYXQwX0Q4NDBwWHV6c0M2MmJiUFFXTmVRMy1QeXJOWGNOd0wtN0N5UEg4eDlhNHdoNkJwZ2cwNTJTdkZFZVZmbGJXVkJYaXVrMGJHRA?oc=5",
+   "veiculo": "The AgriBiz",
+   "trecho": "",
+   "data": "2026-11-09T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do The AgriBiz de 9 de novembro de 2026, discute-se o impacto que a reforma tributária provocará na receita proveniente de arrendamentos. Como o trecho original está vazio, detalhes específicos sobre as mudanças não foram informados.",
+   "pratica": "Profissionais e contribuintes que lidam com contratos de arrendamento devem monitorar os desdobramentos da reforma para avaliar potenciais reflexos no faturamento e na carga tributária da atividade.",
+   "termos": [
+    {
+     "termo": "Arrendamentos",
+     "explicacao": "Contratos de cessão de uso de bens, muito comuns no setor do agronegócio."
+    },
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que estão reestruturando o sistema de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cd8a4f0d7c5e5128",
+   "titulo": "Dívidas fiscais e falta de gestão profissional podem levar ao bloqueio de bens de empresas",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTRjY0R5c2xCOFlfWEpadXBLaldYcGhMa1pSWlhEV3ZpUXZycEFfTnpEMkdvSWV3WXhPVVJlcWtFWHdkRzkzWlBxX2JfYmRLQUF4YzlwODBLMVA0VW1TbGNtYTR3R0FqVl9rR0JzMGdGWnhXSmhwRVM3NF9mOFh3RVBEdExDeWozdHJVSHBn?oc=5",
+   "veiculo": "Diário do Comércio",
+   "trecho": "",
+   "data": "2026-11-09T05:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário do Comércio, o acúmulo de dívidas fiscais associado à ausência de gestão profissional pode resultar no bloqueio de bens de empresas. A publicação destaca os riscos patrimoniais enfrentados por corporações que não tratam adequadamente suas pendências com o fisco e a governança interna.",
+   "pratica": "Na prática, a notícia reforça a necessidade de as empresas adotarem uma gestão profissional rigorosa e estratégias preventivas para evitar constrições patrimoniais decorrentes de débitos tributários.",
+   "termos": [
+    {
+     "termo": "Dívidas fiscais",
+     "explicacao": "Valores devidos por contribuintes ao Estado em razão do não pagamento de tributos."
+    },
+    {
+     "termo": "Bloqueio de bens",
+     "explicacao": "Medida constritiva que impede a livre movimentação ou alienação do patrimônio do devedor para garantir o pagamento de execuções."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4ebfdad122d238ee",
+   "titulo": "Senado deve definir alíquota da CBS para 2027 até 15 de dezembro",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWpmMkxaYWNUWWdzNFNnalpjbC1uWGVGbW9HVkJoR3oxZUNRRV9yR0pYVHdvVDZOX3VqdjNBek80LUcwMWgwc2MtQlh1VEppcUZtSmJyZ3A5ZDBHRzl1U1hMT2RVWGdjcXk1ZElET3NTQTlRb3dYZF85RmdCRFVXa2lNODVGME1uaGFrX0p0TmhucEpZak9YLU02Wi1NU2U20gGmAUFVX3lxTFBWY2Y1UnJDd3JOYWYtV1Mtb0VxaExEbW9LdGFfMWpQZEpvM25rZXNOcG94aG8yUE02TlkxaFFsSFdiZktId0lVVVJmV2dZM0hyQkJQUE9vLWhoTGVCTEZsYkFoRWpaZkZ1eGotVjc0aTEza1pIQWNxaE05VS1haXlUSDdndFVYT3pNS0ZUQThLU3BOZkxDU054T281aTk3ZlVDYVNpeEE?oc=5",
+   "veiculo": "Brasil 61",
+   "trecho": "",
+   "data": "2026-11-09T04:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado deve definir a alíquota da CBS para o ano de 2027 até o dia 15 de dezembro. A definição legislativa é um passo importante para a implementação das novas regras tributárias federais.",
+   "pratica": "Na prática, a fixação dessa alíquota pelos parlamentares orientará o planejamento orçamentário e a adaptação tecnológica de empresas e profissionais contábeis.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal criado no contexto da reforma tributária para unificar a taxação sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "72df2605a36171b3",
+   "titulo": "CBS de 11,3%: as premissas do cálculo e os limites da alíquota de referência",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZVh2bUNISkM0TXQtenczOUNQMlpidzlTNGdYdTFnVm5GdzVhZm54bl96c00tcW54OXBIUUQ3ZGNRZkUxblNhQk9acVdWZWsyN2N5T1o5NDFFa01sdmVvVEV5ck43SG1RbTMtLUpHbEg0NHlOdDJ3X1lhUWNoeExYc3poT21CZVoyS1FtaXVVU0o2RVhseURiT24wN3Q5VHJmWmlIOTAyZ1JycnZPM0tJVDktMTJaSVdaQlJIYmFFdXZIQXM0Y2hsZWxYMFFpOEZlQWc?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-09T03:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, foram debatidas as premissas de cálculo e os limites da alíquota de referência da CBS, apontada em 11,3%. Como o trecho original não foi fornecido, o resumo baseia-se estritamente na análise do título sobre a nova contribuição.",
+   "pratica": "Acompanhar as discussões sobre a alíquota de referência da CBS é essencial para que empresas e profissionais antecipem o impacto da nova tributação em seus planejamentos financeiros e compliance.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária sobre o consumo."
+    },
+    {
+     "termo": "Alíquota de referência",
+     "explicacao": "Percentual padrão estimado para calibrar a arrecadação do novo tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a4edd8aecc185844",
+   "titulo": "Conheça as regras sobre perdão de dívidas tributárias para MEIs",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1lQXzJzdVFGaHdndkNCUk9VcTBjbHNidlI3TzJMT0FsQXIyUTFRaGY0RnF3S0JrRWUwWm5EVngwR1hZR0hFX2s1eG1JWE5ib3VkVDZnVE1EcGJfR0dCNjlyOU9EWmFJN0lQUE9nSFVqVjh5X05jcldveFd2SkRFdGt5OTl4dkdjb2NJYm5ILXBhaVF4bTdJRWhHczU?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-09T00:56-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Sistema FENACON de novembro de 2026, foram divulgadas novas regras relativas ao perdão de dívidas tributárias voltadas para os Microempreendedores Individuais (MEIs). A publicação orienta sobre os critérios e condições aplicáveis a essa modalidade de regularização fiscal.",
+   "pratica": "Na prática, a medida auxilia profissionais e contadores a orientarem seus clientes MEIs sobre como regularizar pendências fiscais e obter o perdão de débitos conforme as normas divulgadas.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores."
+    },
+    {
+     "termo": "Perdão de dívidas tributárias",
+     "explicacao": "Remissão ou anistia de débitos fiscais sob determinadas condições legais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "91c350fcdc558a98",
+   "titulo": "STJ veta créditos de PIS e Cofins sobre ICMS",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQk5IcmpwSHNhcGduZ05HeEhHWjlKNlVBeDNrYy05cUhieDB6SXFMbXVSaFNYUXhLVU5mZVdnSlVxdzVPd0FJUnpTc2tZQ0UyeE5WUE1CT3NWTGE2bDFUdUNpYTZXWUJhOUMtZkxSOEgyZTBicHJLV2JqdmR6bV9yRy1hcw?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-08T23:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça vetou a tomada de créditos de PIS e Cofins sobre o ICMS. Como o trecho não foi fornecido, trata-se de um resumo prudente baseado exclusivamente no título da notícia veiculada pelo Seu Crédito Digital em 08/11/2026.",
+   "pratica": "Na prática, a decisão tende a restringir o aproveitamento de créditos tributários por parte das empresas, exigindo revisão nos cálculos de apuração dessas contribuições.",
+   "termos": [
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Créditos",
+     "explicacao": "Valores que os contribuintes podem abater do montante de tributo a pagar."
+    },
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e22f86e2ab29b2ef",
+   "titulo": "Farmacêuticas pedem adiamento da reforma tributária por risco de desabastecimento",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGlFbVBHSHpoTWMtckMtSzZhTjNmLUxtdkd1dGRyQk1SRjk0UjE4R2t1OFh4aXVWek03cF9PUDI0Q0RNV3ZoRWJGaUp3eXFrUnBIN2ZYYTI0UjJrS213cWk0TlN0S2pZZ1pINEREZF9tUlBFakVoVlJVemd3N2FpZDVpRm01UDFwaHA5SktZZWxxYUF2LVBYeWdYZVd5eXR5cGE2VjVfYlN6OGhibGh5X3ZHVkJTOHJ4LUl4UVJnSznSAcYBQVVfeXFMUHNReUlhNzM0Wmx2LVc0RHJfYU9NcDVSeUUxS21JdXVjNUlQQkM0cER1RjkySnBzTkF1VzdvaFB4Qldvd3cxUUZWalFCcDZFeklmNGxqRDFzSHcyWFBLenpyTjNfa3FTOWEyVjlIYmRMTWQzYjVETU94REMzUTVZSDV6OHJ4SDZmY0RLd1VsYmFia1RDZHdmbkpWVlVfTnhjUGFvOEdJUENHeUM3WWt2U1Q2XzFQZjNNX091YWdTb1RFUEZ0cm1n?oc=5",
+   "veiculo": "Tribuna do Paraná",
+   "trecho": "",
+   "data": "2026-11-08T19:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, empresas farmacêuticas solicitaram o adiamento da reforma tributária. O pedido fundamenta-se no risco de eventual desabastecimento de produtos no setor.",
+   "pratica": "Na prática, a movimentação indica que o setor produtivo segue pressionando por transições cautelosas na nova tributação para evitar impactos logísticos e operacionais.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural nas regras de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d955ff79104ecc46",
+   "titulo": "Como o Imposto Seletivo vai impactar o consumidor na reforma tributária - São Carlos no Toque",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWtwZ1JReVVhaDhIQmhYRFFVRGJxWUFCMTJmcmtneWFWcThuLXNUcGNDMkgwRWNjRlNhQ1huQlluY1g5bUREb1YtYlpOejN6SUJJbU5hTExtdjJXd3RBWTl0amRpU28wb2lndnVwWENTb0xZV2oxSkJWeW00TFFDeW1YRUMyYTRZaW50YUxieFM5NG5GNER4dXVwbHhsUldtbFlYT3lUU1DSAagBQVVfeXFMUGVrcGdSUXlVYWg4SEJoWERRVURicVlBQjEyZnJrZ3lhVnE4bi1zVHBjQzJIMEVjY0ZTYUNYbkJZbmNYOW1ERG9WLWJaTnozeklCSW1OYUxMbXYyV3d0QVk5dGpkaVNvMG9pZ3Z1cFhDU29MWVdqMUpCVnltNExRQ3ltWEVDMmE0WWludGFMYnhTOTRuRjREeHV1cGx4bFJXbWxZWE95VFNQ?oc=5",
+   "veiculo": "São Carlos no Toque",
+   "trecho": "",
+   "data": "2026-11-08T18:54-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do portal São Carlos no Toque de 08/11/2026, discute-se como o Imposto Seletivo, inserido no contexto da reforma tributária, afetará o consumidor final. A publicação aborda os reflexos econômicos dessa nova exação na formação de preços ao consumidor.",
+   "pratica": "Na prática, profissionais e empresas precisam monitorar a regulamentação do Imposto Seletivo para antecipar repasses de custos e ajustar suas estratégias de precificação.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Novo tributo previsto na reforma tributária incidente sobre produtos e serviços prejudiciais à saúde e ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f67521c6f093d8bf",
+   "titulo": "STF mantém desconto para aposentados com doença grave",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VZXBKVmVld3dkLWdyUVVDYmQtUUxlbGFTS1Fpam9YdG02RC1KYVdYN25YeDJ1cndiYkl5MjBUVHdWSUl3RUowdVFZdmhoNmk0aXQ2WTh1U2dCYlRLVm82UGg3cGdHclZsWDlZclp5XzRSd1pqLWxnbEVQVQ?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-08T18:03-03:00",
+   "tipo": "Julgamento",
+   "tema": "Imposto de Renda",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal manteve o benefício do desconto para aposentados que possuem doença grave. A notícia aborda a preservação dessa vantagem tributária destinada a contribuintes em situação de vulnerabilidade médica.",
+   "pratica": "Na prática, a decisão traz segurança jurídica para aposentados portadores de enfermidades graves, assegurando a manutenção da desoneração fiscal. Para profissionais da área, reforça a validade desse direito em eventuais contestações.",
+   "termos": [
+    {
+     "termo": "desconto",
+     "explicacao": "Redução ou isenção na base de cálculo ou no valor final de um tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "96199f633bb68d76",
+   "titulo": "STF derruba idade mínima na aposentadoria especial; quem comprovar 15, 20 ou 25 anos de atividade especial poderá solicitar o benefício",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRHl6S1hYYlR6WmV3cDlCeWZyUWZmWlp1cDdmYlh4bDgxRllPYXgybUlxNlY4SVNrS0FkUVNKV1hjMTFnVUZGbGhPV3ljY01wSnZKNkdFcXhNX0xBTnN0U0l4bU1TakNPaDBFQjlsakZnYS00WWJiRHVia09PcUVRRDJ5N3E3OURoVktud3Bsb2dHdzJzYkxMaEUwTVQ5SGxCTzV6VVZIby1GUENZdDE4alZRQVlra254UGF4WUJZTUkzSE9kbUpoNmlmNElvQkJuc2tWaTllM0lLRUhoYXM3bFJNU09rZ0pOTmhfUVVOWEMtQU4zaWZ6T0tYNDI?oc=5",
+   "veiculo": "www.paraibanoticia.net.br",
+   "trecho": "",
+   "data": "2026-11-08T17:30-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal derrubou a exigência de idade mínima na aposentadoria especial. Com isso, os segurados que comprovarem o tempo de 15, 20 ou 25 anos de atividade especial poderão solicitar o benefício previdenciário.",
+   "pratica": "Na prática, profissionais expostos a agentes nocivos e as empresas que financiam esse regime podem observar mudanças nos requisitos para concessão do benefício previdenciário, impactando o contencioso e o planejamento de pessoal.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício concedido ao trabalhador que exerce atividades prejudiciais à saúde ou à integridade física."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a3daff8c38463f12",
+   "titulo": "Equatorial Maranhão se posiciona após decisão judicial que vetou cobrança de ICMS sobre energia solar",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1pQQUU1bmxRYUZubnhIWE04bk0ydmdtUlVramRVX3poVHdvZGN2NVJCMVB3dEZnMlMyZzFOaDFIQ1pYWHJIQ1R5YVB3OVNEcGNNa1lPN3FzWHNicGplOVY4V2hjbnJaN21SQXpRUllpMlY1TFpySC1OdUpQUm4yZW1yM3N1bHlWWFJ6N3F6SHFWRFhrbWVuX3BuLXJxdTdQTV92R1BPMndxTEs1QzNka3loTUtQWUVpZ1BTeVRxQWl4N3Z4S05ISU9jQW14bEU1OFZmeExTSy1vdjQ?oc=5",
+   "veiculo": "Blogsoestado",
+   "trecho": "",
+   "data": "2026-11-08T17:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Equatorial Maranhão posicionou-se após uma decisão judicial que vetou a cobrança de ICMS sobre energia solar. O caso envolve a tributação estadual sobre a geração própria de energia.",
+   "pratica": "Na prática, a decisão judicial traz repercussão para contribuintes que investem em energia solar, exigindo atenção aos reflexos nas faturas e nas discussões sobre a incidência do imposto estadual.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual queincide sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ace904007331ebce",
+   "titulo": "IBS e CBS: A controvérsia sobre a exportação de serviços",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0FzdkxTTW40OE5Vd0FBSFhJc0NQRUYwaVY4ZHl2SHFLaXBSbFNhRkNoUzF6ZTF6SEhGQnBrTlJCX040ME5BX1ZBLXotQmx1Z2QwamNwS09kR09WOVZaZ0d3S21tMF9DdGVMQnVvTjNTUHI2UUh0a2FfYmh3S3Zsd1NleVdHeTRRdkNGX2MwclR5YTdlbVFYQkFQRzlKVGc?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-08T17:01-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Sistema FENACON de 2026-11-08, existe uma controvérsia em torno da tributação do IBS e da CBS aplicada à exportação de serviços. O debate envolve as novas diretrizes desses tributos criados pela Reforma Tributária e seus reflexos nas operações internacionais.",
+   "pratica": "Na prática, advogados e contadores devem acompanhar o desdobramento dessa controvérsia para orientar empresas prestadoras de serviços ao exterior sobre eventuais riscos e impactos na formação de preços.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária para substituir o ICMS e o ISS."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para substituir o PIS e a Cofins."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "646744da7c9fd277",
+   "titulo": "Reforma tributária pode ser adiada para 2028? Entenda",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1dYR1ptQWJ2em5jWWd5bzgwZ0wxVXY0blJuQ0piWXVvMGdaMEVDSkdEY0dPUlVScWRINTFfbjVpOTRwXzNmRXNDYUZfT3RPZWcxUWFGX0tVSGJKM2JOaTlRZmJ6ZTdfWUF1MXotTlJrWjhFWWRfTTlCWlBma1M4N19BVFRDWFpaaGRBZ0dlMGoyaWtiUE9ieVl30gGiAUFVX3lxTE44amhEems1NUNKSW4zXzlvNi1EaS0zZjFzUGNuUkgzX3dJdG41TUxiZVV2ZXVJcDdHRGlWNERyWjY3ZElOY1VYakJLOFVjODFJSzIteWNUTDR6WHhkaFJSaUZYSGptZG5Kc2lpZUlZYXdlUVluYjRjWlgtY2hyXzBpRDMzMXUzRXA1Z3pNV19Lc0ZpX2FHOFVmaEo3VDlMVmdvQQ?oc=5",
+   "veiculo": "DOL",
+   "trecho": "",
+   "data": "2026-11-08T15:12-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, debate-se a possibilidade de a implementação da reforma tributária ser adiada para o ano de 2028. A notícia levanta questionamentos sobre o cronograma de transição das novas regras fiscais no país.",
+   "pratica": "Na prática, a discussão sobre o adiamento gera incerteza no planejamento de longo prazo de empresas e profissionais, exigindo cautela na adaptação às futuras exigências normativas.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Mudança estrutural na legislação e na cobrança de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fe39dad64ccefd92",
+   "titulo": "O custo jurídico de adiar a Contribuição sobre Bens e Serviços (CBS)",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmUyMkoxcTk3bzNXeFRtN2c1aVJ5TmRNQmNrcEJJX2pacW5HWlA1OGpJazYtZHVRdnJtSHJNcWU0RFZyTHdOTDZENzlKYkg0QkNvSHd4SlNKOUhnUDE1bnZyVGJ3SkdmLWdnTGxuM1lyUmtMQm5sWkdqY0sxbWJIX3JlcTgtVVBTVkdxRnB3YmZ3a1pqdHlQT0dmRDhReWxXZVgta3hfUktpVV9r?oc=5",
+   "veiculo": "RepórterMT",
+   "trecho": "",
+   "data": "2026-11-08T14:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se o impacto e o custo jurídico associado ao adiamento da Contribuição sobre Bens e Serviços (CBS). O tema envolve o planejamento e a transição para o novo modelo tributário decorrente da Reforma Tributária.",
+   "pratica": "Advogados e contadores devem redobrar a atenção no planejamento estratégico e na conformidade fiscal de seus clientes diante de possíveis oscilações no cronograma da nova exação.",
+   "termos": [
+    {
+     "termo": "Contribuição sobre Bens e Serviços (CBS)",
+     "explicacao": "Tributo federal instituído no âmbito da reforma tributária para unificar a taxação sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e85e0089ac1f2ba1",
+   "titulo": "STF derruba idade mínima para aposentadoria especial de trabalhadores expostos a agentes nocivos",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlpTNm5sVEF2MHVIdUFqQVRqSUhHZXZDWHJOLXBWMzlBSkJ4S0lFV0F5bFlkQjlPRkt0bE51Z1pkU19hLTVqaFY0OHpHcjM1Wlp4RnBjT3Zmbmc0ZnMxaU52eGlZZ0U3V1k1b0FrOG1rYzZUQ3lYODA4VHdPbDM1VUJOUC1wcC0tN19VQ0s4UVRsb3Z4S0Vma0o0T1ZUVkE1SDJmeEx3UVMtNGxQNDBFZ00ydVU4d0J1VjJ3V1dZSjlEa3pYSDVRcGlKZVd1RVBwckFIRVYyVQ?oc=5",
+   "veiculo": "Impactto News",
+   "trecho": "",
+   "data": "2026-11-08T14:19-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal derrubou a exigência de idade mínima para a concessão da aposentadoria especial aos trabalhadores expostos a agentes nocivos. A decisão impacta diretamente as regras de transição e os requisitos para o benefício previdenciário.",
+   "pratica": "Na prática, a medida altera os critérios exigidos para que segurados expostos a agentes nocivos obtenham a aposentadoria especial, o que pode refletir no cálculo e recolhimento de contribuições previdenciárias pelas empresas.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores expostos a agentes nocivos à saúde."
+    },
+    {
+     "termo": "Idade mínima",
+     "explicacao": "Requisito etário exigido por leis previdenciárias para a concessão de determinadas aposentadorias."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "97cf99e194664613",
+   "titulo": "Combustíveis estariam 2X mais caros sem ação do governo contra choque do petróleo",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2FYRVdJNlZyRTY2TUs1UHJDcnZ1a3FRT0h6aUs5VzlPMm1BN3M2UHlZaU55SldaLVlNbHgtMTRkODRUMlFhNXZLcjB6MTgtNDRKNFl5elh4V1VzeVd3TTFTUC1vYWZ4WGFaTEVWSlFvenJNUkg1eW1jUW93MGNhbWdRc1JfVU0?oc=5",
+   "veiculo": "Diário do Comércio",
+   "trecho": "",
+   "data": "2026-11-08T12:46-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, os combustíveis estariam duas vezes mais caros se não fosse a atuação do governo para conter o choque do petróleo. A notícia aborda o impacto de medidas governamentais na formação de preços e na tributação do setor energético.",
+   "pratica": "Profissionais da área devem acompanhar como a intervenção estatal e a política de preços e tributos dos combustíveis afetam o planejamento fiscal e o mercado.",
+   "termos": [
+    {
+     "termo": "Choque do petróleo",
+     "explicacao": "Aumento brusco no preço internacional do petróleo que afeta diretamente o custo dos combustíveis no mercado interno."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1b08ae1f391c885f",
+   "titulo": "Estado e Equatorial Energia não podem cobrar parcela de ICMS sobre energia solar",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2FFSk9zV0Q4bnNlYVJPOWtRczktQmNhQVdnVWg0bkV0aVV0d2RtSF9ZMExwdW5SZzFnSW0xeUMzSkdrSEJjVFRDaGxFa1J5RHFzUGMxTDd6U1Qydk1MQVB0WlZBQnlGTkx0VFFxRzE0SG1Gek9sMTd3XzRSd2p4QXE4RzBNbkVCTlN6cF9Ib0JXbWRfdmh4R2hucVFTOXJqdUZSMndR?oc=5",
+   "veiculo": "Bom Dia Advogado",
+   "trecho": "",
+   "data": "2026-11-08T12:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Estado e a Equatorial Energia estão impedidos de cobrar uma parcela de ICMS sobre energia solar. A informação destaca uma restrição na tributação incidente sobre esse segmento.",
+   "pratica": "Na prática, a decisão noticiada sugere um alívio na carga tributária para consumidores ou produtores de energia solar, devendo advogados e contadores acompanharem os desdobramentos dessa cobrança.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e8e038f8e0b77466",
+   "titulo": "Reforma tributária: o que muda no preço dos carros e no setor automotivo a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMThRV3U5Sjk3bjZRVThQeUo5QmYwZVp2WU4zVjlKQzNub1k0SUlVVHlFRHBYNzFnRGRzSmNhcEtPdlJGS2RZZmZkbUgzUzFnd3ZTZ2hGNGhtOXBTT0Y0OFhEdFUwZHY0M3VRM0pISE1HVWFPQk50WEp4TUp3R0k1M0pFMUowS3JQcHMtVmY5VkhuWG1vWGdBY0FVZ0pGQUlmTF85MkFLeGVVT0h5TWYzbmVaWFJZTTZsLU45R1VGTQ?oc=5",
+   "veiculo": "Guru dos Carros",
+   "trecho": "",
+   "data": "2026-11-08T12:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária trará mudanças no preço dos carros e no setor automotivo a partir de 2027. O debate aborda os impactos da nova estrutura de tributos sobre a cadeia automobilística.",
+   "pratica": "Empresas e profissionais do setor automotivo devem monitorar as regras de transição para ajustar o planejamento de preços e custos a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Mudança estrutural no sistema de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "91d5050235f9163c",
+   "titulo": "Transação tributária: como escolher o edital para cada dívida",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLV9rMUtXS0NOb1hxU2ZsS2t2YTBRU1V5bktxbmUyS0ZNX3JwTDlTaFplU3c1T2pfc3ZWRFlqWGw3LXlkV3Q2N25IUmgxemlnMHlUNlVJYVVuVmF5Ym80WkViT3ppbEN4cXdvRDZNb0dmZEJFOEVTem1xSnZteTdpWjNlbk9YQ3pQMlMzeWJPSUd4SG1mT0l2QnluT0EyTGJlNTkxSzBCRDQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-08T12:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o tema em discussão orienta sobre como escolher o edital de transação tributária mais adequado para cada tipo de dívida. Trata-se de uma análise estratégica para otimizar a regularização fiscal de débitos perante o Fisco.",
+   "pratica": "Na prática, a correta escolha do edital de transação exige que advogados e contadores analisem minuciosamente as modalidades disponíveis para garantir os melhores descontos e prazos para seus clientes.",
+   "termos": [
+    {
+     "termo": "Transação tributária",
+     "explicacao": "Acordo entre o contribuinte e o Fisco para a regularização e pagamento de dívidas tributárias com condições facilitadas."
+    },
+    {
+     "termo": "Edital",
+     "explicacao": "Documento publicado pela administração pública que estabelece as regras, os requisitos e os benefícios para adesão à transação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e76959dfc33edd88",
+   "titulo": "Corinthians volta a atrasar parcelas de acordo com a PGFN e acumula dívida de R$ 26,1 milhões",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORldIOHFMdXJjLWlQbklMZklXZU55ajVySGRwNXdkZThzX1ZkNEk2bDN6bk82VUxXMkFCeko0RllHNVlwajh6UFBVYlE2MlVMQjJ3bWhRR0hianlnZXIzOFNIOUZaRW1vNFRsUTVQOFdGSVVhUWlqcGI4VEZNcFY0MUhlUHFaRVhpajJEVWN2alVodjRLMHNDSjcwOW1CbkE1b1Q3N3puZjVNSmt0SnUtdEpzODVkVjlRUTBEUDVWVlhWeU9GWTFTUEVvZGNIaGcyX1VyVHdVSzZtWnRod1JIUkNGODDSAdQBQVVfeXFMUExjcTVnUGR3OEFBVTd5UlV5Y09IbF9OVmU2MlpEejg1RUVnWmtvcnliMjRVcGREV051eWREdmROZlZHUGlQQUtJcUh0UWRadmF0a1dmb1BHbjhXeEdhdGxIb1Z2aWN6QXpIQWpzenlZNGMtVmROWmI4VFNBYm1aU0R5UEYxV2N1NEFtZ2FfWGFOSlZ1SEdmUm1aVnk4bFVDVzBKY1B0WVJFT0RFR09STDk5bWtsWnNOZm4tMGFnaGNWNVViSmprSnhfS0V4M0ljZ21OVDM?oc=5",
+   "veiculo": "Meu Timão",
+   "trecho": "",
+   "data": "2026-11-08T11:51-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete, o Corinthians voltou a atrasar o pagamento de parcelas referentes a um acordo firmado com a Procuradoria-Geral da Fazenda Nacional. Com essa inadimplência, o clube acumulou uma dívida total de R$ 26,1 milhões.",
+   "pratica": "O caso ilustra os riscos e as consequências do descumprimento de acordos de parcelamento fiscal com a Fazenda Nacional, que podem levar à rescisão do ajuste e à retomada da cobrança integral. Na prática, reforça a importância do rigor no cumprimento dos acordos firmados com órgãos federais para evitar a perda de benefícios e a execução dos débitos.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Órgão responsável por representar a Fazenda Nacional em questões fiscais e cobrar a dívida ativa da União."
+    },
+    {
+     "termo": "Dívida ativa",
+     "explicacao": "Conjunto de débitos de natureza tributária ou não tributária devidos à Fazenda Pública que não foram pagos no prazo legal."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "29be51812dd724ab",
+   "titulo": "Pivetta diz não ter interferência em alta do ICMS, mas MT participa da decisão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUFtUlJFbUJ5YkxFVTdEcnhjcDNMdHNlcWt1NGxjbGdkTXNoRkEyWHJqLWY0UjBQN1JTZzBtU0YxOUwwbmdtbVJ3UFJRLWZ5YVhpb0ZPZWk1QmhIbkt3V1N5Zm9wb0hFTHlMQ0FNU0JMUTBEVmlpMzZMN2VkaHpXbEpmc2cxS1Q3NVRGU09DUlBIUDZsYmhYZWRSU3lVQTdDUG5rUV9ZNTRwTjdRemJLS2tmbWIxaUV5V0thQm1UUXZISVk5UGQxUg?oc=5",
+   "veiculo": "Fatos de Mato Grosso",
+   "trecho": "",
+   "data": "2026-11-08T10:57-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o vice-governador Pivetta negou ter interferência na alta do ICMS, embora o estado de Mato Grosso participe da decisão. A notícia aborda o debate político e administrativo em torno da definição das alíquotas do imposto estadual.",
+   "pratica": "Na prática, a discussão evidencia os bastidores políticos na definição de alíquotas do ICMS, o que pode influenciar futuras diretrizes de arrecadação e planejamento para os contribuintes do estado.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f7a44fffb7d7e663",
+   "titulo": "Governo de MT altera lista de produtos sujeitos ao ICMS antecipado; veja quais",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm5LMEJraHc4aXdWcGxSWHZENThQRkN4VUtlSEtsSWtIUHhiYWdZM0ROQWxOeTRqaVNLdnZRd0hXTEVDbFJHYktQT1dIeVFPTzVFX0h4YUtKdkEtckhZczRiU3lmcGNaNnRZeTItYkJaOVMtdEQxYk5uTnQ1SWYwT3VQUXNleXZPeEs3N1VDY2VWcV9sOTRfWUoyS1NzenVTdnFnNUItQlhWMktkRVRicGVuS25DMy1mNzZWcVlBTml2UHI5akpB?oc=5",
+   "veiculo": "Fatos de Mato Grosso",
+   "trecho": "",
+   "data": "2026-11-08T10:21-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Governo de MT",
+   "resumo": "Segundo a manchete, o Governo do Estado de Mato Grosso promoveu alterações na lista de produtos que estão sujeitos ao regime de ICMS antecipado. A medida atualiza a relação de mercadorias submetidas a essa modalidade de exigência do imposto no âmbito estadual.",
+   "pratica": "Na prática, empresas e contribuintes que operam com mercadorias em Mato Grosso devem revisar seus cadastros e procedimentos fiscais para verificar se os produtos comercializados foram incluídos ou excluídos da nova lista de ICMS antecipado.",
+   "termos": [
+    {
+     "termo": "ICMS antecipado",
+     "explicacao": "Modalidade de recolhimento do imposto estadual exigida antes da ocorrência do fato gerador ou em momento anterior à saída da mercadoria."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "198ef05c25b964b1",
+   "titulo": "Câmara de BH deve votar cinco projetos que modificam regras de impostos nesta segunda-feira",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkIwY05ycWV2b082Z1lOVzB3NzVRRGg4UGdjbk9yOURrd0Z0OEQtOWZTOG9hVlhUT0pHeUp4c0dNOFNIS1M2SDI5QzNLdGRvbmNqWkRoTFZ6N3NwWjBhVnhEWS1oRFdnenlhWEYzQW9qaVpGMUFmSTFUV0xqaVk1OVdidkZKY2pqSDQyb05zamhBRTY1RjBtY2NSQTYtLVhUWHpkUURBbUp6eXB5Mi1vZDA2REpHVGlLU2lLSkV6VzJjRnFtcE1zUnU2dWJnSDZB?oc=5",
+   "veiculo": "Impactto News",
+   "trecho": "",
+   "data": "2026-11-08T10:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Câmara de BH",
+   "resumo": "Segundo a manchete, a Câmara Municipal de Belo Horizonte tem previsão de votar cinco projetos de lei nesta segunda-feira que trazem modificações nas regras de impostos. A pauta legislativa indica possíveis alterações na legislação tributária municipal.",
+   "pratica": "Na prática, profissionais e contribuintes da capital mineira devem monitorar a deliberação dos projetos para avaliar eventuais impactos nas obrigações fiscais locais.",
+   "termos": [
+    {
+     "termo": "projetos que modificam regras de impostos",
+     "explicacao": "Propostas legislativas em trâmite que podem alterar a legislação tributária vigente."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "798ede9e63b6a3a1",
+   "titulo": "Justiça impede penhora de imóvel alugado usado para sustento de família",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVdXQ2hXejhzenRHb1dzU3RvcmpNMGNDNUdJeF9wSHZkcjNscW9vNEMxZFI1WXIyc2FqdXQxRlR0d3NOaF92bG5yRlZOaHU2WWg1bUM3RTdqeTBWd3NMcjZ5bDJCY2RvbGhDVFpFTENoaWFrYjh6ZzBYODlPRnRiZUNLWjJQQk5Ra3gta1JIajFkZUVsbjVQYzFQZnFyWEgxV0ZDaUlTdEZPNHJVUXdHWA?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-08T10:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Judiciário",
+   "resumo": "Segundo a manchete, a Justiça impediu a penhora de um imóvel alugado que é utilizado para o sustento de uma família. A decisão protege o bem ligado à subsistência familiar contra atos de constrição patrimonial.",
+   "pratica": "Na prática, a medida reforça a proteção de bens essenciais à subsistência do contribuinte em procedimentos de execução e cobrança, servindo de argumento em defesas contra penhoras.",
+   "termos": [
+    {
+     "termo": "penhora",
+     "explicacao": "Apreensão judicial de bens do devedor para garantir o pagamento de uma dívida."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "75527c951dc51990",
+   "titulo": "STF define prazo para devolução de valores na conta de luz",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHRiOVItck83RFNnTDdEVFFUTlJDV3M3WkZySVQ5LXV0MGtJU1B5UDQ2ZW5kam9RdTlYeG95cnd0UTNjeVd2N0VFRHNaTjlIcmNod0syM0V1MHY0djRLcWtUMEthbVFJeElod2x6NWZjdTh4X2FlS0x2T2lXTXdkMTF2N0JiREJZWGFyWQ?oc=5",
+   "veiculo": "A Gazeta SBS",
+   "trecho": "",
+   "data": "2026-11-08T09:05-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal definiu o prazo para a devolução de valores cobrados na conta de luz. A decisão impacta diretamente a relação entre consumidores, empresas do setor elétrico e o Estado.",
+   "pratica": "Na prática, a definição do prazo traz previsibilidade para a restituição dos montantes envolvidos nas faturas de energia elétrica.",
+   "termos": [
+    {
+     "termo": "conta de luz",
+     "explicacao": "Fatura de energia elétrica que inclui tributos e tarifas reguladas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "396c8fa7e458d9c3",
+   "titulo": "Reforma tributária pode ser adiada? Veja quem defende a mudança e o que diz o governo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGhrQVJGOE5XengzYnJvakhFMktoejhEanlsOVhuYWczcWVmZDU4NG9UV29PTHZLbE5EdE1jbWNqOUdIWkk2WHh4YjV6UU5oYzFZQkJlQ2FXTmtfcVBDYlNiVWZEeUdZcmhleUxOTzV2cW9HcFdVN1VzaElrbS1ubkNfdmpmWWZVWmhrdm94eGswMmRzUnhHWk1VNHdLZ0xBNVJNUzZMNEhwOGh3R1FyRmt3?oc=5",
+   "veiculo": "Exame",
+   "trecho": "",
+   "data": "2026-11-08T08:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Governo",
+   "resumo": "Segundo a manchete, discute-se a possibilidade de adiamento da reforma tributária. O debate envolve defensores da mudança e a posição do próprio governo sobre o tema.",
+   "pratica": "Na prática, a indefinição sobre prazos exige que empresas e profissionais redobrem a atenção no monitoramento do cronograma para a adaptação às novas regras.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Modificação estrutural na legislação e na cobrança de tributos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "95c03c69145d9898",
    "titulo": "Tema 118 do STF retira o ISS da base de cálculo do PIS/Cofins",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0JxT3pSQklkWlU3ak9HSVcteTl5Z3d5aDJ4VWFRbElFNXJJZm55d0h6M0tnOWQ0MHBIUGtGUGtSMVduZ0M1UGdtTU9xOHNmUEpoRDk4R3pDdVdzSnh3UWE1V18zNDhQWkZaNVY1UXFhdzJ2ZXljWVpmbndhSGFRc1BVajh1R2JFWG1CMDlhcjRHQU95anRiOWdoUXJ2c1lrQlF6cW1MWUthbHN2VFdwV1V3?oc=5",
@@ -11069,7 +11655,8 @@
   "2026-11-05": "Nesta edição, destacam-se três importantes movimentações no direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça definiu que não incidem contribuições previdenciárias sobre os ganhos de *stock options*, estabelecendo uma diretriz essencial sobre a natureza jurídica dessa remuneração. No âmbito da Reforma Tributária, o governo publicou medida provisória definindo as regras, o período de transição até 2028 e as alíquotas do Imposto Seletivo para 2027, gerando debates intensos entre entidades, como CNI e OAB, que defendem o adiamento das mudanças e cobram revisões devido ao impacto da alíquota de 11,3% da CBS. Por fim, o Supremo Tribunal Federal atuou sobre o ICMS, derrubando alíquotas do Maranhão acima da modal para energia e comunicação.",
   "2026-11-06": "O destaque do dia concentra-se na regulamentação da Reforma Tributária, impulsionada pela edição de medida provisória que define regras de transição e alíquotas para 2027 do Imposto Seletivo — incluindo diretrizes para cigarros, bebidas e veículos —, além de gerar debates sobre o cronograma de implementação e a alíquota de referência da CBS, que preocupa o setor produtivo. Na agenda dos tribunais, o Supremo Tribunal Federal ganhou relevo ao derrubar alíquotas de ICMS mais altas sobre energia elétrica e comunicação no Maranhão, aplicando o princípio da essencialidade. Esses temas são cruciais porque redesenham o panorama da tributação do consumo e afetam diretamente a segurança jurídica e a carga fiscal dos contribuintes.",
   "2026-11-07": "Bem-vindos ao boletim diário de direito tributário. Entre os destaques de hoje, a Reforma Tributária concentra intensos debates com pedidos formais de entidades, associações comerciais, o governo e a OAB pelo adiamento da implementação ou revisão dos prazos de transição, refletindo a preocupação do setor produtivo com a complexidade das novas regras. Além disso, no âmbito dos julgamentos, o STF derrubou a exigência de idade mínima na aposentadoria especial por insalubridade e validou o fim do ICMS Verde, mantendo a lei do estado de Alagoas. Esses temas exigem atenção redobrada de advogados e contadores devido aos impactos diretos na adaptação normativa e no planejamento tributário.",
-  "2026-11-08": "O boletim de hoje destaca três importantes movimentações no cenário tributário brasileiro. No Supremo Tribunal Federal, o encerramento do Tema 118 retirou o ISS da base de cálculo do PIS e da Cofins, alinhando a jurisprudência à tese da exclusão do ICMS. Em outra decisão de grande repercussão, o STF derrubou a exigência de idade mínima para a concessão de aposentadoria especial em atividades insalubres, impactando as regras de inativação de trabalhadores. Por fim, os debates sobre a Reforma Tributária continuam em evidência, com destaque para a preocupação do empresariado com a previsão de uma alíquota de 11,3% para a CBS e para a defesa, por entidades do setor, do adiamento da cobrança efetiva da CBS e do Imposto Seletivo para janeiro de 2028."
+  "2026-11-08": "O boletim de hoje destaca três importantes movimentações no cenário tributário brasileiro. No Supremo Tribunal Federal, o encerramento do Tema 118 retirou o ISS da base de cálculo do PIS e da Cofins, alinhando a jurisprudência à tese da exclusão do ICMS. Em outra decisão de grande repercussão, o STF derrubou a exigência de idade mínima para a concessão de aposentadoria especial em atividades insalubres, impactando as regras de inativação de trabalhadores. Por fim, os debates sobre a Reforma Tributária continuam em evidência, com destaque para a preocupação do empresariado com a previsão de uma alíquota de 11,3% para a CBS e para a defesa, por entidades do setor, do adiamento da cobrança efetiva da CBS e do Imposto Seletivo para janeiro de 2028.",
+  "2026-11-09": "Nesta edição, destacam-se decisões de grande relevância no Supremo Tribunal Federal e no Superior Tribunal de Justiça. O STF derrubou a exigência de idade mínima para a aposentadoria especial, permitindo que segurados com 15, 20 ou 25 anos de atividade especial solicitem o benefício, além de manter o desconto no Imposto de Renda para aposentados com doença grave e definir prazos para devolução de valores na conta de luz. Por sua vez, o STJ vetou a tomada de créditos de PIS e Cofins sobre o ICMS. Esses temas importam porque impactam diretamente os direitos dos contribuintes, as regras de transição previdenciária e o planejamento fiscal de empresas e cidadãos."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -11341,9 +11928,19 @@
   "IBS/CBS": "Novos tributos sobre o consumo criados no âmbito da Reforma Tributária brasileira.",
   "IOF": "Imposto sobre Operações Finaceiras incidente sobre crédito, câmbio, seguro e títulos.",
   "dívida ativa": "Conjunto de valores de créditos públicos que podem ser cobrados judicial ou administrativamente.",
-  "desconto": "Redução legal aplicada sobre o valor total do débito no âmbito de programas de transação."
+  "desconto": "Redução legal aplicada sobre o valor total do débito no âmbito de programas de transação.",
+  "Arrendamentos": "Contratos de cessão de uso de bens, muito comuns no setor do agronegócio.",
+  "Dívidas fiscais": "Valores devidos por contribuintes ao Estado em razão do não pagamento de tributos.",
+  "Bloqueio de bens": "Medida constritiva que impede a livre movimentação ou alienação do patrimônio do devedor para garantir o pagamento de execuções.",
+  "Perdão de dívidas tributárias": "Remissão ou anistia de débitos fiscais sob determinadas condições legais.",
+  "Choque do petróleo": "Aumento brusco no preço internacional do petróleo que afeta diretamente o custo dos combustíveis no mercado interno.",
+  "Edital": "Documento publicado pela administração pública que estabelece as regras, os requisitos e os benefícios para adesão à transação.",
+  "ICMS antecipado": "Modalidade de recolhimento do imposto estadual exigida antes da ocorrência do fato gerador ou em momento anterior à saída da mercadoria.",
+  "projetos que modificam regras de impostos": "Propostas legislativas em trâmite que podem alterar a legislação tributária vigente.",
+  "penhora": "Apreensão judicial de bens do devedor para garantir o pagamento de uma dívida.",
+  "conta de luz": "Fatura de energia elétrica que inclui tributos e tarifas reguladas."
  },
- "atualizado_em": "2026-11-08T06:34-03:00",
+ "atualizado_em": "2026-11-09T06:52-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
