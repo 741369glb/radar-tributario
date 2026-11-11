@@ -1,6 +1,865 @@
 {
  "itens": [
   {
+   "id": "f7d8254ac02c92a6",
+   "titulo": "Reforma tributária muda cobrança de impostos sobre aluguéis em 2027",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBha253ckVFVEpVdFFiWUxhZWlQb2tidmk2N1cwc2RBVE9rM2xheWJBU1NuMG9Qd09JUmlRRDBfUDdzT1NRRXdPZ3U2MW1Pbnhqc05xTlJCMHoyTUlLbEhYbmtHbWZLN015bEx6WGlIMkRCVWhfTklqSmpHVVo?oc=5",
+   "veiculo": "ICL Notícias",
+   "trecho": "",
+   "data": "2026-11-11T06:15-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária trará mudanças na cobrança de impostos sobre aluguéis a partir do ano de 2027. Como não há trecho detalhado, a informação baseia-se exclusivamente no anúncio da nova incidência fiscal.",
+   "pratica": "Na prática, advogados, contadores e contribuintes devem ficar atentos às futuras regulamentações para adequar contratos de locação e planejar a carga tributária aplicável a esses rendimentos.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    },
+    {
+     "termo": "Aluguéis",
+     "explicacao": "Valores recebidos pela cessão do uso de bens móveis ou imóveis, sujeitos a regras específicas de tributação."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "468b5448c336bae2",
+   "titulo": "Decisões da Justiça do CE suspendem cobrança de ICMS sobre energia solar compensada",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaVgyc3I2MjRRQjg0WlhBbEY2YmNPelEwbU9ONVVLSHR0SDNtQzVzWnMtMktyWXQwSmhXaFlsdV8xRTRFV0hGQWluS3pPRm54eTFBcG9kdm52aVZMWlJQWkNFTWt0VW5pcFFVaTkwbXBfQ0NjVlJlRjJDYXlkTzhPeHFOejZocWVzbmYwYVkwazhOS0htNlNpWHFDQlpRRF9DU3VQOFJGTEY3cVZhc1pETUJyalF4SGtOam5NUDFkZ2FIQW03MnJOMjktUUpPbDBraktLaWRhSVdtMVdrTExhVFREblJaWGJkNWhpRmQwU1E4cTZNbEdDSVQxSkQxTFcz?oc=5",
+   "veiculo": "Diário do Nordeste",
+   "trecho": "",
+   "data": "2026-11-11T06:05-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "Justiça do CE",
+   "resumo": "Segundo a manchete, decisões da Justiça do Ceará suspenderam a cobrança de ICMS sobre a energia solar compensada. A medida impacta diretamente a tributação aplicável aos sistemas de geração distribuída no estado.",
+   "pratica": "Na prática, contribuintes do Ceará que possuem geração própria de energia solar podem buscar a suspensão dessa cobrança em suas faturas, alinhando-se aos entendimentos judiciais locais.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "Energia solar compensada",
+     "explicacao": "Sistema em que a energia excedente gerada por fontes solares é injetada na rede e convertida em créditos na fatura."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3d58df6aef85097b",
+   "titulo": "Deputados admitem cortar isenções da reforma tributária se alíquota do IVA passar de 26,5%",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlZPM2hDQTJYN3VsZjNSS2RMN0k0QnNUYkVoenhtVHM1OU1HOGVRQjIwTWxwdDFmd01EaVVrdFlKYU9ya3lBTFdrT0V2aEQwOGlfMHd1QXVqbU0yWnFNSElINDFvc1NIbXVtbzBoYnhSQnlMYVhXU2ZxNnR1WkdUaE9xNEdHUkNCVHB0UTVIX1hvZ0p4eDZj?oc=5",
+   "veiculo": "MEON",
+   "trecho": "",
+   "data": "2026-11-11T06:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, deputados admitem cortar isenções da reforma tributária caso a alíquota do IVA ultrapasse o patamar de 26,5%. A medida funciona como um mecanismo de contenção para evitar uma carga tributária excessiva decorrente do novo imposto.",
+   "pratica": "Na prática, contribuintes que atualmente contam com isenções devem monitorar o debate legislativo, pois seus benefícios fiscais podem ser revistos para conter a alta da alíquota padrão.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado instituído no âmbito da reforma tributária."
+    },
+    {
+     "termo": "isenções",
+     "explicacao": "Dispensa legal do pagamento de um tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "801450bba4becf2f",
+   "titulo": "Aluguel de imóveis com nota fiscal: o que muda na reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0JtNzFtMjJMcGlibnkwN0xQU05jWWt1eDZvaDBZUWtmalVHdTVNSHRYMDZGUHhzT1E5dE9ib0dmdG1xY1lXNTduOFpEcW9SRnprMGNobTkydEwzV0VIRnNVbkJPX19uVW9nM3hTZlFweTBxUUw5bW1XNmpOTDdUWUFWTmNueFVUNm1MOFl2aG9HUmxFRE1kZDYwb1RSNUxuUU1NbA?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-11T06:01-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do portal Consultor Jurídico, de 11 de novembro de 2026, discute-se o impacto da reforma tributária sobre a locação de imóveis com emissão de nota fiscal. O tema aborda as mudanças normativas e operacionais trazidas pelas novas regras de tributação.",
+   "pratica": "Na prática, advogados, contadores e contribuintes devem acompanhar os desdobramentos legislativos para adaptar a emissão de notas fiscais e o planejamento tributário das locações imobiliárias.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "485194bc4be0f3f9",
+   "titulo": "Série de pendências na reforma tributária preocupa empresas",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJ0cmcxUkFHSDNqUDAwQ2NIQU0yQk5KZE1wNzllYkVPV3RmYzlIZTgzSEtfTWZHd0oxaHk2eGpTVzRVZWVuZXlCVEhpUVRGQ1VST0YwM2xMRWM2RmdqNFh2VUIyM3J6bmk1Q2VScFlkZTFGdERuT1lpak40dVhGMm9ULWphYWYtOTJIYlkxVHp1d3hmMzZ3UDB6WGFSZE12WnBaWE04VEhZcFdjQ1pGM0NDbDM4ZjVnWE04?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-11T05:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do Valor Econômico, há uma série de pendências relacionadas à reforma tributária que estão gerando preocupação entre as empresas. O cenário indica que questões essenciais do processo de transição e regulamentação ainda geram incertezas no ambiente corporativo.",
+   "pratica": "Na prática, a existência de pendências na regulamentação exige que advogados, contadores e empresas reforcem o acompanhamento das discussões legislativas para antecipar impactos operacionais e estratégicos.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Mudança estrutural no sistema de arrecadação de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d465279e7a3733f7",
+   "titulo": "Deputados descartam adiamento da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kazRTRWJzWE1VVWlPM1ZSN1Z3YzhGVl9SQ0hPcjdyanVXVFJROUd0SG5rbVVZak95OEdKTnhjWW1QbWcwYU5oZnduQ0lPZVJKM0FYZ3pXLThKZlUtdG9ITHY5NUNyZlM4Nk5NR2hFY2dMdml1dDllVHM3bk4weUE?oc=5",
+   "veiculo": "Acia Araçatuba",
+   "trecho": "",
+   "data": "2026-11-11T05:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, deputados descartaram o adiamento da reforma tributária. A discussão indica a manutenção do cronograma político e legislativo previsto para as mudanças no sistema de tributos.",
+   "pratica": "Na prática, a decisão reforça a necessidade de advogados, contadores e empresas manterem o foco no planejamento e na adaptação às novas regras dentro dos prazos vigentes.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "90c9003bfa3527e1",
+   "titulo": "STJ julga valor de IRRF devido pelo Santander",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZERfYnUwejg4NHc5Mk1kVmI5REJaMmlDX1FVZ2x4R0tkVE1mSVRUXy1VQ2ZFVGNkUndUeE5KRW5fV3YyaGVnMkd4UWt0VHZnOHVwRTBPMTVPMFM1T1o3SUxCTDdyZEU2eW1ueElmRGIyS0JVc0o3NlNMcWpibzBoMHRRTkI5dXJGU0NOaXAzOE9nQUVqWldTS2RBMHBDRUxiem15eTJiM1nSAbcBQVVfeXFMTXI5WFlaREhwRUVHOWdiMTl5eTAyeThSR0toX1hVa1RUNFVCeWFpYWhTckIwdXVMQWc4ZkxyQ0lUMEF4TmFmQWJUcFV0N1libU96Q1pWbDZlTThRclM1Z1c2SWpkQk5QRGp1QVYtMjFFNEFkRklwV2FOUXpXd092X0lkMzBqblh5SEVjR0ZqVzNBakZrRkFBcXo5RFVSZ1dzaUNFbVQyaFpEdFg0RVVpYjdUa1FJUGow?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-11T05:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Imposto de Renda",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça julgou o valor relativo ao Imposto de Renda Retido na Fonte (IRRF) devido pelo Banco Santander. A discussão envolve a quantia tributável aplicável à instituição financeira.",
+   "pratica": "A decisão serve de alerta para advogados e contadores acompanharem o entendimento do STJ sobre a apuração e o recolhimento de retenções na fonte em grandes instituições.",
+   "termos": [
+    {
+     "termo": "IRRF",
+     "explicacao": "Imposto de Renda Retido na Fonte, descontado por quem paga e repassado ao Fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c906d3e5741b752c",
+   "titulo": "Deputados descartam adiar reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUNFYlpDRjdEcEdIampkb1Q0bHhLMkZWcHdwWWNQRlVWWmdGUEw1T1JYZzZ1cFpXN0FGUFFZLWo3djRHdlMtUXV6aVE1emYxd3dnb0dNbHRqN091RUY4VjR0ZmNRd2tVUXdyUXViaUN3cG9Qb2JTanRMdkhSRDlXMUN6VGRvOVZJcmJmRy0wUGVnTnBQeXlYa1dkeEl3UUU4elZFYdIBswFBVV95cUxOR1ZyVnBWS3FrUkNQeGg2cHlzSDhaWkNxMmdhM2hWc3Z6VWtXWVhyNEVMSU15UWltd05CT3RTRzlOekhhdmpFQjR1T3hvVS1xalhTQTF3U1E2eXRNV2I1dGlyNkY2d3hXUlNia05wWG5YTGp3Z1ZZX1JlUC1Td0hMR1A4dHRILV9ub1lLdnVYdUdORzJZR1I2UzdWTFhXazdTaU94NV9IZVNFcHpRc200RW9vcw?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-11T05:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, deputados descartaram a possibilidade de adiar a reforma tributária. A decisão afeta o cronograma de implementação das novas regras fiscais no país.",
+   "pratica": "Na prática, as empresas e profissionais devem manter o foco no planejamento para a adaptação às novas normas, sem contar com prorrogações de prazo na esfera legislativa.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais que alteram a estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b0b800a09755a895",
+   "titulo": "Reforma tributária e concessões: o desafio de preservar o equilíbrio dos contratos",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3dvalRxaGNMSkhMcEl2VjhDWVBMS0E3YVNsS3BKLU1qZ2thQzA3dEhmdHpEYUhhT1N0dmNBZUt1c0NlclR0WHBUdHA3Z2RIbm1HbzBabGpHMk9MNmxEX1Q0ODd4eGFlV0hpSTVOQm1tQ1VVWmFrOTNCWDJ2V0Zqai04YzRkSkpGMUh1ZlY3XzdvdVNjMFdQVzdFalYyaTN5WWMyNzJydlg2MEh3MENSeWtYOEdkWTJaR1NLczhCdEJxekQ0RUhzLQ?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-11T04:49-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate sobre a reforma tributária envolve o desafio de preservar o equilíbrio econômico-financeiro dos contratos de concessão. A discussão aponta para a necessidade de adaptar os acordos vigentes às novas regras do sistema tributário brasileiro.",
+   "pratica": "Na prática, concessionárias e profissionais devem monitorar as diretrizes da reforma para antecipar impactos nos contratos de longo prazo e evitar desequilíbrios financeiros.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural nas regras de cobrança de impostos no país."
+    },
+    {
+     "termo": "concessões",
+     "explicacao": "Delegação da prestação de serviços públicos ou exploração de bens do Estado à iniciativa privada."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cb4182d1e4fb20d2",
+   "titulo": "Receita Federal: serviços médicos de home care prestados entre empresas têm retenção de IRPJ, CSLL, PIS e Cofins",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2dzSTBIQ0diazJRMkNKMi1mNzgxOGxyZFpFOTdEcmV5OWVSYlJvek54YTgwcGktbWRLTDNKbE1vNmtwV2MyeVljUXRPYnh4aWM3aHowSk1XSVFRZEpDdE5BZXVHRjJqTjQ5NE04UTZVc0g5ZHg4cE1aT0V0RnFCaDFPcUlhenhrVjRmUlczZVY0TlhDNUg5Y1dsc2FzQzNI?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-11T02:36-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal definiu que os serviços médicos de home care prestados entre empresas estão sujeitos à retenção de IRPJ, CSLL, PIS e Cofins. A orientação esclarece o tratamento tributário aplicável a essa modalidade específica de atendimento prestado no modelo B2B.",
+   "pratica": "Na prática, empresas contratantes e prestadoras desse segmento devem redobrar a atenção para efetuar e recolher corretamente as retenções federais apontadas, evitando contingências fiscais.",
+   "termos": [
+    {
+     "termo": "retenção",
+     "explicacao": "Desconto de tributos realizado pela fonte pagadora no momento do pagamento do serviço."
+    },
+    {
+     "termo": "home care",
+     "explicacao": "Serviços médicos e assistenciais prestados no domicílio do paciente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5e0d083882642841",
+   "titulo": "Receita define retenção de tributos em contratos de copeiragem com fornecimento de alimentos",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHoxM0lGNXpHNzhVR1JwdE1OVjJFSEdkSVgzUVVubnFmeF9oMF8yTWdtU2FoSTYzeXhPcU85NlhnUmRubzkySHZmQlN1SWg0eFM0dTVqVTZzYWVuUV9hckp0c3FGUUFDOU9NSEZralJxUTZyTzA5SmZ6Mm1pbXF6U0E5OUNfT093aE83b251ZVZacXMwWGVZTk4tRQ?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-11T02:34-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal definiu regras sobre a retenção de tributos aplicáveis a contratos de copeiragem que envolvem o fornecimento de alimentos. A medida estabelece diretrizes específicas para o cumprimento das obrigações acessórias e principais nessa modalidade de contratação.",
+   "pratica": "Na prática, empresas e profissionais da contabilidade que lidam com contratos de copeiragem e alimentação devem atentar-se às novas diretrizes da Receita Federal para evitar erros na retenção e recolhimento dos tributos.",
+   "termos": [
+    {
+     "termo": "retenção de tributos",
+     "explicacao": "Desconto de impostos e contribuições realizado diretamente na fonte pagadora pelo tomador do serviço."
+    },
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do Ministério da Fazenda responsável pela administração dos tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a25d7b613a9487ea",
+   "titulo": "O que muda no aluguel com a reforma tributária, e quem paga a conta",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1dmQk9DNXNOUkFwSXFfdEExRE9NWnZ6XzQzeFA3LTJVRFBnbE0xOTl1Y3VrR0JCdTNzNG8xRU1QZkh1RlEzcUhBMExobUtFUTNta2VKc0h1NlFXVkluNk92Y21XRDd6SklGQUZ3ZU1aMmoyVVozSUJzaVF0OWFSaFd3U2NsQ3FBOUxlOGZ0NGtUQ2gwNGdER0ozcFNxOFNaN2RHNnRUQTNlZFhuWHc?oc=5",
+   "veiculo": "TV Sim Brasil",
+   "trecho": "",
+   "data": "2026-11-11T01:44-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da TV Sim Brasil, discute-se o impacto da reforma tributária sobre os contratos de aluguel e quem arcará com o ônus financeiro decorrente das mudanças. Como o trecho não foi fornecido, detalhes específicos sobre as alíquotas ou a dinâmica do repasse não estão disponíveis na análise.",
+   "pratica": "Na prática, advogados e contadores devem acompanhar os debates legislativos e regulatórios para orientar clientes sobre eventuais reajustes ou impactos nos encargos locatícios.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Alteração profunda nas regras e na cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6327f935c2d4a57f",
+   "titulo": "O imbróglio da reforma tributária fica maior a cada dia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmJ6N0M3X2VZOWlZU2RMbEd1Y3JpdTl3NE5UNUNveGxQU3lWTTBfUDhxZU9rcG15VHNOalMxa1lkQTRWRU1WUUszclpId2haWUgtOWNockxueExTSk9FNzFZZS1JQkxjalUwY3BxWnd4TUdueWRPdEJDa3NzVUxiMl9mb0dyUmdPUTkxNlBaeTZjeXUxZkNRMFJ0dEtfRHZXWnVLdA?oc=5",
+   "veiculo": "Money Report",
+   "trecho": "",
+   "data": "2026-11-11T00:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o imbróglio em torno da reforma tributária fica maior a cada dia. A notícia aponta para um cenário de crescentes debates e complexidades políticas e técnicas sobre o tema.",
+   "pratica": "Na prática, exige que advogados, contadores e empresas redobrem a atenção e o monitoramento constante das discussões legislativas para antecipar impactos operacionais.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Processo de alteração profunda das regras e dos impostos vigentes no sistema nacional."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ab64cde9d84496ec",
+   "titulo": "Você sabe o que é 'split payment'? Entenda mecanismo que separa imposto em pagamentos previsto para outubro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUWlDck96SGpKeC1HVGt1cDRBSy05cjVSTndwMmJDUnJhTmJ5Q2dESFhid08zeTVPVV9sYzNrZ2ctS05haU5MYmRLczZGdEJCSVZnOEYyVURvdGtxa1o2SUl6V1FEMmxLcmN5YmhITEJXcjVScHpBN1ZaNzFmbDRrTWl5TVNZM24yX1hWdm00ZVI1ZEFxNUR5TVlEVlhwbUxBS09GMzY0TXV2WE1MU1FhTl9HT0JuRVBkcmdRSHhidUNrVi1MYXdTZUt3VXgtSW1kdkhQVW5PWm51R3RnLVo3V01TWkI0dnBndXF0Q1IzSWNmV3pGcHM1WFkzbFBvaVFsX0R6eTVucUFxY25lamJv0gGPAkFVX3lxTE1RaUNyT3pIakp4LUdUa3VwNEFLLTlyNVJOd3AyYkNScmFOYnlDZ0RIWGJ3TzN5NU9VX2xjM2tnZy1LTmFpTkxiZEtzNkZ0QkJJVmc4RjJVRG90a3FrWjZJSXpXUUQybEtyY3liaEhMQldyNVJwekE3Vlo3MWZsNGtNaXlNU1kzbjJfWFZ2bTRlUjVkQXE1RHlNWURWWHBtTEFLT0YzNjRNdXZYTUxTUWFOX0dPQm5FUGRyZ1FIeGJ1Q2tWLUxhd1NlS3dVeC1JbWR2SFBVbk9abnVHdGctWjdXTVNaQjR2cGd1cXRDUjNJY2ZXekZwczVYWTNsUG9pUWxfRHp5NW5xQXFjbmVqYm8?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-11-11T00:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o mecanismo conhecido como split payment prevê a separação automática do imposto nos pagamentos. A implementação desse sistema está prevista para outubro de 2027.",
+   "pratica": "Na prática, o mecanismo exigirá adaptações tecnológicas por parte de empresas e profissionais para lidar com a retenção e separação automática dos tributos nas transações.",
+   "termos": [
+    {
+     "termo": "split payment",
+     "explicacao": "Mecanismo que realiza a separação automática dos tributos no momento do pagamento da transação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6948cf3a2935e377",
+   "titulo": "Imposto Seletivo começa a ser cobrado em 2027 e exige atenção de empresas",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPek9uZEh6TUNIUl9BWHpNY0VxQmxkYUxRREtyV0FZUERLZTBKdWliU01IX2o0V2o3MTVRMTI1eFRYTzhaTk1nRm9EMEdSTUp5bHU1T2RnaUpGMDg0MVh6c21hLVMxc0JGZjAwdDA5S3pSSkF1R2s5TkRaXzJSSkpMM0NuQXZxc2pmNzdsRW44R3RGYXFCYVpuckEwX3RDdmhXMjNja24tcmhXSUVPTnZSa050RQ?oc=5",
+   "veiculo": "Tribuna do Norte",
+   "trecho": "",
+   "data": "2026-11-10T22:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da Tribuna do Norte de 2026-11-10, o Imposto Seletivo começará a ser cobrado a partir de 2027. A novidade exige atenção especial das empresas quanto às novas exigências fiscais.",
+   "pratica": "Na prática, as empresas precisam se antecipar e preparar seus departamentos fiscais e contábeis para a adaptação ao novo tributo que entrará em vigor. Como o trecho é ausente, detalhes operacionais específicos ainda dependem de regulamentação.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Novo tributo previsto para incidir sobre produtos e serviços prejudiciais à saúde e ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b4f30f8efe2ce926",
+   "titulo": "STF decide que ICMS não incide sobre subvenção da tarifa de energia para consumidores de baixa renda",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXYzSXZ0VjVYTWdjSFhNRnNlRFViS1lPeFpRckd0Ti1PWWxwai1FX2dmSjdaenk2S2hLTFE2anE4S1dsN2RRRFpVQWt6RC1raGVoN2dCSTN4SHF2Wk5JdFJKamRSR0ZUY2hrZzFxVS1NTHQyRDVWaTNqQVBuWlJxclZiYWxlanBGa3IySmxMMkk3MzVvcnhHYzlnN3lNRVdBR1V1VWJpYk5LeTg?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-10T22:01-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal decidiu que o ICMS não deve incidir sobre a subvenção da tarifa de energia elétrica destinada aos consumidores de baixa renda. A decisão afeta a composição da base de cálculo do imposto estadual sobre o consumo de energia desse grupo específico.",
+   "pratica": "Na prática, a decisão afasta a cobrança do ICMS sobre esses valores subsidiados, devendo refletir na redução da conta de luz para os consumidores beneficiados e exigir atenção das concessionárias e do Fisco quanto aos créditos e repasses.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de energia elétrica."
+    },
+    {
+     "termo": "Subvenção da tarifa",
+     "explicacao": "Auxílio financeiro concedido pelo governo para reduzir o custo da energia para determinados consumidores."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2f8e46161730acf0",
+   "titulo": "Reforma tributária entra em vigor no início de 2027",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTRZekRqT042S2YwSGJKc3BhaEVRZXlnSXRyMnhERHU2OF9GVXo0RURqUHAwdW5URXozSzdwRW95bnpSQl9NTHhhWmx1MlFwQXBqOE01OGtndTZkUXUwU3dfQWpiSjRKM2hoZlVYNUpJZHQ3bllrUndEODVCNUFySUNNcWdYMmw2UnAtYw?oc=5",
+   "veiculo": "MundoBA",
+   "trecho": "",
+   "data": "2026-11-10T21:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do veículo MundoBA, datada de 10 de novembro de 2026, a reforma tributária entrará em vigor no início de 2027. A publicação destaca o marco temporal para a efetivação das novas regras fiscais no país.",
+   "pratica": "Empresas e profissionais devem acelerar o planejamento estratégico e a adaptação tecnológica para cumprirem as novas exigências que passam a valer no início de 2027.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reformulam o sistema de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a721b7109c276dff",
+   "titulo": "Reforma tributária: deputados dizem que cronograma será mantido para 2027",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUU1d0xXd19vd3ZrSnhlRFBub2VmN3VPWnpfT2kzNWVhRWJWdkpiX1lhU211X1g3T2djWW9MZElTbG1uczFOTW0zT2Fmd0hXRC1TdDBwZjVCNXQyQi1mME54WXZfLVM0RjhmaU1Oc1c1R0lJeG11UEt2RGlSTkRkR01HTlJxZ2lQQ1BQUVU4ZHFoR29LUzk3ZHdoTzBKYWh0czY1cjNwX2IwSGtrZjVhSnhKdVNrMFhtVXZWeUlmelBVOXF2cjZzUXBKMWJkRDFMalNqV0JvNNIB3AFBVV95cUxQSEVfeEh6NS1VMThxYkY5aXpTdGtlNnF0M3k4cUpyTUdwMEhnSFVQLU9Qa1NvSzg0MWx3OXctQ3RBY1NLLUp0R3Y2ZmJGU1Z3bTlCcmZNYkxSclVMM1plUV9mSzFaRkh4RFNER1lTTW12dlVHUGRGZTJDVFBQYU0weF9PLTI5MTVhS2lsNnE2OWRRTnVwNTA3T3IzSkl1eTV5aHVnUl9SOXkxNk01ZFVfMTdXZ3FQbndEYUtBcXM1WlFqVXpQdHY0SVdvU1FfbXQxTzJfdVhDZmYzem55?oc=5",
+   "veiculo": "Correio Braziliense",
+   "trecho": "",
+   "data": "2026-11-10T20:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do Correio Braziliense, deputados afirmam que o cronograma da reforma tributária será mantido para o ano de 2027. A notícia indica a continuidade do planejamento legislativo em relação aos prazos previstos para as mudanças no sistema de tributos.",
+   "pratica": "Na prática, a manutenção do cronograma sinaliza para empresas e profissionais que devem continuar se preparando para as exigências e prazos previstos para 2027, sem alterações oficiais na linha do tempo.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações legislativas na estrutura de cobrança de tributos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2d557243d5515f1e",
+   "titulo": "Empresas de MT pressionam por adiamento da reforma tributária para 2028",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWE9pRGlNc1IzSl9hLWJmTEljcUJEcnRJNlZFWmMtb0RaM3BRWUk1OE1RWTRtNmN1MFcycy1zM3pQcDF6UE80RS1SOFRyTTVqZV84YVRKRC1SNTFVN2lERkQwODFUenJwWFpzMjQ0VXpjYXRZQXFxN3o2dERENTdFOHJ5YzYycWl4ODY0c0x5LU15SEdtRDdra1VPampycVdEeFJlaWxqejlKcnFhMG1LRkJBWkFXRm9WTlpmbllwUVpwZw?oc=5",
+   "veiculo": "Estadão MT",
+   "trecho": "",
+   "data": "2026-11-10T20:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, empresas do estado de Mato Grosso estão pressionando pelo adiamento da reforma tributária para o ano de 2028. A notícia reflete os debates e articulações do setor empresarial em torno do cronograma de transição do novo sistema de tributação.",
+   "pratica": "Na prática, a movimentação indica que o empresariado busca mais tempo para adaptação às novas regras, o que pode influenciar futuras discussões legislativas sobre os prazos de implementação da reforma.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural na cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "136ac5222a55f557",
+   "titulo": "Alerj aprova adiamento do ICMS sobre querosene de aviação no Rio",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUxDSlVEam4zTTlLOGNJZEJybGd3ejl0NWJRV0NsR0w4d2tIaEZXYmk2aDFROXdWdjdOSUw1SmZOVGlqYVU2TVh1MFdWMVhtQVpJSkVXRzVHUm9jb2kzaGhNdzdWNG96TmRIZTdYUFRVdDVULUZ4TkI5dUpheFR6VkVnckpmdlpYWFVoaVVELU1rMVRkVWNUMA?oc=5",
+   "veiculo": "tmc.com.br",
+   "trecho": "",
+   "data": "2026-11-10T20:22-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Alerj",
+   "resumo": "Segundo a manchete, a Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou o adiamento do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incidente sobre o querosene de aviação. A medida legislativa altera o cronograma de exigibilidade do tributo estadual para o setor aéreo no âmbito do Rio de Janeiro.",
+   "pratica": "Na prática, a decisão legislativa altera o fluxo de caixa das empresas aéreas que operam no estado, postergando o momento do recolhimento do ICMS sobre o combustível.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte interestadual, intermunicipal e de comunicação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e46b705148f50ce0",
+   "titulo": "IMPOSTO DO PECADO 💰 O empresariado teve muito o que discutir nas últimas duas semanas. No dia 28 de outubro, o Tribunal de Contas da União (TCU) finalmente divulgou o cálculo proposto para a CBS (Contribuição sobre Bens e Serviços), imposto cri",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1icWpETWtPcW40aXAzOXZpZ1RZWGxFQnVZTGhSZGd3cDdjeWFJYjNTVVBCY0ZoSjFLQi1XWWNQT0U4TWxRZ2NndThWeldOeldBTFE?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-11-10T20:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TCU",
+   "resumo": "Segundo a manchete, o empresariado debateu intensamente nas últimas semanas o chamado imposto do pecado. No dia 28 de outubro, o Tribunal de Contas da União divulgou o cálculo proposto para a CBS.",
+   "pratica": "Na prática, a divulgação dos cálculos do novo tributo pelo Tribunal de Contas da União movimenta as discussões do empresariado sobre os impactos da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada no contexto da Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "649f523465051142",
+   "titulo": "Reforma Tributária exige CNPJ Técnico de produtores e locadores em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlJoVmVLUEtOaHQ0WlVZT3RmcjQ4SjR0ZjBjOFlhcTJzdHFhZ0J3a1ZNN2F0cllGUlYtaEt2RThUV0hyQUxYclkxdlpGUlFOUDIxSTZfNHVZOTAwYmJNVk43ZkYwZ1dET1JtLUdTbW9ZYzNEeGNnU194ZEU4T2pUMFNqY1NJWXFXZFZSYjVaSXFxSDN2bk1IcWxITzdSQmtCeC1IUDU4WlQ?oc=5",
+   "veiculo": "Brasil 247",
+   "trecho": "",
+   "data": "2026-11-10T20:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Reforma Tributária exigirá a obtenção de um CNPJ Técnico por parte de produtores e locadores a partir do ano de 2027. A exigência está relacionada às novas regras e obrigações decorrentes da implementação do novo sistema tributário nacional.",
+   "pratica": "Produtores e locadores deverão se preparar para a adaptação cadastral e a obtenção do CNPJ Técnico exigido para cumprir as novas regras a partir de 2027.",
+   "termos": [
+    {
+     "termo": "CNPJ Técnico",
+     "explicacao": "Registro cadastral específico que poderá ser exigido de produtores e locadores no contexto da Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c4d370b9a2cca4af",
+   "titulo": "Confaz altera valores de referência para ICMS sobre combustíveis na Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGNnWEt3ZThWQUd2c2lwUnpqMy1OclpDYXlQZC0xaE9DSTZsT2xsaFhBUV9XZmhNSUQ1Nm00SS1XdkI1QjRGWjhFNUdrQ1c5S2NKNGRZUkZaZTdTaGd1Vmt1NG1pem1Db09nU1gyZHdTX19aNHVhc3VLQ0FUbUljYWFhMFpuNUx2QUJYLUVrR2VEdldkQjdaSllrdEw1NTBFWXJNenNuSFB5RHc?oc=5",
+   "veiculo": "Paraíba Business",
+   "trecho": "",
+   "data": "2026-11-10T20:00-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Confaz promoveu a alteração dos valores de referência utilizados para o cálculo do ICMS incidente sobre combustíveis no estado da Paraíba. A medida impacta diretamente a base de cálculo do imposto estadual aplicável ao setor de combustíveis na região.",
+   "pratica": "Na prática, contadores e advogados que atuam com o setor devem atualizar suas tabelas e sistemas de faturamento para observar os novos valores de referência estipulados pelo Confaz para o ICMS na Paraíba.",
+   "termos": [
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária, órgão que reúne representantes dos estados e do Distrito Federal para deliberar sobre normas de ICMS."
+    },
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação."
+    },
+    {
+     "termo": "Valores de referência",
+     "explicacao": "Preços médios ponderados a consumidor final utilizados como base de cálculo para a retenção e recolhimento do ICMS."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "acaeca684ebb0703",
+   "titulo": "Deputados admitem rever benefícios fiscais se alíquota da reforma passar de 26,5%",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkRJb1ZlcnhUVG9veVZoQ290ZTQtc1M4ejNiTXJmSno5RFVkVTRWdkU5X0VhVzRWZjgtSXNFV2UzR0ZUbVBmcjFHTUxTdnB2aV9sbHYzZ2FoZ1dYVnhfT3Q4NkFoSzlmdUhOVnBFQWNJZjU4ZDNRX01RNzBFODdMaVBOZVRlSzExWk83VE1Zd3dqWDM2QlJROWpMQzVpU284UmtURGxNVGxocVh0WGVuX3ZFOXZPUQ?oc=5",
+   "veiculo": "A Crítica de Campo Grande",
+   "trecho": "",
+   "data": "2026-11-10T19:50-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, deputados admitem a possibilidade de rever benefícios fiscais caso a alíquota padrão da reforma tributária ultrapasse o patamar de 26,5%. A discussão envolve diretamente o desenho das futuras alíquotas e a manutenção de incentivos no sistema tributário nacional.",
+   "pratica": "Contribuintes e empresas que dependem de benefícios fiscais devem monitorar os debates legislativos sobre a alíquota da reforma, pois eventuais revisões podem impactar o planejamento tributário.",
+   "termos": [
+    {
+     "termo": "benefícios fiscais",
+     "explicacao": "Vantagens legais que reduzem ou eliminam o pagamento de tributos para certos setores ou regiões."
+    },
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reescrevem as regras de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7c3f2ac989c3bab8",
+   "titulo": "Após reunião com Durigan, Coutinho afirma que reforma tributária não será adiada",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnF3Nk5ycEZEd1VVMzR0c3RnYldNUm5YeHhwN1dTWkhSMVBJX00tcWNMMFlOMWdiWnp2NGpWNWNvSFVILWIwQ3Q3YWtjT05oRmpoOEJwaHBPbFdid2NNQUotM2ZYTVlaM3lvaGk5VWFjczBVY0psTmNUNkFrX0NnTURUdlFjM0Qz?oc=5",
+   "veiculo": "Republicanos 10",
+   "trecho": "",
+   "data": "2026-11-10T19:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, após reunião com Durigan, Coutinho afirmou que a reforma tributária não sofrerá adiamento. A declaração reforça o cronograma de implementação das mudanças no sistema tributário nacional.",
+   "pratica": "Na prática, as empresas e profissionais devem manter o planejamento e a adaptação às novas regras da reforma tributária, pois o cronograma oficial segue firme.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais destinadas a modificar o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dc1bf3d6500ba0f3",
+   "titulo": "Congresso cortará isenções caso IVA ultrapasse 26,5%, afirma deputado",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0JHOS1oOWh2VktfOHEweGFPaHd6RkUtLU5wN3A1SzlSQ1JMRXNiNHFuT244VmJCVXp6RXZCRk55Y0F3dWRreUUyUnVFWjVQaF8tLUJ1RDRBNi1hQlhpRXZQZjdTeVRTWlB6T1NVdDFIOHFKUGdyZmU3ZFJ4bXBHbGQyMW9iX3ctbVpuVDJ0cktFYkFaNEJWUHdTNy1YNE9zbzlaTzlNcXNLbnRnS3c?oc=5",
+   "veiculo": "DComercio",
+   "trecho": "",
+   "data": "2026-11-10T19:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, um deputado afirmou que o Congresso cortará isenções caso o Imposto sobre Valor Agregado (IVA) ultrapasse o patamar de 26,5%. A declaração aponta para uma possível medida de contenção de alíquota no âmbito da reforma tributária.",
+   "pratica": "Na prática, empresas e contribuintes que atualmente usufruem de isenções devem monitorar o debate legislativo, pois seus benefícios fiscais podem ser revistos caso a alíquota padrão do IVA supere o limite previsto.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado previsto na reforma tributária para unificar tributos sobre o consumo."
+    },
+    {
+     "termo": "Isenções",
+     "explicacao": "Dispensa legal do pagamento de um tributo concedida a determinados setores ou atividades."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7be668e633f4a011",
+   "titulo": "STJ nega créditos de PIS/Cofins sobre trabalho portuário avulso",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeE1jUGFrdjFOazZhU3Y2WmRfVkdpcE1zVC1PSUNSMW5RRHMxR0RyWVZIeW1CYjRTcEZzMkphLU9Yb1RzVDFzUkpKUHZPQ3Q4Uzh4QnkzWm43eVdTazE4YnVERDZzRTE2NUtxWDhkOEtJRkk0Ynp2Rk1ONUFDbllFMjAyRkk3Nk5pLXdDdG9nZkNPYndHYnpRaWdhMWIxc1pSYzJzYnhLeS1DUQ?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-10T19:12-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça negou o direito de apuração de créditos de PIS e Cofins sobre despesas relacionadas ao trabalho portuário avulso. A decisão afeta a dinâmica de aproveitamento dessas contribuições para empresas que utilizam essa modalidade de mão de obra.",
+   "pratica": "Na prática, os contribuintes que dependem do trabalho portuário avulso deverão reavaliar seus cálculos de créditos fiscais, pois a posição do tribunal restringe essa possibilidade no âmbito do PIS e da Cofins.",
+   "termos": [
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Créditos de PIS/Cofins",
+     "explicacao": "Valores que o contribuinte pode abater do tributo a pagar com base em certos insumos e despesas permitidos em lei."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6f614c935e388c00",
+   "titulo": "Deputados saem de reunião com Durigan e descartam adiamento da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWprMkM5X1V2Vm83MkNrTDRVWlBlcXFGUmUzazh4UGRZc0hYb0ozZTVNa2t0bDcySm5aWk5CVEhMcEhVZnpzVUd5MVdYYkRWT2o0S2xtR2JMcmYzY3NMNEFRMlF5bjI3c2ZITUNrOGZZQVFvZ3daMVdHd0d3aWNiWlV6UjhVdFloSWJYbVJ0VW1rWUxLSkh1Sk10WHp1YUFxM1c4ZQ?oc=5",
+   "veiculo": "BPMoney",
+   "trecho": "",
+   "data": "2026-11-10T18:37-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, deputados saíram de reunião com Durigan e descartaram qualquer adiamento da reforma tributária. O encontro tratou dos rumos da pauta legislativa de grande interesse para a área fiscal.",
+   "pratica": "Indica que o cronograma da reforma tributária segue mantido, exigindo que empresas e profissionais continuem atentos aos prazos e adaptações necessárias.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural nas regras de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bd82c71bb99fe42b",
+   "titulo": "Investidores com aplicações no exterior podem reduzir Imposto de Renda com compensação de prejuízos",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1Y5TEZvV29vcG5SMmI0a1htdkZjZ2dXUWgtY1lwOVNhc1VobC1YUHFaekZIYzBIRm5BODNrSlBpd0tnTkZTek9mXzV0MmMzMTFwZnBpWXdMbUt5OUpZX0ZmaTBYRkFkYTRGZzA4Z2lUV3huZ00tZDBLMFd5TUN6S2JUN2NhS19xVzdUTV9obHhqS205TE84cDYwR25WbGtZRGw4TUNyc0t4QUZtV1ZGa3J2S1JIUEdqSTlzOFZ4OFNZUlFhaVpQaXJjRnpVV0lrNkdfWg?oc=5",
+   "veiculo": "Mirian Gasparin",
+   "trecho": "",
+   "data": "2026-11-10T18:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete, investidores que possuem aplicações no exterior têm a possibilidade de reduzir o Imposto de Renda por meio da compensação de prejuízos. A notícia aborda estratégias de apuração do tributo aplicadas a investimentos internacionais.",
+   "pratica": "Na prática, a orientação permite que contribuintes revisem a apuração de seus ganhos e perdas no exterior para otimizar a carga tributária, conforme as regras vigentes indicadas pela publicação.",
+   "termos": [
+    {
+     "termo": "Compensação de prejuízos",
+     "explicacao": "Utilização de perdas financeiras passadas para abater a base de cálculo de futuros impostos devidos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "85ecffcbeb0f4096",
+   "titulo": "CBS a 11,3% preocupa indústria por risco de aumento tributário",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXBFcldPSkY5VVRQSmV2S0dGYVliZ2RfY2oxXzZpdDl5T0dtYm5xaDZuY0VIVkJpNUdYSXdUVzdsdWREYks4MUFSLVpVYWl4RlVRMkp0NEduamc4TFZGUXVBb2ZLTm56MXZwbFNVQ2VmNlR3NE1oZDdzNE5sTEN0Zl9aQlNVclFVM3hTYjExc2pKT0Iyc1RwUVpXVdIBoAFBVV95cUxNVEZ4US1pblRsRGxwNmZlSGxJX0pVWjcyNUkzUEEwc3RleVdyQXd4dEpiaXJ5ZERKOGlBdk1Wbm5rSXpDMEN3b00zZzl0dGZILVdNcF9GTi12RS00VXBHUHgzNEptM0wxWG5aRzVxd21Xa1QxTnkxYmNVVk9WdURBeU83MzdVVjNKTngtLS1nUHNMMEVtUHFuWERDWlV1Y3Vj?oc=5",
+   "veiculo": "Brasil 61",
+   "trecho": "",
+   "data": "2026-11-10T18:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a projeção da alíquota da CBS em 11,3% tem gerado preocupação na indústria devido ao risco de aumento da carga tributária. A discussão envolve os impactos econômicos da nova contribuição para o setor produtivo nacional.",
+   "pratica": "Na prática, o setor industrial deve redobrar a atenção e monitorar os debates sobre a alíquota da CBS para antecipar eventuais reflexos na formação de preços e na carga tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ce473784f18cb701",
+   "titulo": "Concurso Sefaz RS: banca é contratada e edital pode sair",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wQzJuVFVHUXZ5NFAydktYeWNRZzBDYThJdldLY0dkcXhMcHFfTG5GUGg2d2VSV0hZWW0zeUFUUDNOdlFHNUxPYTlZam1yNFdQemZteFFEY3JEMkxkbXpwamRtNWtPdkRHYV9DT3QxMzA4N2pVMTlhakpn?oc=5",
+   "veiculo": "Qconcursos Folha Dirigida",
+   "trecho": "",
+   "data": "2026-11-10T18:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Sefaz RS",
+   "resumo": "Segundo a manchete, houve a contratação da banca organizadora para o Concurso da Sefaz RS, indicando que a publicação do edital pode estar próxima. A notícia envolve os preparativos para o provimento de cargos no órgão fiscal estadual.",
+   "pratica": "A abertura do concurso interessa a profissionais que atuam na área tributária e desejam ingressar na carreira pública fiscal no Rio Grande do Sul.",
+   "termos": [
+    {
+     "termo": "Sefaz RS",
+     "explicacao": "Secretaria da Fazenda do Estado do Rio Grande do Sul, órgão responsável pela arrecadação e administração tributária estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4739bebedec4b657",
+   "titulo": "Deputados admitem rever isenções se IVA superar 26,5%",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUJSTGZqRnMtU3pxMlYzU0hFak5zSkVIRnBsMWp4VmlWTy1OSXBuZmItLURWczV2bnByX1ZEYm9iSVljVlpiSVRjcEJCbmtYV29YV0JPZk1DNUpzMS1FSmxxbW54S2h3U1R6bEJGWnB1TmpxczBpMVpqUjdmRkFFd3JtTzVucHlmb0V5STRBeG5UcnVCRlNwQ05KaDVvQUNoZDYyTU1aLTNyalpLUnc?oc=5",
+   "veiculo": "Agência Brasil",
+   "trecho": "",
+   "data": "2026-11-10T18:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, deputados admitem a possibilidade de rever isenções tributárias caso a alíquota padrão do IVA ultrapasse o patamar de 26,5%. A discussão envolve os debates legislativos em torno da regulamentação e do impacto da nova tributação sobre o consumo.",
+   "pratica": "Na prática, a declaração sinaliza que o cenário de benefícios fiscais e isenções ainda é incerto, exigindo que empresas e profissionais acompanhem de perto os rumos das alíquotas do IVA.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "termo_en": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado previsto na Reforma Tributária para unificar tributos sobre o consumo."
+    },
+    {
+     "termo": "isenções",
+     "explicacao": "Dispensa legal do pagamento de tributos aplicada a determinados setores ou produtos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "23fc0a7aad7b3959",
+   "titulo": "Deputados avaliam mudanças em isenções tributárias se IVA ultrapassar 26,5%",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjJRNTZCeENGRVZzSzMzNDhjbXNaNEVxWm9waWstb0J4YWJwMkFkclJ3UVNOX2xOZ051TTZHVzhZWUZnZzNtTldVaWJ6QlEyaTk2X2FLaExBbTUtVjM2N1k0MThoaVZPTGNHMExvRTg5eG9VQ2o3VnpOSmMxSzVETE1XVHFzY2g3MnhWS3BtcHNvSjBGb1ZVN1U2emNrck5BSUR3cGVHRVJaaUxmZTcyNFpxcXRIbHppR2piWlFBQzAzRG9vZWhiN1pFeGhKUDA?oc=5",
+   "veiculo": "Tribuna do Agreste",
+   "trecho": "",
+   "data": "2026-11-10T18:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da Tribuna do Agreste de 10 de novembro de 2026, deputados estão avaliando possíveis mudanças em isenções tributárias caso a alíquota padrão do IVA ultrapasse 26,5%. A discussão ocorre no âmbito legislativo para conter o impacto da carga tributária projetada.",
+   "pratica": "Na prática, profissionais e empresas devem monitorar os debates parlamentares, pois eventual revisão de benefícios fiscais poderá alterar o planejamento tributário setorial.",
+   "termos": [
+    {
+     "termo": "IVA",
+     "explicacao": "Imposto sobre Valor Agregado previsto na Reforma Tributária."
+    },
+    {
+     "termo": "Isenções tributárias",
+     "explicacao": "Dispensa legal do pagamento de um tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3e7b83663d31951b",
+   "titulo": "Nem 11,3%, nem 2027: Congresso articula para mudar alíquota da CBS e adiar a reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHVVdkF4RENQbURHN2kxQXZZZzBhWnF4WlZKWVRwSVNGRTZZUGlCd3NaaXJqR3ZFSENBTmMwTVN6YThpeXJ0VERNNW91eFlhci1xWUduRGF4MzdQdmV1UlBIOVlUUEJUOGF1M1hYVkdjV1RPSHZHeC1VWVY1dEQtUkpwX1JobEtRVmg5OVVoWWpiSVVtWm1qemF4aHN6UEctY3Z0TDVta2daLW9kOUtqR1RyUVBibjNhWDN0M3BR?oc=5",
+   "veiculo": "NeoFeed",
+   "trecho": "",
+   "data": "2026-11-10T18:13-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Congresso articula movimentações para alterar a alíquota da CBS e também adiar a implementação da reforma tributária. A discussão indica resistência ou renegociação em torno dos parâmetros originais de incidência e cronograma.",
+   "pratica": "Na prática, a articulação legislativa gera incerteza para o planejamento tributário das empresas, que aguardam definições seguras sobre prazos e cargas tributárias.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c8a0cf55ccfbd11e",
+   "titulo": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS — Senado Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY09BeUoxZGJOUXhaVFdWeWNscUtoTkhTOHQ2Qy1DdVk2Tms3WnJaYXpBaU5RZ2c4NVNoc01RSzEzeGlvOFJEdVRHN0RzUFNqQ3YtYWVNekZNQ2JYZmJmTWkzZEwwa2RRNXFoUXF6eEcxTk5qR0xRN1l5RzlmMVJvLXpVcmo2YlVJc2hsNXNyQ1hhYkpLN0p3V1ZESDdwclZQQTZfTWJRc0dsNm5wdnNsNU10T21PcUdIVFdBWm5wMnZadw?oc=5",
+   "veiculo": "Senado",
+   "trecho": "",
+   "data": "2026-11-10T18:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado recebeu um acórdão do Tribunal de Contas da União (TCU) que propõe a fixação da alíquota da CBS em 11,3%. A informação traz um dado relevante para o debate legislativo em torno da regulamentação da Reforma Tributária.",
+   "pratica": "Na prática, a proposta de alíquota do TCU serve de subsídio e elemento de debate para os parlamentares que discutem a implementação da nova tributação sobre consumo.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "28cf92ee949feb88",
+   "titulo": "Adiamento da reforma tributária está fora do radar do governo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUJBWXYwY0ZjWjlfUjZtN19fdVBXbUc1ODBla2Y3Sk50NzNEZWFSNXZXa3FQZkxKMVFRMnV5dDlvTzdDekdQaXhhZGtDZFY3bjRMcWoweUdQZG0zeFBRd3FhSThwd053aG9hdW8tWnlUZDR6Vkd3VmxoelV0aF80N1dqQVdfVVFUVW80ZU0wdW5yMEVLb3FqT3VfVEVIRFVL?oc=5",
+   "veiculo": "DComercio",
+   "trecho": "",
+   "data": "2026-11-10T18:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Governo",
+   "resumo": "Segundo a manchete, o governo descarta qualquer possibilidade de adiamento da reforma tributária. A informação sinaliza a manutenção do cronograma oficial para as mudanças no sistema de tributos do país.",
+   "pratica": "Na prática, empresas e profissionais devem manter o planejamento e o foco na adaptação às novas regras nos prazos previstos, pois não há indícios de prorrogação pelo Executivo.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos do Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "07e968f1abdb33fa",
+   "titulo": "Os impactos da reforma tributária para o setor audiovisual",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNy16UE42SE1ZYUtPSHVWcklrcU9zLWd0TkM1Y1hoMnVOT3k0Y0ppMVBId2tzZGZPbHdkajJ4Y3JnM0dzNldwck9QUVZfWnBsT3l3ZkNWR29kYXlIYkM0Rkd3WnVfTFF6Y3lvRGs3QmJPTnhnNm9sT01jWGZTVVFHWkdXWkVxVGp5UXp1TGdfM3ZTNmhsQksxNmVB?oc=5",
+   "veiculo": "TELA VIVA News",
+   "trecho": "",
+   "data": "2026-11-10T18:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do TELA VIVA News, debate-se os impactos decorrentes da reforma tributária especificamente para o setor audiovisual. O assunto aborda as mudanças nas regras de tributação que afetam as atividades da indústria de comunicação e entretenimento.",
+   "pratica": "Na prática, profissionais e empresas do setor audiovisual devem acompanhar as discussões para antecipar eventuais adaptações em suas estruturas fiscais e planejamento tributário.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de cobrança de impostos no país."
+    },
+    {
+     "termo": "setor audiovisual",
+     "explicacao": "Indústria voltada à produção de conteúdos para cinema, televisão, internet e outras mídias."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1a68c956dbebb642",
+   "titulo": "Novo valor de referência do etanol no Acre passa a valer na próxima segunda-feira",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3RrWGlndTVEMWx4VmpURVBXY09oemZLbXpoZnN1VkxyTkxkVnJhQTVRdjJNczk3SURsSE5VdnZISTBuSUVWVzJZQWNKd2w5S0IzYkVFMThTZmtvdHRiMFYtSFozOExQOW1ldmp4T0tkamY3ZWQ0bjB2RkJSaE9yekp6TGhlU0VEdE9YMU84QnFPcG9wMHVPWlJUTDVyNUVXR0prSlMyTng2VWI1YUFqc1BjMjJkNFk?oc=5",
+   "veiculo": "Ecos da Notícia",
+   "trecho": "",
+   "data": "2026-11-10T17:56-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, um novo valor de referência do etanol no estado do Acre passará a valer a partir da próxima segunda-feira. Alterações em valores de referência costumam impactar a apuração do ICMS incidente sobre combustíveis na região.",
+   "pratica": "Na prática, postos revendedores e distribuidores devem atentar-se à nova pauta fiscal para o cálculo correto da base de cálculo do tributo a partir da data informada.",
+   "termos": [
+    {
+     "termo": "Valor de referência",
+     "explicacao": "Preço médio ponderado utilizado como base para o cálculo do ICMS dos combustíveis."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
    "id": "cec684d8976a14f3",
    "titulo": "Julgamento no STF sobre previdência complementar gera alerta de rombo bilionário",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0dwOTdnd2pYU0J3RzNxbXJHZkdZcG5FQVVXWUpZUkVkSXltOGRJSTZyUHNrRE5HM01McGstTmZNcndiM0Z0UWJHaEk1WTNtZmxSVHM0dURnMlpmQjRmcGlUenJYdm1mdnhRM2lzSEhwaEdYVFB0ZnNNaHdYbXZaQ0R5cDJXYUR4TXRzU3BEV25sdmFxRkoxNGMxT3pUeWxiU1B3cTJ3ZjM4SWN1VVJ6UU5VUTdoV2hsRWtndGktaE5WVktP?oc=5",
@@ -12475,7 +13334,8 @@
   "2026-11-07": "Bem-vindos ao boletim diário de direito tributário. Entre os destaques de hoje, a Reforma Tributária concentra intensos debates com pedidos formais de entidades, associações comerciais, o governo e a OAB pelo adiamento da implementação ou revisão dos prazos de transição, refletindo a preocupação do setor produtivo com a complexidade das novas regras. Além disso, no âmbito dos julgamentos, o STF derrubou a exigência de idade mínima na aposentadoria especial por insalubridade e validou o fim do ICMS Verde, mantendo a lei do estado de Alagoas. Esses temas exigem atenção redobrada de advogados e contadores devido aos impactos diretos na adaptação normativa e no planejamento tributário.",
   "2026-11-08": "O boletim de hoje destaca três importantes movimentações no cenário tributário brasileiro. No Supremo Tribunal Federal, o encerramento do Tema 118 retirou o ISS da base de cálculo do PIS e da Cofins, alinhando a jurisprudência à tese da exclusão do ICMS. Em outra decisão de grande repercussão, o STF derrubou a exigência de idade mínima para a concessão de aposentadoria especial em atividades insalubres, impactando as regras de inativação de trabalhadores. Por fim, os debates sobre a Reforma Tributária continuam em evidência, com destaque para a preocupação do empresariado com a previsão de uma alíquota de 11,3% para a CBS e para a defesa, por entidades do setor, do adiamento da cobrança efetiva da CBS e do Imposto Seletivo para janeiro de 2028.",
   "2026-11-09": "Nesta edição, destacam-se decisões de grande relevância no Supremo Tribunal Federal e no Superior Tribunal de Justiça. O STF derrubou a exigência de idade mínima para a aposentadoria especial, permitindo que segurados com 15, 20 ou 25 anos de atividade especial solicitem o benefício, além de manter o desconto no Imposto de Renda para aposentados com doença grave e definir prazos para devolução de valores na conta de luz. Por sua vez, o STJ vetou a tomada de créditos de PIS e Cofins sobre o ICMS. Esses temas importam porque impactam diretamente os direitos dos contribuintes, as regras de transição previdenciária e o planejamento fiscal de empresas e cidadãos.",
-  "2026-11-10": "O boletim de hoje destaca três temas essenciais para os operadores do direito tributário. Primeiramente, o STF iniciou julgamento sobre previdência complementar gerando alerta de um rombo bilionário aos cofres públicos, atraindo atenção pela magnitude dos impactos financeiros. No âmbito da Reforma Tributária, o Tribunal de Justiça de São Paulo suspendeu decisões que retiravam a CBS e o IBS da base de cálculo do ICMS, impactando a discussão sobre a composição da base tributável. Por fim, o STF validou lei de Alagoas que extinguiu o critério ambiental do ICMS Verde no rateio aos municípios. Esses tópicos importam por movimentarem a segurança jurídica e a arrecadação."
+  "2026-11-10": "O boletim de hoje destaca três temas essenciais para os operadores do direito tributário. Primeiramente, o STF iniciou julgamento sobre previdência complementar gerando alerta de um rombo bilionário aos cofres públicos, atraindo atenção pela magnitude dos impactos financeiros. No âmbito da Reforma Tributária, o Tribunal de Justiça de São Paulo suspendeu decisões que retiravam a CBS e o IBS da base de cálculo do ICMS, impactando a discussão sobre a composição da base tributável. Por fim, o STF validou lei de Alagoas que extinguiu o critério ambiental do ICMS Verde no rateio aos municípios. Esses tópicos importam por movimentarem a segurança jurídica e a arrecadação.",
+  "2026-11-11": "Nesta edição, destacam-se os debates em torno da reforma tributária, cujo cronograma de entrada em vigor em 2027 foi mantido pelos deputados, apesar da pressão empresarial por adiamento e das pendências que geram preocupação no ambiente corporativo. Entre as discussões, destaca-se a possibilidade de cortar isenções e benefícios fiscais caso a alíquota do novo IVA ultrapasse o patamar de 26,5%, visando conter a carga tributária. Além disso, a reforma trará mudanças relevantes na cobrança de impostos sobre aluguéis, exigindo atenção às novas regras e operionalizações a partir de 2027. No âmbito dos julgamentos, o STF decidiu que o ICMS não incide sobre a subvenção da tarifa de energia elétrica para consumidores de baixa renda, afetando a base de cálculo do imposto estadual."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -12779,9 +13639,27 @@
   "multas": "Sanções pecuniárias aplicadas pelo descumprimento de obrigações tributárias.",
   "regras tributárias": "Normas e obrigações fiscais aplicadas aos contribuintes.",
   "Créditos tributários": "Valores que o contribuinte tem o direito de recuperar ou compensar perante o Fisco.",
-  "construção civil": "Setor econômico sujeito a regras específicas de tributação, frequentemente envolvendo o ISS municipal."
+  "construção civil": "Setor econômico sujeito a regras específicas de tributação, frequentemente envolvendo o ISS municipal.",
+  "Aluguéis": "Valores recebidos pela cessão do uso de bens móveis ou imóveis, sujeitos a regras específicas de tributação.",
+  "isenções": "Dispensa legal do pagamento de um tributo.",
+  "IRRF": "Imposto de Renda Retido na Fonte, descontado por quem paga e repassado ao Fisco.",
+  "concessões": "Delegação da prestação de serviços públicos ou exploração de bens do Estado à iniciativa privada.",
+  "retenção": "Desconto de tributos realizado pela fonte pagadora no momento do pagamento do serviço.",
+  "home care": "Serviços médicos e assistenciais prestados no domicílio do paciente.",
+  "retenção de tributos": "Desconto de impostos e contribuições realizado diretamente na fonte pagadora pelo tomador do serviço.",
+  "Subvenção da tarifa": "Auxílio financeiro concedido pelo governo para reduzir o custo da energia para determinados consumidores.",
+  "CNPJ Técnico": "Registro cadastral específico que poderá ser exigido de produtores e locadores no contexto da Reforma Tributária.",
+  "Valores de referência": "Preços médios ponderados a consumidor final utilizados como base de cálculo para a retenção e recolhimento do ICMS.",
+  "benefícios fiscais": "Vantagens legais que reduzem ou eliminam o pagamento de tributos para certos setores ou regiões.",
+  "Isenções": "Dispensa legal do pagamento de um tributo concedida a determinados setores ou atividades.",
+  "Créditos de PIS/Cofins": "Valores que o contribuinte pode abater do tributo a pagar com base em certos insumos e despesas permitidos em lei.",
+  "Compensação de prejuízos": "Utilização de perdas financeiras passadas para abater a base de cálculo de futuros impostos devidos.",
+  "Sefaz RS": "Secretaria da Fazenda do Estado do Rio Grande do Sul, órgão responsável pela arrecadação e administração tributária estadual.",
+  "Isenções tributárias": "Dispensa legal do pagamento de um tributo.",
+  "setor audiovisual": "Indústria voltada à produção de conteúdos para cinema, televisão, internet e outras mídias.",
+  "Valor de referência": "Preço médio ponderado utilizado como base para o cálculo do ICMS dos combustíveis."
  },
- "atualizado_em": "2026-11-10T06:47-03:00",
+ "atualizado_em": "2026-11-11T06:49-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
