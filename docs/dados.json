@@ -1,6 +1,667 @@
 {
  "itens": [
   {
+   "id": "a3ed56c8cb3ab138",
+   "titulo": "Projeto de lei complementar dá mais prazo para a CBS",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFVxWmY3eHVvd2FJUzZmdHBhMldSVUpEU1pfMExNUkMyYXdHZmFPVldKNWV0SUpQcHZVYTkwQWxDcWhySTFMSDl2WnNhRWJBRi15N2FkZlZVZ2VZOHNuWHlDcDBYMEt2WGhER21EVktHWExHVGZfZ2c4RHFlWmUyWg?oc=5",
+   "veiculo": "Agora RN",
+   "trecho": "",
+   "data": "2026-11-13T06:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, um projeto de lei complementar propõe conceder mais prazo para a Contribuição sobre Bens e Serviços (CBS). A iniciativa indica movimentações legislativas voltadas a ajustar o cronograma e a transição da nova exação introduzida pela reforma tributária.",
+   "pratica": "Na prática, a medida pode representar um alívio temporário para empresas e profissionais na adaptação às novas regras de apuração e recolhimento da CBS. Contudo, como o conteúdo baseia-se apenas no título, é preciso acompanhar o trâmite legislativo para confirmar os novos prazos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da reforma tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3fa26e05afef3641",
+   "titulo": "Exclusão de IBS e CBS da base do ISS ganha força como ‘filhote’ de discussão do ICMS",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEtJZHg0NXliNzJXR200TFVpV1M0UUlDT3lHVjIyUE1QbFFBS3NuNk9SM3kwUkFlRG1nUFNneTMtYUFJRUg3b2VLSEFOeDJfb0RRZDJBQVpMOGtvTGdVTEthNVFNWHBCQVdtUHZhRTdoSzA1RE9NV29hYm9fZjBKa0J0MDBZcF9XRlQzbFRoSUtfcmNvQXlxZk1SR0VJR3JRUWxxb3BQZ3Y4Y3J4WWc5c1Ixb2FubXd2NXNmTno3ZlBnZw?oc=5",
+   "veiculo": "DComercio",
+   "trecho": "",
+   "data": "2026-11-13T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ISS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, ganha força a discussão sobre a exclusão do IBS e da CBS da base de cálculo do ISS. O debate surge como um desdobramento da tese que discutiu o ICMS.",
+   "pratica": "Na prática, a tese pode impactar o cálculo do ISS cobrado das empresas, exigindo atenção de advogados e contadores para eventuais contestações. No entanto, como há apenas o título disponível, é preciso aguardar desdobramentos práticos mais claros.",
+   "termos": [
+    {
+     "termo": "ISS",
+     "explicacao": "Imposto sobre Serviços, de competência municipal."
+    },
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços, previsto na Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, também prevista na Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "82fa69251f45a906",
+   "titulo": "Sucumbência não é contraprestação",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUNfaHhBX2NlVlNYdmJCX1lwNU5yQTVRb0ZLb1ZoWHZ0NGowcW1jVE1XT3MwSW5nQkV2T21tRU5UTm9LUXZWTXhhdkthaGdPTWRPWk5kcVA2ZTFJWnV1YjJOQ295aDNMMnBFaXNtT0wyRFVUdVV2by1ydnhPN0ZvZkVkbkdzYkRt?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-13T02:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, foi debatido o entendimento de que a sucumbência não configura contraprestação. Como não há trecho detalhado disponível, o resumo baseia-se estritamente na premissa anunciada no título.",
+   "pratica": "Na prática, profissionais da área jurídica e tributária devem acompanhar os desdobramentos desse debate para avaliar eventuais reflexos na tributação de honorários e verbas de sucumbência.",
+   "termos": [
+    {
+     "termo": "Sucumbência",
+     "explicacao": "Condenação da parte derrotada em um processo ao pagamento de honorários ao advogado da parte vencedora."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2deccfd291b3b3a5",
+   "titulo": "Segurança jurídica, reforma tributária e o desenvolvimento mato-grossense",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzdxMC1XTEJENFlSVjhzVzRFbFpyVDFsVnVaMXdMZk1zekVlMG5QZzEwNmNMVlNJS3lLMXFZb3IxZkRVWlViTG5sTWJ6VDNBNGh1WTNnOGlxZ1dBQzYwZHZTSFZqNUVyeEtlU3IweVpkYktCWGFTYzJHVi1GbHJtSE5XbUU1Z0g1SHp1NjljeHpNY3ZEUTRpeXJOWkZoRG8?oc=5",
+   "veiculo": "Veja Bem MT",
+   "trecho": "",
+   "data": "2026-11-13T01:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate gira em torno da segurança jurídica e da reforma tributária no contexto do desenvolvimento do estado de Mato Grosso. A discussão aborda os impactos das novas regras tributárias para a economia regional.",
+   "pratica": "Na prática, profissionais e empresas do estado devem acompanhar os debates para antecipar possíveis reflexos das mudanças tributárias na segurança jurídica dos negócios.",
+   "termos": [
+    {
+     "termo": "Segurança jurídica",
+     "explicacao": "Princípio que garante previsibilidade e estabilidade às leis e às relações com o Fisco."
+    },
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de cobrança de tributos no país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0aead0f9d4176f24",
+   "titulo": "Palestra em Limeira vai discutir impactos da Reforma Tributária nos preços para 2027",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmRxNzVWM1pQQzZFdkltdS1sQlVrNnZuYk9wTWRLeUpzcERQbmNUeURfVVdrcXFsSTlCREE4b085SU1lYmVodnBQX2huQV9NWVJtS0QtYi1qQ2JUaVU4QzVkX2pVZVVnejhtbzNubWpMU0NzWUFSeWl5OF9QVWJfbjI5eWI0NkI3bS1GbXk4N3d0ZDFKUnZacDB6YzVncmtMbjc5VHUtczA3RkdRWlJ3dtIBtgFBVV95cUxOTnNnQzBubDk4aEU3OFFpQWg4SDNzVDQ5MlVqUW0yclFEN2JMSHdKY1pBYl85OUVHWk1Ic1RiaVpRRVpVeFk3eElJUnc3Y05TR3NOcC1XWGJDOTZZUmR4cG5TWTBGbU1NY2RlV2V0R29ta3JDLUxvdnM2N0tBRVZDVlJvZG9LZks5UlBpbXp6UllrcWJ6YVl3YUt6Y1lIM1BzX1QxNWVyeC1yYlJkVGlNbDI4dG9nUQ?oc=5",
+   "veiculo": "Rápido no Ar",
+   "trecho": "",
+   "data": "2026-11-12T22:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, será realizada uma palestra no município de Limeira para discutir os impactos da Reforma Tributária sobre a formação de preços prevista para o ano de 2027. O evento abordará as mudanças trazidas pelo novo sistema tributário e seus reflexos diretos no mercado.",
+   "pratica": "Na prática, o evento serve para que advogados, contadores e empresários comecem a se preparar e debater as estratégias de precificação diante das alterações que entrarão em vigor com a Reforma.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8edea8e1d72d0843",
+   "titulo": "Ajuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado no Senado",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTE4WVNDNVp2SWlqc2NWZkswdE9oc2pia19oYWVndmlQbTNONmpOTUMyS0MyYjR0T2F0ZHhUUUpXZlAwLXl3MExJRFJGVUFxVHB6SDlpeHp4R2JGaE9kMGhld3JzSFlCMFZ5MUV2WnMwdEtqVXJNaHRxTEF6LW1EZmF5ZTVzQmtueDJCa3JJSTRVUDJWa3laQi1ZT2J1ZE52T3BqSUNWNGtXWlh2UVQwT0RR0gG3AUFVX3lxTE13LXZzdmhMTTJkeXNjVDQ0NHVJSUxKQjZ0RC1RNEZFSTNBVXNlZ2hGRlhoa3hHV0FFaUFnZHVYYUtNLTN2Q0Z5VHk0UUxCUWFoeEEyaW9kUFdfcDNINmR2bjhFWHNYLU05d3pKMUxlWEhxb1hRTWRYd3dSVTBwSFAwcEk3cS1HejMtaE94cS1RVEh4Qkw5a19kS001RTNUXzRQYWdicUlmbVpzcHBUMTZyb2p3Y0xzUQ?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-11-12T21:53-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do Estadão publicada em 12 de novembro de 2026, o Senado aprovou um projeto do governo voltado para o ajuste fiscal. A matéria detalha, ponto a ponto, as medidas propostas que compõem esse plano de ajuste econômico.",
+   "pratica": "A aprovação do projeto pelo Senado sinaliza potenciais mudanças nas regras fiscais e orçamentárias que impactam o planejamento financeiro e tributário de empresas e contribuintes.",
+   "termos": [
+    {
+     "termo": "Ajuste fiscal",
+     "explicacao": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas, envolvendo corte de gastos ou aumento de receitas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a60534e844ea735b",
+   "titulo": "Congresso recebe quase 180 propostas para reduzir imposto que pode arrecadar R$ 42 bilhões",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLU1vMTR2VTlnZnc4TmZQSU5VY1FNcTc4bUllZ0tYS0MySHlMY0JRWHdQX29vdzd3d2swbGwzbU41czBzRGVqaDF5Z3hUZXFqWmFPcFZsN3BvbmJ2NjJISVdmZ1M1SUZpY3JuQzhaV3VYcWhiR1JaRU04X0xHTnJKdjdobTZNX0V3WHk1MFotQ1lqN1FMUmZIWXVVODNmalFfemVnekFPM204cl9udnU4MXBmMWhxTVJzN2t4Mmt2VlhCNjBXaVFfQ3h3?oc=5",
+   "veiculo": "Muita Informação",
+   "trecho": "",
+   "data": "2026-11-12T21:37-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Congresso recebeu quase 180 propostas para reduzir um imposto que possui potencial de arrecadação estimado em R$ 42 bilhões. A notícia evidencia o intenso debate legislativo em torno de desonerações fiscais.",
+   "pratica": "Na prática, a tramitação dessas propostas exige acompanhamento atento por parte de profissionais e empresas para identificar possíveis reduções na carga tributária.",
+   "termos": [
+    {
+     "termo": "arrecadação",
+     "explicacao": "Montante de recursos financeiros que o Estado recolhe por meio de tributos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "aaaac43d051de41b",
+   "titulo": "Senado aprova urgência do ajuste fiscal com margem de dois votos",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazV3MXZoc1kxbjJaNDZtLS1uYzg2RzN4OWpfS045TkJKMDZYMXlUZU4yWGZNOUprUlZLRkhQQmh2QjZoYnJIaUo0NzRBTnMxckNFYUlndE5UYXUyVXV1bEh4Ul9pU1JYc0lzUmRYbEFDN3Y2ZUhHYlJqRVBtUnVUOVJkZ01WNmxVeUNSdzdVSVN4bXhNMkRfdzJWcG14Zw?oc=5",
+   "veiculo": "MundoBA",
+   "trecho": "",
+   "data": "2026-11-12T20:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Senado aprovou o regime de urgência para a tramitação de projeto referente ao ajuste fiscal. A votação ocorreu com uma margem apertada de dois votos de diferença.",
+   "pratica": "Na prática, a aprovação da urgência acelera a análise da matéria no Senado, exigindo monitoramento constante por advogados e contadores que acompanham as mudanças nas finanças públicas.",
+   "termos": [
+    {
+     "termo": "ajuste fiscal",
+     "explicacao": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas entre receitas e despesas."
+    },
+    {
+     "termo": "urgência",
+     "explicacao": "Regimento que acelera a tramitação de uma proposta legislativa, dispensando prazos normais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5ced410514e46910",
+   "titulo": "Varejo cai 4% em outubro e decisão do STJ abre caminho para recuperar impostos",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUNNMm0xVW9iVVpTUEJfeTNJZ0xlSUl2OFBjUXlYaTN2V0NNVTRrbHFXT0twcFBGNnVEUXJGR3lseE9WcHBHOEJRLVJIdzd1emtmYWIyTWpVNnAtcmdPdllXYUJVZEZoMENpT3JHbGxvS2VZbHRiaVZUc1NNaEJReDhXUTRKUVJEUzBhOTJORQ?oc=5",
+   "veiculo": "ncnews.com.br",
+   "trecho": "",
+   "data": "2026-11-12T19:35-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o setor varejista registrou queda de 4% em outubro, ao mesmo tempo em que uma decisão do STJ abriu caminho para a recuperação de impostos. A notícia conecta um cenário de retração econômica no varejo a uma nova oportunidade jurídica para empresas buscarem a restituição ou compensação de tributos.",
+   "pratica": "Na prática, empresas do setor varejista devem consultar seus departamentos jurídicos e contábeis para avaliar a possibilidade de recuperar créditos tributários com base no entendimento do STJ, atenuando os impactos da queda nas vendas.",
+   "termos": [
+    {
+     "termo": "recuperar impostos",
+     "explicacao": "Processo legal pelo qual o contribuinte reavem valores pagos indevidamente ao Fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9e169cdd978ba59e",
+   "titulo": "Comissão debate regulamentação da reforma tributária com a Receita Federal",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEd3V2VUUmhaOFNqaXlHYWRKR3U0MXl4NGg0aVZJdXM4UUpWNHhMeFNiRmlfX1l4NDA2bVRwY0hOT0lsZGFyMVRGWFEyZ2drX2FDZU93dXRuZkFZZWRJS21rT3Njd0VCSWJVWjg5OGZKZGs4dTVSUUI2cUlLOTFSZ1lFODRsUjA1bVl5Z0J3M1VFaW1UZk1uUjRJcTFRbW9NcWU5NHhXc1g3Z2lJR25GeQ?oc=5",
+   "veiculo": "conexaoes.com.br",
+   "trecho": "",
+   "data": "2026-11-12T19:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, uma comissão debateu a regulamentação da reforma tributária em conjunto com a Receita Federal. O tema central envolve os preparativos legislativos e administrativos para a aplicação das novas regras fiscais.",
+   "pratica": "Na prática, o acompanhamento desses debates é essencial para antecipar as diretrizes de conformidade que serão exigidas das empresas.",
+   "termos": [
+    {
+     "termo": "Regulamentação da reforma tributária",
+     "explicacao": "Processo de edição de normas para detalhar a aplicação das novas regras constitucionais e legais do sistema tributário."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "df22520559ec9f6f",
+   "titulo": "Receita Federal propõe adiamento da CBS e flexibilização na transição tributária",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem1RS0sycDE4Umlya2pmNktDLThDMDBxSUxPaFpPQlNwc0xxX2ZDR2ItZWg3Q1VUbUpaN1FaS21FTVE0Q2xCeFpvU1p6c3RfclhNR2tXa1BJVE0yM1JYaU5BVTg1WEJHWmdhQ245SU1PY1hoaU1jeDhqMllSaU9kTGZLSk1tNDNpQ0tHbVc5N1ZZWVBoc1RBQVJYLXlscl94cmRSMENQdXpLU21MYXQ4QTJIQnpMbXMwc0xB?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-11-12T19:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete do Portal VV8 de 12/11/2026, a Receita Federal propôs o adiamento da CBS e maior flexibilização na transição tributária. A proposta visa ajustar o cronograma e as regras de implementação do novo tributo federal.",
+   "pratica": "Na prática, a medida pode alterar o planejamento estratégico de empresas e profissionais para a adaptação às novas obrigações fiscais. Contudo, detalhes operacionais dependem do avanço oficial da proposta.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    },
+    {
+     "termo": "Transição tributária",
+     "explicacao": "Período de adaptação gradual do sistema de tributos antigo para o novo modelo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ebc986f2b39264b5",
+   "titulo": "Câmara debate a regulamentação da reforma tributária com a Receita Federal",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU29sRklSRDRmOHYtaFJEYUVxYlRMQ0hKVTUwa1QzZFNhaWJwUUlEamQ1RzFtWHM3blRMeXRGMk1faDE1VnpBZVJKOU1kZVY0c1VENExJc2Zxa0xGNmkzaTR6VHk1d3BvbEcxWEJGS0xQMWV6WlI4X1lKTnVvcVFWUmxoWkFNNHpIaHpGQjlRZFBiNEdLbXAxTkplMFVlSUNvZllQYk5rLWRBUG5NdUtwUk5mbmZyazVq?oc=5",
+   "veiculo": "Portal Sertão da Paraíba",
+   "trecho": "",
+   "data": "2026-11-12T19:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Câmara",
+   "resumo": "Segundo a manchete, a Câmara iniciou debates sobre a regulamentação da reforma tributária em conjunto com a Receita Federal. O diálogo institucional busca alinhar os detalhes normativos da nova estrutura de tributos no país.",
+   "pratica": "Para profissionais e empresas, a movimentação indica que as discussões regulatórias estão ativas, exigindo monitoramento constante das futuras regras que impactarão o planejamento tributário.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais no sistema de cobrança de impostos do país."
+    },
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do Ministério da Fazenda responsável pela administração dos tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dedaa909b64bd5b8",
+   "titulo": "Medida Provisória do Imposto Seletivo recebe 179 emendas parlamentares",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzdnWm5SNDcwb1VxdGZXZlJUTy1jRUhZbS1QZHlDcGozNEtRLUJMaGlNVmkxT2hEamhtVHQ3ZUkyZUZuaVVQOWZQbGxjeDFPSHo1NVhPQkFmbnBtdFJWamNTZEp1eERwTmc2dVhKNUQ3XzNiTV9mUHRnZHB4SHVoNVpzZjUzMkNhb1ZSelM4aTc3ODgwOUJSZXA3TkNaSEdLTEZSU3EtZEtvdXh6N0E?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-11-12T19:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a Medida Provisória relacionada ao Imposto Seletivo recebeu 179 emendas parlamentares durante sua tramitação. O quantitativo demonstra a intensa movimentação do Poder Legislativo em relação ao novo tributo.",
+   "pratica": "Advogados e contadores devem acompanhar o debate legislativo e as propostas de alteração, pois as emendas podem modificar significativamente o regime e a incidência do imposto sobre as operações.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo previsto na reforma tributária incidente sobre a produção, comercialização ou importação de bens e serviços prejudiciais à saúde e ao meio ambiente."
+    },
+    {
+     "termo": "Medida Provisória",
+     "explicacao": "Norma com força de lei editada pelo Presidente da República que precisa de posterior aprovação do Congresso Nacional."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "94ccbd1a370cc906",
+   "titulo": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVZNNnFUdjV2bkhMRGppMnpyelBXWGhZN1AtRHk1Z0gxcEdvQmg0ZzlsMXFiY092RFY0VFFHUWNxejBaNEdCWmpPVVdsRzR4Tm1JV0FSZ3Y0djNuOG1LT0VxX20zb1puSXZfeEx5RlJkTnVDWU9rd0NMNEx0N0YzcWVkc19wWVFiX1l1dzcxUklyY2FEQVF3dHFrUnIzS19nU09pakFDZXJqT25LQmdLcjVyd2otVm9ic2J5X0R0bFBESl9tVkE?oc=5",
+   "veiculo": "Portal da Câmara dos Deputados",
+   "trecho": "",
+   "data": "2026-11-12T19:04-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a Comissão de Finanças debateu com a Receita Federal a regulamentação da reforma tributária. O encontro teve como foco principal discutir as novas regras e diretrizes para a aplicação do sistema tributário reformado.",
+   "pratica": "Na prática, o debate antecipa diretrizes que impactarão o planejamento das empresas para a adaptação ao novo modelo tributário.",
+   "termos": [
+    {
+     "termo": "regulamentação da reforma tributária",
+     "explicacao": "Conjunto de normas e leis complementares que detalham como o novo sistema tributário aprovado funcionará na prática."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "09ce41b543f69806",
+   "titulo": "Receita propõe adiar recolhimento da CBS e flexibiliza transição da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNano2ZTB5OE9PM1lvem4wSGEycGt6ZTNjaEJZSjZsRm5lWlZfNVVPS2hpY0ZYd2FXdUVZN0VPdHFvbnNZbHJKUnl6aS1NQTNfdlYyT0JEWUhlYVE0dEdyd3U4QUNac2RNcl94YmNPXzVEWVRWVGQtYzBHTjZKVmpaYXRuSTZId2hSX3F3X1E2aW9FdUNWRXN0ZDh2VXZJQy1pZU5Nd2VvZ2pGZjNEdFJLcUpsTkdaLVFIMUlBMmtvY1pIQVlQQjVncg?oc=5",
+   "veiculo": "Gazeta do Povo",
+   "trecho": "",
+   "data": "2026-11-12T19:01-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal propôs o adiamento do recolhimento da CBS e a flexibilização da transição da reforma tributária. A medida mexe com o cronograma de implementação do novo tributo federal.",
+   "pratica": "Na prática, a proposta pode alterar o planejamento das empresas para a adaptação às novas regras de recolhimento e à transição da reforma tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2e0b794469a105e5",
+   "titulo": "Presidente do TRF3 participa de fórum que discute impacto da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSC10cDJtWklHT19NWERqMDR0RVA0a1dZZ1otbENfeF8tY2xLb2lrWUo1R3g2ZmJLMFV1dFlNZXhmRW1HVEt4YlktZ3dxclRGZ1laNVVmZUZuUDE2ajRZbGdIWTBkMEhNbkV2bVhjbWNiT2VsZ3V6MGV4S0dvczlFTE9mVFgwUC1qUnRQQXlaOVBRVVFXaFpySlFTWmdWWXZfTWVCOFVtZkhhYlY3TXN6d0Vn?oc=5",
+   "veiculo": "Tribunal Regional Federal da 3ª Região",
+   "trecho": "",
+   "data": "2026-11-12T18:57-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "TRF3",
+   "resumo": "Segundo a manchete, o Presidente do TRF3 participou de um fórum voltado a debater o impacto da reforma tributária. O evento reuniu autoridades para discutir as repercussões das novas regras no cenário jurídico e econômico.",
+   "pratica": "Na prática, o debate sinaliza a preparação do Poder Judiciário para as futuras controvérsias jurídicas decorrentes da transição do novo sistema tributário.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reestruturam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d881d68c1e04cab4",
+   "titulo": "Olinda antecipa implantação do Cadastro Imobiliário Brasileiro e se prepara para os impactos da Reforma Tributária",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFsLW14WEZCZlhoeFlzR1JVcm5DRndwaEU4MmJMQ0RYS2ZEQ1hINzUzUFlMR29keklBNGlPTHRTT0llbUltSGYyVnBXTnBZU0VEamtQX3RoWlFOQ05zc0dTdGFQMnVkTmJNYXNrVE9OTlRtMmxueGFqVzF0aXhuVjNlSmpHbkk3RUtNM2pfMFBidVR2THV4VjVjZEg3OGdEVU1hXzd0SEdtZ3hKUXp1d0xkRzduTFpsMlBURlM0UF8xMzR4UmpvSDhtX21vRFA0SGNwZW1Ib3R1blk3RmNqYXRn?oc=5",
+   "veiculo": "Prefeitura de Olinda",
+   "trecho": "",
+   "data": "2026-11-12T18:34-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o município de Olinda antecipou a implantação do Cadastro Imobiliário Brasileiro. A medida serve como preparação para absorver os impactos gerados pela Reforma Tributária.",
+   "pratica": "Na prática, a antecipação municipal exige que profissionais e contribuintes locais fiquem atentos à atualização de dados cadastrais imobiliários frente às novas exigências sistêmicas.",
+   "termos": [
+    {
+     "termo": "Cadastro Imobiliário Brasileiro",
+     "explicacao": "Registro unificado de bens imóveis utilizado para fins fiscais e cadastrais."
+    },
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Mudança estrutural no sistema de arrecadação de impostos do país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b92e65d97da5c589",
+   "titulo": "O CGOB e as lacunas tributárias do mercado de biometano",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUIySzUyeGNwSzZUSnkwTWRwRTlwUnl6SnNQZXFYNlJhREVHSERISkwtb3UxdXFkLXBiMUpDb25OMUJsT0VLV3R3a2JoM2F5aVdJV3RJendSWk1Yb2FEVXExdWx3dnVvQzNROUZ6OHUyQnRCUjAzdlkwWGVSNFhUT1cyWWhIbHVRUkMwWUVkOEN4aWk0?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-12T18:24-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "CGOB",
+   "resumo": "Segundo a manchete do veículo Consultor Jurídico, o CGOB está discutindo as lacunas tributárias existentes no mercado de biometano. O debate envolve a regulação e a incidência de tributos sobre esse setor energético específico.",
+   "pratica": "Na prática, profissionais e empresas do setor de biometano devem acompanhar as discussões sobre o preenchimento dessas lacunas tributárias, que podem impactar diretamente a carga fiscal e o planejamento de negócios da área.",
+   "termos": [
+    {
+     "termo": "biometano",
+     "explicacao": "Biocombustível purificado a partir do biogás que tem ganhado relevância na matriz energética e gerado debates jurídicos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c524d785468c5c59",
+   "titulo": "CBS em 2027: o que a flexibilização na cobrança muda para as empresas?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DcW9WcUVmV0lPenhvTmZFRHppbVN0UFVpWkRuM3RMRzg4QjgtcVVqaE9nT0UxcHcyQVBVNmdkYUwyMjJHLThBMFBTRlhOSVhCX3VxM3lnQ2JLWGt3UXNmNURZR1VmOWU4OGxvU1ZJa0V2OUVGMlg1TGh1aUFfVjA?oc=5",
+   "veiculo": "Consumidor Moderno",
+   "trecho": "",
+   "data": "2026-11-12T18:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se a implementação da CBS em 2027 e os impactos de uma eventual flexibilização na sua cobrança para as empresas. A notícia aborda as mudanças estruturais trazidas pelas novas regras de tributação sobre consumo.",
+   "pratica": "Na prática, as empresas devem acompanhar as discussões sobre a flexibilização para se planejar e adaptar seus processos de conformidade fiscal até 2027.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0b71d0f3483c27f1",
+   "titulo": "REFORMA TRIBUTÁRIA | IBRAM assina manifesto que pede testes durante todo 2027 e cobrança da CBS só em 2028",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXZkQXV2VGg4aFpiYUFTREM3ckZ3Q0tCNDQySURrUGRuM3dERzA1VUVCQUlBYVJBTjJKcUFxanFDUVhqS0c2dHlwcmVNWUliVHNwUUNOdFNib2lsWGk4dVB1R2wtc1Myd2RWcF83bGNnMkVnMDlVVTZHT0cxQXJKbDVVaUMwTGVFUlg3dXdEcThXNTBQX2d2QXJFYUpSam9Odno0Wl9pUTFZQ0djaURGbHB2REVBY21KdDFINjlfdWk?oc=5",
+   "veiculo": "Brasil Mineral",
+   "trecho": "",
+   "data": "2026-11-12T18:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "IBRAM",
+   "resumo": "Segundo a manchete, o IBRAM assinou um manifesto solicitando a realização de testes ao longo de todo o ano de 2027. Além disso, o documento pede que a cobrança efetiva da CBS ocorra somente a partir de 2028.",
+   "pratica": "Na prática, a movimentação indica a busca do setor por um período de adaptação mais longo e seguro antes da incidência definitiva do novo tributo federal.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, o novo tributo federal criado pela Reforma Tributária para substituir o PIS e a Cofins."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "18e973ee87434219",
+   "titulo": "STJ nega créditos de PIS e Cofins sobre pagamentos a trabalhadores portuários avulsos",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTh1bjNsM1NIUmhVYy0tYlA0Uk1tMUR3UG9tWHFMOW9iME95cmIySnJYUnA3WHpkOWJCaVVYZVdDSHROS0V2OUVSR09LWFhIV0JHUXBkRlFkVnY3c1RaZ1FsNW5NYmV0dURvY290dmVTdGM2YjhyaTlyT3Z6bmdhS1BkU29SQlhSa3VGb0RJcDkza3dYYUJfZjgwUTZDbDE0aDNrbWtGYW5qWE5SQ0E?oc=5",
+   "veiculo": "TAGD Advogados",
+   "trecho": "",
+   "data": "2026-11-12T17:51-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça negou o direito ao aproveitamento de créditos de PIS e Cofins sobre pagamentos efetuados a trabalhadores portuários avulsos. A decisão impacta diretamente o setor portuário e as empresas que utilizam essa modalidade de mão de obra.",
+   "pratica": "Na prática, as empresas do setor portuário devem revisar seus cálculos de apuração de PIS e Cofins, pois não poderão contar com os créditos tributários referentes a esses pagamentos, conforme a orientação do STJ.",
+   "termos": [
+    {
+     "termo": "Créditos de PIS e Cofins",
+     "explicacao": "Valores que os contribuintes podem abater do montante a pagar dessas contribuições federais."
+    },
+    {
+     "termo": "Trabalhadores portuários avulsos",
+     "explicacao": "Profissionais que prestam serviços a diferentes operadores portuários sem vínculo empregatício fixo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5d117ba9b0653019",
+   "titulo": "Ministro do STJ defende isenção de PIS e Cofins em importações para Zona Franca",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVg0Njc0cWZ2ekUtbnU3RnZGU2pJSnZDSVpVTy1kNFBNZVVueFVRTXB1VUg5WkV5aHpJRWhUZlc3TzI3U3MyUUtzQ0pIQ3ZYUVBqNU04NS1CSzkxdEhMUDUyVzZ3ckdjNjdmMW1MWGxRMldzWDhQSWNnOXF1V2dzWTNHZ0hid3otbjhQN3ZXd2FjclI2S1I3QkNGVDdDcFh4aGllVDhOY01Kdw?oc=5",
+   "veiculo": "paranahoje.com.br",
+   "trecho": "",
+   "data": "2026-11-12T17:44-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, um Ministro do STJ defendeu a isenção de PIS e Cofins em importações destinadas à Zona Franca. A discussão envolve a tributação federal sobre operações de importação para essa região beneficiada.",
+   "pratica": "Na prática, a manifestação sinaliza um debate favorável aos contribuintes da Zona Franca, embora ainda não represente uma decisão vinculante definitiva sobre o tema.",
+   "termos": [
+    {
+     "termo": "Zona Franca",
+     "explicacao": "Área de livre comércio de importação e exportação com incentivos fiscais especiais."
+    },
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre o faturamento das empresas e sobre operações de importação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8d66ffa0e7bc0e1c",
+   "titulo": "Isenção de Imposto de Renda por moléstia profissional não exige aposentadoria por invalidez",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzBvb3NHMlZYVVZEYUZUc2drWUdkd0V1WDlZcXhNdU5RZXhQaHJCVGpkUGNNbGRUaUNRYU5mZlEwdGNBdmpjby0wRHNMVno3eW90VC1xaHZ4OW03U0UwTV9vNkVKNjJVVXkzMTB2bW9ROEV6cEF6a2tXQTZZRWhsSDZ4SUxwbkNkcFppMTZsY3N1M0s1NjVRaXFKYkU3TFR2cXhaamRn?oc=5",
+   "veiculo": "Bom Dia Advogado",
+   "trecho": "",
+   "data": "2026-11-12T17:32-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete veiculada pelo Bom Dia Advogado, a isenção de Imposto de Renda motivada por moléstia profissional não exige a concessão prévia de aposentadoria por invalidez. A notícia destaca um importante entendimento sobre os requisitos para o gozo desse benefício fiscal.",
+   "pratica": "Na prática, a decisão facilita o acesso de contribuintes acometidos por doenças profissionais à isenção do Imposto de Renda, dispensando a exigência de estarem aposentados por invalidez.",
+   "termos": [
+    {
+     "termo": "moléstia profissional",
+     "explicacao": "Doença relacionada ao exercício da atividade profissional."
+    },
+    {
+     "termo": "isenção",
+     "explicacao": "Dispensa legal do pagamento de um tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a29e46efa9ddc1bf",
+   "titulo": "Planejamento tributário: o que revisar para 2027",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGdFbmdhbWN3cWZiQTVHbUFGLVF0em9zeDJaT0xUNWtKTERtTWhteWc0VmhYVjUzdGN2WU5qdUJCak1WcnBhLUg3UmZJUUxIOU1fejkxS25OdjhOenBzS09yeDMyVlZ0d3RKeTBZcXl0UGc5SEJDZUkyTzk2X2ZHeEM4UDg5alNzd0FGdTY2Unh0YnB3Z3dR?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-12T17:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis, o planejamento tributário exige revisões estratégicas com foco no ano de 2027. Como o trecho original não foi fornecido, trata-se de um panorama voltado à antecipação de mudanças fiscais e operacionais para o período.",
+   "pratica": "Na prática, orienta advogados, contadores e empresas a anteciparem a análise de estruturas fiscais e compliance para se adaptarem ao cenário tributário de 2027.",
+   "termos": [
+    {
+     "termo": "Planejamento tributário",
+     "explicacao": "Conjunto de ações legais para reduzir o impacto dos tributos na atividade empresarial."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7c7a236ab9562ba5",
+   "titulo": "Reforma Tributária será tema de encontro com especialistas em Paulínia nesta sexta-feira",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWRCQUgweTZJcl9QVnhadGtlTS1VQm9Lb2pONlVOYTk4a3ZoRUVmYVp2YzllSHJpbWhRSnJTNllzbC1xVnRhMngyLWJfZVFzb09IQWpnYWp1dFRFVUc1V3d6aDc5ZTBCQUlHX2ZyMnJRYUdnMVFvb1A2Wk4tY2hTZTJ6MWxpakVTcGJNWlRtelBnWFZQQmhzQUppVmFDTHVfcUFMR3pJVU1MblVJS2luaHBuVmZyMzgwcGhmalBoMnA?oc=5",
+   "veiculo": "noticiasdepaulinia.com.br",
+   "trecho": "",
+   "data": "2026-11-12T17:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o município de Paulínia sediará nesta sexta-feira um encontro com especialistas para debater a Reforma Tributária. O evento discutirá os impactos e as novidades trazidas pelas mudanças no sistema tributário brasileiro.",
+   "pratica": "Profissionais e contribuintes da região devem acompanhar os debates para entender as tendências locais e os reflexos práticos da Reforma Tributária em suas atividades.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações estruturais na legislação e na cobrança de tributos do país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a39bbd48516f777a",
+   "titulo": "Chega de adiar: STF, paute já a retomada do julgamento do confisco previdenciário!",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTlSTmZlbm9MTVlXVVMwX3o1MVhRaEZkUmU1SGRTZTVSVUpmVmdCakExSDdZUTNZUnpaREJwejRMbUp4Z3hISWVwNjduY2ZlZkxPWVI0VlVfZlhFM0l4dkpTNHJCeE1yWWFkOEptMG1hUlVpOW9vUmU2LTg0QU9PV3hRdmh1eUZN?oc=5",
+   "veiculo": "sinesp.org.br",
+   "trecho": "",
+   "data": "2026-11-12T17:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, há uma cobrança pública para que o Supremo Tribunal Federal paute imediatamente a retomada do julgamento referente ao chamado confisco previdenciário. O apelo reflete a expectativa dos contribuintes e profissionais da área em relação a uma definição sobre o tema pelo STF.",
+   "pratica": "Na prática, a definição pelo STF poderá trazer segurança jurídica e impactar discussões sobre a exigibilidade de certas contribuições previdenciárias.",
+   "termos": [
+    {
+     "termo": "confisco previdenciário",
+     "explicacao": "Expressão utilizada para criticar cobranças previdenciárias consideradas excessivas ou com efeito de confisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3b049c61a2df1e3c",
+   "titulo": "Reforma Tributária: Receita anunciou trocas que afetam empresas em 2027",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3lVODFsQUw2YlFrdVp4VWpUSkJtNFVnUmR0RF9oX2NIZGtiZExBdWxZendqXzJuTE5yWU5BZHVyallIdTAtYS1qdlJGZl9Mck1RMmlyVGZNdGtLY1owZVlyWS1uMDVoMTRGc0V1OTNXSkxnM0JzSkh3bmlNZ2tIcUtIY0ZaTkJhY2hUWklUdE1aSHpSYlgzMWxyRHJRUDIzUnV5bThkUEJkUFhoUGfSAbMBQVVfeXFMTW1vS29LV3hJNUN1MFhQT2pQaTBYQ2hiXzhHeDdRSlZQeVcxYlZmVVpjUU9pcjlJUnNDeng3eWQtdkR1NHZfZGY5b201enY2bi1hVEM2T2U0dkdYaEVHbm9rbmc1T2Rkb0NrTEdPRExrOVhVQVo2QnhPOHd5aHV0QTNaVXM2aGVmZkJDSnlwMDRQZGd3dllkbG0zMjRBX1dzSG1XOUE4cmVSeWRvWW1Wcm5CVW8?oc=5",
+   "veiculo": "Jornal Contábil",
+   "trecho": "",
+   "data": "2026-11-12T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal anunciou trocas relacionadas à Reforma Tributária que impactarão as empresas a partir de 2027. Como o trecho não traz maiores detalhes, o aviso serve de alerta para os profissionais acompanharem as futuras regulamentações.",
+   "pratica": "Na prática, as empresas devem começar a monitorar as mudanças anunciadas pela Receita Federal para se anteciparem aos impactos operacionais e de conformidade previstos para 2027.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reescrevem as regras de tributação sobre o consumo no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b89af86aa5960e91",
+   "titulo": "Relator no STJ propõe não tributar importações de países do Gatt para Zona Franca",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVXI2TDBXTTNDd0dXQ2oyU2xIMkR4RTgzWDFxTjVIdkN1WTJiYURDd3dOS3JubWpCd1dVQlFZWEN4djBUTDVCZk9HQU9ITnBweW1wZzJDSTZuMWJHTDN5RXpCNThWZmVZX3BBWWtEeU04OXg4WDQ2TnZMbEw2NTBlS2hGaHpIVkFwbDVJOHdUTUlpT1FTc1ZKNEFBS1YwaklIdkNRVHNRclY3Nk4wZ0dpejB6QTQ5QWs?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-12T16:50-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o relator no STJ propôs a não tributação de importações oriundas de países do Gatt destinadas à Zona Franca. Trata-se de uma discussão relevante sobre a incidência de tributos em operações voltadas para essa região incentivada.",
+   "pratica": "Na prática, caso a proposta seja adotada, poderá influenciar a carga tributária sobre operações de importação direcionadas à Zona Franca de Manaus, exigindo atenção de advogados e contadores.",
+   "termos": [
+    {
+     "termo": "Zona Franca",
+     "explicacao": "Área de livre comércio de importação e exportação com incentivos fiscais especiais."
+    },
+    {
+     "termo": "Gatt",
+     "explicacao": "Acordo geral sobre tarifas aduaneiras e comércio que regula o comércio internacional."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "74a14d731d1ed23f",
+   "titulo": "STJ afasta PIS/Cofins sobre bonificações, com exceção",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGlpNmxIZktkblBUMmtlWUlYS0tXdUtIUXJRYndISUFjZF9YeXdrX2duMHl6OXF1X1NRR0JJSU8xYURQcFZBdjUxaERnTHowVkppTHFnTFFTYjR0UGhKbG5oZXh4Z29lUkVOOGJ0cXFNbzh6dU5MTzFlY2hKcVZkQU00dXlvZVRmREIwRkFMdnE1bll1SHpBdWtmZERSdw?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-12T16:15-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça afastou a incidência de PIS e Cofins sobre bonificações, estabelecendo porém uma exceção. Os detalhes específicos da exceção e a fundamentação legal não constam na publicação.",
+   "pratica": "Na prática, a decisão orienta advogados e contadores a revisarem a tributação sobre bonificações recebidas ou concedidas, aguardando o teor completo do acórdão para identificar os limites da exceção apontada.",
+   "termos": [
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições sociais federais incidentes sobre o faturamento das empresas."
+    },
+    {
+     "termo": "Bonificações",
+     "explicacao": "Mercadorias ou vantagens concedidas gratuitamente aos clientes, geralmente em operações comerciais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "ec2372034ed75d6b",
    "titulo": "Ressarcimento de ICMS-ST: balanço dos dez anos do Tema 201/STF",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2g0TTFIem1TM2NBZmJQTmFpdUM3QVN4VC1wNld5WGg4azBUYzhoLVYwaHpsN3Z4Ni1sN245eHk1eTU2dnB4V2hMTmFFZ1oyOG1vc2Q1RVBvdVZnUUh2cG1WbDJ2WS10RnZZMEJaUEJsVDA1MmlYMGVHQW94ZDktUVkySnl6RTgzem9rbmczT0tfVTQ5OUhreEFBLVEzb29zbjRIbFZJU1NOakJmX0tiTTBZNVNDc2xUUWVqOQ?oc=5",
@@ -14086,7 +14747,8 @@
   "2026-11-09": "Nesta edição, destacam-se decisões de grande relevância no Supremo Tribunal Federal e no Superior Tribunal de Justiça. O STF derrubou a exigência de idade mínima para a aposentadoria especial, permitindo que segurados com 15, 20 ou 25 anos de atividade especial solicitem o benefício, além de manter o desconto no Imposto de Renda para aposentados com doença grave e definir prazos para devolução de valores na conta de luz. Por sua vez, o STJ vetou a tomada de créditos de PIS e Cofins sobre o ICMS. Esses temas importam porque impactam diretamente os direitos dos contribuintes, as regras de transição previdenciária e o planejamento fiscal de empresas e cidadãos.",
   "2026-11-10": "O boletim de hoje destaca três temas essenciais para os operadores do direito tributário. Primeiramente, o STF iniciou julgamento sobre previdência complementar gerando alerta de um rombo bilionário aos cofres públicos, atraindo atenção pela magnitude dos impactos financeiros. No âmbito da Reforma Tributária, o Tribunal de Justiça de São Paulo suspendeu decisões que retiravam a CBS e o IBS da base de cálculo do ICMS, impactando a discussão sobre a composição da base tributável. Por fim, o STF validou lei de Alagoas que extinguiu o critério ambiental do ICMS Verde no rateio aos municípios. Esses tópicos importam por movimentarem a segurança jurídica e a arrecadação.",
   "2026-11-11": "Nesta edição, destacam-se os debates em torno da reforma tributária, cujo cronograma de entrada em vigor em 2027 foi mantido pelos deputados, apesar da pressão empresarial por adiamento e das pendências que geram preocupação no ambiente corporativo. Entre as discussões, destaca-se a possibilidade de cortar isenções e benefícios fiscais caso a alíquota do novo IVA ultrapasse o patamar de 26,5%, visando conter a carga tributária. Além disso, a reforma trará mudanças relevantes na cobrança de impostos sobre aluguéis, exigindo atenção às novas regras e operionalizações a partir de 2027. No âmbito dos julgamentos, o STF decidiu que o ICMS não incide sobre a subvenção da tarifa de energia elétrica para consumidores de baixa renda, afetando a base de cálculo do imposto estadual.",
-  "2026-11-12": "Nesta edição, destacam-se importantes movimentações na jurisprudência fiscal e nos debates sobre a implementação do novo sistema tributário. O Superior Tribunal de Justiça excluiu os descontos e as bonificações concedidos por fornecedores a varejistas da base de cálculo do PIS e da Cofins, afetando a apuração dessas contribuições federais. Além disso, a Fazenda Nacional reconheceu a dedutibilidade no Imposto de Renda das contribuições extraordinárias destinadas à previdência complementar. No âmbito da regulamentação administrativa, a Fazenda reinstituiu o comitê responsável por selecionar e avaliar os conselheiros do CARF e distribuiu as vagas de conselheiros dos contribuintes entre confederações e centrais sindicais, enquanto o avanço das discussões sobre a Reforma Tributária segue mobilizando o cenário nacional."
+  "2026-11-12": "Nesta edição, destacam-se importantes movimentações na jurisprudência fiscal e nos debates sobre a implementação do novo sistema tributário. O Superior Tribunal de Justiça excluiu os descontos e as bonificações concedidos por fornecedores a varejistas da base de cálculo do PIS e da Cofins, afetando a apuração dessas contribuições federais. Além disso, a Fazenda Nacional reconheceu a dedutibilidade no Imposto de Renda das contribuições extraordinárias destinadas à previdência complementar. No âmbito da regulamentação administrativa, a Fazenda reinstituiu o comitê responsável por selecionar e avaliar os conselheiros do CARF e distribuiu as vagas de conselheiros dos contribuintes entre confederações e centrais sindicais, enquanto o avanço das discussões sobre a Reforma Tributária segue mobilizando o cenário nacional.",
+  "2026-11-13": "Nesta edição, destacam-se as discussões e propostas em torno da Reforma Tributária, com a Receita Federal propondo o adiamento da CBS e a flexibilização na transição tributária para 2027, além de debates legislativos sobre a sua regulamentação e o impacto nos preços. No âmbito judicial, o STJ negou créditos de PIS e Cofins sobre pagamentos a trabalhadores portuários avulsos e abriu caminho para a recuperação de impostos em meio à queda do varejo. Esses temas importam porque afetam diretamente o planejamento das empresas, o cronograma de implementação dos novos tributos e a recuperação de créditos fiscais."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -14425,9 +15087,26 @@
   "hora repouso alimentação": "Verba paga ao trabalhador relacionada a períodos de descanso e alimentação.",
   "LC 214": "Lei Complementar relacionada às novas diretrizes da Reforma Tributária.",
   "Bonificações": "Vantagens comerciais ou mercadorias concedidas gratuitamente por fornecedores.",
-  "regra de transição": "Mecanismo normativo que suaviza a passagem do sistema tributário antigo para o novo."
+  "regra de transição": "Mecanismo normativo que suaviza a passagem do sistema tributário antigo para o novo.",
+  "Sucumbência": "Condenação da parte derrotada em um processo ao pagamento de honorários ao advogado da parte vencedora.",
+  "Segurança jurídica": "Princípio que garante previsibilidade e estabilidade às leis e às relações com o Fisco.",
+  "Ajuste fiscal": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas, envolvendo corte de gastos ou aumento de receitas.",
+  "arrecadação": "Montante de recursos financeiros que o Estado recolhe por meio de tributos.",
+  "ajuste fiscal": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas entre receitas e despesas.",
+  "urgência": "Regimento que acelera a tramitação de uma proposta legislativa, dispensando prazos normais.",
+  "recuperar impostos": "Processo legal pelo qual o contribuinte reavem valores pagos indevidamente ao Fisco.",
+  "Regulamentação da reforma tributária": "Processo de edição de normas para detalhar a aplicação das novas regras constitucionais e legais do sistema tributário.",
+  "regulamentação da reforma tributária": "Conjunto de normas e leis complementares que detalham como o novo sistema tributário aprovado funcionará na prática.",
+  "Cadastro Imobiliário Brasileiro": "Registro unificado de bens imóveis utilizado para fins fiscais e cadastrais.",
+  "biometano": "Biocombustível purificado a partir do biogás que tem ganhado relevância na matriz energética e gerado debates jurídicos.",
+  "Créditos de PIS e Cofins": "Valores que os contribuintes podem abater do montante a pagar dessas contribuições federais.",
+  "Trabalhadores portuários avulsos": "Profissionais que prestam serviços a diferentes operadores portuários sem vínculo empregatício fixo.",
+  "moléstia profissional": "Doença relacionada ao exercício da atividade profissional.",
+  "isenção": "Dispensa legal do pagamento de um tributo.",
+  "confisco previdenciário": "Expressão utilizada para criticar cobranças previdenciárias consideradas excessivas ou com efeito de confisco.",
+  "Gatt": "Acordo geral sobre tarifas aduaneiras e comércio que regula o comércio internacional."
  },
- "atualizado_em": "2026-11-12T06:49-03:00",
+ "atualizado_em": "2026-11-13T06:55-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
