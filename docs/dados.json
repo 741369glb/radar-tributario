@@ -1,6 +1,680 @@
 {
  "itens": [
   {
+   "id": "76f6a14338707d94",
+   "titulo": "Receita Federal confirma dispensa de notas fiscais para contribuições associativas",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTERpdlNhMzZIRFNMb1dST3dISV9ZSDdUTG0tck9oWkJYVHNtOHdINzBiRVJFTl9VUFJjMWg3R3pNN0FLNlZ1ZDhSMkM5bVpsZnRsMWh4cGJBTnhsaXRoVWhKbHdOYzR1bldKMll2YlRVYVU3ckh0bll0bGl1SmJmOU5GY0E2dVBtNngyREl6T3pZZGt6TGJfQ0lEMGEwcE1LMGJOOWJid2duY3F0QnhZdWNFM3habkXSAbwBQVVfeXFMTzNKSFFmN3dDczZNVDl6N1NPMFlNOHprWWlJQ1JuNTRrbDhYZXdWVU85TWFXelVLdVB1Y2tEVjZ0NE5aN3RlVDBCVzl0M1NFN0dDQ2tqMi1HRmQ0LW5vRm4xQTNOVE9hX0FGMHBNMUZRTVFuZHlUV1o4OTUyNXg5NGw1dVZGV0RmYk1wdHZaUXVQc1ZBNjl2VTI3T2dOQ3lrN1I5dy1ZNTNtSmJOZURxSC1oWWVzbXZzS0xPMzA?oc=5",
+   "veiculo": "Brasil 61",
+   "trecho": "",
+   "data": "2026-11-14T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal confirmou a dispensa da emissão de notas fiscais para a cobrança de contribuições associativas. A medida impacta a rotina de arrecadação de entidades de classe e associações.",
+   "pratica": "Na prática, a decisão simplifica os procedimentos administrativos e obrigações acessórias para associações e sindicatos na cobrança de seus associados, reduzindo custos operacionais.",
+   "termos": [
+    {
+     "termo": "Contribuições associativas",
+     "explicacao": "Valores pagos por membros para a manutenção de associações ou entidades de classe."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "068bba6fdede581b",
+   "titulo": "Receita Federal propõe adiar em um mês pagamento definitivo da CBS",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWRTcE9rVEVnUlF3Y2NXOG1mQUNwb0lWNkVMYXVXOGtFdUdDSG92UDJxNUhRQ04zN1FweThBVWpiZWhKRERfRmZ0eWc4ZmU0UUdOSDRBajlGaTNOUzhxaWZfTUVBTFlSbmdaSy15MFpQeVBtazJVVnNma3VTcU5mODFzX00wWVhkeG11cjEyMFRzdFlLbklYaFNrOGZyZ0QwNzdzdWtfVlRvdFpsMEdKNVlJS2hXWEE?oc=5",
+   "veiculo": "Congresso em Foco",
+   "trecho": "",
+   "data": "2026-11-14T02:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal propôs adiar em um mês o pagamento definitivo da CBS. A medida envolve ajustes no cronograma de recolhimento deste tributo decorrente da reforma tributária.",
+   "pratica": "Na prática, a proposta pode alterar o planejamento de fluxo de caixa e o cumprimento de obrigações acessórias das empresas caso seja efetivada.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c055db665c67efba",
+   "titulo": "Após 23 anos, Justiça julgará cobrança de ICMS feita por 64 municípios",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEpjLVQtbUFGOTdvRVlIUVpJTkw3amRoUjJja0lydjFIcGwxNGRScUJGNHc3b0ozY3M0VXZuZnhOQlB3S3hpNHI1TUNCazE5Qkx5Y2J2Zi05cHVGRmZZMVRyZkpVMTdyejVyWExTRkY5VU4zZnVtNWZYQjhTcktnaFNnNmVjRy1tNFVybXpLcVdhMm1KNVBtUEoyb3BhbjhzQ1NFRjVWTFVCWTktTUlQbVZJcy3SAbQBQVVfeXFMT3BVZFdMTmd4LU5xMVcyM25xMXJoNmhlOUFnbE9uWk5sZjFUQk0xMWxVcVE5Y002a0tKZmNicEdjaDQzNlhGdFEyLVY4X3hYWHNabGlJSlNPTlh3WGlDcm9SRjhuSS1nY1h4QjBLcng1ZU4tNmFxZEZweE1JYlotQVdiWHBEdFVxRmtacWxWNnZKM3RERVdycWV5NXJoa2JhdWd3WHdvdVFuVkVPOC1DNVlYdjA3?oc=5",
+   "veiculo": "Cassilândia Notícias",
+   "trecho": "",
+   "data": "2026-11-13T22:16-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "Justiça",
+   "resumo": "Segundo a manchete, a Justiça se prepara para julgar uma cobrança de ICMS realizada por 64 municípios, após um longo período de 23 anos de tramitação. Como não há trecho detalhado disponível, o resumo limita-se a informar a pauta iminente deste litígio envolvendo dezenas de municipalidades.",
+   "pratica": "Para os profissionais da área, o desfecho desta demanda histórica poderá pacificar a disputa sobre a competência e a legalidade da cobrança de ICMS por entes municipais.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "85228f0bf1041f3c",
+   "titulo": "ICMS-ST e reforma tributária: a dimensão da exclusão pode alterar o custo fiscal do comércio",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2lVWHNKVThzdnZSaXJ5X2t6M2YtZ0J0dGUtek1BeGJRXzhOVFc0c2JDWGNiTkN5UmdCbGM5Q21TRjF0V0J4TjNPSERpYUY2RUw3RU1nYVJnMGozeUtoaVpFVzNkZGdBRFJPUklzNWFxOGlnTjROQlgwd1pad1VGY1dMMHlUaVdsVkM3Zm1HMEVtQTc2cFNwU2Z4RkJaekdrU2FMWUM0LWRpbURJd1B0U3VQa2ZpdkRWUE1fTWs4WXBWWlJBNEU0OWZIS2w?oc=5",
+   "veiculo": "jornaltribuna.com.br",
+   "trecho": "",
+   "data": "2026-11-13T21:41-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se como a dimensão da exclusão no âmbito do ICMS-ST e da reforma tributária pode alterar o custo fiscal para o setor de comércio. O debate aponta para reflexões sobre o impacto da carga tributária e das novas regras na cadeia de circulação de mercadorias.",
+   "pratica": "Na prática, operadores do direito e da contabilidade devem monitorar os desdobramentos da reforma tributária para reavaliar a formação de preços e o planejamento fiscal de empresas comerciais.",
+   "termos": [
+    {
+     "termo": "ICMS-ST",
+     "explicacao": "Regime de substituição tributária em que a responsabilidade pelo recolhimento do ICMS é atribuída a outro contribuinte da cadeia."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "68d2c2f46ac8c0f5",
+   "titulo": "Receita Federal perdoa dívidas previdenciárias de Microempreendedores",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkNvaTVjMGFoYzdCUk9pZE5XdWxleXZqVjdZd1hFQTZjUTNXcVIzTFkxMVJKY2VYdGZlek9SOWVwZnV4QnkzdVVSNEprOS1MMjlhakRkUDhpTkZfYmE5a3NuQWdsWk4xSDlLeHhid3BIZHJvOUI1T2hrWXdvZlJUNzNZSkFuVEtvNGU3UG9nSUZCSlR2WW93WUYyWHBjWUk?oc=5",
+   "veiculo": "Fato Paulista",
+   "trecho": "",
+   "data": "2026-11-13T20:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete do veículo Fato Paulista publicada em 13 de novembro de 2026, a Receita Federal perdoou dívidas previdenciárias de Microempreendedores. Trata-se de uma medida de anistia ou remissão de débitos voltada a esse grupo de contribuintes.",
+   "pratica": "Na prática, a medida pode aliviar a situação fiscal de microempreendedores que acumulavam débitos previdenciários, permitindo a regularização de suas atividades. Contadores e advogados devem verificar os requisitos específicos da medida para orientar seus clientes.",
+   "termos": [
+    {
+     "termo": "Microempreendedores",
+     "explicacao": "Pequenos empresários enquadrados no regime simplificado do MEI."
+    },
+    {
+     "termo": "Dívidas previdenciárias",
+     "explicacao": "Débitos relativos a contribuições destinadas à seguridade social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "275f22da69bc24b5",
+   "titulo": "Presidente do STJ critica impeachment no STF e cobra leis sobre supersalários",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN250RU5fVm8wWHpjMk4tVzBFSkxBUjQ1WWs5MUZYUEpWc2hQNGhic0k0d3FJWUN0WWkzRklOd1kyRmFCRGlmd2hpM1gya3lDdkE2QTJvVXNIVUdkc19iRERKb1BnV0tJaGxURlFrcG9QYkh1eGJTNUlNTHB3Ykx6NHd1ZEFQc1NMZm5mSkxSRGVONnI0ZFFWRjRuYUJnVUw5WW1ZQV9aVE5yeUl2NDlreFZFZDVzLTBH?oc=5",
+   "veiculo": "Gazeta do Povo",
+   "trecho": "",
+   "data": "2026-11-13T20:42-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete da Gazeta do Povo de 13 de novembro de 2026, o presidente do STJ criticou o impeachment no STF e cobrou leis sobre supersalários. A discussão sobre remuneração no setor público envolve diretamente o controle de gastos e as finanças públicas tributárias.",
+   "pratica": "Na prática, o debate sobre supersalários pode impactar propostas legislativas voltadas à contenção de despesas públicas, influenciando o equilíbrio fiscal e a gestão orçamentária.",
+   "termos": [
+    {
+     "termo": "supersalários",
+     "explicacao": "Remunerações de agentes públicos que ultrapassam o teto constitucional estabelecido."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8ef91b0e6a739530",
+   "titulo": "Bancada do PT apresenta projeto para taxar \"super-ricos\" e títulos isentos",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlB1V3EzV0ZWQnd2UVVMM3pFR1dWemRwN2d5UUtZM1dmLV9oanpLNHRTSl9BVVNhdGEyTDBDTjczWFhkeEVzLUpHQW44TnlaREljc1V6cnZ4STlUUm01TEtwVDNLS0NxZXhYR09wdzhLODlURWhNMkd1ckZkcHd2azVfU2k4cE91Ql9yVWROaEVqRTFra3VEbXpmSWxxaVF3bGdmVklveC0zWVkwYUFwV2tWUDF6WW1EbEtPSUxqX19aZm54Wnl1TThBZDY?oc=5",
+   "veiculo": "CNN Brasil",
+   "trecho": "",
+   "data": "2026-11-13T20:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da CNN Brasil de 13 de novembro de 2026, a bancada do PT apresentou um projeto de lei voltado para a taxação de super-ricos e de títulos atualmente isentos. A proposta insere-se nos debates legislativos sobre a redistribuição da carga tributária brasileira.",
+   "pratica": "Na prática, a iniciativa ainda está em fase de projeto e exige acompanhamento atento por profissionais e contribuintes, pois, se aprovada, poderá alterar significativamente o planejamento de investimentos em ativos financeiros hoje isentos.",
+   "termos": [
+    {
+     "termo": "títulos isentos",
+     "explicacao": "Ativos financeiros que atualmente não sofrem incidência de Imposto de Renda sobre seus rendimentos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "049b964651d59741",
+   "titulo": "Imóveis na holding: por que observar o prazo de 2026",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1BfWW5tRDdRdk04WUdfTUJjczZaWGhxbWVtVWg4ZlpaajByUWVyRDltRS1sdk9GQlhmNUNKcTY1bXVQUl90Uks5dzBVa0cxTXQwSVoxam5Cd2V1cmZzRGQ3WGttc2JfdE8yNlRJQ1RKekpHbldJOEFpaUVLVjBKdkJMN3pZVV9haEpyaWlFX09mNy1lWnVFX2FRYm0?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T20:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis, há motivos específicos para observar o prazo de 2026 ao estruturar imóveis em holdings patrimoniais. A discussão envolve o planejamento sucessório e tributário, exigindo atenção dos profissionais da área aos reflexos temporais dessa estratégia.",
+   "pratica": "Na prática, advogados e contadores devem revisar os cronogramas de planejamento patrimonial de seus clientes para avaliar os impactos associados a esse marco temporal.",
+   "termos": [
+    {
+     "termo": "holding",
+     "explicacao": "Sociedade criada para administrar o patrimônio ou participações de outras empresas."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f37d5432de7afbca",
+   "titulo": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR2N1bWM3RWNQU3pPaW9pWlpXdjZic3RmQ2hTWXBoRGFNdkhKaHBnb2JqZHJaaHNqY3Nob3o2Zm1sWkdOSWxkQ080UmVYQy12N2pkTmNOb1ROblJfVUhpSVhiWmFtLUpVZW1oakxCSXY0SS1QNzRhZmpYZlhhOVVTdUFCQndlenQ0c1c3VE1EbHdtVXMtRUg2VkxfRWh2MFF3LVczb21pUF9uOW5QQzlUc2tGTUhrWlpZN3J6dkZCeXRiSFJnaGxqdVRMUDdmbVBW0gHWAUFVX3lxTFB6Q3dNaTdsT3JORTYtd3V6NnN4UWl1RDBhazhicDJ2VzQ4MjVidnFmcUwyd1ozdGUxVHo3aGFSYTZmb3IwS0pYV3I5LV9QMnpyLTZENUJUcFMwMXNTR0VKQXRXSWpqWVB4T1pOcUVSdkQ3Z3QzZ2plSHE5azlSU3dqSlBOeUdGRGFIc0Njb0dJVDk4S21JNloxNVRRX2UyUWhBQzZPdUJVdUhsQWdxRTg5N055d24zWDhZc2YxMFVoV1REUHdjMTE1dFcxVEhxcnk2cTd3Wnc?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-11-13T19:26-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o setor produtivo ainda tentará barrar no Senado o limite imposto às compensações tributárias previsto em um projeto fiscal. A discussão legislativa envolve restrições ao aproveitamento de créditos por parte dos contribuintes.",
+   "pratica": "Na prática, empresas e profissionais devem acompanhar a tramitação no Senado e avaliar os reflexos que eventuais restrições às compensações tributárias podem causar no fluxo de caixa e no planejamento financeiro.",
+   "termos": [
+    {
+     "termo": "compensações tributárias",
+     "explicacao": "Utilização de créditos tributários para quitar débitos perante o Fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f432129d64d9ece1",
+   "titulo": "CBS em 2027: empresas cobram prazo para adaptação",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVdINVBrd2ExOFhtaURNcUtTRjlkTVNyRm43WGVsVzhORWZSYm5TZkRwdTc4WG5xWGVSOFJ1Z3pWc1lQMW1nOTNHMkFjNktDSXo3MjNESll3MXI3U2I4OGthaGVwTUhpUEI5eDdSTnZRTTJIdzZEMTJJME5KaTVtVDVoNExVZ0doVHNVUmRNTnZhUXoyUTU0QQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T19:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, empresas estão cobrando um prazo maior para a adaptação à CBS com previsão para 2027. O debate envolve a necessidade de transição adequada para o cumprimento das novas regras tributárias.",
+   "pratica": "Na prática, a demanda das empresas sinaliza a busca por segurança jurídica e tempo hábil para ajustes nos sistemas contábeis e operacionais frente à nova exação.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na reforma tributária para unificar tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "02eb05e0623c755d",
+   "titulo": "Descontos ao varejista não compõem base de PIS e Cofins, resolve STJ",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDRld05SRzRmZmpnNUViOG5KUFd1MWZpVXlJdXV6eUhCRW1jbldWSVdoeXNLeV9qdm1YU3Z3UlFyVG10ZC1fem5RMnI1UGR6aFlxdHViQXB0QjMyeTlsb0VnMnBTQTdHUVhBYllvX05na3A0QTNQLUNHanQybzRiWEg2Wk9pNmZlQ2RxR1d4LTRQV256OUxVQWx5RHNUT1F6LTRndQ?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-13T18:50-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça resolveu que os descontos concedidos ao varejista não compõem a base de cálculo do PIS e da Cofins. A decisão traz definição importante sobre a apuração dessas contribuições federais no setor varejista.",
+   "pratica": "Na prática, a definição do STJ pode orientar empresas do varejista a excluírem tais descontos do cálculo do PIS e da Cofins, reduzindo a carga tributária da atividade.",
+   "termos": [
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Montante sobre o qual se aplica a alíquota para calcular o valor do tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fc727911fdcbd797",
+   "titulo": "Fazenda do RJ divulga base de cálculo do ICMS-ST para álcool (R$ 4,76/litro) e GNV (R$ 4,55/m³)",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVUwbDRHOF9TNDhRWExpMUJxbF8tMlU4bHhlQnNSMi1ZTWpnbU1xZEVjZk9mVFZjUVA5QVhjNzVzUktnQWRtV2ZIWWxTeG1VRC1JOXJWTUhEbkRkck9DRkJrXzVQbUlZRjBGcFBxUHhzU0lnNmYtWUhfb3JHNXhET090SmprcGw1aGRHVkZYM21ZZjU2UmtJZERfVGtyeGY1NlBUeWYteXNTdm1z?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-13T18:31-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Fazenda do RJ",
+   "resumo": "Segundo a manchete, a Secretaria da Fazenda do Rio de Janeiro divulgou os novos valores da base de cálculo do ICMS-ST para o álcool, fixado em R$ 4,76 por litro, e para o GNV, estabelecido em R$ 4,55 por metro cúbico. A medida impacta a formação do preço e a arrecadação do imposto estadual retido por substituição tributária nesses combustíveis.",
+   "pratica": "Na prática, postos de combustíveis e distribuidores devem atualizar imediatamente seus sistemas de faturamento e cálculo para recolher o ICMS-ST com base nos novos valores por litro e metro cúbico definidos pelo fisco fluminense.",
+   "termos": [
+    {
+     "termo": "ICMS-ST",
+     "explicacao": "Regime em que a responsabilidade pelo pagamento do imposto é atribuída a outro contribuinte da cadeia produtiva, geralmente o fabricante ou importador."
+    },
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Montante sobre o qual se aplica a alíquota para calcular o valor do tributo devido."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "32315099148dadb8",
+   "titulo": "Projeto prevê uso de créditos da CBS para pagar tributos",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3paTUxfNG1HVlFYVXRXbVpLX2lnZl95SnZDRkpvRzhrSDBLY3Z1RVVTVmNlY0RLMldfa0JvZ1VCNlZXZlh3d2x5MXByYjlRSS1KbWc0V3hSSHlBLUdIYXMyTmw5bXdFX01kU2FPRFdSNkl3UmV1LU0zWHJaMjZpWlQyRkE4ZkJwbVFQSTBzWlBUU1BnWUMzQmNDdUJSb0FKR1BV?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T18:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, um projeto de lei prevê a possibilidade de utilização de créditos da Contribuição sobre Bens e Serviços (CBS) para a quitação de tributos. A iniciativa visa disciplinar a compensação e o aproveitamento desses créditos no âmbito do novo sistema tributário.",
+   "pratica": "Na prática, a medida pode trazer maior flexibilidade na gestão do fluxo de caixa das empresas ao permitir que créditos tributários da nova contribuição sejam usados no pagamento de outras obrigações fiscais.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária para incidir sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7bc61c09bf4badff",
+   "titulo": "IBS e CBS na base do ICMS: depósito judicial",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG1wQklRaHd5Z1NQMHR0YjUxT1k3ZjVMaUowaWJtOEdMNmRGSVVucTM3NkF1dHE4RlhFQlRvNFNmcm5JQklyYVhTRkZOYXRZQ2l0bUZMUkdEdEtZdGVGRldGS3VYM1JHN2RwWU9zSnN0YjZONDhPLXlUWlY2bWFrSHhRd3c4QmdXSUJYRGZ1ZUtPQQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T18:15-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, debate-se a inclusão do IBS e da CBS na base de cálculo do ICMS, envolvendo também a questão do depósito judicial. Trata-se de uma discussão de relevo para a transição do sistema tributário decorrente da Reforma Tributária.",
+   "pratica": "Na prática, profissionais da área tributária e empresas devem monitorar o tema para antecipar impactos no cálculo de tributos e na gestão de depósitos judiciais.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para substituir PIS e Cofins."
+    },
+    {
+     "termo": "Depósito judicial",
+     "explicacao": "Valor depositado em juízo para suspender a exigibilidade de um tributo discutido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d0ad9005dbe6e867",
+   "titulo": "Casas Bahia fecha acordo com o GPA, fica com créditos de PIS/COFINS de cerca de R$ 700 milhões e assume débitos de R$ 424 milhões",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSThoUVZrV3BRb0JtdFlveUdwRVN5TUJzcHZMWFhLT3ROS1M1NVAyM2RfWURzU3JreU84S1k2X2NkWGNvdGUtbXhuVGZ4Q1M5YTd1UnI4cGlsS296MExITXVZVFVFeHE5N2lZREJuVWxQaDFJWTk4UGJDbktPeE93SU9BZ1o3UFZPR1I0WDJ2NzItSUdhYXNjLTJidkRGb3NCek5HYk5VekNlQjA?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-13T18:14-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Casas Bahia fechou um acordo com o GPA no qual ficou com créditos de PIS/COFINS de aproximadamente R$ 700 milhões e assumiu débitos de R$ 424 milhões. A operação envolve a transferência de créditos tributários e assunção de obrigações financeiras entre as empresas.",
+   "pratica": "Na prática, a movimentação ilustra como grandes corporações utilizam a compensação e a assunção de créditos e débitos tributários em reestruturações societárias e acordos comerciais. Contissionais e advogados devem atentar para a regularidade e a convalidação desses créditos perante o Fisco.",
+   "termos": [
+    {
+     "termo": "Créditos de PIS/COFINS",
+     "explicacao": "Valores que os contribuintes podem aproveitar para abater o pagamento dessas contribuições federais."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ccd58e0edd221099",
+   "titulo": "STF mantém multa de Mato Grosso a transportadora calculada sobre valor da carga",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDdXNTVPVktLMHVubGFfV0VnMlRkMVV1WlZMczBNN3VUeWdWWXF4WWxoUGJ3cmtTNjZtbFZJUWZFMnZXTzdtaVV3RjlOX3pHaG9CZFE0VWVnblZ3VWVSZ1ZuSGx4dzhDNno4NnlZUXNkZnMxUG5Wb2VvcVAyR2d4YU1NcGdFb0hzcU1WUDljaEtrcGlCR2NRdkp4dHBNWUszR19saUE4RlNEWms1MFFfNFdxY3RnaEV6TjdwLXFkVjhVRTA3enNjRzV2cw?oc=5",
+   "veiculo": "Fatos de Mato Grosso",
+   "trecho": "",
+   "data": "2026-11-13T18:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal manteve a validade de uma multa aplicada pelo Estado de Mato Grosso a uma empresa transportadora. A penalidade em questão foi calculada com base no valor da carga transportada.",
+   "pratica": "Na prática, a decisão sinaliza a manutenção de sanções estaduais severas sobre o transporte de mercadorias, exigindo atenção redobrada das empresas de transporte quanto à regularidade fiscal das cargas.",
+   "termos": [
+    {
+     "termo": "multa",
+     "explicacao": "Sanção pecuniária aplicada pelo Fisco pelo descumprimento de obrigações tributárias."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "87b25ab4306bffd4",
+   "titulo": "Reforma Tributária exige preparo além dos sistemas fiscais",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0ZTdHdaMlNCYjBrZndMa2ZJczUzRE5UTGZDVEp3NnV0OUtoTGJHZFFZZXhnYkx4eVpXRnBYNm01cldYRXViV0VVM0JNcmdJNjhrZnAtWlA3Tkltdy1FcnFyeTlkV01oTTRDQUxldGFWUXBvYlRkdlFuQ25rcWVFUkdEc1M3LTdWY1FKOGtoNVVxNi1JSVpxeGlFWU91OGo5aF9LRA?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T17:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis, a Reforma Tributária exige das empresas e profissionais um preparo que vai muito além da simples adaptação dos sistemas fiscais. O debate aponta para a necessidade de transformações estratégicas e operacionais mais amplas frente às novas regras.",
+   "pratica": "Na prática, os contribuintes e profissionais da área devem olhar para além da tecnologia, revisando processos internos e planejamento estratégico para se adequarem às exigências da reforma.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5d2b721da2b7393c",
+   "titulo": "TJMS julga ação de 64 municípios sobre ICMS da Petrobras",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzl4aExUeF8ydkFPalV2d1dtS3dmcnM3ZGpRa2NBeHB2MUpDeEpPeG43Nnh3WmNtRGpEd1pNVGhjbTYtVDduM1NjUVZicHhwSkUzNGhhbFo5aGxjTGJyQk8zVXNiWmw5QVRId01WTTZSWmhaLVZiWWVsTnowQ1g5QWhKTmZ6bHpLSVlVUm5Cd1BISVJURGJDbHNITURyc1hoREg4RVEwR0R3aFpWaUZKenNvMVVfaVVHZGp30gG7AUFVX3lxTE82RF9lWGZMWUN4ZnFySHFMWHhfN3dITkw1dnRYTmZ2R1ZLTlQtM1pzQjdEajZGdDh2R255YVkxS0RCNGdYOC1nbEp4LUlRMzJzZjBjQk55ZmxFdVc2dmx5NmNGc0pocU9YSEp5Mk56dnZNRXFad0lER0F4Q2phOVAxZGxBSnBGNk5BVW82eWFBQmlPcFJmTjdhNWpPeEV3X1g5RGlWajItelYwTjFRV2ItaWszMVRVcnAzM2s?oc=5",
+   "veiculo": "Campo Grande News",
+   "trecho": "",
+   "data": "2026-11-13T17:30-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "TJMS",
+   "resumo": "Segundo a manchete, o Tribunal de Justiça de Mato Grosso do Sul (TJMS) julgou uma ação envolvendo 64 municípios a respeito do ICMS da Petrobras. Como o trecho não traz maiores detalhes, trata-se de um registro sobre a movimentação judicial envolvendo repasses do imposto estadual.",
+   "pratica": "Acompanhar o desdobramento dessa decisão pode ser relevante para profissionais que atuam com finanças públicas municipais e repartição de receitas tributárias no estado.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a9eac7e4d2a66e7a",
+   "titulo": "Reforma Tributária: como precificar serviços",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2ZxVWpDZ1h2VjVESTJXNlF1TDhOM3g3aTdTNFlRaEotejRMUmdsdlZpNFd4UlhrUGFvdFp0TEU3RWJXazNldDROVmZUek5mNmpORVc2eDFYZEI3LU85cl9LX0NlZTQwdV94TWlCMS1fcVFsSTF1WHUtb0pIVTN1S3Q1aFhiVFpicGQtbVhveVk?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T17:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Portal Contábeis aborda os impactos da Reforma Tributária na precificação de serviços. Trata-se de uma discussão essencial para o setor de serviços diante das novas regras de tributação.",
+   "pratica": "Na prática, exige que prestadores de serviços revisem suas planilhas de custos e estratégias de formação de preços para se adaptarem ao novo cenário tributário.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Mudança estrutural no sistema de impostos do país que afeta a dinâmica de cálculo e cobrança."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "35b0615ad39a7395",
+   "titulo": "MEI terá dívida mensal apagada por inteiro sem fazer pedido; saiba quando o cancelamento começa",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEI0YnhmOTlabjVZdDY3S0VSS0ZmQk5lM3JtdU1ONEd0d2JLajI2dmpLaDBSYW00WmF5QmhaSWxBbDB3Yi1Qb2VwS3VzbmwwQTJlclBLUkN4dGxsWENIX2dHUjlOWU5pTDBmT2NMUEwxeC1raWFIVmxUQkpJR3VDV3ltV3dSSDM2OW9seV9SNzF1T28xd3pVUnp3RE9jSWRfMEl0TkZ3OUxnNUIxVUdxdElETVFITzNFeXVfMHpPemIzREF1ZklhYkVBbGszVkU?oc=5",
+   "veiculo": "Diário do Comércio",
+   "trecho": "",
+   "data": "2026-11-13T17:29-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário do Comércio de 13 de novembro de 2026, o MEI terá sua dívida mensal apagada por inteiro de forma automática, sem a necessidade de fazer um pedido formal. A publicação indica que há previsão de início para esse cancelamento.",
+   "pratica": "Na prática, a medida pode aliviar o passivo fiscal de microempreendedores individuais de forma desburocratizada, mas é preciso aguardar a regulamentação para confirmar quais débitos serão atingidos.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual sujeito a regime tributário simplificado."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "05d6bdaa573b4010",
+   "titulo": "CARF reconheceu direito a crédito de PIS/Cofins sobre higienização de uniformes e EPIs",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVJqeWk3R09na0YtT3UxRVV4bjlBUlF5ZlFXYVMtc3BlckpnTlV6cllYeWIwcWhHcHNFZWNkR3I1VW04ZzNsNXRacnItek5Ea0pJWW80bU53akJqRGJocGpwWHM3cjNtUTFDcHhrZnVlSjMzeG1JbjhoamlOcDNLaVJhTWdrNDdSQU5sWG5SVDF2VEdNdlZHbmtaZw?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T17:15-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "PIS/Cofins",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o CARF reconheceu o direito de contribuintes ao aproveitamento de créditos de PIS e Cofins sobre despesas com a higienização de uniformes e Equipamentos de Proteção Individual (EPIs). A decisão aborda a apuração desses créditos no âmbito das contribuições federais.",
+   "pratica": "Na prática, a decisão abre caminho para que empresas do mesmo setor evaluem a recuperação de créditos tributários sobre gastos com a limpeza de uniformes e EPIs utilizados por funcionários.",
+   "termos": [
+    {
+     "termo": "Crédito de PIS/Cofins",
+     "explicacao": "Valores que a empresa pode abater do tributo a pagar com base em insumos da atividade."
+    },
+    {
+     "termo": "EPIs",
+     "explicacao": "Equipamentos de Proteção Individual obrigatórios para a segurança do trabalhador."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "610095a45068aea0",
+   "titulo": "Reforma Tributária: entenda o que muda nos impostos e como isso pode afetar o produtor rural",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObC11MC1OS2tJendIeENLYVhwM00teTdLcXdnU3VjdHRRbGwxY3RXV3hwb3lJVktBdzBRaWRoeTU5THpxQm10VVNORmNPSUZxWW9DVGVfVm9HZ3RsNERiNEhGc1ZkNUo2SEVxTFR1ZEpvTXNCMl95d1RZenhBZjdpUWstdVJ4YlExWllqMHR6aldDTm1OTl9vdzNLNzdLaExvSUxoWmtSQlRCZHJyUWVIamV0X3ZsODY1ZWNGLVdnaml0WDI2SnNNdXg3LXhBbGVraFB6a3hEWWLSAecBQVVfeXFMTkptVnQ4c1htUzFISFhpUzVXb3VYOHZwcWNlR3lZUjZjX0tYOTZZd3lyYU9zbkpkVzdaNkNLcWN0RzYxdUJVX284MDg1cXpPeGxIS2lFZURKSGpJR3ZHQm1BdGltT1M5YjFhSTN2LWRfWm40TUFMNEhTTm11Z29WNlhobkk1TUFOQ3NTVnpLSDVtd0Z4NzVOU1RqS2pOdHBjTXhyR3RQdDE1T19rX1VEX2JHam1hMlA3R1RwaG1rZUdscnhIcnY0TjM5Z0lQRnN3RkFydUFQMWdEQXZLSHVRX3VTLXNGdW9r?oc=5",
+   "veiculo": "Globo",
+   "trecho": "",
+   "data": "2026-11-13T16:38-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete veiculada pelo Globo, a Reforma Tributária traz mudanças significativas na tributação que impactam diretamente o setor produtivo rural. A discussão envolve a compreensão das novas regras e seus reflexos na carga tributária do campo.",
+   "pratica": "Na prática, produtores rurais devem acompanhar as discussões para entender as novas regras de incidência de impostos e adaptar seu planejamento financeiro e contábil às exigências da reforma.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais destinadas a modificar o sistema de arrecadação de impostos no país."
+    },
+    {
+     "termo": "Produtor rural",
+     "explicacao": "Agente econômico voltado à exploração da atividade agropecuária que será afetado pelas novas normas fiscais."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "820f64497b189bf1",
+   "titulo": "Revisão da capacidade de pagamento na PGFN",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTEtakNLRkN4TWlHN0E0OWNHQU5yOHRTZ3puV3FSR2NoUnhpOUpfeVFuU3JFMU5CeEswNE9NMFhNNF9kRHFubG5yR3pObkdydkxjOWhnekN3NkRfS19MU3dJREZJNkhXam5kRERkVEw3RHhBQTE3WE1YR3k1bmREbTRWdmZSVTd1aFJFZUt3TQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T16:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete, o tema em pauta é a revisão da capacidade de pagamento na PGFN. Trata-se de uma discussão relevante sobre a avaliação das condições financeiras dos devedores pela Procuradoria-Geral da Fazenda Nacional.",
+   "pratica": "Na prática, a revisão da capacidade de pagamento pode influenciar a forma como contribuintes negociam seus débitos fiscais com o órgão. Profissionais devem acompanhar os critérios aplicados para otimizar acordos de transação.",
+   "termos": [
+    {
+     "termo": "Capacidade de pagamento",
+     "explicacao": "Critério utilizado pelo Fisco para avaliar a situação financeira do devedor e definir condições de parcelamento ou transação."
+    },
+    {
+     "termo": "PGFN",
+     "explicacao": "Órgão responsável por representar a União na cobrança e na gestão da Dívida Ativa da União."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6c51d6f5f7899de7",
+   "titulo": "Cosit 183/26: Será o fim da holding rural?",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTNILXJwRVJFbnlKRkJQX0hSUk5kTEZyWWU4QjY2eFJaY3dHOUs5QmJfZHd0M1NrYU5oSk5uQ19ORDk0Q2g1d1pEcVBvMjNkRnZIOW42Z19yQ1o1clQwTjNFUGkzS3NaYThqbUVEblNRb1F3R09UZC0xeHJHQTN1ZHFtLVFJUUVhVlE?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-13T16:10-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a publicação da Cosit 183/26 levanta o debate no meio jurídico e contábio sobre o possível fim das holdings rurais. A discussão gira em torno dos impactos tributários trazidos por essa manifestação da Coordenação-Geral de Tributação.",
+   "pratica": "Na prática, advogados e contadores devem acompanhar o teor da Cosit para reavaliar a segurança jurídica e a estruturação de holdings voltadas ao setor rural.",
+   "termos": [
+    {
+     "termo": "Holding rural",
+     "explicacao": "Sociedade criada para administrar e gerenciar propriedades e atividades rurais, frequentemente usada para planejamento sucessório e tributário."
+    },
+    {
+     "termo": "Cosit",
+     "explicacao": "Coordenação-Geral de Tributação da Receita Federal responsável por padronizar a interpretação da legislação tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "aba19db7d5067c90",
+   "titulo": "Empresas de Tenente Portela somam R$ 25,3 milhões em registros de dívida ativa, aponta levantamento",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDY3OTBNTjFTcnV6UXVKZ3RwMmVSVGV1cUdWYTcydm5VbGd3U2laNlEwVTRZUE1sTWplS2hzTFpJYW8tYVBic29KSjVVU2EwSmtfQ3dUc2dualVGZks4RS1rcEVZZVMzdUMyVGZpQVN1S2dUYnN6VzJuazg5MmV4R2w2N1BLX0h1V3ZadktaUXNkWkYtYV9qd29wemoxZWtZLTdmYlBzQWZ5YzctMmlLcjRnTE5EOXFyeFY4RndfRnJ1Ri16VVg0TVJWbHRZWTVDbWZ4WmtabFYzWF9lOUtvYQ?oc=5",
+   "veiculo": "Sistema Província de Comunicação",
+   "trecho": "",
+   "data": "2026-11-13T16:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, um levantamento apontou que empresas de Tenente Portela somam R$ 25,3 milhões em registros de dívida ativa. A notícia evidencia o volume de débitos fiscais consolidados de pessoas jurídicas no âmbito municipal ou regional.",
+   "pratica": "Na prática, o dado acende um alerta para gestores e profissionais sobre a necessidade de monitoramento de regularidade fiscal e adoção de estratégias de regularização. Também sinaliza maior foco da administração pública na cobrança e recuperação desses valores.",
+   "termos": [
+    {
+     "termo": "dívida ativa",
+     "explicacao": "Conjunto de créditos tributários ou não tributários da Fazenda Pública que não foram pagos no prazo legal."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "84059a9e00b9a868",
+   "titulo": "Câmara debate CBS, Imposto Seletivo e créditos tributários",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTNmcDBIV3BBXzJEdVRWa3RUSGNGbVV6Znp0WnhfNVRld2xvRnIyVWIyQ2d2eS0xbkhvOEI4dEZVSWhobTFPc1l4VkNJdXd2dkdMejNBVTNRV1EzTVR2aGlaR2JBS19tSlRJMndkQjJ2YldzQ2pweFlvZnVFUnlJWEdKQTRteWRHeTFYWEhGR1J0VDhsVms1SmVfazAyZzFQVnkzdQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a Câmara iniciou debates sobre a CBS, o Imposto Seletivo e os créditos tributários. A discussão envolve temas centrais da nova tributação sobre o consumo.",
+   "pratica": "Na prática, o acompanhamento desses debates é essencial para que advogados, contadores e empresas antecipem as regras de transição e apuração dos novos tributos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na reforma tributária para substituir tributos federais."
+    },
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo federal voltado a desestimular o consumo de produtos prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c5f120bdb03fcb4b",
+   "titulo": "Reforma tributária vai mudar cobrança de impostos sobre aluguéis; entenda",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlUtR2h4aEl3a21Uek0ydUlDNE8wWk9tdGlPWHZSang5c01wRlh5T093OEJpcWtmbmVzZmZxaHh5RWVzN0ZjVklRVkpjaXhid3NjN3VnSjQ0YWJaWk1Vdzl3WEhWT0tYQm9CYWg0cUFjb1lzSVdaZEw0M3Y3VTFUaDRiRW9nNTIxMXJJRE9uZkFZTlpSY0lwMjdHcEF2aENWaTBDZ2s1N0JRTHI0dW9UUlB4SQ?oc=5",
+   "veiculo": "Terra Brasil Notícias",
+   "trecho": "",
+   "data": "2026-11-13T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do Terra Brasil Notícias de 13 de novembro de 2026, a Reforma Tributária trará alterações na forma de cobrança de impostos incidentes sobre aluguéis. A novidade legislativa promete impactar a dinâmica de locações imobiliárias e a tributação do setor.",
+   "pratica": "Na prática, profissionais e contribuintes do setor imobiliário devem monitorar as regulamentações da reforma para redimensionar o impacto financeiro e contábil dos contratos de aluguel. O vazio de detalhes no trecho exige cautela na adaptação contratual até que o texto normativo seja integralmente divulgado.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais para modificar o sistema de arrecadação de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "27e97bf8661bbd18",
+   "titulo": "Seguro-garantia impede protesto e inscrição no Cadin, propõe relator no STJ",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDNELUppaERrMEFqS0pya0RjY3JNdkFvaGNTSmY0c20xT2E2Rmd5Z0FpQ1FBQVBXWmJhcV9PVEJYemJZRkJfZzVmMFJUajMtZW5ybTFJUk5UcndMMk9FR3Q2SnRhOGRUY3h3ZFRTeUpITmF3dVhHb1RBOW9wT2w1TFRiWjdsV3c2dHhiaThnRGtmU1pOY2JscGlma200NXlCMU1PRjQ2WGVkWEE5Wmc?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-13T15:51-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o relator no STJ propôs que o uso de seguro-garantia seja aceito para impedir o protesto de certidões e a inscrição em cadastro de inadimplentes. A discussão envolve a equiparação dessa garantia a outras formas de suspensão da exigibilidade do crédito.",
+   "pratica": "Na prática, caso a tese seja consolidada, os contribuintes poderão utilizar o seguro-garantia para evitar restrições comerciais e cadastrais decorrentes de débitos.",
+   "termos": [
+    {
+     "termo": "seguro-garantia",
+     "explicacao": "Modalidade de seguro utilizada para garantir o cumprimento de obrigações, inclusive fiscais."
+    },
+    {
+     "termo": "Cadin",
+     "explicacao": "Cadastro Informativo dos créditos não quitados de órgãos e entidades federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dbbdaa2a9db4c214",
+   "titulo": "CGIBS anuncia dispensa de CNPJ para produtor rural e autônomo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1I1bGhkUG84MGI4dzVLYzFSck5henBTVzZ2S01BX1M3eHhhcHFjcUJmbXd1WXJOcnBITHQ3QWdfVURJazJ1V1p6M2t5ekw3RGZZb3dacFJUcGFhbkg3VW54eDVXVXNLaFZ4b2IyY2xtOTc5SnpuT1oxYk5nemYyY3h4cVJveUFuZG4zRk5CRlkxUXB0czNZVFEzSjBIdjFrTFNTbU11UDJ1QQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T15:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "CGIBS",
+   "resumo": "Segundo a manchete, o CGIBS anunciou a dispensa de CNPJ para produtor rural e autônomo. A medida impacta diretamente a identificação fiscal desses contribuintes no cenário tributário nacional.",
+   "pratica": "Na prática, a dispensa pode simplificar a rotina de conformidade e obrigações acessórias para produtores rurais e profissionais autônomos. Aguardam-se maiores detalhes normativos para orientar adequadamente os clientes.",
+   "termos": [
+    {
+     "termo": "CNPJ",
+     "explicacao": "Cadastro Nacional da Pessoa Jurídica utilizado para identificar empresas e contribuintes perante o Fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e7ff750ef2346d73",
+   "titulo": "NFS-e: plataformas digitais e TI têm prazo até março de 2027",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlN4Y3lMRnAwQVRvcE40ODlhWVpvUFR2MUNxRzZ3N0RmYWtjUHBaeVR5cGZfLUF1cWtBaUZwSndiRE8xeEFrcXdRS05kZW1hMnVnSFBhYkNvVEotSlkwX0ZVcGh4ZVQ4VTY1TFh5cG1wRzVPWHl1TFl0RWhINGFJazBDVFBEY1F4dnd2aW5uRllfcGY3R1d0S2o2R3FKMmhtU3F1LXFZWQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-13T15:15-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ISS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, plataformas digitais e empresas de tecnologia da informação ganharam prazo até março de 2027 para se adequarem às regras da Nota Fiscal de Serviços eletrônica (NFS-e). A notícia aponta um fôlego temporal importante para o setor ajustar seus processos de emissão e conformidade fiscal.",
+   "pratica": "Na prática, a dilação de prazo permite que empresas de TI e plataformas digitais revisem seus sistemas de faturamento e evitem autuações por descumprimento de obrigações acessórias relacionadas ao ISS. Os profissionais da área devem aproveitar o período para garantir a integração correta com os padrões da NFS-e.",
+   "termos": [
+    {
+     "termo": "NFS-e",
+     "explicacao": "Nota Fiscal de Serviços eletrônica utilizada para registrar operações sujeitas ao ISS."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "a3ed56c8cb3ab138",
    "titulo": "Projeto de lei complementar dá mais prazo para a CBS",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFVxWmY3eHVvd2FJUzZmdHBhMldSVUpEU1pfMExNUkMyYXdHZmFPVldKNWV0SUpQcHZVYTkwQWxDcWhySTFMSDl2WnNhRWJBRi15N2FkZlZVZ2VZOHNuWHlDcDBYMEt2WGhER21EVktHWExHVGZfZ2c4RHFlWmUyWg?oc=5",
@@ -14748,7 +15422,8 @@
   "2026-11-10": "O boletim de hoje destaca três temas essenciais para os operadores do direito tributário. Primeiramente, o STF iniciou julgamento sobre previdência complementar gerando alerta de um rombo bilionário aos cofres públicos, atraindo atenção pela magnitude dos impactos financeiros. No âmbito da Reforma Tributária, o Tribunal de Justiça de São Paulo suspendeu decisões que retiravam a CBS e o IBS da base de cálculo do ICMS, impactando a discussão sobre a composição da base tributável. Por fim, o STF validou lei de Alagoas que extinguiu o critério ambiental do ICMS Verde no rateio aos municípios. Esses tópicos importam por movimentarem a segurança jurídica e a arrecadação.",
   "2026-11-11": "Nesta edição, destacam-se os debates em torno da reforma tributária, cujo cronograma de entrada em vigor em 2027 foi mantido pelos deputados, apesar da pressão empresarial por adiamento e das pendências que geram preocupação no ambiente corporativo. Entre as discussões, destaca-se a possibilidade de cortar isenções e benefícios fiscais caso a alíquota do novo IVA ultrapasse o patamar de 26,5%, visando conter a carga tributária. Além disso, a reforma trará mudanças relevantes na cobrança de impostos sobre aluguéis, exigindo atenção às novas regras e operionalizações a partir de 2027. No âmbito dos julgamentos, o STF decidiu que o ICMS não incide sobre a subvenção da tarifa de energia elétrica para consumidores de baixa renda, afetando a base de cálculo do imposto estadual.",
   "2026-11-12": "Nesta edição, destacam-se importantes movimentações na jurisprudência fiscal e nos debates sobre a implementação do novo sistema tributário. O Superior Tribunal de Justiça excluiu os descontos e as bonificações concedidos por fornecedores a varejistas da base de cálculo do PIS e da Cofins, afetando a apuração dessas contribuições federais. Além disso, a Fazenda Nacional reconheceu a dedutibilidade no Imposto de Renda das contribuições extraordinárias destinadas à previdência complementar. No âmbito da regulamentação administrativa, a Fazenda reinstituiu o comitê responsável por selecionar e avaliar os conselheiros do CARF e distribuiu as vagas de conselheiros dos contribuintes entre confederações e centrais sindicais, enquanto o avanço das discussões sobre a Reforma Tributária segue mobilizando o cenário nacional.",
-  "2026-11-13": "Nesta edição, destacam-se as discussões e propostas em torno da Reforma Tributária, com a Receita Federal propondo o adiamento da CBS e a flexibilização na transição tributária para 2027, além de debates legislativos sobre a sua regulamentação e o impacto nos preços. No âmbito judicial, o STJ negou créditos de PIS e Cofins sobre pagamentos a trabalhadores portuários avulsos e abriu caminho para a recuperação de impostos em meio à queda do varejo. Esses temas importam porque afetam diretamente o planejamento das empresas, o cronograma de implementação dos novos tributos e a recuperação de créditos fiscais."
+  "2026-11-13": "Nesta edição, destacam-se as discussões e propostas em torno da Reforma Tributária, com a Receita Federal propondo o adiamento da CBS e a flexibilização na transição tributária para 2027, além de debates legislativos sobre a sua regulamentação e o impacto nos preços. No âmbito judicial, o STJ negou créditos de PIS e Cofins sobre pagamentos a trabalhadores portuários avulsos e abriu caminho para a recuperação de impostos em meio à queda do varejo. Esses temas importam porque afetam diretamente o planejamento das empresas, o cronograma de implementação dos novos tributos e a recuperação de créditos fiscais.",
+  "2026-11-14": "O boletim de hoje destaca importantes desdobramentos sobre a Reforma Tributária, que traz mudanças significativas no setor produtivo rural, debates sobre a CBS e reflexos na precificação de serviços, exigindo ampla adaptação estratégica das empresas. No âmbito do contencioso, o STJ resolveu que descontos ao varejista não compõem a base de cálculo de PIS e Cofins, enquanto o CARF reconheceu o direito a créditos dessas mesmas contribuições sobre higienização de uniformes e EPIs. Além disso, a Receita Federal perdoou dívidas previdenciárias de microempreendedores, promovendo a anistia de débitos para a categoria."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -15104,9 +15779,28 @@
   "moléstia profissional": "Doença relacionada ao exercício da atividade profissional.",
   "isenção": "Dispensa legal do pagamento de um tributo.",
   "confisco previdenciário": "Expressão utilizada para criticar cobranças previdenciárias consideradas excessivas ou com efeito de confisco.",
-  "Gatt": "Acordo geral sobre tarifas aduaneiras e comércio que regula o comércio internacional."
+  "Gatt": "Acordo geral sobre tarifas aduaneiras e comércio que regula o comércio internacional.",
+  "Contribuições associativas": "Valores pagos por membros para a manutenção de associações ou entidades de classe.",
+  "Microempreendedores": "Pequenos empresários enquadrados no regime simplificado do MEI.",
+  "Dívidas previdenciárias": "Débitos relativos a contribuições destinadas à seguridade social.",
+  "supersalários": "Remunerações de agentes públicos que ultrapassam o teto constitucional estabelecido.",
+  "títulos isentos": "Ativos financeiros que atualmente não sofrem incidência de Imposto de Renda sobre seus rendimentos.",
+  "holding": "Sociedade criada para administrar o patrimônio ou participações de outras empresas.",
+  "compensações tributárias": "Utilização de créditos tributários para quitar débitos perante o Fisco.",
+  "Depósito judicial": "Valor depositado em juízo para suspender a exigibilidade de um tributo discutido.",
+  "Créditos de PIS/COFINS": "Valores que os contribuintes podem aproveitar para abater o pagamento dessas contribuições federais.",
+  "multa": "Sanção pecuniária aplicada pelo Fisco pelo descumprimento de obrigações tributárias.",
+  "Crédito de PIS/Cofins": "Valores que a empresa pode abater do tributo a pagar com base em insumos da atividade.",
+  "EPIs": "Equipamentos de Proteção Individual obrigatórios para a segurança do trabalhador.",
+  "Produtor rural": "Agente econômico voltado à exploração da atividade agropecuária que será afetado pelas novas normas fiscais.",
+  "Capacidade de pagamento": "Critério utilizado pelo Fisco para avaliar a situação financeira do devedor e definir condições de parcelamento ou transação.",
+  "Holding rural": "Sociedade criada para administrar e gerenciar propriedades e atividades rurais, frequentemente usada para planejamento sucessório e tributário.",
+  "Cosit": "Coordenação-Geral de Tributação da Receita Federal responsável por padronizar a interpretação da legislação tributária.",
+  "seguro-garantia": "Modalidade de seguro utilizada para garantir o cumprimento de obrigações, inclusive fiscais.",
+  "Cadin": "Cadastro Informativo dos créditos não quitados de órgãos e entidades federais.",
+  "CNPJ": "Cadastro Nacional da Pessoa Jurídica utilizado para identificar empresas e contribuintes perante o Fisco."
  },
- "atualizado_em": "2026-11-13T06:55-03:00",
+ "atualizado_em": "2026-11-14T06:46-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
