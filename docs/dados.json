@@ -1,6 +1,516 @@
 {
  "itens": [
   {
+   "id": "fc2e4d5902fd8eb4",
+   "titulo": "Episódio final da série Taxas da Suframa",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnpIMEpJcjV1T0ExQjJEV1R5b1J0UkZsOGt3a2NSY01SZDRUVDFhRTNGUkRWVHA0emQtbXl1N2VMa1V2dkdhV241MWtGZEpMSVYyaXpUM25yaEJrRnpOYnZSSldycE9yOFJjYWxzWElDaTU1aXVjeHMyTkxvaldIWjU1TjlXYkNLVG9SNFhlSV9TUQ?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-15T02:23-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Suframa",
+   "resumo": "Segundo a manchete do JOTA Info, o episódio final da série aborda as discussões jurídicas e institucionais envolvendo as taxas da Suframa. Trata-se de um debate relevante sobre a legalidade e a cobrança dessas exações no âmbito do direito tributário.",
+   "pratica": "Na prática, acompanhar o desfecho desse debate é essencial para que empresas e profissionais da área saibam se posicionar frente às exigências e eventuais contestações judiciais dessas taxas.",
+   "termos": [
+    {
+     "termo": "Taxas da Suframa",
+     "explicacao": "Valores cobrados pela Superintendência da Zona Franca de Manaus no exercício de suas atribuições legais."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0ad2e043b7a85d51",
+   "titulo": "STJ suspende ações sobre encerramento antecipado de benefícios do programa Perse",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHFXMU9xOG9jR2JSbkFfcVRVRnh3d3JIbVA0QnhCTjl0Tk5PSGVnMzdCWjVaLWd4RHdqbmljc090bVotSUxuRVpCYjF1SjBILWNUSk85aS1YZllpNTBxWmlJaXNneFJ4UWxMeFJIS1JvMUtQRERUY2dkemRzLTJoT3h5NXhxYW9EWHRHSDlKY2d0ZWNyYUFiUXZLSDNfdWlzWkNyNjVBTFJ5UXkwWUVLOTFaRkIxOUI4VGtr?oc=5",
+   "veiculo": "Portal VV8",
+   "trecho": "",
+   "data": "2026-11-14T23:13-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça determinou a suspensão de ações judiciais que discutem o encerramento antecipado de benefícios fiscais concedidos pelo Programa Emergencial de Retomada do Setor de Eventos (Perse). A medida afeta o andamento dos processos nas instâncias inferiores enquanto o tema não tiver uma definição final pela corte.",
+   "pratica": "Na prática, contribuintes que possuem ações sobre o tema devem aguardar o desfecho da suspensão determinada pelo tribunal, mantendo o monitoramento estratégico de seus processos.",
+   "termos": [
+    {
+     "termo": "Perse",
+     "explicacao": "Programa emergencial criado para apoiar o setor de eventos e turismo com benefícios tributários."
+    },
+    {
+     "termo": "STJ",
+     "explicacao": "Órgão máximo do Poder Judiciário brasileiro para a uniformização da interpretação de leis federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0ee804c615c6a799",
+   "titulo": "Pix acima de R$ 2 mil será monitorado em 2027? Entenda o que realmente prevê a Receita Federal",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVJqRkl4Nk5DV1E1S2F1dndPMmVqeXFRZC1CTV93WmpITDY1ZmlFWUhRUE9JM2I4N0JlQldfb0lGUGR0aUQ5RlRnamdSV3NURFA1ZmVueWEwLTlBaUdxc2dCS0lrX2pjUk5HVUdzTWhCZnZJeTlXbHhNUUR5TVhfUm0tbDRlZW9TTGFDWUV0WEhKV0kxZHFQcklhc0E4MEU1ODZUZThocWdSQ3RIN3kyMGpjamxaaW1MdTdZLWNpaVpFM0hSTS1fbzJJaGo?oc=5",
+   "veiculo": "TopElegance",
+   "trecho": "",
+   "data": "2026-11-14T22:57-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, discute-se a veracidade de uma suposta regra que prevê o monitoramento de transações via Pix acima de R$ 2 mil a partir de 2027. O tema esclarece o que a Receita Federal realmente estabelece sobre o controle dessas operações financeiras.",
+   "pratica": "Na prática, a notícia alerta profissionais e contribuintes para buscarem informações oficiais e evitarem boatos sobre novas obrigações acessórias ou fiscalizações do Pix. É fundamental acompanhar os atos normativos da Receita Federal para garantir a conformidade fiscal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do Ministério da Fazenda responsável pela administração dos tributos federais e fiscalização aduaneira."
+    },
+    {
+     "termo": "Pix",
+     "explicacao": "Meio de pagamento eletrônico instantâneo brasileiro que também serve de base para cruzamento de dados fiscais."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "58270d4c66df37aa",
+   "titulo": "Perdão de dívidas para MEIs começa em 2027; veja quem tem direito",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0czMnMxQmI2cC1VblNsZVE2VG9QSFpfVVM0OS1ja1NjckV4djlQazd5cGlnaExqSlVJdThZV216dXd3RjhDZGN2YzlZQlF4dUVmbjh1a25pdFRuNm1ITGJ6ZzNxYktMc2N4RFZhUl9wWDczZHBEY2xXZ3ZHUHpPN2JTUFk0N0QwLWtmb1lES1RmRjlGSXY1SG1B0gGfAUFVX3lxTE14R24zWUtLVDZiazVaX29yblhrYU5YMmxhZFZfQTJVa1FqZmlLY1Y5NlZUcHRoeE5sRmdIMU5pN00yT2RlblA2ODZLcE1MNnJaRHpkdThteFNucERyWTZXb3VFenZlUkJ4VDhsMmVJc2hkZU51dnFXSWQyNm1OWldsc1BfNkxjeHNJelhta3RHb012aWVxSmplV2Flamlqaw?oc=5",
+   "veiculo": "Enfoque MS",
+   "trecho": "",
+   "data": "2026-11-14T19:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foi anunciado o perdão de dívidas para Microempreendedores Individuais (MEIs), com início previsto para o ano de 2027. A medida estabelecerá critérios para definir quem terá direito a essa anistia fiscal.",
+   "pratica": "Na prática, profissionais e advogados que atendem MEIs devem acompanhar a regulamentação para orientar seus clientes sobre os requisitos necessários para obtenção do benefício a partir de 2027. Como o trecho está ausente, detalhes operacionais ainda não podem ser precisados com segurança.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Sigla para Microempreendedor Individual, regime tributário simplificado voltado para pequenos empreendedores."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "78ca8191632e0946",
+   "titulo": "Governo Lula acelera articulação para aprovar últimas propostas da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNanVtbFlQNXhiSGIxazRaOHA2a1h6RG5KMnJjSm5RR0QxWUFqVVRCMTZHUDgtMjNRVU5PcW9LZEtJODh6RUtRSTNwcS05Q3NodnhDT1J4ZUdGUjV6V1N2V0c0d0ZUREZuemVCWXlMMmFwakgzNWhjMVV6c2U2Ni1UOVpQbmp5N1FTZHVyVk1rYjBfaG9XN1VYcEk2RzRlaWRWXzVmUFVrNXVxaTVLbm9aVk5ZY3d4SHhRQlp6cWtPSnFaemViZkJrUUpWUQ?oc=5",
+   "veiculo": "Portal do Zacarias",
+   "trecho": "",
+   "data": "2026-11-14T18:01-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o governo Lula está acelerando a articulação política para conseguir aprovar as últimas propostas que compõem a reforma tributária. A movimentação indica foco do Poder Executivo nas negociações legislativas sobre o tema.",
+   "pratica": "Na prática, a aceleração dessas articulações pode resultar em novas normas constitucionais e complementares sobre tributos em breve, exigindo atenção de advogados e contadores.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e7a089ca7768182c",
+   "titulo": "Cada dia sua agonia, Lula tem pressa nas últimas pautas da tributária",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUxMUEcwam1hdzhsQ3VXWFdZbHF3VkpwdV82WmZ6dmxuZDFNb2RXZmJkMGQ0Wkx6eFFidWR6a3Q1WUJmVlNwUHdKVF90ZHcwNWMyY1hjcWNIWS0weElaRmxDNkREeFp4YTQxa2g1VlA0ZUxNR19IZnRDcG1yT0VUQzAtNFVqTmRRa2JYTzdzSjcxd2pCYmg0bkxUOWEteG5sa0NMcjdacHdmMDJrUF9QRGJHMkQtVXBXMXc?oc=5",
+   "veiculo": "Metrópoles",
+   "trecho": "",
+   "data": "2026-11-14T16:51-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o governo busca agilidade na tramitação das últimas pautas relacionadas à tributação. A movimentação indica pressa do Poder Executivo na conclusão dos debates legislativos sobre a matéria.",
+   "pratica": "Profissionais e empresas devem monitorar de perto as movimentações legislativas para antecipar eventuais mudanças nas regras tributárias em discussão.",
+   "termos": [
+    {
+     "termo": "pautas da tributária",
+     "explicacao": "Projetos de lei e matérias legislativas relacionados ao sistema de tributos que estão em discussão no Congresso."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ad31eb7b20143f33",
+   "titulo": "Receita Federal perdoa dívidas de MEIs vencidas; entenda as regras",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcngxbk04OGx3eS1fenk2Wm9KZWg3QWFTWXpqQUpfd3BBeUpudnRRdXpNOTBlaXZPdVNoSW81V25jRTBMSWFYdG5HTFJ1WVVXS1BWVUcyUkU0MU5WSHhWY2NWZmwzeHBTR2xETU0tYjZRX1kxTFJIWC1HXzBDdWlNR0RCd3ZPUXZiOU9QaXZxWWRNc0tUb1JQbUsxMjJMZk9IZXBLZ2FhM1dlVm1JXzlRTzAwQnlUTHVEZ1llQndZV0xsQdIBwgFBVV95cUxOcngxbk04OGx3eS1fenk2Wm9KZWg3QWFTWXpqQUpfd3BBeUpudnRRdXpNOTBlaXZPdVNoSW81V25jRTBMSWFYdG5HTFJ1WVVXS1BWVUcyUkU0MU5WSHhWY2NWZmwzeHBTR2xETU0tYjZRX1kxTFJIWC1HXzBDdWlNR0RCd3ZPUXZiOU9QaXZxWWRNc0tUb1JQbUsxMjJMZk9IZXBLZ2FhM1dlVm1JXzlRTzAwQnlUTHVEZ1llQndZV0xsQQ?oc=5",
+   "veiculo": "Jornal da Paraíba",
+   "trecho": "",
+   "data": "2026-11-14T16:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal concedeu o perdão de dívidas vencidas para Microempreendedores Individuais (MEIs). A notícia destaca a necessidade de entender as regras específicas estabelecidas para essa modalidade de regularização.",
+   "pratica": "Na prática, a medida pode representar a extinção de débitos fiscais para os MEIs contemplados, exigindo que advogados, contadores e os próprios contribuintes verifiquem quais débitos foram abrangidos e quais os requisitos para o perdão.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3377686c5699b99e",
+   "titulo": "Setor produtivo reforça pedido de adiamento para implementação da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVNqc3ZRN0stOHZJRHBPNkxzQ1A1Z211UEk4NjhPRk9VT0VJejlQZTQ2cTdmcmlZNlJ3MUdydF93WDRjVmg4MHdXTFNxLXhZQUVWYzJoYkxvY1BIa01LV0tvbkR3THNvTEI5VmZEaFpyMlBNbElFa29BVlZ4d3FCR0VaVzhETWViQldnMF94YjFwd0pfQjF2aGlzVjdIbDZTdEJqbWo1bVVfemhVYUs5akI1R0V2cFc5RVVOOW9jSkFjb0pQMXNNYVJzcw?oc=5",
+   "veiculo": "Capital News",
+   "trecho": "",
+   "data": "2026-11-14T16:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o setor produtivo reforçou o pedido de adiamento para a implementação da reforma tributária. A discussão envolve o ritmo de transição e o cronograma previsto para as novas regras fiscais.",
+   "pratica": "Na prática, a movimentação indica que empresas e profissionais devem acompanhar eventuais propostas de alteração no cronograma de transição das novas exações.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bcbeae4ac7fae36c",
+   "titulo": "Reforma tributária ameaça margens de lucro e preocupa frigoríficos de MT",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjhXZ1ZkUVVNU2xncUpCbmVZR1ZubE9XTFM1YUpmU01JMmVyWkN6Z2x4RnAyd2ZkXzc5V3Jpell5TzZpMXBoRXNobTBNdVdwWHV5WXViTzZoTWxCV3J2X2FnNl9YdEpCLWtiVW8yc1BCQmdYRnA4clNRTEM0bkdYZFc5Zkx5eVRqXzcxb0pva0JGWVA3dUpwTzl2cw?oc=5",
+   "veiculo": "JBNEWS",
+   "trecho": "",
+   "data": "2026-11-14T15:51-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a reforma tributária gera preocupação entre os frigoríficos do estado de Mato Grosso. A notícia aponta que as novas regras trazidas pela reforma ameaçam as margens de lucro do setor.",
+   "pratica": "Na prática, empresas do setor frigorífico mato-grossense precisam redobrar a atenção e revisar o planejamento estratégico para mitigar os impactos financeiros previstos.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no país."
+    },
+    {
+     "termo": "Margens de lucro",
+     "explicacao": "Percentual de ganho que sobra sobre a receita após a dedução de todos os custos e despesas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d1e36afa628a0dee",
+   "titulo": "Fim da idade mínima na aposentadoria especial: entenda a decisão do STF e quem pode pedir - TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFRrWVRYc1lhNHVsTS1NUEE5ZDBwZF9jNE9sX2FaQWZNRVhLR0g1c1phdk82VzZZQW42b19ZM0NpWXlscWtVUFJ3dElZM1dOd0xkMzFPb1JuQmlWWmhya3VTWlUwRm9PMklzR1dTSW51VG9SX2M3enItdTBCWktRcGdzY2l4RTF6OVMzdG5BSXVRQ0Z2NDRqMUIwWjI5T0ZuWkpjOEVKVlluc1hLak92SXo1cldpMVMySFJLUlU2dVp2YUd6dHRwTVZGcUVFeXhUdGFraEpsMW5qUdIB5AFBVV95cUxONFZ1RjlZSGZjaXpuNHJDVEVwVVVkcHUzYzRobU44cTA4QkRkSUk2QXI2TS1mSm9EVjg4dThYQ3VOQXptV1RSZVdZLU9mYUQ4OG9jWW91eEFITjVWYktoRFladEpsTWMwR2o1cmxZQ2tHNnJFcE1lbWdRZlBWc3pFSl9JU3dUcnVnTC1xNTBfLUFTQ0hYcXR1OTdTVGg0WThCX3Z2dmttZjBGUkFRSF84WHA2cjNpM0ZFWHE3N2RIX3o2aGFERFo2YlJBNjJ5QXM0OGw2eHFMM1o3RkRRN1VUb2VGc0Y?oc=5",
+   "veiculo": "TNOnline",
+   "trecho": "",
+   "data": "2026-11-14T13:33-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal proferiu decisão relacionada ao fim da idade mínima na aposentadoria especial. A medida impacta regras previdenciárias que repercutem diretamente no financiamento e no recolhimento de contribuições ao sistema.",
+   "pratica": "Na prática, profissionais e empresas devem acompanhar os critérios da nova decisão para orientar segurados quanto aos requisitos de concessão do benefício e reflexos previdenciários.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores expuestos a agentes nocivos à saúde."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "62d9332fd97fb15b",
+   "titulo": "STJ reconhece mandado da Andav sobre PIS-Cofins",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWVXYlNYaGxEd3psQlR5NGZ6TkV2NGZRTURfSW5wM2pNVUtBZDB0QmlPckFEYWZFcGxxX08zUGpXeGZrQkw1WFZwSjl4Z2M5X3BWV2FpS1ItM09HeVdkcm5TdG1CcDdDUjhvY0ZET3JVdVVzTFBGSjNIRVFxdTRvUkNzYnVrMnFLZFh1Y3hiVGRTN0lUanQwYW5BM3V0UlU?oc=5",
+   "veiculo": "AgroRevenda",
+   "trecho": "",
+   "data": "2026-11-14T13:04-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça reconheceu o mandado da Andav (Associação Nacional dos Distribuidores de Insumos Agrícolas e Pecuários) em matéria relacionada ao PIS-Cofins. Como não há texto detalhado, tratamos a informação com prudência, destacando apenas o reconhecimento da legitimidade ou da demanda da entidade pela Corte.",
+   "pratica": "Na prática, a decisão abre caminho para que a discussão capitaneada pela entidade avance no Judiciário, podendo beneficiar os contribuintes do setor representado caso haja êxito definitivo.",
+   "termos": [
+    {
+     "termo": "PIS-Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Mandado",
+     "explicacao": "Ordem ou ação judicial movida para resguardar direitos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3746820c5c3dad19",
+   "titulo": "STF derruba idade mínima da aposentadoria especial; veja quem pode se aposentar com 15 anos de trabalho",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOHpRX0MxYkQ5Qmt0WXBOVmpFZW1sR2cyYjRuZk0zTk1pVWdyckw0TF93c1FXMGRjZUg3NlpZRmlJZnR5OWFXRk02b2ZUXzE0VUlhSTlObXdpdlBJVXlDRFJsU1pnVmtHR3JCTjBUbWl6WjlYUFFMTHdiblhYVnJlMXd2UlVseW5ncHpfQnUzUkV2ZVFyaWVldnVLLUc4U2tKbnFNbjBadTJhNTlpQ043OHM0d09ZT3JDTHJJLWRwcmpMSktmTXJqOHVLOFZGMWVkR1pGSDc2UFBBclHSAeABQVVfeXFMTW9CTmRxSUppc2txLVpwTU9La0NyeDRpQUZiN05nRHJlZEk3blNTU2VldUlxYzRkVHNzbVBYR2R4R2VKZU1kSWtSbVJ5dXktOERJUDdtODA4aHJQSi14Uzd0bHppNzBpUWdTVy1SVFFlWkxBNmEyaXo4VkFnNFJCMjU0bkJfV2Vidmc3SktuU0dXdldLVGJkWHB0ZHNDNVZOUTQwMUJhVk1PTVF3ZDRjbWlVMDRUSWhpbzBBdXFlcGdlcUd2Y3pxdVBNMC1iSnN4aXRtU3lDN0I3ZTg0ZHM5eHA?oc=5",
+   "veiculo": "GMC Online",
+   "trecho": "",
+   "data": "2026-11-14T12:08-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal derrubou a exigência de idade mínima para a concessão da aposentadoria especial. A decisão repercute diretamente nas regras aplicáveis a trabalhadores que exercem atividades de risco ou insalubres.",
+   "pratica": "A medida impacta a dinâmica das contribuições previdenciárias e o custeio patronal da seguridade social, além de alterar os requisitos para o acesso ao benefício.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores expostos a agentes nocivos à saúde ou integridade física."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "eee928d6af0ac52b",
+   "titulo": "Pedágios podem ficar até 5% mais caros em 2027 por causa da reforma tributária; entenda",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDlNalE0LUl6NHV2Z2p2Q1FabGN0MzBtTU0xaGNkdndTUXF2cmFJRE9hU1NTTWJ6ZlZBUjBYa2NBTElFZnFPWGhZX3dzMEF6ZEktTVdLMzg2Z3I1YmR3SlpzamxNem0teldIQ3ctbHFMOW5uUjI5X1h1eHpJNjBhdF9ZdXlNRVVYOVhWczRod1doRk9qVk9lZDlnaDZzLWU2aFlpQU5leFEyd0Z0dllTZjlodXZ2WmE4RWNpNQ?oc=5",
+   "veiculo": "Agência GBC",
+   "trecho": "",
+   "data": "2026-11-14T12:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Agência GBC, os pedágios podem ficar até 5% mais caros em 2027 devido aos impactos da reforma tributária. A notícia aborda a expectativa de alteração nos custos do setor com a implementação do novo sistema de tributação.",
+   "pratica": "Na prática, concessionárias e usuários de rodovias devem se atentar para potenciais reajustes nos preços das tarifas a partir de 2027.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Mudança estrutural na cobrança de impostos no país."
+    },
+    {
+     "termo": "pedágio",
+     "explicacao": "Taxa cobrada pela utilização de rodovias."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1f10fb2310f850a3",
+   "titulo": "Bancada do PT na Câmara propõe imposto sobre grandes fortunas",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBVV1RCa01hSDFBRmw1TUZlWEJyX1czbzhiZG5DMFpnNFp2UE4tcThYeXJ4TkU1YUhKaVZLYm9QTVc4ZVNuRG5idElHdHQtLWUyV2tKSmxJMHhxMjk0aWhOMXg2b29jOHBqUEU4WEFHa3RrVXRIVERKREFuOHN3bUVqRzNpY0VSc2lnYmMxdHNOV2NKQ1JKUThfeEQ1M05sZ05UVEJsWEtZWXgy0gGyAUFVX3lxTFBlaHhiaHBjX1pmVlpLQXBlYnl1VWRldGIwV1RXYXBuTXdlX0JfZzdyMU9lbFhiMGpyUHJTQzFhNEYzMmFsTUdoSnJQQzlEdkpzLTBQb0daT0hHUVYyQVJWVnNFY1lSRTlkOG5jOHZRZTJnV2pRUk5CQl9rLVN3c0N6bnhJdktEelloUFVWWGRxRGtmaG8wRUxwenYtdDMzWGUwNFh6aFVydmFSeEhwa2JxUVE?oc=5",
+   "veiculo": "Diário de São Paulo",
+   "trecho": "",
+   "data": "2026-11-14T10:57-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a bancada do PT na Câmara apresentou uma proposta para instituir o imposto sobre grandes fortunas. Trata-se de um debate legislativo sobre a criação de um novo tributo previsto na Constituição Federal, mas ainda não regulamentado.",
+   "pratica": "Na prática, a iniciativa ainda está em fase de proposta política e debate legislativo, não gerando alterações imediatas para o planejamento tributário de contribuintes ou empresas.",
+   "termos": [
+    {
+     "termo": "Imposto sobre grandes fortunas",
+     "explicacao": "Tributo previsto na Constituição Federal que incide sobre o patrimônio de pessoas físicas de elevado valor, dependendo de lei complementar para ser criado."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "23948554f2cc9a54",
+   "titulo": "Reforma tributária muda cobrança de impostos sobre aluguéis a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeU1taGQyQlNGNW9JcTVrU0ZnX2lFdTBscjBJV1RPUFAtWUZ0VUhYdVZVVGx3MlBEWnhmUjE2THBoQmY0TlpmOUJOa1BNR0tNbUtSaGhzanZVSmpyRjZPVE5nQV9peWZ4cWhxaEdQWE10WDlKOXRReGpJVzIzdkFodnV1YWN4bEhjV05IOXB4aGtfdTNhXzN0UUZCZ2dxTFNxTHFROElGcXBYRUxqXzdDVg?oc=5",
+   "veiculo": "Portal 6",
+   "trecho": "",
+   "data": "2026-11-14T10:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária trará mudanças na cobrança de impostos sobre aluguéis. A nova forma de tributação tem previsão de início a partir de 2027.",
+   "pratica": "Na prática, advogados, contadores e proprietários devem se preparar para novas regras na apuração e recolhimento de tributos sobre locações imobiliárias a partir do ano indicado.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "18895a68db7e1c6e",
+   "titulo": "MEI terá perdão automático de dívidas previdenciárias em 2027",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjJsT2tkUTNYb0kwQjE0Q0p5NThscC1GNW16R2hFRlBPX1JMMFdlZlVGcFpLQ2FTclJQdEotUHpnb0dOVzNfeWJ0YnFzTG91ZVFlRUF3MEZHbXhPUy1qZW5iV1QtV2FrTlNiTk1KU0lpUlhZUjhuc2kzZTF2MDVrVDlhR3NmU0dITzI4SlBQMA?oc=5",
+   "veiculo": "F5 Online",
+   "trecho": "",
+   "data": "2026-11-14T09:44-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Microempreendedor Individual (MEI) terá perdão automático de dívidas previdenciárias em 2027. A notícia indica uma futura medida de remissão de débitos voltada a esse grupo de contribuintes.",
+   "pratica": "Na prática, a medida poderá representar a extinção de obrigações tributárias pendentes para os microempreendedores no ano mencionado, exigindo acompanhamento por parte dos profissionais que os atendem.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos negócios."
+    },
+    {
+     "termo": "dívidas previdenciárias",
+     "explicacao": "Débitos relativos a contribuições destinadas à Seguridade Social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "22ae0150a9ce520a",
+   "titulo": "MEIs terão perdão automático de dívidas previdenciárias a partir de janeiro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3d6dVNfVHJHa2xJSkN6V3V0THZhbnIyX3RRaFNMNEZpSld5eFhWX2NOWXdqejh3emwtNVoza1V2WFplUG5IbF9semlueGR5cHE2QWZEaTVBNXFDRkY5VXV0SHlES1pfTFBmeHpCV1ltY2xwSkd5ODJZR01MSTlzaTBUMDZoNlc1dzhsTjFnVVhFTU1VNVFYWGd2djYxekRlak9ZUGJjNWZjRXVnYmhYSmhVQWl5elZ0eG42ZEd5M2oxUQ?oc=5",
+   "veiculo": "RoyNews",
+   "trecho": "",
+   "data": "2026-11-14T09:36-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "",
+   "resumo": "Segundo a manchete, os Microempreendedores Individuais (MEIs) contarão com o perdão automático de suas dívidas previdenciárias a partir de janeiro de 2027. A medida impacta diretamente a regularidade fiscal dessa categoria de contribuintes.",
+   "pratica": "Na prática, profissionais e contadores devem monitorar a implementação da medida para verificar quais débitos serão extintos e como isso afetará a situação cadastral dos MEIs.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores."
+    },
+    {
+     "termo": "Dívidas previdenciárias",
+     "explicacao": "Débitos referentes às contribuições sociais destinadas à Seguridade Social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8deb0b7a8885cac0",
+   "titulo": "Perdão das dívidas do MEI: quem tem direito e a condição",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zMnUwOTF0UFVqTUxPZUNrRExyc3FkemFXa3JnMGljQkJzdWVyUFZPamVCcTJNQWRwQlpCblVOanFtTElSYWwzVldkOTlWUWNwdllsbEd6ckpDRVdYY0s4OEpHVmhsaUR2SjhCRW5qNA?oc=5",
+   "veiculo": "www.zigg.com.br",
+   "trecho": "",
+   "data": "2026-11-14T09:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, veiculada em novembro de 2026, debate-se o perdão das dívidas do MEI, especificando quem tem direito a esse benefício e qual é a condição exigida. Como o trecho original não foi fornecido, restam pendentes os detalhes normativos exatos da medida noticiada.",
+   "pratica": "Profissionais e contadores devem aguardar a confirmação oficial e os detalhes legais da medida para orientar os microempreendedores individuais sobre eventuais requisitos de regularização.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual sujeito a regime tributário simplificado."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e7747ba310721492",
+   "titulo": "Dívidas do MEI serão perdoadas automaticamente: veja 10 perguntas e respostas sobre a medida",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORndVbFpaT181Wl9vcWZad29pU2J5NFMwUDdURFFFdkpNeE9vcjYweGxrVFFmSm8wZ1J3LURWUXY3LW02aHdfYlZtdk11WHBoa0tLdlBQbXRod0NNZS0tUjVkTjdJd1U4Mi1KQWFMa3hBSm94cGVvUG9rUi1SMFNTMTV6V1FpMjZGeGxvc2prNmZveTR3NmpyYXk5TnZjYWk3S3NOU1RxdW1vR0trZzJXU3J0R0J6S3U5QVdyS9IBvAFBVV95cUxORndVbFpaT181Wl9vcWZad29pU2J5NFMwUDdURFFFdkpNeE9vcjYweGxrVFFmSm8wZ1J3LURWUXY3LW02aHdfYlZtdk11WHBoa0tLdlBQbXRod0NNZS0tUjVkTjdJd1U4Mi1KQWFMa3hBSm94cGVvUG9rUi1SMFNTMTV6V1FpMjZGeGxvc2prNmZveTR3NmpyYXk5TnZjYWk3S3NOU1RxdW1vR0trZzJXU3J0R0J6S3U5QVdySw?oc=5",
+   "veiculo": "G1",
+   "trecho": "",
+   "data": "2026-11-14T09:16-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, há previsões sobre o perdão automático de dívidas do MEI, detalhado por meio de perguntas e respostas. A medida aborda a extinção de débitos tributários e previdenciários específicos desse regime simplificado.",
+   "pratica": "Na prática, a medida pode representar a extinção de débitos antigos para microempreendedores individuais, exigindo acompanhamento por advogados e contadores para verificar quais valores serão efetivamente perdoados.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado brasileiro."
+    },
+    {
+     "termo": "Dívidas",
+     "explicacao": "Débitos fiscais ou previdenciários pendentes de pagamento."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "74d14621b09d76a6",
+   "titulo": "NFS-e: adesão municipal e preenchimento de IBS e CBS",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQklFS1J0Sld2TC1abVBiaElEVGxzNFlybmhwLXhURTFqbTY2M1RhN21vaVRnNWgtSGNkeUVwN0RaSFFCMEpMMFREcGNqOEktUTktSjl0QnNPYjhTU3dqX3RoSFBQMExLVWwxdWxlNF9BSUJJWGtQMVVWbXZsTzJSQXc5b3lJYlR0TDU4WWRVSTkzRnQ0Z09ERnU4Zlk?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-14T09:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o tema em pauta envolve a adesão municipal à NFS-e e o preenchimento do IBS e da CBS. A discussão aborda aspectos operacionais relevantes para a transição do novo modelo tributário.",
+   "pratica": "Na prática, profissionais e empresas devem acompanhar a regulamentação municipal e as orientações para o correto preenchimento dos novos tributos nas notas fiscais de serviços.",
+   "termos": [
+    {
+     "termo": "NFS-e",
+     "explicacao": "Nota Fiscal de Serviços Eletrônica utilizada para registrar prestações de serviços."
+    },
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para unificar tributos federais sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f44c762a03f7fcbe",
+   "titulo": "Receita cancelará dívidas de MEIs vencidas até esta sexta-feira -",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeG96cUJTVDM0a3RtT05ILW01SFdsTXRzRHhETHJ1dGgxbWZYRE8xdW5qYnBJMWhrQUoxR0ZrTDhneU81em9pWTZKSlc3NmhKX2lSWkdWYjJlbVNfY2hrT2tvRHBmRVhWMEd0emF5YUc1OFh0Y25qQ0ZMUDE5Vl9NMWhTdk83ZDY0clZmSjg4VkVuS1pH?oc=5",
+   "veiculo": "Portal Diário do RN",
+   "trecho": "",
+   "data": "2026-11-14T08:49-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete do Portal Diário do RN, a Receita Federal realizará o cancelamento de dívidas de Microempreendedores Individuais (MEIs) que tenham vencimento até esta sexta-feira. Trata-se de uma medida voltada para a regularização e o alívio fiscal desse grupo de contribuintes. A notícia destaca a atuação do Fisco na gestão de débitos de menor monta.",
+   "pratica": "Na prática, a medida pode extinguir obrigações pendentes de MEIs, exigindo que contadores e advogados verifiquem a situação fiscal de seus clientes para confirmar quais débitos foram efetivamente cancelados.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos negócios."
+    },
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do Ministério da Fazenda responsável pela administração dos tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fdcade781090afd9",
+   "titulo": "\"Questões Tributárias Atuais na Indústria de Óleo e Gás - Impactos da Reforma Tributária\"",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTc0LTROZDgxc185LTE1V2NoQU10SXVnbGZyUGpoTHpjYWNHMUozSGFBd1pyMmFZT1pEelVJY3g3Ui1qa2tZSmJQUFU0OVpGQUVkQVN0SWhzZWlvbHQzTEZtZ1NCb1MySHJ6bWJCbE5OQ0toOWdMV040am1GR3NGYTN5TC1RV2I1d3l5cTNiZDRIV0FIMllWVzd4NDdobkJBODZkcDdEcVpmUQ?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-14T08:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do portal Migalhas, foram discutidas questões tributárias atuais aplicadas à indústria de óleo e gás. O debate abordou diretamente os reflexos e impactos trazidos pela Reforma Tributária nesse setor específico.",
+   "pratica": "Na prática, profissionais e empresas do setor petrolífero devem monitorar os desdobramentos da reforma para antecipar mudanças na carga tributária e adaptar suas estratégias de conformidade.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais que alteram a estrutura de cobrança de impostos no Brasil."
+    },
+    {
+     "termo": "Indústria de Óleo e Gás",
+     "explicacao": "Setor econômico voltado à exploração, refino e comercialização de petróleo e gás natural, sujeito a regras fiscais complexas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "76f6a14338707d94",
    "titulo": "Receita Federal confirma dispensa de notas fiscais para contribuições associativas",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTERpdlNhMzZIRFNMb1dST3dISV9ZSDdUTG0tck9oWkJYVHNtOHdINzBiRVJFTl9VUFJjMWg3R3pNN0FLNlZ1ZDhSMkM5bVpsZnRsMWh4cGJBTnhsaXRoVWhKbHdOYzR1bldKMll2YlRVYVU3ckh0bll0bGl1SmJmOU5GY0E2dVBtNngyREl6T3pZZGt6TGJfQ0lEMGEwcE1LMGJOOWJid2duY3F0QnhZdWNFM3habkXSAbwBQVVfeXFMTzNKSFFmN3dDczZNVDl6N1NPMFlNOHprWWlJQ1JuNTRrbDhYZXdWVU85TWFXelVLdVB1Y2tEVjZ0NE5aN3RlVDBCVzl0M1NFN0dDQ2tqMi1HRmQ0LW5vRm4xQTNOVE9hX0FGMHBNMUZRTVFuZHlUV1o4OTUyNXg5NGw1dVZGV0RmYk1wdHZaUXVQc1ZBNjl2VTI3T2dOQ3lrN1I5dy1ZNTNtSmJOZURxSC1oWWVzbXZzS0xPMzA?oc=5",
@@ -15423,7 +15933,8 @@
   "2026-11-11": "Nesta edição, destacam-se os debates em torno da reforma tributária, cujo cronograma de entrada em vigor em 2027 foi mantido pelos deputados, apesar da pressão empresarial por adiamento e das pendências que geram preocupação no ambiente corporativo. Entre as discussões, destaca-se a possibilidade de cortar isenções e benefícios fiscais caso a alíquota do novo IVA ultrapasse o patamar de 26,5%, visando conter a carga tributária. Além disso, a reforma trará mudanças relevantes na cobrança de impostos sobre aluguéis, exigindo atenção às novas regras e operionalizações a partir de 2027. No âmbito dos julgamentos, o STF decidiu que o ICMS não incide sobre a subvenção da tarifa de energia elétrica para consumidores de baixa renda, afetando a base de cálculo do imposto estadual.",
   "2026-11-12": "Nesta edição, destacam-se importantes movimentações na jurisprudência fiscal e nos debates sobre a implementação do novo sistema tributário. O Superior Tribunal de Justiça excluiu os descontos e as bonificações concedidos por fornecedores a varejistas da base de cálculo do PIS e da Cofins, afetando a apuração dessas contribuições federais. Além disso, a Fazenda Nacional reconheceu a dedutibilidade no Imposto de Renda das contribuições extraordinárias destinadas à previdência complementar. No âmbito da regulamentação administrativa, a Fazenda reinstituiu o comitê responsável por selecionar e avaliar os conselheiros do CARF e distribuiu as vagas de conselheiros dos contribuintes entre confederações e centrais sindicais, enquanto o avanço das discussões sobre a Reforma Tributária segue mobilizando o cenário nacional.",
   "2026-11-13": "Nesta edição, destacam-se as discussões e propostas em torno da Reforma Tributária, com a Receita Federal propondo o adiamento da CBS e a flexibilização na transição tributária para 2027, além de debates legislativos sobre a sua regulamentação e o impacto nos preços. No âmbito judicial, o STJ negou créditos de PIS e Cofins sobre pagamentos a trabalhadores portuários avulsos e abriu caminho para a recuperação de impostos em meio à queda do varejo. Esses temas importam porque afetam diretamente o planejamento das empresas, o cronograma de implementação dos novos tributos e a recuperação de créditos fiscais.",
-  "2026-11-14": "O boletim de hoje destaca importantes desdobramentos sobre a Reforma Tributária, que traz mudanças significativas no setor produtivo rural, debates sobre a CBS e reflexos na precificação de serviços, exigindo ampla adaptação estratégica das empresas. No âmbito do contencioso, o STJ resolveu que descontos ao varejista não compõem a base de cálculo de PIS e Cofins, enquanto o CARF reconheceu o direito a créditos dessas mesmas contribuições sobre higienização de uniformes e EPIs. Além disso, a Receita Federal perdoou dívidas previdenciárias de microempreendedores, promovendo a anistia de débitos para a categoria."
+  "2026-11-14": "O boletim de hoje destaca importantes desdobramentos sobre a Reforma Tributária, que traz mudanças significativas no setor produtivo rural, debates sobre a CBS e reflexos na precificação de serviços, exigindo ampla adaptação estratégica das empresas. No âmbito do contencioso, o STJ resolveu que descontos ao varejista não compõem a base de cálculo de PIS e Cofins, enquanto o CARF reconheceu o direito a créditos dessas mesmas contribuições sobre higienização de uniformes e EPIs. Além disso, a Receita Federal perdoou dívidas previdenciárias de microempreendedores, promovendo a anistia de débitos para a categoria.",
+  "2026-11-15": "No boletim de hoje, destacam-se três importantes movimentações no cenário jurídico-tributário. Primeiramente, o Supremo Tribunal Federal derrubou a exigência de idade mínima na aposentadoria especial, decisão que repercute diretamente nas regras aplicáveis a trabalhadores em atividades de risco ou insalubres e impacta o financiamento e o recolhimento de contribuições previdenciárias. No âmbito do Superior Tribunal de Justiça, determinou-se a suspensão de ações judiciais que discutem o encerramento antecipado de benefícios fiscais do Programa Emergencial de Retomada do Setor de Eventos (Perse), afetando o andamento processual nas instâncias inferiores. Por fim, o Poder Executivo intensificou as articulações para concluir a tramitação das últimas pautas e propostas da reforma tributária, enquanto o setor produtivo debate os reflexos das novas regras."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -15798,9 +16309,20 @@
   "Cosit": "Coordenação-Geral de Tributação da Receita Federal responsável por padronizar a interpretação da legislação tributária.",
   "seguro-garantia": "Modalidade de seguro utilizada para garantir o cumprimento de obrigações, inclusive fiscais.",
   "Cadin": "Cadastro Informativo dos créditos não quitados de órgãos e entidades federais.",
-  "CNPJ": "Cadastro Nacional da Pessoa Jurídica utilizado para identificar empresas e contribuintes perante o Fisco."
+  "CNPJ": "Cadastro Nacional da Pessoa Jurídica utilizado para identificar empresas e contribuintes perante o Fisco.",
+  "Taxas da Suframa": "Valores cobrados pela Superintendência da Zona Franca de Manaus no exercício de suas atribuições legais.",
+  "STJ": "Órgão máximo do Poder Judiciário brasileiro para a uniformização da interpretação de leis federais.",
+  "Pix": "Meio de pagamento eletrônico instantâneo brasileiro que também serve de base para cruzamento de dados fiscais.",
+  "pautas da tributária": "Projetos de lei e matérias legislativas relacionados ao sistema de tributos que estão em discussão no Congresso.",
+  "Margens de lucro": "Percentual de ganho que sobra sobre a receita após a dedução de todos os custos e despesas.",
+  "PIS-Cofins": "Contribuições federais incidentes sobre a receita ou faturamento das empresas.",
+  "Mandado": "Ordem ou ação judicial movida para resguardar direitos.",
+  "pedágio": "Taxa cobrada pela utilização de rodovias.",
+  "Imposto sobre grandes fortunas": "Tributo previsto na Constituição Federal que incide sobre o patrimônio de pessoas físicas de elevado valor, dependendo de lei complementar para ser criado.",
+  "dívidas previdenciárias": "Débitos relativos a contribuições destinadas à Seguridade Social.",
+  "Indústria de Óleo e Gás": "Setor econômico voltado à exploração, refino e comercialização de petróleo e gás natural, sujeito a regras fiscais complexas."
  },
- "atualizado_em": "2026-11-14T06:46-03:00",
+ "atualizado_em": "2026-11-15T06:36-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
