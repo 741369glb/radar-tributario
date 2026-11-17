@@ -1,6 +1,758 @@
 {
  "itens": [
   {
+   "id": "abb05f6d368cab32",
+   "titulo": "ICMS sobre gasolina, diesel e gás de cozinha terá aumento em 2027",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVhDaUoyNlBoOG1TOWFyOF80eEZpWlFxSkRVTGpHdnlKUmo1V2RKaEp2c1dKekcxbmYyRFRNQ2Y3em1lUFEtcnYxYlFxLXBlaWlNRjRadlA3emlSLUFQZUhVUlpfajR3TU81ZkR2OWtNZkN4ZlltSEIzMW9uSENSLW5sRW5oajk1a2QzWk83dFlLaXFjZ0tqS2tkbHF0Y2I5QWRKSw?oc=5",
+   "veiculo": "Blog do Anthony Medeiros",
+   "trecho": "",
+   "data": "2026-11-17T06:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Blog do Anthony Medeiros de novembro de 2026, haverá um aumento na cobrança de ICMS incidente sobre gasolina, diesel e gás de cozinha a partir do ano de 2027. A publicação indica uma futura majoração da carga tributária estadual sobre esses combustíveis e o gás de uso doméstico.",
+   "pratica": "Na prática, a medida exigirá que distribuidoras, postos de combustíveis e revendedores recalculem custos e preços finais ao consumidor, além de demandar planejamento financeiro prévio pelas empresas do setor.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4a875e4b6808bca0",
+   "titulo": "ICMS de 19% em MS poupa cesta básica; veja o que muda",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHVKY0JHY1ZaZ05QMnAtVF9QTDhoY0RLMHNaUmpHclZQUHRCUDczc3lUSjZrS1Jmc0o2R3dsdi1OOHRSWHo4R0E3ZFA3eTQ4RDdoZ0I1ZlpvN1d0OTJtdGFUeW5reV91NHZ1dUFIYXZrVXpTTjctcGhIeGpsX3lEeV9aMHNkd2thcUItaTBPQUNPZTczU3NxMU5BYnhLOGMwQTB2Q0pR0gGmAUFVX3lxTE1NTC1HemJaczZZam1pU1VlbWkzNW1qcUNYRlRoM0w4bEN5WWZPMVZHbUUxZWZBdlRwRWVMdnpqQkdVTEUxd3ZkZ2MwaC11QlhxN21za1I2dHdUNXczaGVVRGU5bGhvRnBSWU9XSXktYXQ5Y3pqYl93ZGlPVl96NTFrRDVVSGFTRWpoUDQ1WTNvRXdteU03QTFhaWFESUlsYTNwaEJnWFE?oc=5",
+   "veiculo": "Campo Grande News",
+   "trecho": "",
+   "data": "2026-11-17T06:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o estado de Mato Grosso do Sul estabeleceu uma alíquota de ICMS de 19% com a preservação da tributação da cesta básica. A medida altera o cenário de incidência do imposto estadual no âmbito local.",
+   "pratica": "Na prática, empresas e contribuintes devem atentar para a nova alíquota de 19% e a manutenção das regras diferenciadas para os produtos da cesta básica ao apurarem o imposto.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação."
+    },
+    {
+     "termo": "Cesta básica",
+     "explicacao": "Conjunto de produtos essenciais que frequentemente recebem tratamento tributário diferenciado ou isenção."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7cd302c32cd69a6b",
+   "titulo": "Jéssica Sant'Ana: Senado avalia três alternativas para reduzir alíquota de 11,3% da CBS",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0VYQURLUVo5SEhDRnN4eDV1V200ODJyQ3A0U1pyd185ZHpuQ0NYQnVwMmNBUUFJelhtQ2IzQmlpdXVrQWc4cEJFTVN3TXZabDBnOVJIU00yUjREY2FZdUVDUHktM3NNSDNNVFhuU2RlcVFVRG0xekdCMW1iaTA0cXF6VWlQS1F3ak1LX0ZSeW1JcjlzODdhSGlHeTcyR2l5aEw4OGYtdVhQRS1KRjNLT1lnQW01V093OG9CNHhfY2FCaHF2UWFHbGpBZ3FxcnRm?oc=5",
+   "veiculo": "UOL Economia",
+   "trecho": "",
+   "data": "2026-11-17T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Senado está avaliando três alternativas com o objetivo de reduzir a alíquota de 11,3% da CBS. A discussão ocorre no âmbito legislativo e busca mitigar o impacto dessa carga tributária.",
+   "pratica": "Na prática, a definição de uma alíquota menor para a CBS poderá alterar o planejamento financeiro e a carga tributária das empresas impactadas por essa exação.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal previsto na Reforma Tributária."
+    },
+    {
+     "termo": "Alíquota",
+     "explicacao": "Percentual aplicado sobre a base de cálculo para apurar o valor do tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cd7b7a1a3b44cc97",
+   "titulo": "STF nega repercussão geral sobre compensação de tributos e contribuintes vencem a disputa",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTWlyMlpkeDhhbHVxbDN4N2RqTzRlRU01RFYxVEFmSXptb21sWFJlbkkybjBrb1VSOFdYd3FQSlJDY1J3c1pIYTVGRlU0OGZzRWZYYWJ2VHlVdy00R09MeUNvRndUMThkdzRkU2xIdmVjbHFENDBqWHoyNlZIVGhjZEVfLU55ckxObWhiSmZmY2w3UkZteHJlNzF3X0MxaHk5YjNDZjI3U2VMdTFtWC1nZ3BIZ25RemRQaFVSbHY4VzV2dC1ZWVBSTVlXMWY2LTU3OHNyUHdOa1h2WXBocVVkMXR3a9IB8gFBVV95cUxPSEhVVVRTMk83UWtrM0w1dERwWlZyT045RHp1YnE3X0JIbVZsNHRrVVFtNkZERG93LW92ZTZYX1BNV3pVX0RvMS1Rb3kzR2tYQmdTdUEyckxuZFc3UEdlc3VBNEFiSGhHVzYycTBIdjcwU04wOGhXV09La3Z5ejdreHFRT1BObjZnNUFROFhqV3ZCSTJZQ1Rfbnp0ZFhFVjdMOUJiVDM2b3M1TWgzTHFZMkhqV3RpY1JRRlJwdlNjb3gxRWNJWDdIS3hqc3NwU3RZcTJ1MHRZVnBvZWh5NzNERExhemJTYVUxTVFNY2lxQjRwZw?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-17T05:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal negou repercussão geral em uma discussão envolvendo a compensação de tributos. Com essa decisão relatada no título, os contribuintes acabaram vencendo a disputa.",
+   "pratica": "Na prática, a negativa de repercussão geral pelo STF indica que a controvérsia sobre a compensação de tributos não terá julgamento de mérito com repercussão geral na Corte, mantendo-se o desfecho favorável aos contribuintes conforme o caso noticiado.",
+   "termos": [
+    {
+     "termo": "Repercussão geral",
+     "explicacao": "Requisito constitucional que exige relevância econômica, política, social ou jurídica para que o STF examine um recurso extraordinário."
+    },
+    {
+     "termo": "Compensação de tributos",
+     "explicacao": "Forma de extinção da obrigação tributária em que o contribuinte utiliza créditos que possui perante o Fisco para quitar débitos de impostos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2ccb1d8a145e4c46",
+   "titulo": "Perdão de dívidas do MEI: veja as regras para 2027",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEY1FPZFQ5LWs2akxEaS16QlpLVVV6MmxxTE5PdU50MTVBTmQ2cTZZZGc3QWdqZlJVc0t0V0RJTHNKSndVXzNDZGJLQ3lVVEc5YzQ0TTcxX2ZlTG9tdHV5c2V1Y0xnR25nVlpYWDJYeXpocDJnZkE?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-17T03:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foram divulgadas as regras referentes a um futuro perdão de dívidas voltado para os Microempreendedores Individuais (MEI) com previsão para o ano de 2027. Como não há texto detalhado disponível, a notícia antecipa diretrizes sobre a regularização fiscal dessa categoria para o período mencionado.",
+   "pratica": "Na prática, a novidade sinaliza para contadores e advogados a necessidade de monitorar futuros atos normativos sobre regularização fiscal do MEI para orientar seus clientes adequadamente.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Sigla para Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores no Brasil."
+    },
+    {
+     "termo": "Perdão de dívidas",
+     "explicacao": "Remissão ou anistia de débitos tributários, extinguindo a obrigação de pagamento perante o Fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2dd06ce2520c1bcb",
+   "titulo": "Prorrogação de benefício fiscal evita alta do ICMS sobre máquinas agrícolas em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZXI2ZEh5YXJkV0Y5TUw1RnpQckxVU1I0V3J0OUdiMTlzQ1NjaTdUdm5KeTRpNGJnQV96ckV3NkQ2MVdvVHlNQzlYYUdBejVMVTl2bDNic2hKMEotM0ZkamVEdmNra3JuYmVvNnJiZVVOM0FmaG9MZDlWOWVwX0F5dTQtSEdJNmRuVnpEX0NNbVJxYUlZSkZvZ0ZDSmlrTmFhN3Y4TXQwaDZQc1BmcHlGSUpqbXNVbnVHUnVhWXdqUHlJUWN1aXdCQnlmV1dSOHotWnJF?oc=5",
+   "veiculo": "Sala da Notícia",
+   "trecho": "",
+   "data": "2026-11-17T02:10-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, houve a prorrogação de um benefício fiscal com o objetivo de evitar o aumento da carga do ICMS incidente sobre máquinas agrícolas no ano de 2027. A medida preserva as condições atuais de tributação para o setor produtivo e a cadeia de comercialização desses equipamentos.",
+   "pratica": "Na prática, a medida traz previsibilidade e evita um aumento de custos para o setor de maquinário agrícola, exigindo atenção de advogados e contadores na manutenção dos créditos e alíquotas vigentes.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "benefício fiscal",
+     "explicacao": "Medida legal que reduz ou elimina o pagamento de um tributo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "66c852fdced7ce9a",
+   "titulo": "Reforma tributária: quem paga a conta da insegurança na transição para 2027?",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSnFqQlB3ZDJvd0s1UkMxNm5LT2FMQm5TQ3ZTUTNqNmdYZjZwdWhEZ0V5RXdxdzRIV2VqbGg0NWZ0eHJSRmtqb0Y4b2FjcnZvekZaeENvSlpfR2JnSVlleC1sUHZrQkZFZU1jQVVhdkg3TUJVclNwaWE1TG1ZbFRlWFFDZVQ1bGw1OS1vYVpnLXJlY1pwUlJrcE92ajdQaTI5THo1aHFBYWV1TTdGTlpfTzhZTl9FTTQyblEtUGd0eWgwRGd0ZGtwejEwSQ?oc=5",
+   "veiculo": "A Tribuna MT",
+   "trecho": "",
+   "data": "2026-11-17T01:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do veículo A Tribuna MT de 17/11/2026, discute-se quem arcará com a conta da insegurança jurídica gerada durante o período de transição para o novo modelo tributário até o ano de 2027. O debate aborda os riscos e os impactos financeiros e operacionais para os contribuintes nessa fase de mudanças estruturais.",
+   "pratica": "Na prática, a indefinição exige que empresas e profissionais redobrem a cautela no planejamento tributário e na gestão de conformidade durante o período de transição.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reformulam o sistema de cobrança de impostos no país."
+    },
+    {
+     "termo": "Transição para 2027",
+     "explicacao": "Período intermediário em que as regras antigas e as novas convivem, gerando potenciais dúvidas jurídicas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8e8c835c2c2b460e",
+   "titulo": "Perdão das dívidas do MEI será automático: não é preciso fazer pedido",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTF9TYzNHTGUxcDdHTXJHYk95ajd5Y2Nkb3E3Mm03VjV2R05PY21iUE5Pc1NwWHQ1LTVfb3N6SmZUSmVFWlBfaWh0cXR4WkhWWW5lN0hVblY5QWdQU2RBdkl2VTFGZnp1b0JmQjBpX052Z20wQ1UzaEZkZFlWQXEwVFg0bmNSVExvdmhoVV9sejVFWWc2Z29WYXdyMXNGZDN5OURN?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-17T00:42-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o perdão das dívidas do MEI será concedido de forma automática, dispensando a necessidade de apresentação de pedido formal pelos contribuintes. A medida impacta diretamente os Microempreendedores Individuais que possuem débitos abrangidos pelo benefício.",
+   "pratica": "Na prática, os profissionais e contadores não precisarão protocolar requerimentos administrativos para obter a anistia dos débitos, pois a desoneração ocorrerá sem intervenção do contribuinte.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores."
+    },
+    {
+     "termo": "Dívidas",
+     "explicacao": "Obrigações pecuniárias em aberto perante o Fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f07f83bda56b2cec",
+   "titulo": "Receita Federal esclarece quando a alocação de profissional contábil caracteriza cessão de mão de obra",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDVXOHJZbmluUlBOQjVXd1JDLVNRNHZiZ0oxME90X25sRDBEVU5iNWUybS16OE5xV04wVklpM0szSk8xTHZVZjhlQWFpazdNWGhwRl9EVHM5REpyZ3NlZTlXYmdXX2ZiYzNKOEtTUUtoMVZjd0JEaDg5RUFyenRSSGFqTUs5cjhmNm9JRkJqNS1HNGFIR0wxZEl5SUZyZU9oc1NReV92OTFRM3Bwc2sxUVJRX2hyWlR0d2hRTzB6Nk9qV2t2MVhGYjJOQnZ3RTN2?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-17T00:12-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal emitiu esclarecimentos a respeito das situações em que a alocação de um profissional contábil configura a cessão de mão de obra. A publicação foi veiculada pelo Sistema FENACON.",
+   "pratica": "Na prática, a orientação auxilia empresas e profissionais da contabilidade a identificarem corretamente os critérios que caracterizam a cessão de mão de obra, impactando obrigações acessórias e o recolhimento de tributos.",
+   "termos": [
+    {
+     "termo": "Cessão de mão de obra",
+     "explicacao": "Colocação de trabalhadores à disposição da empresa contratante para a prestação de serviços contínuos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "55738aa918e43e37",
+   "titulo": "Reforma Tributária: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcWoyVThKd294QkNkMkwxV0lSTkZfVlFFcUM0NUdPbHVZcC1wVFc4Szl2VVVlNDI4N2t3NGhTX0VJQlZrY0ktd1BKR0VINTViZjZhd2xoeF9sWXZLWFIzb2dHOUpVXzB2eVh4MmQ0U3dTY29fN0lnVnMzZXBTWi1xZ2lTMjlyWDhrZW9pWTBKVlpIdFFoUXlWWmo2UWJOSGlsWmVLMERQQ3Z1UkVRb0hCTk10YTBWdTVwTmdmdThWQlNhcmwtVjJwLVRfTWo5NVdpR001eXZmZE5nTlFYXy1CS29Nd2Q4dzJPcFHSAfgBQVVfeXFMTmI2Q2tsSm9aX1lBcGxDUDM5LU1Xd3pzT0J2cEhLME94SlN4VkFRS1F4allsWXExMVlqWGtSa0NPMVM1SnBOcWVWUXdqWUpuLTRBRVNFQThDRUVaU3IxYTN4LTZSYWVWdU1MSVF4ZjU5V0V5T1A1U25IdWJfUWpDQVFjMmhxbHQySlZ0dVdGdVlFVjA1SWlYVWotOW5UbmNxUUJBM0YtTjE0OFhOS05hTlVwaERpOUtfT3ZZWXpTWENzaXhROU9QN3lva0xlRUpzRXVJdVdIbjVXVldXem9ld1ExaWxpQnF3NS1HM3ZyQ1hyRUZzUU0zdm8?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-11-17T00:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o ministro da Fazenda irá ao Senado para prestar esclarecimentos sobre a alíquota de 11,3% prevista para a CBS. A discussão ocorre no contexto da Reforma Tributária que afeta diretamente a estrutura das contribuições federais.",
+   "pratica": "Advogados e contadores devem acompanhar o debate legislativo para antecipar os impactos da alíquota da CBS no planejamento tributário dos clientes.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal previsto na Reforma Tributária para unificar a incidência sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a911ccce98619568",
+   "titulo": "Receita Federal define regras de transparência ativa sobre benefícios fiscais de empresas e cria subcomissão",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdTk0cGZsTE5zZUFpT092T0d4QzNsZVhBUWRNTk50bTJnYkpIQ1VTQ0pBREhnVU9XMEFZOERGUmtfMTJTYklRQmpJdmNoMGJjd0I3bENwNExWbGJubVJyQ1JXM3VmWld1SnJKenFaOVJadkFRenJId0RONTFtOUNRTWlpQUQ3cXRGaDRKNVpUci1PV011ODNBcjZwMXQxRk95XzN3Sg?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-16T23:37-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal definiu novas regras de transparência ativa relacionadas aos benefícios fiscais usufruídos por empresas. Além disso, a medida determinou a criação de uma subcomissão para acompanhar o tema.",
+   "pratica": "Na prática, as empresas devem se preparar para um nível maior de exposição e controle sobre os incentivos fiscais que utilizam, exigindo atenção redobrada aos procedimentos de compliance.",
+   "termos": [
+    {
+     "termo": "transparência ativa",
+     "explicacao": "Divulgação de dados e informações por iniciativa do próprio órgão público, sem necessidade de solicitação."
+    },
+    {
+     "termo": "benefícios fiscais",
+     "explicacao": "Vantagens legais que reduzem ou eliminam o pagamento de tributos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b91d0b7f3498a827",
+   "titulo": "STJ barra cobrança antecipada de ICMS para bares no DF - - Misto Brasil",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1JVajdtazZzWmJ5dlFPQlV4OTM1RHh3ZHMybG1uR2tmNHdLYV9xSzY5OWFOUWg1TElOd1VqTE1zd004cUZhdHdfNVFaLTRlMnJhRWdzM0pWTllSakVkUGpSSWh3WEFRakp3T3Y2TEducGJrakVqY0k0a1NSSGFUZmVvcFpwZnZLcHNmOTVTcEk0VVFQNGpidy1YTGTSAZwBQVVfeXFMUG9SVWo3bWs2c1pieXZRT0JVeDkzNUR4d2RzMmxtbkdrZjR3S2FfcUs2OTlhTlFoNUxJTndVakxNc3dNOHFGYXR3XzVRWi00ZTJyYUVnczNKVk5ZUmpFZFBqUklod1hBUWpKd092NkxHbnBia2pFamNJNGtTUkhhVGZlb3BacGZ2S3BzZjk1U3BJNFVRUDRqYnctWExk?oc=5",
+   "veiculo": "- Misto Brasil",
+   "trecho": "",
+   "data": "2026-11-16T21:40-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça barrou a cobrança antecipada de ICMS destinada a bares no Distrito Federal. A decisão afeta a exigibilidade dessa modalidade de tributação para o setor no âmbito distrital.",
+   "pratica": "Na prática, a decisão traz alívio imediato para os bares no Distrito Federal ao impedir a exigência antecipada do tributo, exigindo atenção de advogados e contadores quanto aos procedimentos de cobrança da Sefaz.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "Cobrança antecipada",
+     "explicacao": "Regime em que o tributo é exigido antes da ocorrência do fato gerador presumido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3aacc437a4a47b16",
+   "titulo": "Cashback da reforma tributária: veja quem tem direito",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82ZlBwVFVfTlRnX0diMmI5V1lLWUVyZW8xb1Bna1ZYcG41S1UyV2ZIUkVKb1dWT2ZJejhqWk1TbGhWSlExTHgwR0oxU0R2RWlnV3FjcWlLcHVaUkp2V0tmVFdKdjA3cm9RZXUxU3c3aWhTZnhyMXRLcVp1VmhjWHM?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-16T20:46-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foi veiculada uma matéria jornalística abordando o tema do cashback trazido pela reforma tributária. O conteúdo propõe esclarecer quais contribuintes possuem direito ao mecanismo de devolução de tributos previsto na nova legislação.",
+   "pratica": "Na prática, a novidade exige que advogados, contadores e contribuintes fiquem atentos às regras de elegibilidade para o benefício fiscal do cashback. É recomendável acompanhar a regulamentação para orientar clientes sobre o aproveitamento dessa nova diretriz.",
+   "termos": [
+    {
+     "termo": "Cashback",
+     "explicacao": "Mecanismo de devolução parcial de tributos introduzido no sistema brasileiro pela reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "be9478cafbca222b",
+   "titulo": "Tem MEI e está devendo? Governo vai perdoar dívidas, mas há uma condição",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkF1V3FMVjNTTHZvZVpZS2tCcDB0eTRFYmpyYTVfQnRiUW5JVVVXXzlrRGhZUWk5eDdtRGhPazd3UDV0bzZrcDI1SzF3ZEJZM2E5QmkwaG03RlAzS0FQeTVkOFdXVXJJa0RHa2JWamo2dFRTOGJJTmtud19kM0VnMWFfRXZMZ01CR25hQ0Z0WHhpcFRCU3ZiQ212WkRRbTczR1p4bnNwa20?oc=5",
+   "veiculo": "CGN",
+   "trecho": "",
+   "data": "2026-11-16T20:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Governo",
+   "resumo": "Segundo a manchete, o governo planeja perdoar dívidas de Microempreendedores Individuais (MEI), embora exista uma condição para que o perdão seja aplicado. A notícia aborda medidas voltadas à regularização fiscal e ao alívio de débitos tributários e previdenciários desse público.",
+   "pratica": "Profissionais e contadores devem orientar seus clientes MEI a aguardar a regulamentação oficial para verificar se preenchem a condição exigida para a quitação ou perdão dos débitos.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "155586b540d20148",
+   "titulo": "Entidades alertam STF sobre efeitos do julgamento do Tema 1.423",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQk5qekdpY3VuZWRkVnBMR3ZJMHBZREJsYVlWTlJSZjdkNlpuaVJWWU0wbWQ0S0JhOXhXaTNTelhIWkxxSEdVOWp1N0ZZeTFjTmF5YjJCOTQtdEhRdE5fY3dHcTZUYy1jRFBPMnRYX1o2b09tZ1AxbzJwRFFsUTc0SkMyV3UtelRsY0ZSeFhzRXozUm9RRkh6UUo2MXdqdU5zbExYMzlhZ0l6NUtmNzc0VEM2SzN4bmxXeTdMRDlNWXc1Q0tKUnljaW1ORnRSQQ?oc=5",
+   "veiculo": "Revista Investidor Institucional",
+   "trecho": "",
+   "data": "2026-11-16T20:09-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete da Revista Investidor Institucional de 16 de novembro de 2026, entidades emitiram alertas ao Supremo Tribunal Federal a respeito dos potenciais efeitos do julgamento do Tema 1.423. A notícia destaca a movimentação de setores da sociedade civil perante a Suprema Corte em matéria de repercussão jurídica.",
+   "pratica": "Na prática, o acompanhamento do Tema 1.423 exige atenção de advogados e contribuintes quanto aos reflexos que a futura decisão do STF poderá gerar nas teses e nos contenciosos em curso.",
+   "termos": [
+    {
+     "termo": "Tema 1.423",
+     "explicacao": "Código atribuído pelo STF para identificar um recurso representativo de controvérsia constitucional ou infraconstitucional em julgamento."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "caf7733e83c829d5",
+   "titulo": "Reforma Tributária: como negociar preços em 2027",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2lVUUQwWU9ybmtId0s3MF9PRFJpXzY5WFBtaFJoSHFkeGY5TmFYWGtQNUpaU3ZkTll3S0tBVmtYS2lPc0w0cTNMdEFqbHE5Q2ZYZHkwT2ZidDhFelk2bE1ZWjdOX0Zkam52NndRM1o5MF9LNU55dU5NWjFpUFFNSzRtbi1MMEI1Y2pXY2w4Ny1RVGRrVFE?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-16T20:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Portal Contábeis discute como ocorrerá a negociação de preços no ano de 2027 no contexto da Reforma Tributária. Trata-se de uma análise voltada à preparação de profissionais para as mudanças nas regras de formação de preços com a nova tributação.",
+   "pratica": "Na prática, exige que advogados, contadores e empresas comecem a planejar suas estratégias comerciais e de precificação para se adaptarem ao novo cenário tributário previsto para 2027.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "562ca5e3083a90b7",
+   "titulo": "Receita reconhece dedução das contribuições extraordinárias dos PEDs, mas ação judicial segue necessária",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWdKN1l0MmhKTlUxRmJ6aXVwOV9UZWoyNy0tVC0tTEFad2FnRHJPZmNWNm51aGlNTHdsNTNGdFJqTmRFWGdOSnV3WFlMNE1SX3QxYWpWQm0zd2VKcVBkZHg4bzkxZjdKUl91Q01pYW02b3liOVJuYVh3Nng4emRCWjdCWGNQUUdxSDJoT29zM2g3SWpGZHdHTFZNS3hMX0VjS1F1UE5XWHFDRm5sd1dJcmQ1V0ZrUG9LN3pzdWxjMnNkSDhiNUlVNDI1dklhSjBhYXAtb1lNb0s4UQ?oc=5",
+   "veiculo": "SindiPetro-LP",
+   "trecho": "",
+   "data": "2026-11-16T19:41-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal passou a reconhecer a dedução das contribuições extraordinárias dos Planos de Benefícios de caráter Previdenciário (PEDs). No entanto, apesar desse reconhecimento administrativo, a notícia indica que ajuizar uma ação judicial ainda continua sendo necessário.",
+   "pratica": "Na prática, os contribuintes devem avaliar com a assessoria jurídica se a via judicial ainda se faz indispensável para garantir o aproveitamento da dedução, mesmo com o posicionamento da Receita.",
+   "termos": [
+    {
+     "termo": "Contribuições extraordinárias",
+     "explicacao": "Pagamentos adicionais realizados por participantes de planos de previdência para cobrir déficits financeiros."
+    },
+    {
+     "termo": "Dedução",
+     "explicacao": "Subtração de valores permitida pela lei que reduz a base de cálculo do imposto a pagar."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "087a136e3fc2c88b",
+   "titulo": "Receita disponibiliza calculadoras de IBS e CBS",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM3dSLXdqXzBuWDBaM19wcTE3d19uWkJveHFqRFp2c251NFdYQzlSUlJSZEV6OEZMZm83a2NGRHZ4Q3d4a0JQRkw5ZDZCQmhobjlITld3NVhmNEhrNXRXWEhPUFFFY21qQldaeksxWFRheE9hNG9kcjM1RGktS2pUOWxNUjEtRVk?oc=5",
+   "veiculo": "Monitor Mercantil",
+   "trecho": "",
+   "data": "2026-11-16T18:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete do Monitor Mercantil de novembro de 2026, a Receita Federal disponibilizou calculadoras voltadas para o IBS e a CBS. A ferramenta surge no contexto das discussões e preparações para a nova tributação sobre o consumo trazida pela Reforma Tributária.",
+   "pratica": "Na prática, a disponibilização dessas ferramentas auxilia advogados, contadores e empresas a simularem e entenderem os impactos dos novos tributos em suas rotinas de planejamento e compliance.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para substituir tributos federais no consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f436862406ab0213",
+   "titulo": "Justiça mantém IBS e CBS na base do ICMS em maioria das ações",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUlpS0FBQWZBSHhDUFk1TU84U2tUN2JjOHozSWM1cjdmb0JIdFpqb0hpSEx4TmhlTFc1eFJyMVZjRl9rbjRZcS04YjdXZkxwWmp3dzhxbkNCeVlEbnFfVlNNbVBucDY4a2d6UTZoRlVCLWd4bDNPZjU5VFhzTkthTzZHVVFzVkpLaVFHNTRKaEtWY184Yzc1MnJHMVpkUHF2ZkxZdE9sdlFOQQ?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-16T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Judiciário",
+   "resumo": "Segundo a manchete, a Justiça tem mantido a inclusão do IBS e da CBS na base de cálculo do ICMS na maioria das ações ajuizadas. O tema reflete discussões relevantes sobre a cumulatividade e os reflexos da Reforma Tributária na arrecadação estadual.",
+   "pratica": "Na prática, contribuintes e empresas que discutem judicialmente a exclusão desses novos tributos da base do ICMS encontram resistência nos tribunais, exigindo cautela na propositura de novas ações.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços que substitui tributos federais."
+    },
+    {
+     "termo": "Base do ICMS",
+     "explicacao": "Montante sobre o qual incide o cálculo do imposto estadual."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "259ee4996ec4185d",
+   "titulo": "Reforma Tributária/RJ: Governo do Estado envia à Alerj projeto de lei que cria programa de negociação de créditos tributários com foco no crescimento da receita de ICMS em 2026 e nos próximos anos",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vQ1Btdlh6bHdjTktpc3FZZGNvaU9zUTVhRWIxNEJOR1ZhWF9rcmF5ekoya1ZHbTZKQzR2QkNsVkdQcm96R0R3S2pxR0FJU0dxMDhMNFJrc0g?oc=5",
+   "veiculo": "LegisWeb",
+   "trecho": "",
+   "data": "2026-11-16T16:51-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Governo do Estado do Rio de Janeiro",
+   "resumo": "Segundo a manchete, o Governo do Estado do Rio de Janeiro enviou à Alerj um projeto de lei que cria um programa de negociação de créditos tributários. A medida tem como foco principal o crescimento da receita de ICMS para o ano de 2026 e para os próximos períodos.",
+   "pratica": "Na prática, a iniciativa pode abrir novas oportunidades para que contribuintes regularizem seus débitos fiscais em condições negociadas com o Estado.",
+   "termos": [
+    {
+     "termo": "créditos tributários",
+     "explicacao": "Valores que o Estado tem o direito de cobrar dos contribuintes."
+    },
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e prestação de serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ff7a3bc86ff418cb",
+   "titulo": "OAB SP recebe lançamento de novos editais do Acordo Paulista para negociação de débitos de ICMS",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVmtScS1PLXZ6Mm1DNFRfb1hHTi1VeUtkZUZEVkYtcmhySWd4eWJPN2JObmo5TnRPRmhvQnpjTXJwYTdlSGIyQnBGazFxQlR4YTMyZWVFN00xellGbmlvTHc2N0Zmcm90NzZIOWZ5TnY1SnF3dkJvN3c3d0dhUHA3SElfWU9jM2s1aHZGTk9uSkY4Y21lUHVjSTNKZGJ6aURjQUNEQ0ZsMVpHbXRCN0hTSWFiMFNwU2JxaXV6S0QxNV9QQ1Fxa01ObmRrWi1UeHJ1R3hYSHQ4U2ZCbUstNWRma3ZQbzdfWVU?oc=5",
+   "veiculo": "www.oabsp.org.br",
+   "trecho": "",
+   "data": "2026-11-16T16:47-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "OAB SP",
+   "resumo": "Segundo a manchete, a OAB SP recebeu o lançamento de novos editais do Acordo Paulista destinados à negociação de débitos de ICMS. A iniciativa visa facilitar a regularização fiscal de débitos tributários estaduais para os contribuintes.",
+   "pratica": "Na prática, a medida abre novas oportunidades para que empresas e profissionais busquem a regularização de suas dívidas de ICMS junto ao Estado por meio de condições negociais oferecidas nos editais.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e prestação de serviços."
+    },
+    {
+     "termo": "Acordo Paulista",
+     "explicacao": "Programa de negociação e transação de débitos fiscais do estado."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8166d1bde6ea768e",
+   "titulo": "AGU diz a Flávio Dino que emenda parlamentar fora das novas regras será travada a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3NqVUhzVGsyQUVqMXBDblJhQk13V3U1QmJTdVU2YWhlTldhcTRoZTZkR2RpUm5KZWVBTU02aklUakhvVlJVN3d0QUpHa1V4S3lFTWp5QnN5LVZjYmswZG1xUWhLLXU3VS1kYWk2cFVJU0JNLVVINV9aSTNkNzZrci1kMGhkTTBsU0NZbElaWEJmcTN4WVE?oc=5",
+   "veiculo": "O Fator",
+   "trecho": "",
+   "data": "2026-11-16T16:44-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "AGU",
+   "resumo": "Segundo a manchete, a AGU informou ao Ministro Flávio Dino que emendas parlamentares que ficarem fora das novas regras serão travadas a partir de 2027. A medida impacta a gestão do orçamento público e o cumprimento de novas diretrizes normativas.",
+   "pratica": "Na prática, exige maior rigor e adaptação dos parlamentares e gestores públicos às novas regras orçamentárias a partir de 2027, sob pena de bloqueio de recursos.",
+   "termos": [
+    {
+     "termo": "Emenda parlamentar",
+     "explicacao": "Instrumento pelo qual os parlamentares podem alocar recursos no orçamento público."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "808e2ab82cc9040f",
+   "titulo": "CBS: na dúvida, não ultrapasse",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUVrcTcwWTdtREotZmpxa0xJa0JGd3U4Q0VnRHEteFFLdHNmV1ZfRFJYOV81dV9UaWV2RFUxWFk3OUR1SEJHa0RzVGNBeGhoZnUxS0FpbzhQSXBUZklwNWRaU3BLcVMwVFIxdzhZeDFQejdWTnlaNDBadm1yNjVfQS16cWQ4YWdILU81NTEwVnN4Zw?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-16T16:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do portal JOTA Info, o tema em discussão envolve a CBS e a cautela recomendada na aplicação de suas regras. Como o trecho original não foi fornecido, o resumo baseia-se estritamente na orientação de prudência trazida pelo título do veículo.",
+   "pratica": "Na prática, sugere que empresas e profissionais redobrem a cautela diante de incertezas normativas relativas à nova contribuição para evitar riscos fiscais.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b71275457d6c4d8a",
+   "titulo": "Suspensão de liminares sobre IBS e CBS no ICMS apoia-se em estimativa sem comprovação",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDJvMGE1M0hFMF9RbXhBczZsUXUyVXV4RExMMmZyRW1JWGVLMURhVVFvTll3MnR5QWZxOWp5aFcxblZjQ3hSS2xkOHA1elBVN1JFSlEtSzRQNGZlUF9Sc1NoUEFBOVV4U3dVbnNlOF9LN1ZUYzBtZWN0UGh2YVpsc3AzWnJmN3V0SF9sWVVZTVNDQnNXN1hIbHpLQXdhcXBrLUxJTU9hTHQ1ako4X2Y2ek5FR0ktOWZuX19xdUxsWElleEZqZkhjOHB1UGNvUQ?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-16T16:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, a suspensão de liminares relativas aos novos tributos IBS e CBS no cálculo do ICMS apoia-se em uma estimativa que estaria sem comprovação. O tema ganha relevância no cenário da transição para a Reforma Tributária e suas repercussões na arrecadação estadual.",
+   "pratica": "Na prática, profissionais e contribuintes devem redobrar a atenção aos fundamentos probatórios e aos impactos financeiros ao questionarem judicialmente a incidência dos novos tributos.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para unificar tributos federais."
+    },
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual incidente sobre circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9f673adf486ed76d",
+   "titulo": "Bancadas do PT e Psol propõem imposto sobre grandes fortunas",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmJlWl9wZnIwLXBrOUJzaFg1NU56Y2RvQlkwc05sdUlzR0VzNFM1WC1Ea01BazhiY0VDUkp3bElSV3pGS2hjYUZWZU5WdWNxWTNvV1VKZUJteWhSLWZ2M1Z1dV9XazF6SHN5dS1Nd09hbjZ4OXJzZjR6MW1YVE1qSUZBenc0ZzNzUklZcF9UcUJIbnNmMm0yVnBhY21GQ2htSTd3WW1GUUEwX3VMZmt3?oc=5",
+   "veiculo": "Congresso em Foco",
+   "trecho": "",
+   "data": "2026-11-16T16:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, as bancadas do PT e do Psol propuseram a instituição do imposto sobre grandes fortunas no âmbito legislativo. Trata-se de uma iniciativa parlamentar voltada para a criação de um tributo previsto na Constituição Federal, mas ainda não regulamentado.",
+   "pratica": "Na prática, a proposta ainda está em fase de debate político e não altera imediatamente a rotina de contribuintes ou empresas, exigindo monitoramento caso avance no Congresso.",
+   "termos": [
+    {
+     "termo": "Imposto sobre grandes fortunas",
+     "explicacao": "Tributo previsto na Constituição Federal que incide sobre grandes patrimônios e depende de lei complementar para ser instituído."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "af28b289effd3699",
+   "titulo": "Perdão das dívidas do MEI será automático. Veja quem tem direito",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3kzN3dXUjFLbmhWM3lVWngxbFQtdUkxdDExY3Y0ZnBqSGtOTElMMGUyRlh5bkJyWnNkeVVCMUpFcTg2Mjk5S01wTi1UUk83X3hDNjNaQjNuQVhoUzFFVHhEclZIRjJmclpoQ0RQSEozR3hIN0lmMXhKUXJJYUs1adIBgAFBVV95cUxNS3kzN3dXUjFLbmhWM3lVWngxbFQtdUkxdDExY3Y0ZnBqSGtOTElMMGUyRlh5bkJyWnNkeVVCMUpFcTg2Mjk5S01wTi1UUk83X3hDNjNaQjNuQVhoUzFFVHhEclZIRjJmclpoQ0RQSEozR3hIN0lmMXhKUXJJYUs1aQ?oc=5",
+   "veiculo": "InvestNews",
+   "trecho": "",
+   "data": "2026-11-16T16:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete da InvestNews de novembro de 2026, o perdão das dívidas do MEI ocorrerá de forma automática, com regras sobre quem tem direito. Como não há trecho detalhado disponível, trata-se de uma notícia preliminar sobre a anistia ou remissão de débitos para microempreendedores individuais.",
+   "pratica": "Na prática, profissionais e contadores devem aguardar a regulamentação oficial para orientar os clientes MEI sobre a dispensa automática de seus débitos fiscais.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos empreendedores."
+    },
+    {
+     "termo": "Perdão de dívidas",
+     "explicacao": "Remissão ou anistia legal de débitos tributários, extinguindo a obrigação de pagamento."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "53311956bb4666c0",
+   "titulo": "Comissão adia audiência sobre regulamentação da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUR6NUZDcDBodlNPTTNnTXVSU3pZTmREWC1sdG9BaGxKX0FRek1JaUZQTzFpMEhzb21uY3lyekxWelpIaGZGWW5va0hWa0VTb3hzMzVRRm5iZFlEWUtYYU5qcWw4bUl0ZjZIUFBod2t2bGJWU2laOTZCUklIZXRWeGlyaXRMN09iQXZXa2ZjSTRXOXFGcE5YdFR0eWI3S1JjTllVTm5GYw?oc=5",
+   "veiculo": "Jornal Diário do Povo",
+   "trecho": "",
+   "data": "2026-11-16T16:16-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Comissão",
+   "resumo": "Segundo a manchete, uma comissão adiou a audiência pública voltada para discutir a regulamentação da reforma tributária. O debate legislativo sobre as novas regras do sistema de tributos sofreu, portanto, um revés temporário em seu cronograma.",
+   "pratica": "Para profissionais e empresas, o adiamento atrasa o acesso a debates cruciais e diretrizes sobre a aplicação prática da nova legislação tributária, exigindo cautela no planejamento.",
+   "termos": [
+    {
+     "termo": "Regulamentação da reforma tributária",
+     "explicacao": "Processo de edição de leis complementares e normas para detalhar o funcionamento do novo sistema de tributos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0ed6b9eb95150299",
+   "titulo": "Sistema FIERGS defende PEC da deputada Any Ortiz para prorrogar início da vigência da CBS na reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZVNzOW4wWkJkeHlwU2tjdDNhRWRONjZycGgzWTVGOGxVR0cxdWQzcVZibzM5RWJIN3dyMlVLYmNzM3lkTE1yaERteFg0YnYtXzRTeXpvTkRVQkthVTh2WHg1WWtQM2RHcXZFUkc4dkwydEYtVU1mMmUwVUdaQ1haSi03THNUVnZjVllJM1RjU1BBVjM0My0zMzB6cF9oR3A0SEhBdTdsdU9hbGRBR0puY2thOGhtN3g4cUVnYl9WUnFnSXdyOFpoTlA0eGJjcjZhTl9XNFJiWWlDdUw1ejNRTVVmWGc0Mm5C?oc=5",
+   "veiculo": "Jornal Bom Dia",
+   "trecho": "",
+   "data": "2026-11-16T16:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Sistema FIERGS manifestou defesa à PEC apresentada pela deputada Any Ortiz, que visa prorrogar o início da vigência da CBS (Contribuição sobre Bens e Serviços) no âmbito da reforma tributária. A proposta busca alterar o cronograma de implementação do novo tributo federal.",
+   "pratica": "Na prática, a discussão sobre a prorrogação da vigência da CBS pode abrir espaço para que as empresas ganhem mais tempo para adaptação aos novos sistemas de conformidade tributária.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída pela reforma tributária para unificar tributos federais sobre o consumo."
+    },
+    {
+     "termo": "PEC",
+     "explicacao": "Proposta de Emenda à Constituição, instrumento legislativo necessário para alterar as regras da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "59fb3ea70599e37f",
+   "titulo": "Por que o Brasil deve adiar a Reforma Tributária (a cobrança da CBS)",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FQll3N09IQ1d6Uy1xMW1Oa25YdDJtZy1PWmtKM3VYQklGZjBWRGRDa0JVNmRUTnpfVUNpMk1ha2dlTGN2ODRaWVhmbHFtbUcyeHBkMmJHdzgzeVFETEVvOWRJeXMzQ0I0RGk5bFo0RjRmdmkyb2pMUXp2TXdaUQ?oc=5",
+   "veiculo": "Assiscity",
+   "trecho": "",
+   "data": "2026-11-16T16:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, discute-se o motivo pelo qual o Brasil deve adiar a Reforma Tributária, especificamente no que tange à cobrança da CBS. O debate aborda a necessidade de repensar o cronograma de implementação do novo tributo federal.",
+   "pratica": "Na prática, a discussão sobre o adiamento gera expectativas e incertezas para empresas e profissionais que se preparam para a transição do sistema tributário. É preciso acompanhar os desdobramentos legislativos para ajustar o planejamento de compliance e adaptação operacional.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, o novo tributo federal criado pela Reforma Tributária para unificar PIS e Cofins."
+    },
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de impostos e contribuições do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "289a7f61148f7578",
+   "titulo": "Reforma Tributária: alíquota de 11,3% da CBS gera alerta de pressão na inflação de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdXJ5bnowdVN2MENmdHktSUFJMmU3U2k5RVhDb0wtMG5uQURZQlkwZGNxYmhPTV8zQ2Y3QUlIZ0pFQlJVZ21tUFJUaDZ6bFBlMGI2dnpRbFluY1M2TXhGUG45WjN3ejA3Z0FvdklBV0JwMWRTNXo1ZGVwUW5rSm9xZ0tHbkhhSHd1VXlJ?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-16T16:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a discussão em torno da Reforma Tributária aponta que a alíquota de 11,3% da CBS gera um alerta sobre a possibilidade de pressão na inflação para o ano de 2027. O tema reflete os debates econômicos e os impactos esperados com a implementação dos novos tributos.",
+   "pratica": "Na prática, empresas e profissionais devem monitorar os reflexos da nova tributação na formação de preços e na inflação prevista para os próximos anos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "843894685b847f8b",
+   "titulo": "Imposto sobre imposto na Reforma Tributária gera disputa de R$ 10 bilhões na Justiça",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0xZbTh0YTBEV2FYNzgxOGY5MHBvNzhCM2JyTnAwNnZPbzA4V3JwYWIxS3BxT3pLMUNHb0RMdC10ME1YcmQ1SzBuU2NWV2otRG92ZjVLMU9YcnVwZTRxNTRhdnBuMVJEQmp3UVFGMDlPN3hrcXRaS2FTQl9EaW5lc3RPX2ZwaTRnRUdTc05FQUstNGc?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-16T16:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Justiça",
+   "resumo": "Segundo a manchete, a incidência de imposto sobre imposto decorrente da Reforma Tributária tornou-se objeto de uma disputa judicial avaliada em R$ 10 bilhões. A discussão evidencia os primeiros grandes embates jurídicos em torno das novas regras de tributação.",
+   "pratica": "Na prática, a controvérsia sinaliza que empresas e profissionais devem monitorar o contencioso judicial sobre a Reforma Tributária para antecipar eventuais riscos e impactos nos custos fiscais.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que mudam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d3b02bb8c9a08578",
+   "titulo": "Cashback da Reforma Tributária começa em janeiro e deve devolver R$ 10 bilhões em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SNlBhZ2U4T2ZfSlgyVmVTUmlWbnB3ZzBfRTZBNF9OUWVIdEJaUEZ3R0dmZGhnR1JaUkdrdzZzV3JZTjFzS0NRYVdqX25NZWdfRUp6TUVvOUVzVEhhZDAxYUNYMWpfZV9fQkxJTFJKZVhoYWlFa20ySERB?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-16T16:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o cashback da Reforma Tributária tem início previsto para janeiro e a projeção é de que sejam devolvidos R$ 10 bilhões no ano de 2027. A notícia aborda aspectos centrais das novas regras de devolução de tributos introduzidas pelo novo sistema fiscal.",
+   "pratica": "Para os profissionais da área, a medida indica a necessidade de monitorar a regulamentação do cashback e seus impactos operacionais na apuração e devolução de tributos para os contribuintes.",
+   "termos": [
+    {
+     "termo": "Cashback da Reforma Tributária",
+     "explicacao": "Mecanismo de devolução de parte dos tributos pagos, previsto no novo sistema fiscal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "d04fb843f3ac4779",
    "titulo": "Prova prévia e incidente de desconsideração da personalidade jurídica",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGFpWnJIWmhwbHNmcDNMd3pvQ2lJZTZWZjlnWDBTajdramtxYUlnZ0lCZUM1NE41NWI3S2lyMGk2NnJ4ekFUSi1kLURQb3AzeXBpaDdmanRqOWtIYTdKVUdMdF9ZdUNXcmpnVUJaVTgxS2o0Q3diT0lLRVdQaEd3dmJkZk05N1BRZDdrSTVKLXVWaVZHN3o2dlVCaWhtM2xqTTJMTmJ1VUZsWEVWZFhaM1kyTjJGUTFpRGVfb3B2MTh5OGct?oc=5",
@@ -16563,7 +17315,8 @@
   "2026-11-13": "Nesta edição, destacam-se as discussões e propostas em torno da Reforma Tributária, com a Receita Federal propondo o adiamento da CBS e a flexibilização na transição tributária para 2027, além de debates legislativos sobre a sua regulamentação e o impacto nos preços. No âmbito judicial, o STJ negou créditos de PIS e Cofins sobre pagamentos a trabalhadores portuários avulsos e abriu caminho para a recuperação de impostos em meio à queda do varejo. Esses temas importam porque afetam diretamente o planejamento das empresas, o cronograma de implementação dos novos tributos e a recuperação de créditos fiscais.",
   "2026-11-14": "O boletim de hoje destaca importantes desdobramentos sobre a Reforma Tributária, que traz mudanças significativas no setor produtivo rural, debates sobre a CBS e reflexos na precificação de serviços, exigindo ampla adaptação estratégica das empresas. No âmbito do contencioso, o STJ resolveu que descontos ao varejista não compõem a base de cálculo de PIS e Cofins, enquanto o CARF reconheceu o direito a créditos dessas mesmas contribuições sobre higienização de uniformes e EPIs. Além disso, a Receita Federal perdoou dívidas previdenciárias de microempreendedores, promovendo a anistia de débitos para a categoria.",
   "2026-11-15": "No boletim de hoje, destacam-se três importantes movimentações no cenário jurídico-tributário. Primeiramente, o Supremo Tribunal Federal derrubou a exigência de idade mínima na aposentadoria especial, decisão que repercute diretamente nas regras aplicáveis a trabalhadores em atividades de risco ou insalubres e impacta o financiamento e o recolhimento de contribuições previdenciárias. No âmbito do Superior Tribunal de Justiça, determinou-se a suspensão de ações judiciais que discutem o encerramento antecipado de benefícios fiscais do Programa Emergencial de Retomada do Setor de Eventos (Perse), afetando o andamento processual nas instâncias inferiores. Por fim, o Poder Executivo intensificou as articulações para concluir a tramitação das últimas pautas e propostas da reforma tributária, enquanto o setor produtivo debate os reflexos das novas regras.",
-  "2026-11-16": "No boletim de hoje, destacam-se três assuntos de grande relevância para o direito tributário brasileiro. Primeiramente, o STJ definiu em tese vinculante que a CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, uniformizando esse entendimento. Em segundo lugar, o Carf anulou uma cobrança bilionária de IRPJ e CSLL envolvendo a incorporação da Bertin pela JBS. Por fim, o mecanismo de cashback da reforma tributária começará em janeiro, abrangendo cerca de 70 milhões de pessoas e gerando ampla expectativa sobre regras e procedimentos. Esses temas importam porque impactam diretamente o contencioso judicial, a segurança jurídica e a aplicação das novas regras fiscais."
+  "2026-11-16": "No boletim de hoje, destacam-se três assuntos de grande relevância para o direito tributário brasileiro. Primeiramente, o STJ definiu em tese vinculante que a CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, uniformizando esse entendimento. Em segundo lugar, o Carf anulou uma cobrança bilionária de IRPJ e CSLL envolvendo a incorporação da Bertin pela JBS. Por fim, o mecanismo de cashback da reforma tributária começará em janeiro, abrangendo cerca de 70 milhões de pessoas e gerando ampla expectativa sobre regras e procedimentos. Esses temas importam porque impactam diretamente o contencioso judicial, a segurança jurídica e a aplicação das novas regras fiscais.",
+  "2026-11-17": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário: as discussões sobre a Reforma Tributária, que envolvem a avaliação no Senado de alternativas para reduzir a alíquota de 11,3% da CBS com a presença do ministro da Fazenda, e a manutenção, pela Justiça, do IBS e da CBS na base de cálculo do ICMS na maioria das ações. Além disso, no âmbito dos tributos estaduais e federais, destaca-se o anúncio de regras sobre o perdão automático de dívidas para os Microempreendedores Individuais (MEI) com previsão para 2027. Esses temas importam porque impactam diretamente a carga tributária, a conformidade fiscal dos contribuintes e a segurança jurídica durante o período de transição das normativas vigentes."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -16960,9 +17713,21 @@
   "precatórios": "Requisições de pagamento expedidas pelo Judiciário para cobrar valores devidos pela Fazenda Pública após condenação definitiva.",
   "cashback da reforma tributária": "Mecanismo de devolução parcial de tributos instituído pelas novas regras da reforma tributária.",
   "Tese vinculante": "Entendimento firmado por tribunal superior que deve ser obrigatória e uniformemente aplicado pelos demais juízos.",
-  "Fundeb/Fundef": "Fundos voltados para a manutenção e desenvolvimento da educação básica."
+  "Fundeb/Fundef": "Fundos voltados para a manutenção e desenvolvimento da educação básica.",
+  "Repercussão geral": "Requisito constitucional que exige relevância econômica, política, social ou jurídica para que o STF examine um recurso extraordinário.",
+  "Compensação de tributos": "Forma de extinção da obrigação tributária em que o contribuinte utiliza créditos que possui perante o Fisco para quitar débitos de impostos.",
+  "benefício fiscal": "Medida legal que reduz ou elimina o pagamento de um tributo.",
+  "Transição para 2027": "Período intermediário em que as regras antigas e as novas convivem, gerando potenciais dúvidas jurídicas.",
+  "Cessão de mão de obra": "Colocação de trabalhadores à disposição da empresa contratante para a prestação de serviços contínuos.",
+  "transparência ativa": "Divulgação de dados e informações por iniciativa do próprio órgão público, sem necessidade de solicitação.",
+  "Cobrança antecipada": "Regime em que o tributo é exigido antes da ocorrência do fato gerador presumido.",
+  "Tema 1.423": "Código atribuído pelo STF para identificar um recurso representativo de controvérsia constitucional ou infraconstitucional em julgamento.",
+  "Contribuições extraordinárias": "Pagamentos adicionais realizados por participantes de planos de previdência para cobrir déficits financeiros.",
+  "Acordo Paulista": "Programa de negociação e transação de débitos fiscais do estado.",
+  "Emenda parlamentar": "Instrumento pelo qual os parlamentares podem alocar recursos no orçamento público.",
+  "Cashback da Reforma Tributária": "Mecanismo de devolução de parte dos tributos pagos, previsto no novo sistema fiscal."
  },
- "atualizado_em": "2026-11-16T07:33-03:00",
+ "atualizado_em": "2026-11-17T07:00-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
