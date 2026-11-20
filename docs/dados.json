@@ -1,6 +1,716 @@
 {
  "itens": [
   {
+   "id": "09dd6a20557a521e",
+   "titulo": "Reforma Tributária – III",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFU05KbE5ER1VnQ3QtWTUwdGdNUEowdFpGeXNXalFuTFBBQ2FKS3FoYnNOcHg2ZnJ1N2xvcmNoWEJfZ3hvOXVyemFxQk4weGJKNGpHOUFBY2pYWm94NzRKRVgwZUhtcUV5YWl3N2xzbURCUmZOMFBZ?oc=5",
+   "veiculo": "Jornal Bom Dia",
+   "trecho": "",
+   "data": "2026-11-20T06:43-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o jornal Bom Dia aborda em sua edição recente novos desdobramentos sobre a Reforma Tributária. Trata-se de uma discussão ampla acerca das mudanças no sistema de tributos do país.",
+   "pratica": "Acompanhar os debates da reforma é essencial para que advogados, contadores e empresas possam antecipar futuras adaptações operacionais e estratégicas.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações legislativas destinadas a modificar o sistema de arrecadação de impostos do país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cf55a62725f442c4",
+   "titulo": "Reforma tributária não pode restringir autonomia federativa",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkVMandUX1dLeW9GV0lBeFQ1cmhIM1NfUnJNOEdrODNYUnN2Y2tOMDNMNE1tcUg3Vi1GcWJxM1JxNFhEOEZhd1pfcnp1Rk9va25mVFRzclVsSlMySW5IX0VHbm9mdEl1ZzdaWG5VeDJuaXdqNWdwakYyTm9UeDVOZ3d5ZGxhSVAzd0Z3aXE1NDFwQ29uaVBOV0l3?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-20T06:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Consultor Jurídico, foi levantado o debate de que a reforma tributária não pode restringir a autonomia federativa. A discussão aborda os limites constitucionais da reforma em relação aos entes federados.",
+   "pratica": "Na prática, o tema acende um alerta para profissionais que acompanham a incidência de novas regras sobre a soberania fiscal de estados e municípios.",
+   "termos": [
+    {
+     "termo": "Autonomia federativa",
+     "explicacao": "Independência política e administrativa garantida pela Constituição aos estados, municípios e Distrito Federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "cdfe63850f8ae195",
+   "titulo": "Imposto Seletivo 2027: produtos e novas regras",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tODA3MzQxQkwtdXo1Y0E3dGJKbS1qSlVPbHpwdGdacVFMcm1nZUhVYmgxNWIwTDB4UGVWNWlLRkZRckh1V1V1MVZsSFAybjhWaVAtbTliRHlYVDBRazNtdVQzaFUyZlg3MVRFWGtJRzJYZ003ZFZHVm1FUHI?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-20T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, foram divulgadas informações sobre o Imposto Seletivo previsto para 2027, abordando os produtos abrangidos e suas novas regras. Trata-se de um debate atual decorrente da Reforma Tributária que institui esse novo tributo sobre bens e serviços prejudiciais à saúde ou ao meio ambiente.",
+   "pratica": "Na prática, empresas e contribuintes devem começar a monitorar a regulamentação e a definição dos produtos sujeitos ao tributo para adequar seu planejamento e compliance a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Novo tributo criado pela Reforma Tributária com foco em desincentivar o consumo de produtos prejudiciais à saúde e ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3c21a54050d37183",
+   "titulo": "Como Faustino Júnior transformou o Direito tributário em fenômeno digital e literário",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVk5bVZxYUkzODRYUTNDUm5MQzgzTGE0Y0ZrYVkxSTdHaUh1N1Q1b2YxV256cUlZRENqRTFmamhXLWh2UDlmZjV0cnFKS1kyVkxNTGVzVmtpOFhDejNLRHV1VHRveGVTUGhtbWM5djYwaVpBLXctd1A5UXIwUjFTTlAxMGhubU1FZ3JOag?oc=5",
+   "veiculo": "Fato Paulista",
+   "trecho": "",
+   "data": "2026-11-20T05:56-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Faustino Júnior transformou o Direito Tributário em um fenômeno digital e literário. A publicação destaca a repercussão e a difusão da ciência jurídica tributária por meio de novas mídias e da literatura.",
+   "pratica": "Demonstra o fortalecimento da comunicação jurídica e a importância da difusão do conhecimento tributário para profissionais e estudantes da área.",
+   "termos": [
+    {
+     "termo": "Direito tributário",
+     "explicacao": "Ramo do direito público que disciplina a arrecadação e a cobrança dos tributos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e28411e2e80f83fe",
+   "titulo": "ISS sobre IBS e CBS: a cobrança de 2027 já chegou à Justiça",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1BsR0QxNlFWcDlOZzN4Y1BHRHplUmxYcGNqdEZIWmE3cjN0Z2YwT2Exek1wQU1HaHlrNWkyUU9EZUNsdDZoZEdhcE5wYndBaHozaUtDTjFkc3p4RENtRkJBeWUyM19GbzJjY1k2c1cxNlhHdHYzbDVoSGw4dVRPTjdvWFRQS3l0V3hJT01CZnZKWTc1TF85R1lHNElvekNZa0FvMlZlSWprZw?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-20T05:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Judiciário",
+   "resumo": "Segundo a manchete, a cobrança de ISS sobre o IBS e a CBS com previsão para 2027 já chegou à Justiça. A discussão antecipa os debates jurídicos em torno da transição e da cumulatividade dos novos tributos da Reforma Tributária com o imposto municipal.",
+   "pratica": "Na prática, advogados e contadores já devem mapear o contencioso estratégico preventivo e analisar os impactos financeiros da incidência de ISS sobre os novos tributos para os clientes.",
+   "termos": [
+    {
+     "termo": "ISS",
+     "explicacao": "Imposto sobre Serviços, de competência municipal."
+    },
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços, instituído pela Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, que substituirá tributos federais na Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1c2145af2cc24818",
+   "titulo": "Faustino Junior conquista espaço nas redes sociais, nos negócios e no mercado editorial com sua atuação no Direito Tributário",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSWt0b2RqY0Y2LVRSOFBnWms4S2tic0RsODBQXzNrblc0UjlTUUYzT1VrSlhGVUdPT0E4QVNMcVpscFV2bXdMVHBkaXhDbHQ3elMybTNZZEN2V1hBRW1CNjdaSTRHNThNUjBXVTF4anM2VXQxR3hwTXFJMkowWkUyQU5oak1ScnR0ZFcxSjZmREtrbmcxQ1lLUjRBOXpTbTVXbEhXWFpEbVNIcTRDcVd5Nl9RUVBrNFp0RGZBUUdnalFNYm1XdldYR1VHeVpZcHZrM0sydlZQNzIwLWhONEQ4aWJuaTJZek5OVVB2c1lrU08xUi1idUJKbUc0Sjdjc2I5NDlma2t0RXhzZDM2c2MwWHFHNnVjVEhlNmhzTHRrTEhRdU1qUXduVlpXLUI?oc=5",
+   "veiculo": "Terra",
+   "trecho": "",
+   "data": "2026-11-20T05:17-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Faustino Junior tem conquistado espaço nas redes sociais, nos negócios e no mercado editorial com sua atuação na área do Direito Tributário. A notícia destaca a expansão da sua presença profissional e midiática nesse ramo do direito.",
+   "pratica": "Na prática, a divulgação de profissionais nas redes sociais e no mercado editorial pode influenciar a forma como o conhecimento tributário é disseminado para o público e para o mercado.",
+   "termos": [
+    {
+     "termo": "Direito Tributário",
+     "explicacao": "Ramo do direito que estuda a instituição e a arrecadação dos tributos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6ba9baa1f3c89268",
+   "titulo": "Tema 843 do STF: uma nova modulação de efeitos será firmada com fundamento no impacto orçamentário?",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZjdvc09sSjRrcWt2NzlPRXNrdTRGSXFFVjR4YUotVVNQanBVRkwyR3ZVX01FSHhBUmF1MmttTDA5YUptZXZuOC1VWVV2Mzktek9uQV9mVlg4dEJJdkRZQ0VnQUJHYm1yWnZBdjVUNGphTjNvRGRzVlFCSHMyME5MMGNlNlhXeFMzeFExV1J3eWlnckNNUU1fcXdCX05DNTlJLUpVMFNqSHRBUHhaVURRLTUyaHRLNzVyNHZ0Z0pXX0FSaE80b3prbHQ4UWlOVVVKMnE5bDRoTUR1WXFfanN6RG5WWDFrVmdQM0phTkxLOFNpSjA0UGl2Uw?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-20T01:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete do JOTA Info de 20 de novembro de 2026, discute-se no Tema 843 do STF se uma nova modulação de efeitos será firmada com fundamento no impacto orçamentário. O debate envolve a delimitação dos efeitos temporais de decisões judiciais com base nas consequências financeiras para o Estado.",
+   "pratica": "Para os profissionais, o acompanhamento do Tema 843 é essencial para antecipar como o Supremo Tribunal Federal modulará seus julgados em matéria de impacto orçamentário, influenciando a segurança jurídica dos contribuintes.",
+   "termos": [
+    {
+     "termo": "Modulação de efeitos",
+     "explicacao": "Técnica pela qual o STF limita os efeitos temporais de uma decisão para evitar grandes impactos financeiros retroativos."
+    },
+    {
+     "termo": "Tema 843",
+     "explicacao": "Identificador de repercussão geral no STF que pauta a discussão jurídica em questão."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a4c684e336653910",
+   "titulo": "Receita e Comitê Gestor do IBS dispensam CNPJ de produtor rural e transportador autônomo até 2028",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmxiNkJLR1VMc05CRzdFMUdGdXpaZ2k3eHRoUUc2b2hNOFVkZ3VjOExDbm9LbVBzX0RFdk1XYmktaTF5T1diSi1SWHNxVll3ak9OcVFoeFU5RmpMWGRObGpFMWNTQXExdDlVZWozOGtZcFVOLVQxcnBDd2RjOEIybDNfMmlRbWxodnZQRGNPNUdZWVFTOGVLdl8zdGFNUFZlZ2R3?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-19T23:36-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal e o Comitê Gestor do IBS dispensaram a exigência de CNPJ para produtores rurais e transportadores autônomos. A medida, válida até o ano de 2028, traz uma importante flexibilização cadastral para essas categorias.",
+   "pratica": "Na prática, produtores rurais e transportadores autônomos ganham mais tempo e desburocratização para se adequarem às exigências cadastrais, evitando travas operacionais até 2028.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços criado no âmbito da Reforma Tributária para substituir tributos como o ICMS e o ISS."
+    },
+    {
+     "termo": "CNPJ",
+     "explicacao": "Cadastro Nacional da Pessoa Jurídica, documento de identificação das empresas perante a Receita Federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e3a1da311621f243",
+   "titulo": "STF e STJ fecharam três teses favoráveis ao contribuinte em 2026 e validaram limite à compensação",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2xoR3Q3Uk00NVRSR2QwMXh5a1V3ZEFDdHVoRFNwdGlMSDZBRkNnUVktdkF2RmNDNTNtMTQ2QjE1YklZN0VGSTUtSk9DMnV0OXBBZXZJV3VyeEFoZzVRZXZTejZOZjNhcG5Gb3JxQ0txb0NDd1ZfNVRfVl9TclpRZTdNWHpfWVVFMHdtU1R1cmdMZ2Z0U1pZdFhXNGRuXzdTSWowbnZrcHV2cjNaazczVWUxN0lTdWRiNnMzemdqVjlacHMzV0ZLbHM0NjVFd3VCbGgzbkpJXzk?oc=5",
+   "veiculo": "Ultima Hora Online",
+   "trecho": "",
+   "data": "2026-11-19T21:37-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF e STJ",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal e o Superior Tribunal de Justiça fecharam três teses favoráveis aos contribuintes no ano de 2026. Na mesma ocasião, os tribunais superiores também validaram um limite aplicado à compensação de créditos tributários.",
+   "pratica": "Na prática, os profissionais da área devem atentar para as novas balizas jurisprudenciais favoráveis, sem perder de vista a restrição imposta ao mecanismo de compensação.",
+   "termos": [
+    {
+     "termo": "compensação",
+     "explicacao": "Forma de extinção do crédito tributário em que o contribuinte utiliza créditos próprios contra a Fazenda Pública para quitar tributos."
+    },
+    {
+     "termo": "teses",
+     "explicacao": "Entendimentos jurídicos firmados pelos tribunais superiores aplicáveis a casos semelhantes."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a1a64a00929529e2",
+   "titulo": "Supremo vai julgar validade do 'milagre da contribuição única'",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU1uMUV0bFVBczhRS1Y5ZkR0dlJsTDI4TlFPV0hRdVZ0Wm1ydDNacU1peHhodkZGMm02ZkVIdzhoSWxVUUpjcGg2cldzdjVCTlBIVXM4SHRVQl9keGNsY19NYVZUZld3b0tRVDUxUG5UYVU2aUpXQnhtaVduSm1YdUtjLXdDQzFzU3NrR0JRbFk1cThUeXdESnZaZw?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-19T21:18-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal vai julgar a validade da tese conhecida como o 'milagre da contribuição única'. O tema envolve cálculos de benefícios e contribuições no âmbito da previdência social. Trata-se de uma discussão de grande repercussão para o sistema previdenciário e tributário.",
+   "pratica": "Na prática, a decisão do STF definirá se os segurados poderão ou não utilizar essa modalidade de cálculo para aumentar o valor de seus benefícios. Profissionais da área previdenciária e tributária devem acompanhar o desfecho para orientar seus clientes.",
+   "termos": [
+    {
+     "termo": "contribuição única",
+     "explicacao": "Modalidade de recolhimento previdenciário que passou a ser questionada quanto aos seus reflexos no cálculo de benefícios."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e216622f8f9cab2a",
+   "titulo": "ITBI na integralização de capital: diferença entre valores não é excesso tributável",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUkdoQ1VIbnNieERRcW9tWmJXRUhFSGQ4QU5RY2ZheDNHSHJMandMdHlVYTFseEZ3LUFzVUFzRlJTOGpWNmtCM0FGY0Y1c1hmNTFHVllIb1BiY0RfMGg0WkU4ZDcwSGVqSTFyVHJWSjZBUDJlaF9VTHJMT015RUZjaFMweUUyajdLMm1KWmkyUC01ODMzZTY0UTgwRS1sT3oyS0ZXOWtVbGZzVFYxZXBhMWwwU0hUYXFMNW01LXBfV25vYlZEY2Z6TURR?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-19T19:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info de 19 de novembro de 2026, a discussão sobre o ITBI na integralização de capital aponta que a diferença entre valores não configura excesso tributável. O tema envolve a tributação municipal sobre a transferência de bens para formação de capital social de empresas.",
+   "pratica": "Na prática, a orientação traz mais segurança jurídica para empresas em processos de integralização de capital com imóveis, afastando a cobrança de ITBI sobre eventuais divergências de avaliação de valores.",
+   "termos": [
+    {
+     "termo": "ITBI",
+     "explicacao": "Imposto municipal incidente sobre a transmissão de bens imóveis."
+    },
+    {
+     "termo": "Integralização de capital",
+     "explicacao": "Ato de transferir bens ou dinheiro para a empresa para formar ou aumentar o seu capital social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "221a95800a52e00e",
+   "titulo": "CBS de 11,3%: impactos para empresas em 2027",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQckhyNk03b211ajU2SmNRTmhYTnVub25IV2IyWmF2cVNTc1Z5QWo0OGZVYllCTzdpXzktMmRpa2tsSzNyWENHZlZBZmRENGFRamtxaXZfYlA5WGdEMGRyUlFiVEdkSEktR3NJZUdQQ00ta0R0YkUza1d5X1NFTG5aVy1OVXZaWUJ0WHlmaU9wcw?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-19T18:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se a incidência da CBS com alíquota de 11,3% e os respectivos impactos para as empresas no ano de 2027. O tema envolve as novas regras de tributação sobre consumo previstas no cenário da reforma tributária.",
+   "pratica": "Na prática, as empresas devem ficar atentos às projeções de carga tributária e se planejar para as mudanças operacionais e financeiras previstas para 2027. Contadores e advogados precisam acompanhar os desdobramentos legislativos e econômicos sobre a nova exação.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal proposto no contexto da reforma tributária para unificar a taxação sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2222218364acc719",
+   "titulo": "Reforma tributária em 2026: o que muda para empresas",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNl9QbWxsOUdURU9ZMHAyZnJpX0lHenJ1MEJpTlpCallraVNULUU2MXlrNVJNeVhIODIxc09kdllRTW1wdUNmQ0RsbHhKOXBZNXlsT0FrcVFuMUZMS1owNFVoY3MxeW5TSTREeGdJRGV6U3RmNXFmNVYwV0ptUWxSUVY0ZzluUUJ2LUI1Q25kT3lSaDJpVGdiQUhpUnU?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-19T18:29-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Portal Contábeis publicada em novembro de 2026, debate-se o impacto da reforma tributária para as empresas. A notícia aborda o que muda no cenário corporativo com a chegada do ano de 2026.",
+   "pratica": "Na prática, as empresas devem acompanhar as novidades e adaptações normativas trazidas pela reforma tributária para ajustar suas operações e planejamento.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "413e30f9aaab4236",
+   "titulo": "Imposto Seletivo vai encarecer produtos prejudiciais ao meio ambiente",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEdjMDI2bHhRMFEtcW1iajRfNUFHQW5CQ2hoZ19vWWNOZVpnUXRfOFk1ZS1tV3FHMGNTTVhheTdSV0FlT0UxYlFCZ1JmZUhPNHA2UW1lYjZlQmFlUHhBM0xfZHJKa1RfcDh3ZmY0V2MwUE5hTmFWQ0gyU1lNNTFLZEVCMEtfSzF2cjl3QnFFc0lpZDVTNF8yVjB3d3F2UDlXMFd6SVVvRUpxUUllOFdlOTBnVlFuWkgtcU5pRU13?oc=5",
+   "veiculo": "Folha do Mate",
+   "trecho": "",
+   "data": "2026-11-19T17:53-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Folha de Mate de 2026-11-19, o Imposto Seletivo tem como objetivo encarecer produtos que sejam prejudiciais ao meio ambiente. A medida está inserida no contexto de debate sobre as novas regras de tributação.",
+   "pratica": "Na prática, empresas e contribuintes que fabricam ou comercializam produtos nocivos ao meio ambiente devem se preparar para uma carga tributária mais elevada sobre esses itens.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo federal previsto para incidir sobre a produção, comercialização ou importação de bens e serviços prejudiciais à saúde e ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9c4be0de47264c40",
+   "titulo": "Perdão das dívidas do MEI automático: regras para não perder benefício",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlFvTVdUYlQ5ZTE5WEpDaWNReWMtUnZKWmVQUjZzV0Q4WmxBVFJ6MVdPSDZUYnlxQzBIbXVyQVJJYkJIdmdJZHdZQ2tEdDJaa3dsOXNDSVRGZGtTdVdjOFh1SVYweGxTMW9XYWtLTDZsVkRkSHZGN1FtTXBzbS12YWJHTVdwZl9xNHpnekFqNTBhd1lXNE92YlM3X1VEMUxsYzN2Qg?oc=5",
+   "veiculo": "Jornal DCI",
+   "trecho": "",
+   "data": "2026-11-19T17:43-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Jornal DCI, foram divulgadas regras relacionadas ao perdão de dívidas do MEI de forma automática para evitar a perda do benefício. Como o trecho original não foi fornecido, trata-se de um panorama inicial baseado exclusivamente na chamada da publicação.",
+   "pratica": "Na prática, MEIs e seus assessores devem ficar atentos às normas informadas pela manchete para garantir que cumpram os requisitos e evitem a exclusão dos benefícios de regularização.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos negócios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "23aa227903602b67",
+   "titulo": "Reforma tributária: o que muda para 20,9 milhões de empresas do Simples",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZGNTMm5qUWd5RmNSQnBXU0Q5UjBta2oyLVV5eUhzVGs3NnlzRnhjNUdlZF80OFhoLTBtX3FrendSc1FjdEJGczdsRVpEcEs3dE5oYnRURnFDQUYwLWNHWENpSUliRmFJZDF5dnFWMDRCd3VhaU9vTmZILW1xYmFkRFlGQjZpZnRUYlRhUmF3Q0xTSnAtNk95MnlBS3ZWanBDNFl6UlhJT19FQkhlZ25RUnEtLWs?oc=5",
+   "veiculo": "bra1.com.br",
+   "trecho": "",
+   "data": "2026-11-19T17:41-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se o impacto da reforma tributária para um total de 20,9 milhões de empresas inseridas no regime do Simples Nacional. A notícia aborda as mudanças que esse grupo expressivo de contribuintes deverá enfrentar com o novo sistema.",
+   "pratica": "Profissionais e empresários devem acompanhar atentamente as regulamentações da reforma para entender os reflexos práticos na carga tributária e nas obrigações acessórias do Simples Nacional.",
+   "termos": [
+    {
+     "termo": "Simples Nacional",
+     "explicacao": "Regime tributário simplificado voltado para micro e pequenas empresas no Brasil."
+    },
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d58679b9827ff4dd",
+   "titulo": "Presumida ou comprovada, interposição fraudulenta não se troca no julgamento",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSk5LVzFscnd0R1ZubHVQemx6NTVDSngyZlF0c1kzV0NTRkxENXc0MUVMVFdjR2llU1liVVVobzFCSUFWWGhXTFNrdmFpcTR5MVROcm55SmtKLVhrTkl1Xy1wQmFkOHhOQVhOb2dNbW1sa0lVUzdjWXQ3WHRSRDF3blRrM0VkNENkZ0xwNjBPQUhKZFZPY1FFNWlWWHdOMXdkQlZVX3ZvWUthdUowNE1J?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-19T17:24-03:00",
+   "tipo": "Julgamento",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o julgamento definiu que não é possível alterar a modalidade da interposição fraudulenta, seja ela presumida ou comprovada, no momento do julgamento. A discussão envolve a caracterização desse instituto no âmbito fiscal e aduaneiro.",
+   "pratica": "Na prática, a decisão traz maior rigor processual, impedindo que a acusação mude os fundamentos da interposição fraudulenta durante a fase de julgamento, o que exige atenção redobrada na defesa dos contribuintes.",
+   "termos": [
+    {
+     "termo": "interposição fraudulenta",
+     "explicacao": "Utilização de um laranja ou testa-de-ferro para ocultar o verdadeiro adquirente, proprietário ou responsável por uma operação mercadual ou fiscal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6db341c4fff12262",
+   "titulo": "Cashback da reforma tributária: como funciona e quem recebe a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tb2dZTUhZMlhNMFAwaUswUEZ2QjRVX1F5czNCNFlmcnl2RjY3bFlOa0FTSFlacjlHaEN4ZU5SbUJycDZoSE85RXdpdThWLUNrOXN6bDZhWWNWREY4ajdNcEVCbzZhSUUzTHdIMk5iNXBxOEtQYjVQUV9ienlyZlnSAYQBQVVfeXFMTWx6MmpTMG9JUVYtZ3VuNmcyU0xWMjZUM254UXY0Y0pfQ2UyTldIYlh1cmJHcWZfbEhDejZuYVh5UzhocXNIY2xGZWhJTmJLeTNaX3JRLWFKVEhKVG41ZGM2b2Zyd3AwUkZGTXBFS0llTmVtQ1RLaGo4dzU4bEpXeVlpX1N3?oc=5",
+   "veiculo": "InvestNews",
+   "trecho": "",
+   "data": "2026-11-19T17:23-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do InvestNews de novembro de 2026, foram divulgadas informações sobre o funcionamento e os beneficiários do mecanismo de cashback trazido pela reforma tributária, com previsão de aplicação a partir de 2027. O conteúdo aborda as diretrizes essenciais dessa devolução de tributos para a população.",
+   "pratica": "Na prática, profissionais e contribuintes devem acompanhar as regulamentações para entender como o mecanismo de devolução impactará a carga tributária e o consumo a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Cashback da reforma tributária",
+     "explicacao": "Mecanismo de devolução de parte dos tributos pagos por determinados consumidores."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "78bc961d5480496f",
+   "titulo": "ABAT propõe medidas ao STF para disputas da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmlpaDJGanVoNTFpRUVGLVM4N2NkZ1A5azhkLWhyaFhiVXpfeGdhWXNubTRWV0FYM3NZRWRlTS1JcXdjWWRxSkJ3ZkhmM2lLQ2ZzejRuV3RfZTBvR3ZfV05jMEVBdUxIQk01cDB3WEFJeTM3bXYyWnlLY2IwUnluakZ0dXJPZjB5Z1dvbFlzSzctZDJpUHllS29DSmdBb2h1X1BXLTR3NnU?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-19T17:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, a ABAT propôs medidas ao STF com o objetivo de lidar com disputas relacionadas à reforma tributária. Como o trecho original não foi fornecido, trata-se de um resumo prudente baseado exclusivamente no título da notícia.",
+   "pratica": "Na prática, a movimentação indica que entidades do setor acompanham de perto e buscam junto ao Supremo Tribunal Federal vias para mitigar futuros conflitos decorrentes da nova estrutura tributária.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de cobrança de impostos no Brasil."
+    },
+    {
+     "termo": "STF",
+     "explicacao": "Supremo Tribunal Federal, corte máxima do Judiciário brasileiro responsável por decidir questões constitucionais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1e0bb9591b828752",
+   "titulo": "Balanço tributário de 2026: o que o contribuinte ganhou, o que perdeu e o que fica para 2027",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS3M0SUxlbWl1SWJlRkZ2aGxWUmx6ZUY4M2hQdDhWZVV5RDlfZzRZSU9HMXRuaTg2SFRCcXhINnd6MWhjWDVpSG10NU51M25Nak84cVlaREdvMElBd3lTZ0UxMHNxcUVadnNfWWxyQ3d4VFhfbjlJSzE3cnhVLVRpbWpzWEMzSWpZbjBGZTVhSzk0VUxsSFR5cjlnaVlPTjV2UGgxcHpYMUdFWXN1NFd3bmw0NnhaZ1kzNVJCZHVoZlVSSlFCZTlWcWdDaXVDRVpDOGRTSWt2b3JkYkRlT3FFdnVvNFV5Q3JoMWFWTm5xRm8?oc=5",
+   "veiculo": "Estadão Blue Studio",
+   "trecho": "",
+   "data": "2026-11-19T17:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Estadão Blue Studio publicada em 19 de novembro de 2026, faz-se um balanço tributário do ano para analisar o que o contribuinte ganhou, o que perdeu e o que ficou pendente para 2027. O levantamento aborda o panorama fiscal e as movimentações que impactaram a relação entre Fisco e contribuintes ao longo do período.",
+   "pratica": "Na prática, a análise serve para que advogados, contadores e empresas avaliem o saldo das novidades fiscais do ano e preparem suas estratégias para o planejamento tributário do próximo exercício.",
+   "termos": [],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bb8b40a0d48be34a",
+   "titulo": "Nova lei obriga a Receita a seguir decisões do STF e do STJ; veja o que muda para a empresa",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUpjYlpGZ040aUd0cFRyXzZMWVJPVE54R3RMODBwMUxEZFd6eEJXaGg5NTJGeDdrZzZaVVhuQ0xXZEhNZGk3dkVnMXdaQW9KMW9pZU9Yem90UXZlODA4VXJhRHVjSTNYaUstaldMOFFvWWZhYzI4eklUWjJpYWJycm9VNF80NTlrRTgzVi1lbVZJWWt0Y29WUXhwNUhvNk1iamFrdm5QUGRRNHB0a0xfT2E0TWxtSnlLR2JPb2Z5Tmt0TERCRzN2WGk5ajEzNVdMRjM2OW43X3JWaW9rUVFtdDNmLTVBYTUwR1RSYmhLbm_SAfABQVVfeXFMT01KY2JaRmdONGlHdHBUcl82TFlST1ROeEd0TDgwcDFMRGRXenhCV2hoOTUyRng3a2c2WlVYbkNMV2RITWRpN3ZFZzF3WkFvSjFvaWVPWHpvdFF2ZTgwOFVyYUR1Y0kzWGlLLWpXTDhRb1lmYWMyOHpJVFoyaWFicnJvVTRfNDU5a0U4M1YtZW1WSVlrdGNvVlF4cDVIbzZNYmpha3ZuUFBkUTRwdGtMX09hNE1sbUp5S0diT29meU5rdExEQkczdlhpOWoxMzVXTEYzNjluN19yVmlva1FRbXQzZi01QWE1MEdUUmJoS25v?oc=5",
+   "veiculo": "Estado de Minas",
+   "trecho": "",
+   "data": "2026-11-19T17:05-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, entrou em vigor uma nova lei que obriga a Receita Federal a seguir decisões do Supremo Tribunal Federal e do Superior Tribunal de Justiça. A medida busca alinhar o entendimento do Fisco aos precedenciais das cortes superiores.",
+   "pratica": "Na prática, a mudança traz maior segurança jurídica para as empresas, reduzindo a necessidade de litígios judiciais para afastar cobranças que já foram derrubadas pelo STF ou pelo STJ.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do governo responsável pela administração dos tributos federais."
+    },
+    {
+     "termo": "STF e STJ",
+     "explicacao": "Tribunais superiores que dão a palavra final sobre a interpretação das leis e da Constituição no país."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "371a565a22fc4791",
+   "titulo": "As três decisões que ainda vão mexer no caixa das empresas em 2027",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXd2d3dpSjFlQ253SzVHMWdMdGxCM21qVDItSm05VDhJVlBuVktESkx1VzRYX2FtZVhTYkRtb1dzbmc3R1F3S2tEZUI1dXVzaDM2VHJHMU5UWEgtczBoOFItWWl0UTV5aDB1Qk5TVHltNEpUMzZ3ZXF2NS02aVFfN0FRN1BtZjhNbF9zc3RSVFllVXo3bDY5UGRlNUEzN0dMSGcyWFlCYw?oc=5",
+   "veiculo": "panoramagocomunicacao.com.br",
+   "trecho": "",
+   "data": "2026-11-19T17:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, existem três decisões previstas para o ano de 2027 que ainda irão impactar o caixa das empresas. A informação destaca a relevância de se atentar a julgamentos futuros com reflexos financeiros diretos para o setor empresarial.",
+   "pratica": "Na prática, os contribuintes e profissionais da área devem monitorar esses futuros posicionamentos para antecipar impactos no planejamento financeiro e tributário da empresa.",
+   "termos": [],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6ff7084afad63529",
+   "titulo": "Setor de saneamento pede adiamento da reforma tributária para 2028",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0FmaksxVjF6N0FEM1NIYllmQmdxZHJia2I2ejhJNkpqVU9zdkl6UmdxTUViRTVIWnhpZS0tdG9LdVF5N1ZMN1hBMGdyVTRsRDN2N2JxMGRuc2E2cVlyeTFzQ2R4UjdISU5oX2VUdlFhQ2xudDQtZFZuTjlLQTFSTzVhVXNBZ0ppWG1aOXR1X2N1R18tVGY5WE1hZElJdw?oc=5",
+   "veiculo": "Agência iNFRA",
+   "trecho": "",
+   "data": "2026-11-19T17:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Agência iNFRA de 19 de novembro de 2026, o setor de saneamento solicitou o adiamento da implementação da reforma tributária para o ano de 2028. A postulação reflete a busca do segmento por mais tempo de adaptação às novas regras fiscais.",
+   "pratica": "Na prática, a movimentação indica que empresas do setor de saneamento buscam negociar prazos diferenciados de transição para a nova tributação, o que pode impactar o planejamento tributário e regulatório de companhias da área.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7d38d12cc3f47dc5",
+   "titulo": "Custo da CBS segue indefinido às vésperas de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXEyZ1VSNTh1X1F6TUJabEtBaDRvdGFlSk1tYUdVMkg5b2dnaFZCM2ExTjcxcXJIN3YxSTJJQUFUQno5UVFKRl94bW5uT05pSEwtdDhtVnBzdmxEWmdDOV9PVDJOQzBlZWIxLVlWRlEwNWdPalhkeEVMSTBrSGg2QnVtS3hqUkUt?oc=5",
+   "veiculo": "SpaceMoney",
+   "trecho": "",
+   "data": "2026-11-19T16:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da SpaceMoney de 19 de novembro de 2026, o custo da Contribuição sobre Bens e Serviços (CBS) segue indefinido às vésperas de 2027. A indefinição gera expectativas e debates no cenário tributário nacional quanto à carga efetiva que será aplicada.",
+   "pratica": "Na prática, a indefinição do custo da CBS dificulta o planejamento financeiro e tributário das empresas para os próximos anos. Contribuintes e profissionais devem acompanhar os desdobramentos legislativos e regulatórios para mitigar impactos na formação de preços.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b5814f3bdf4b1ece",
+   "titulo": "STF vai julgar validade do ‘milagre da contribuição única’ na Previdência",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkdjbEpneld0UGRMZWRSZ0Joa2Jyc0hJQUtRRUZadUZSYmg2Q0ptYlhrZ2Y3aVE0YUlrbEJ3bk85Rk9KbTdRUlFWa2g1RmxsN1k0OTVLYUotRXVVSkpOeDNhVmlUczFmSWFEYzUxczlMUURhUFVSWWVlZVM2ZnFWQWFsLTZ6OHBvT3FGb3NTZlMwUE9LbTJ0cGU0QXBfYkp2cHpNOEpR?oc=5",
+   "veiculo": "MundoBA",
+   "trecho": "",
+   "data": "2026-11-19T16:02-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal vai julgar a validade da tese conhecida como o 'milagre da contribuição única' no âmbito da Previdência Social. A discussão envolve regras de cálculo de benefícios previdenciários e o impacto financeiro para o sistema público.",
+   "pratica": "Na prática, a decisão futura do STF trará segurança jurídica e definirá a possibilidade ou não de os segurados utilizarem essa regra específica de cálculo em seus benefícios.",
+   "termos": [
+    {
+     "termo": "contribuição única",
+     "explicacao": "Estratégia utilizada por segurados para buscar o aumento do valor do benefício previdenciário com base em regras de transição."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ab43a4e9233e4769",
+   "titulo": "Tributaristas discutem inclusão de CBS e IBS nas bases de cálculo do ICMS e ISS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZV9nRFJlVGxLSXlQcjBQbFAwSm1pNVUyMnhNZDFENnpOeW9pQnNRcExpTTY1UDRrT3BiRVp5NjJMRVVSU2lmNzRrX2plaU1aT1Rha3QxOC1MM1lDX0JMb1NIWWRwWHhyTmVXSEpQZlZwV2xDV0FXdXVUc3VpQXZqd1NLNW9zNkQzSk11R0h6NnlIYWRmOGRnckNVWVd0SE5LQVhza3N2eUdvemxJSU54aWtraC1PSXNL?oc=5",
+   "veiculo": "DComercio",
+   "trecho": "",
+   "data": "2026-11-19T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, tributaristas estão discutindo a possível inclusão da CBS e do IBS nas bases de cálculo do ICMS e do ISS. O debate envolve a repercussão da transição e da nova arquitetura dos tributos sobre o consumo no sistema brasileiro.",
+   "pratica": "Na prática, a definição sobre essas bases de cálculo impactará diretamente a carga tributária das empresas e o planejamento fiscal, exigindo atenção dos profissionais da área.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, instituída pela Reforma Tributária para substituir PIS e Cofins."
+    },
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços, criado para unificar a tributação estadual e municipal sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "028f680f229575a5",
+   "titulo": "Reforma Tributária: créditos da CBS podem pressionar caixa das empresas em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMU5Cd1hVYzBUQjc3Wmg5SFgxY0ZNQjE3NnQyQWlUMnlxNEJBOUFNaVBINFBBRDg4V1AxbFNXZWQtS3duTTJweFV2Y0w4enNEU19GbDlQX2l0ZTdtN0xicTdsSzN4T3hfbE12c0cwRmhybGVWRTRMT2o5c0Z4QzlZVDlBaDZwbERkVklmT3pRWjJNWGJMWVlMNFNxbkhrV1p6RElIT2t6X0Q1aHR1ZkJoWUlLOWZTZFNCR1BHUG1SeF9DNHpoX1BxbF9IRHBUdF9Gb2ozM2d0dUZZNkxDSmRxWDRZWV85YU1jVG1zZnF5SQ?oc=5",
+   "veiculo": "Portal do Agronegócio",
+   "trecho": "",
+   "data": "2026-11-19T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Reforma Tributária pode trazer impactos para o fluxo financeiro das companhias com a questão dos créditos da CBS a partir de 2027. O título alerta para um ponto de atenção na gestão do caixa empresarial decorrente do novo modelo de tributação.",
+   "pratica": "Na prática, as empresas e profissionais da área devem redobrar o planejamento financeiro e tributário para mitigar eventuais pressões no caixa com a chegada da nova contribuição.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista na Reforma Tributária para unificar tributos federais sobre consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "992a4216e27e05a3",
+   "titulo": "Aposentado com câncer de próstata pode parar de pagar Imposto de Renda",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenljeHJ0c2JDRWtzUW1JNmJsbWhKTFN6OGZRejFjWFFYVlFybTNEX0JFc3BOZng5T0QzR1BRMVJIdzBrZ3lrZFZwUEg4eUQ4VVhyd2hkVi1fX1RvWEFDTDVqY05IbDJTY19OSGpBajFxdUFKX0lfcF9fRVNOYU1XWV9EUU9zejBQV3Z2bFZMemxCS1ZtdUdGUUhHTTR4azFzb3VNZDZhVURBYmpkVWtMMFBiOA?oc=5",
+   "veiculo": "bra1.com.br",
+   "trecho": "",
+   "data": "2026-11-19T15:57-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete, aposentados que possuem câncer de próstata podem vir a parar de pagar o Imposto de Renda. A informação destaca a discussão sobre a isenção tributária para portadores dessa condição de saúde.",
+   "pratica": "Na prática, a notícia sinaliza uma possibilidade de planejamento ou discussão jurídica para contribuintes nessa condição buscarem a isenção, embora mais detalhes dependam da análise do caso concreto e da legislação.",
+   "termos": [
+    {
+     "termo": "Imposto de Renda",
+     "explicacao": "Tributo federal incidente sobre a renda e os proventos de contribuintes."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "82c4e76d9750feb2",
+   "titulo": "Alíquota da CBS de 11,3% vai ao Senado",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vRGNvcUkwdEFWMFBJOEhlRFdrWXFWQldSWERReEVOb3lVdjFGaGpkZzE4b0JLcHp1dkE0SlEzWXU3U0F5c2NTY3JrVUd5MWc5eUlvbV9lc2RmZy1vQVJOSTh3UFBfS3pjcHEtZ2lQbWNYWXY1Qk9HMmx3?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-19T15:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, a discussão sobre a alíquota da CBS de 11,3% avançou para apreciação no Senado Federal. O tema insere-se no contexto das discussões legislativas sobre o novo sistema de tributação do consumo.",
+   "pratica": "Na prática, a movimentação indica que os debates sobre a carga tributária da nova contribuição chegam à Casa revisora, exigindo atenção de empresas e profissionais quanto aos reflexos futuros na apuração de tributos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no âmbito da reforma da tributação do consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9a2c60ec5862ee38",
+   "titulo": "Receita Federal e notas com CBS: o que muda com o novo mapeamento de falhas?",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TUWdDdXkya3hFX203ci02Z25PZUlrVlJJd1BvMnJ4eFZaSEw3R2pwSm5fMVBKYkV3Y3plY2RrQkJsbUNZRldmMVZ3VTBYc1FMVmg5TjZDb3hvdXc4NGpiUWl6Q3N2OWhTeVF0dE1JUHhZMTJSc0FlVFdZbWdSdw?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-19T15:36-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal implementou mudanças relacionadas às notas fiscais com a CBS e a um novo mapeamento de falhas. A discussão aborda os reflexos operacionais dessa fiscalização para os contribuintes.",
+   "pratica": "Na prática, as empresas devem revisar seus sistemas de emissão de notas fiscais e procedimentos de compliance para se adequar ao novo mapeamento de falhas da Receita.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da Reforma Tributária."
+    },
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ad90434bb8450c98",
+   "titulo": "Apuração Assistida na Reforma Tributária: o que muda para as empresas?",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWlfbzF4Y0R6YkFnLTdwaGtqd2J1MDhoeU40R0xhczJ2TDNJc0hSeTZKbFRwMXFIUjJDT1NUUTlmdTJOeUx5X3p2YkFVV2ctRGtIYkdEVFhPbHNPdjRBdi1RTF9oaDlVUWFVMklyZ2xseENIQ3FURmtwaVdUMUxQQVdjR2RRdEFMNDBnVHJn?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-19T15:36-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Omie de novembro de 2026, discute-se a Apuração Assistida no contexto da Reforma Tributária e suas implicações para as empresas. O tema aborda as novidades trazidas pelo novo modelo tributário para a rotina de apuração dos contribuintes.",
+   "pratica": "Na prática, as empresas e profissionais devem acompanhar as novas regras de apuração assistida para adequar seus procedimentos de compliance e conformidade fiscal.",
+   "termos": [
+    {
+     "termo": "Apuração Assistida",
+     "explicacao": "Mecanismo associado ao cálculo e controle de tributos no âmbito das novas regras da Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7f6cb59485d1ea05",
+   "titulo": "Alíquota de 11,3% da CBS para 2027: por que o Senado contesta o cálculo do TCU?",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lSVBVUmZ2VHJ5blg3T2JlY3NHMHRNUk04ZW52cXpTVTBYNGlZZ2hINzlCNV9PVkFsSThsOFl1aW1UWVFZOGd3ZmttZFQ1dlF6ZVRzekJpejFSeE1oQzk0LS1NSUhxdXlFU05oMmt4YXpOTkdp?oc=5",
+   "veiculo": "Omie",
+   "trecho": "",
+   "data": "2026-11-19T15:36-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado Federal está contestando o cálculo feito pelo TCU em relação à alíquota de 11,3% da CBS prevista para o ano de 2027. A discussão envolve a apuração e a definição desse percentual no contexto das novas regras tributárias.",
+   "pratica": "Na prática, a indefinição e o debate sobre o cálculo da alíquota geram incertezas para empresas e profissionais na projeção de custos e no planejamento tributário para a vigência da CBS em 2027.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da Reforma Tributária para unificar tributos federais."
+    },
+    {
+     "termo": "TCU",
+     "explicacao": "Tribunal de Contas da União, órgão que auxilia o Congresso na fiscalização contábil, financeira e orçamentária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "55c20ad4e4b5fee2",
    "titulo": "Carf: benefícios estornados e contribuições obrigatórias não podem ser excluídos do IRPJ/CSLL",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0pVRHRtOXlsTkllZmNvODJTMjRGdHZIWWQ5VFF4OGc3RGRKelhxMzZMRWFZc2tTM0ljaWZQYUxha2xRNjlYTlEyQy1McTRhaWF1Q3VEYUIwQjZtYjBZSkR2VHBXckQtRkF6VFh0bVpCYi1uOWRGTndrQVZuZmZCejZLbmhrNFRtMi1ubUF0cjc0b3hDSS00bkY5cHk0SW5RVTc0MFdEcXdBV0dDb3ctZGpNRmZLTnFRdU4wd0hkbDg?oc=5",
@@ -18994,7 +19704,8 @@
   "2026-11-16": "No boletim de hoje, destacam-se três assuntos de grande relevância para o direito tributário brasileiro. Primeiramente, o STJ definiu em tese vinculante que a CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, uniformizando esse entendimento. Em segundo lugar, o Carf anulou uma cobrança bilionária de IRPJ e CSLL envolvendo a incorporação da Bertin pela JBS. Por fim, o mecanismo de cashback da reforma tributária começará em janeiro, abrangendo cerca de 70 milhões de pessoas e gerando ampla expectativa sobre regras e procedimentos. Esses temas importam porque impactam diretamente o contencioso judicial, a segurança jurídica e a aplicação das novas regras fiscais.",
   "2026-11-17": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário: as discussões sobre a Reforma Tributária, que envolvem a avaliação no Senado de alternativas para reduzir a alíquota de 11,3% da CBS com a presença do ministro da Fazenda, e a manutenção, pela Justiça, do IBS e da CBS na base de cálculo do ICMS na maioria das ações. Além disso, no âmbito dos tributos estaduais e federais, destaca-se o anúncio de regras sobre o perdão automático de dívidas para os Microempreendedores Individuais (MEI) com previsão para 2027. Esses temas importam porque impactam diretamente a carga tributária, a conformidade fiscal dos contribuintes e a segurança jurídica durante o período de transição das normativas vigentes.",
   "2026-11-18": "Bem-vindo ao boletim diário de direito tributário. Entre os destaques de hoje, o Superior Tribunal de Justiça definiu em recurso repetitivo que o uso da caderneta de poupança como conta-corrente não afasta a sua impenhorabilidade, uniformizando a proteção desse ativo. No âmbito da Reforma Tributária, o debate sobre a alíquota da CBS gerou impasses no Senado entre o governo e o setor produtivo, enquanto a Receita Federal garantiu o aproveitamento de créditos de PIS e Cofins para quitar a nova contribuição. Esses temas importam porque moldam a segurança jurídica na proteção patrimonial dos contribuintes e impactam diretamente a transição para o novo modelo de tributação sobre o consumo.",
-  "2026-11-19": "Nesta edição, destacam-se três temas fundamentais para o direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça (STJ), no Tema 1.228 sob o rito dos recursos repetitivos, fixou o entendimento de que a existência de CNPJ não transforma o titular de cartório em empresa, desobrigando-os do recolhimento do salário-educação. Em segundo lugar, o Senado aprovou um ajuste fiscal com uma emenda bilionária que altera diretamente o fluxo de caixa das agroindústrias exportadoras. Por fim, o STJ determinou a suspensão dos processos sobre o fim antecipado do benefício fiscal do Perse, exigindo atenção do setor hoteleiro. Esses tópicos são de extrema importância por impactarem diretamente a exigibilidade de contribuições, a estrutura financeira de setores produtivos e a gestão de litígios fiscais."
+  "2026-11-19": "Nesta edição, destacam-se três temas fundamentais para o direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça (STJ), no Tema 1.228 sob o rito dos recursos repetitivos, fixou o entendimento de que a existência de CNPJ não transforma o titular de cartório em empresa, desobrigando-os do recolhimento do salário-educação. Em segundo lugar, o Senado aprovou um ajuste fiscal com uma emenda bilionária que altera diretamente o fluxo de caixa das agroindústrias exportadoras. Por fim, o STJ determinou a suspensão dos processos sobre o fim antecipado do benefício fiscal do Perse, exigindo atenção do setor hoteleiro. Esses tópicos são de extrema importância por impactarem diretamente a exigibilidade de contribuições, a estrutura financeira de setores produtivos e a gestão de litígios fiscais.",
+  "2026-11-20": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário. Primeiramente, entrou em vigor a nova lei que obriga a Receita Federal a seguir decisões do STF e do STJ, medida que busca alinhar o entendimento do Fisco aos precedentes das cortes superiores e traz maior segurança jurídica para as empresas. No âmbito do contencioso, o STF e o STJ fecharam três teses favoráveis aos contribuintes em 2026, validando também o limite à compensação de créditos tributários. Por fim, os debates sobre a Reforma Tributária ganham força com a discussão em torno da alíquota e dos impactos da CBS de 11,3% para as empresas em 2027, tema que afeta diretamente o fluxo de caixa corporativo e a transição do novo modelo de consumo."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -19443,9 +20154,18 @@
   "Verbas indenizatórias": "Pagamentos feitos a agentes públicos para ressarcir despesas realizadas no exercício de suas funções.",
   "Convênios de ICMS": "Atos normativos celebrados entre os Estados que autorizam a concessão de benefícios fiscais relativos ao imposto.",
   "anistia de ISS": "Perdão legal de multas e juros relacionados ao Imposto Sobre Serviços.",
-  "supressão de instância": "Prática processual vedada em que um tribunal superior analisa uma questão antes de passar pelos juízes e tribunais locais."
+  "supressão de instância": "Prática processual vedada em que um tribunal superior analisa uma questão antes de passar pelos juízes e tribunais locais.",
+  "Autonomia federativa": "Independência política e administrativa garantida pela Constituição aos estados, municípios e Distrito Federal.",
+  "Direito tributário": "Ramo do direito público que disciplina a arrecadação e a cobrança dos tributos.",
+  "Modulação de efeitos": "Técnica pela qual o STF limita os efeitos temporais de uma decisão para evitar grandes impactos financeiros retroativos.",
+  "compensação": "Forma de extinção do crédito tributário em que o contribuinte utiliza créditos próprios contra a Fazenda Pública para quitar tributos.",
+  "teses": "Entendimentos jurídicos firmados pelos tribunais superiores aplicáveis a casos semelhantes.",
+  "interposição fraudulenta": "Utilização de um laranja ou testa-de-ferro para ocultar o verdadeiro adquirente, proprietário ou responsável por uma operação mercadual ou fiscal.",
+  "STF e STJ": "Tribunais superiores que dão a palavra final sobre a interpretação das leis e da Constituição no país.",
+  "Imposto de Renda": "Tributo federal incidente sobre a renda e os proventos de contribuintes.",
+  "Apuração Assistida": "Mecanismo associado ao cálculo e controle de tributos no âmbito das novas regras da Reforma Tributária."
  },
- "atualizado_em": "2026-11-19T06:51-03:00",
+ "atualizado_em": "2026-11-20T06:48-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
