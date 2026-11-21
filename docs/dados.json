@@ -1,6 +1,641 @@
 {
  "itens": [
   {
+   "id": "cdf31e98d56ea32b",
+   "titulo": "Isenção de ICMS pode ampliar investimentos das GCMs do Alto Tietê",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXBiRXN2akl5eUZSbEFsUHVfN1h6bFNjM3ZLS1VwSUZpc3RNN0p5Rm1XLXVNbXEyai1lSkhMR3V4U1lWVTJDSjFySmJfUlRTTmF2ODNOSUdEQ21MaE11b25IWFhSQjRyMy1BMWNmUzNla2lMVE52V2luWmV1bi1OSXBDOFhFTXBmNmRDb0R6bHhERzl1bVdxbXZzYWM0YXhqYk5wbU9tSjFlRXFoczBYck04ZFIyX3p3N0JzbmNvaw?oc=5",
+   "veiculo": "Diário de Suzano",
+   "trecho": "",
+   "data": "2026-11-21T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário de Suzano, a discussão sobre a isenção de ICMS pode ampliar os investimentos das Guardas Civis Municipais (GCMs) do Alto Tietê. A medida envolve potencial desoneração tributária aplicável a essas corporações na região mencionada.",
+   "pratica": "Na prática, a desoneração pode baratear a aquisição de equipamentos e viaturas pelas guardas municipais, gerando impacto indireto no planejamento de compras públicas e nas relações com fornecedores.",
+   "termos": [
+    {
+     "termo": "Isenção de ICMS",
+     "explicacao": "Dispensa legal do pagamento do imposto estadual sobre circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9a19cd164a5b534c",
+   "titulo": "Concessionária do Pacaembu fez doação irregular via Rouanet para evento da esposa",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXJubFdxQlY3SXE1OFVDZlphR3puS0NFRkpXbmxMdmx4Y1h0cG91VW5kWHdJR3RLUURNOVdMeGtFRzE2OHhpNjNIbzVnTnJKSW54UE83T0ZqczBKclZnRGZFRFVnM1p0dTNZaTFqb3JJRi16clJCTE9QQkszaFBybVhpYnpyTF9NTzRhMW0yMGhOb1BiMDJuQVcxT2p5MWw0WEtxRmgzMzhNSmlDZTFvUXpReGtwdw?oc=5",
+   "veiculo": "PAIPEE -",
+   "trecho": "",
+   "data": "2026-11-21T04:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a concessionária do Pacaembu teria realizado uma doação irregular por meio da Lei Rouanet destinada a um evento da esposa. Trata-se de uma questão envolvendo incentivos fiscais federais e a conformidade na aplicação de recursos públicos indiretos.",
+   "pratica": "Na prática, o caso reforça a necessidade de rigor e compliance estrito na utilização de mecanismos de incentivo fiscal para evitar desvios de finalidade e responsabilizações legais.",
+   "termos": [
+    {
+     "termo": "Lei Rouanet",
+     "explicacao": "Mecanismo federal de incentivo fiscal que permite a dedução de valores do Imposto de Renda para o apoio a projetos culturais."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "acbee07128f53ef9",
+   "titulo": "Transação tributária e devedor contumaz",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0RSdDFmWndUMC1Ra1pNZWtFcW5hcmp4U2IyR2wwbkJ6cjNiOWF4QVgzdGJKNlN1NHJ6V00tRHJyNXc1dmV4bnRiN1ZFQzBfc1lRSDhMcFVkcDdDVW9rLVpJT0kxSkFsQm9KVGZzSTRCQ3huWVEtUDZuOHdBZ2Y1RGZGOTg5VGNfaVowTHdGUHU?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-21T03:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o tema em debate envolve a transação tributária aplicada a devedores contumazes. Trata-se de uma discussão relevante sobre os mecanismos de negociação de dívidas fiscais para contribuintes com histórico de inadimplência habitual. A análise jurídica foca nos limites e nas condições para a regularização fiscal desses devedores.",
+   "pratica": "Na prática, o debate orienta advogados e contadores sobre as perspectivas de negociação para clientes classificados como devedores contumazes. Acompanhar o tema é essencial para antecipar possíveis restrições ou facilidades na quitação de créditos tributários.",
+   "termos": [
+    {
+     "termo": "Transação tributária",
+     "explicacao": "Acordo entre o Fisco e o contribuinte para a terminação de litígios ou facilitação da cobrança de dívidas."
+    },
+    {
+     "termo": "Devedor contumaz",
+     "explicacao": "Contribuinte que pratica a inadimplência reiterada e sistemática de tributos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a064a5cee805ef21",
+   "titulo": "Receita Federal lança calculadora para comparar opções de negociação de dívidas",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1Y4MGpwUno5Um0zYVI3VGRnQ0RSUTNoVkNreDduOXZ5UkVCclRMT2VDS3Y4b3NDR0V4dnhrU3lVVVBQRzFyM2UwM01uNWh4bE00QVhad2twdjh2VXYwa3FDeVRtaVgwU2F6azJJVnc5YzQyRi1helpVZ0Vuel9naU5HNm5Md0d1S1E3b0FISXZ1N2NJc2Z2eWlkZUxhU20tZ3FkRVByUFNROXhTbnc2aUVIdEpybk5lLXF6c0hB?oc=5",
+   "veiculo": "Hora Brasil",
+   "trecho": "",
+   "data": "2026-11-21T02:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal lançou uma calculadora destinada a comparar diferentes opções de negociação de dívidas. A ferramenta auxilia contribuintes e profissionais na visualização e escolha das melhores alternativas para a regularização fiscal.",
+   "pratica": "Na prática, a nova ferramenta facilita o planejamento financeiro e a tomada de decisão de contribuintes e empresas na hora de negociar débitos tributários junto ao Fisco.",
+   "termos": [
+    {
+     "termo": "negociação de dívidas",
+     "explicacao": "Processo de acordo entre o contribuinte e o Fisco para a quitação de débitos tributários."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5682c3ebb02db0a1",
+   "titulo": "Contratos de 2027 são assinados antes da alíquota da CBS",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmNkUmJyMUF3SEJOUWI1Z2dBaUkxQ0cwZUxBelJ3TEZyRjliaWota3RveDk0eVFLMEQ2aXZsR1AyRkpNd242dHBaYlFiQjNWdHVCdHl5RFRWTkFSSGlKaV84cDY3ZGMtVmJjQnZqY1VLOXlWNWtBSVp5S2JHbVc2WHljcms0VG_SAYwBQVVfeXFMTVBrR1ItS2pTNG0zeUNUQmNKMWlOV215QkhMeTFtak9WZ2ZDNV9mZ1FvUThTeFFXUlVoSjROQTZhWl9fM3FuODFjMEpNbWE2Z1gxbnB0RlpnTVZFLThRVm94WnRLd1B4NlItaWtocGVLaWhtYi0waHFPTzVnMGItZ3FMczBydjA1THJ0RDA?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-11-20T22:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do jornal Estadão, contratos previstos para o ano de 2027 estão sendo assinados antecipadamente antes da incidência da alíquota da Contribuição sobre Bens e Serviços (CBS). A movimentação indica preocupação dos contribuintes com a chegada do novo tributo federal instituído pela Reforma Tributária.",
+   "pratica": "Na prática, a antecipação de contratos exige que empresas e advogados revisem o planejamento negocial para antecipar obrigações e mitigar o impacto de novas exigências fiscais. É preciso cautela jurídica para garantir a validade e a eficácia dessas avenças frente às regras de transição.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, imposto federal criado pela Reforma Tributária para unificar tributos sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "66a8431717491b24",
+   "titulo": "Pernambuco vai cobrar ICMS sobre o Imposto Seletivo em 2027",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXhpN2I4eWVzcEpicWJKR002bElfOXpUQktKcGZHZzhPdTIxLUVvZ0dwbHZtVmdFamtMZmRmbmZyX19ZZ193MjZUNmNPVWx6Q0ZYVUpRNjVWelUzTW1Wb2hSb1h6c01QaUIyNkFXYUlRUUlaQTVhZGZjVFJKNW9fSEFCb19XcDN1RWJZNGRNMjFxbFVJaW1aRUFSLW1ZMEXSAaQBQVVfeXFMTlN0VjMxMHpBakhGNmJsaTl1R1gyWEhrM3VRdGtDRVpLR2dueWxFUjZJbHB2UmdITHJuOVVYaWtmUE0zb1Q1YmlzSWVNWGEzZTg2ZDNNTG51M1dwRHpyTG9EcHpjVlRBLWExcFl2T1JvRlhBN1hwcWhFSGg1UE9yN2ctTjBRZ3d0OFQyRC1aQ0hTSUZUdGtyMFNtcURjaVBETWpzRWQ?oc=5",
+   "veiculo": "O Cafezinho",
+   "trecho": "",
+   "data": "2026-11-20T19:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Sefaz-PE",
+   "resumo": "Segundo a manchete, o Estado de Pernambuco planeja cobrar o ICMS sobre o Imposto Seletivo a partir do ano de 2027. A informação aponta uma movimentação fiscal estadual relacionada às mudanças tributárias previstas para o período.",
+   "pratica": "Na prática, a medida exigirá que empresas e contribuintes com atuação em Pernambuco monitorem os impactos dessa cobrança adicional em suas operações e planejamentos fiscais.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    },
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Novo tributo federal incidente sobre bens e serviços prejudiciais à saúde e ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "984fcb683201bdc6",
+   "titulo": "Incerteza sobre competência judicial para novos tributos gera alerta na reforma",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2w2ZFBCWEJmai0zWXdYYWRETkNVMkc4MnhLVkV6NzVrMDV6R3VOeDJxUzM5MTZkQUplTWVDWWZnNW5xelJoZUJkTURCZzM4ZUgwS3JiVlRPazVUNG5WRDJDejJjaUVld0VfN2RnVVl5QmdqR29rbVBvOEpfbllIQUFCWm0xUFA2RjFxbVZHaW0xMHJHeW5YY19mcVFBQU5MZzB0MGVHMG5Pdw?oc=5",
+   "veiculo": "paranahoje.com.br",
+   "trecho": "",
+   "data": "2026-11-20T18:48-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a discussão em torno da reforma tributária gerou um alerta devido à incerteza sobre qual será a competência judicial para julgar questões relativas a novos tributos. O cenário evidencia debates sensíveis no âmbito institucional sobre a definição de jurisdição para as futuras exações fiscais.",
+   "pratica": "Na prática, profissionais e empresas devem monitorar os rumos legislativos e regulatórios da reforma, pois a indefinição sobre o foro competente pode gerar insegurança jurídica e litígios na fase de implementação dos novos tributos.",
+   "termos": [
+    {
+     "termo": "Competência judicial",
+     "explicacao": "Indicação legal sobre qual órgão do Poder Judiciário tem o poder de julgar determinadas causas."
+    },
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Processo de alteração profunda das regras e da estrutura de arrecadação de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dd5e4e20ae363fbd",
+   "titulo": "Indefinição sobre Justiça competente para IBS e CBS preocupa Marcus Abraham",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWoybWx3VGdOTEd5bGJ2b0JvUkE5a1RBMXFGYXFkdU9vWUg0SFRpaVNCOUxuekQ4Z0FoZGhYSnFsY3pJd0tKVFMybGtGdklBX3NYQU81RkFpZDNXSkdRdWlsa3dmWEJHTHFVQnFsN1RrUFpDOFZYOWY0Qjg5dWZoWGd5RS01eFlTSFpTTE9aeTcteXFTS0JGbk1iQWU1dUxTcm5TaDE3ZEJzd3NxWXc?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-20T18:32-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, há uma preocupação manifestada por Marcus Abraham sobre a indefinição a respeito de qual será a Justiça competente para julgar questões relacionadas ao IBS e à CBS. O debate evidencia incertezas institucionais relevantes decorrentes do novo modelo tributário.",
+   "pratica": "Na prática, a falta de definição sobre o foro competente gera insegurança jurídica para contribuintes e profissionais que precisarão litigar sobre os novos tributos.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços previsto na Reforma Tributária."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços integrada à Reforma Tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "032d0ee377ae337f",
+   "titulo": "Em duplicidade de intimação, prevalece a contagem de prazos daquela feita no portal eletrônico",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2hIX0oxTldZLXc2OXBacTQ4WnB2Rk5wYS1maFlKeVh5b3h6VmtxcXRPeDdPaFR3dUl1bFYxTFYtWFZoS29xZ0lreDlENXFoekpBNHpDZnRuaHNSSFBrVDV3TzU0eWlKN3dlbF84cjdxNUNleDNTWU9iZnBPTENINkpfbFJNYzduNnNkaHNLX0JVZGZ5RXBzWlpta19IT054ZVJldTY5ZFVXa3ZldXU3X3dYWm1Kam12T0NLQ3QwY29Pd0dXLWoyRk15QVJJZw?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-20T18:30-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário de Justiça de 20 de novembro de 2026, em casos de duplicidade de intimação, deve prevalecer a contagem de prazos a partir daquela realizada no portal eletrônico. A diretriz processual impacta diretamente a tempestividade de manifestações e recursos na seara tributária.",
+   "pratica": "Na prática, advogados e contadores devem atentar-se rigorosamente às intimações eletrônicas para evitar a perda de prazos processuais quando houver duplicidade de avisos. O marco temporal válido passa a ser o do portal digital.",
+   "termos": [
+    {
+     "termo": "intimação",
+     "explicacao": "Ato pelo qual se dá conhecimento a alguém dos atos e termos de um processo."
+    },
+    {
+     "termo": "portal eletrônico",
+     "explicacao": "Ambiente digital oficial utilizado pelos órgãos judiciais ou administrativos para a prática de atos processuais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5572392ef99668c3",
+   "titulo": "MT ameaça recorrer ao STF contra plano de Lula que adia repasses",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdHBMbEk5UVlKZU52R2pRNEotTnY5SV9FZGYwdEMyV3NLYkl3VFBEbHJOQmxBZ0pkY3BFc2l6SE1ZYS1KZV9VWnR4c1g1NDNKX0t2MEV5ZjFyV3dZZUFWbGZneDJDdm5CX2JkRk14aTMzUWNTVzBOQXNhMzBKUE5nb09nclEyOUFrQm5ZdGh3bWRobDg?oc=5",
+   "veiculo": "O Mato Grosso",
+   "trecho": "",
+   "data": "2026-11-20T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o estado de Mato Grosso ameaça recorrer ao Supremo Tribunal Federal contra um plano do governo federal que prevê o adiamento de repasses financeiros. A discussão envolve a gestão de recursos públicos e pode gerar conflitos federativos sobre transferências de verbas.",
+   "pratica": "Na prática, a movimentação sinaliza possíveis contenciosos judiciais entre estados e a União em matéria de finanças públicas, exigindo monitoramento por profissionais da área.",
+   "termos": [
+    {
+     "termo": "Repasses",
+     "explicacao": "Transferências de recursos financeiros entre diferentes entes da federação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "594402dd9992dc17",
+   "titulo": "Créditos de IBS e CBS na Aquisição de Combustíveis: Como Funciona na Prática",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVVxZ2NhR0xLUE1hZHFtdlZIVmNlalVqakMzSWRuLTI3SEpyR096U1NDVjVKRGNCZUVJYXFldEJ5TUV2OVFqRmR4Smx0RHI2Qmh2WU81ZHAzRmJUdU01ekZ0dC1YMm1OZDl6MC1Idk9jWXNyQTdzNVFHTTZtUUlTQ1hvdjl1NklISjk3MEJOdkdKTm5oYjlXSm03ZUxkMFRPVXJ0RHlEUXc?oc=5",
+   "veiculo": "Tributário",
+   "trecho": "",
+   "data": "2026-11-20T16:17-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se como funciona na prática a apropriação de créditos de IBS e CBS na aquisição de combustíveis. O tema aborda a nova dinâmica de créditos dos tributos criados pela reforma tributária no setor de combustíveis.",
+   "pratica": "Na prática, a análise orienta advogados, contadores e empresas sobre o aproveitamento dos novos créditos tributários incidentes sobre combustíveis, exigindo atenção às regras operacionais.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela reforma tributária para substituir o ICMS e o ISS."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para substituir o PIS e a Cofins."
+    },
+    {
+     "termo": "Créditos",
+     "explicacao": "Valores que o contribuinte pode abater do imposto devido em etapas posteriores da cadeia econômica."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "57792801ecd5dbd4",
+   "titulo": "STF derruba cobrança de ICMS de 27% sobre energia elétrica no Maranhão",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGhWY0ZpU1JLQlpQOWVfWjlSc04xU2dkVU1vMFVTRUNKdWpaUXFjR1QzQUxJWFk5anhYMjFMamtGdmRRV29CcnR0U0dPSFIwVHVLRG1uQjFTdzVUdFBmdzBJanBNM3NQQWpxXzU5NDJOSm9PSUtwelN1bDF1Njl1RVUxS1lZRXo1QktYNDlNN0N2Snh5RFNvbTBBeTRabUhuQUM3Q2JibWstVW5RMHc?oc=5",
+   "veiculo": "Gilberto Léda",
+   "trecho": "",
+   "data": "2026-11-20T15:34-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal derrubou a cobrança da alíquota de 27% de ICMS incidente sobre o fornecimento de energia elétrica no estado do Maranhão. A decisão ataca diretamente a exação fiscal estadual sobre um insumo essencial.",
+   "pratica": "Na prática, a decisão abre caminho para que contribuintes maranhenses questionem a alíquota majorada de ICMS sobre a energia elétrica e pleiteiem a adequação da cobrança.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e serviços de transporte e comunicação, incluindo a energia elétrica."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "556f455fd3e00a0f",
+   "titulo": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGQ2c3pmRks5Z2VLdVVyTDVGMExOd2RuZVFFY2NtLUtXMkJJdkZPN2I1NG9kQTRVM2VLYnZDS3hKS3VsRmZTWEtNRnIzMFcyeTlXVU42T0M5aGl2TV9NOTVXMjVsTE9HZC1rWFhZd01wSmM2TUg2azBSOXZYc25hYVJKTzNZWXktbkU5dUdyZWthN1VwVW45OXVaZ3RFYldVejZNUG1aRDFhaU5zUFN4Rk02RlZlUQ?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-20T15:32-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate aborda os reflexos da reforma tributária nas questões de omissão e crédito, relacionando-as aos crimes empresariais. Trata-se de uma análise sobre como as novas regras do sistema tributário podem impactar a esfera penal das empresas.",
+   "pratica": "Na prática, profissionais e empresários devem redobrar a atenção aos procedimentos de apuração de créditos e conformidade fiscal para evitar riscos de responsabilização criminal decorrentes da reforma.",
+   "termos": [
+    {
+     "termo": "Crédito tributário",
+     "explicacao": "Valor que o contribuinte pode aproveitar para deduzir do imposto a pagar no sistema tributário."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3e236665c96dacee",
+   "titulo": "Receita Federal cancela dívidas previdenciárias do MEI a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjVhdXJJOWdvTmluSndvN3QwUWxvcmJVOWFJR2hyOGNKZFduY0FKdkhKbjlidHVvZVl2dE43LVFybG5zeG9DSnFvTDFhVmt6dnZaSkRfc3RaRnRYY3IwN2IycnZjRmI4U1U2WXplcTdJelpRUHBFOUc0NXNWNHZhUXJvaXJTaDVQckRDRE9TX201WXB4Y2Y3SmpuaFB5SXJKRHp3WE1R?oc=5",
+   "veiculo": "portalsilvalima.com.br",
+   "trecho": "",
+   "data": "2026-11-20T14:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal irá cancelar dívidas previdenciárias do MEI a partir de 2027. A medida impactará diretamente o passivo tributário dos microempreendedores individuais no período indicado.",
+   "pratica": "Na prática, a medida poderá aliviar a situação fiscal de microempreendedores individuais com débitos previdenciários pendentes, exigindo acompanhamento dos profissionais para verificar os reflexos nas certidões de regularidade.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual sujeito a regras simplificadas de tributação e arrecadação."
+    },
+    {
+     "termo": "Dívida previdenciária",
+     "explicacao": "Débitos relativos às contribuições destinadas à Seguridade Social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "da2d18f3b95ec645",
+   "titulo": "Ministro francês das Contas Públicas se declara contra imposto de regularização para ultrarricos",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQW0tNVprYWQ0NE9WNlRuNkJub1dfMEN5c01KZ2ZCUEptcEpYdUlpMEFoRm9sRWl1QWxzXzRfcmQtLVl6VlNVeEpldlJuWkJESUI2ekN1LUp4OURmVVdKbnFCR1lUQ3ZOQkwweFZVSlBQajVjZ1pBMnVmajJyOHFHR3UwckZoOHBZNTZHbzlYR3VzUUJwT3ZsM2NxQW9hZ3U4aXp2VGs3LWpMWGszNHU3MWR3dDN5T2lkaWtjU0hxdlZXX0hua25Lc20zazdUZEs1WGN3UDBsTnVSTmltS0Rnck1pYklKRHBIMnFMbkFBa1lvdw?oc=5",
+   "veiculo": "UOL Notícias",
+   "trecho": "",
+   "data": "2026-11-20T14:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o ministro francês das Contas Públicas declarou-se contrário à criação de um imposto de regularização voltado para os ultrarricos. O debate envolve a discussão política e fiscal sobre a tributação de grandes fortunas e mecanismos de regularização.",
+   "pratica": "Na prática, a declaração sinaliza resistência governamental a novas exações fiscais específicas para contribuintes de altíssima renda na jurisdição em questão, impactando o cenário de planejamento patrimonial internacional.",
+   "termos": [
+    {
+     "termo": "ultrarricos",
+     "explicacao": "Indivíduos que possuem patrimônio financeiro extremamente elevado."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b7e2adcc47dd75d8",
+   "titulo": "Benefícios de ICMS e pedágio entre Cascavel e Toledo estão no Tijolinho",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEotVzVmclhkMVZQNnR3Y0tDZ3Y5Q1JKX2VmQWNSNjZHVkVDd2szWmNWRUs1eWxpckdRd0tLbGRGSy1FQTdFd1dFYnFzLTJFTGswNlotWmNpUm9CMlVBc1c3MjRGMkJuZmI0ZWJ2TXd4Z19BNmwxQ3RFdE8tRWs5bklmMllZSDNFQjRVNXFiUXk5MVFVbkxGMWthcVFqaXJpRmM4QUhGQnN5alk0SGc?oc=5",
+   "veiculo": "Gazeta do Paraná",
+   "trecho": "",
+   "data": "2026-11-20T14:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo Gazeta do Paraná, benefícios fiscais de ICMS e o tema de pedágio entre Cascavel e Toledo são abordados na publicação Tijolinho. Como não há trecho detalhado disponível, as informações precisas sobre os impactos normativos permanecem restritas ao contexto jornalístico indicado.",
+   "pratica": "Profissionais e empresas que atuam na região devem acompanhar a publicação para verificar eventuais desdobramentos práticos sobre os benefícios de ICMS mencionados.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a45b79a111d5f338",
+   "titulo": "Fazenda de MG republica índices do VAF de 2024 e 2025 e cumpre decisão judicial sobre Uberlândia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmJKZWlyTVBWODB2amlBTk1HRGwyaE1uUTJMNy1IMVVUekttQ0lfbGdBUVBJZ1hpSENCY2tCdU1Ddkprc09aNmoxUE9HelpZMGRuRWZsU2dza1d1WkJXcklyWEJqX3QtaUVadE0xcHF5Z0lKMTJZaF9Ca3dHX1lMU093ekVNLTItR01sejlVSWd6MlF5QWpSMjFEbEFlc21Xanc2NVQ1d3oyY1VtaVNz?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-20T14:14-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Fazenda de MG",
+   "resumo": "Segundo a manchete, a Secretaria da Fazenda de Minas Gerais republicou os índices do Valor Adicionado Fiscal (VAF) referentes aos anos de 2024 e 2025. A medida foi adotada para cumprir uma decisão judicial específica relacionada ao município de Uberlândia.",
+   "pratica": "Na prática, a republicação altera os índices oficiais de repasse do ICMS, exigindo que municípios e contribuintes afetados confiram os novos percentuais divulgados pela Fazenda estadual.",
+   "termos": [
+    {
+     "termo": "VAF",
+     "explicacao": "Indicador econômico utilizado para calcular a participação dos municípios na arrecadação do ICMS."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "26f470d69e1d6f11",
+   "titulo": "MEI terá dívidas do INSS perdoadas pela Receita Federal a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUdzTlptdjB4NG1XOG5KTDFtZFZpS2JacU9rVWs1cW9sU3Y1eGJaMURoUjhKY1gtMmxCLUdNaTVtdVgybEJaTDB3Uy1mc0dER2YtSWU4M1ZKdWF2Si1OTVhpd3pTZHVmY1dXcXVFd21BQkJHRWwwcDlZa3JnOEoycUNCRnNYbnl2UWxQbFNUT2RVVEl2UTlWUGxxcHlGZUlNbDJ1M0VtR2lnYXc1bWlRWWt1ZER4Zw?oc=5",
+   "veiculo": "bra1.com.br",
+   "trecho": "",
+   "data": "2026-11-20T14:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, o MEI terá dívidas do INSS perdoadas pela Receita Federal a partir de 2027. A medida prevê o perdão de débitos previdenciários para essa categoria de contribuinte.",
+   "pratica": "Na prática, a medida poderá aliviar a situação fiscal de microempreendedores individuais com débitos previdenciários pendentes, exigindo acompanhamento das regras de aplicação que serão definidas.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado para pequenos negócios."
+    },
+    {
+     "termo": "INSS",
+     "explicacao": "Instituto Nacional do Seguro Social, responsável pela seguridade social e previdência no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "37506892a833e7ed",
+   "titulo": "Dívida de FGTS: MEIs e pequenas empresas têm desconto de até 70%",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2ZIT2t0WmN4TTdtaFREa1hSVWlKR1BKN21hd0tNTlY4V3NJQ2Y4eE45dWRfU05WZFkzU3ppUHhQYTRxREtFYTc5cjQxZ2hwaFd0elZQd05KcDJZNzRBR3lzUjUyNHNPUDlia2V2bU1rV0tESWtpVFhZczhaZ21kdEw4T0tBbll1clNWVWxjdjVfLTdNU3BWNlFXdVVvc2pPd0NzS1FWRQ?oc=5",
+   "veiculo": "DComercio",
+   "trecho": "",
+   "data": "2026-11-20T14:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do DComercio de 20 de novembro de 2026, microempreendedores individuais (MEIs) e pequenas empresas passam a contar com desconto de até 70% na quitação de dívidas de FGTS. A medida visa facilitar a regularização fiscal e o saneamento de débitos desses contribuintes de menor porte.",
+   "pratica": "Na prática, a novidade abre uma oportunidade importante para advogados e contadores auxiliarem clientes MEIs e micro/pequenas empresas a reduzirem o passivo trabalhista/previdenciário com o FGTS de forma mais vantajosa.",
+   "termos": [
+    {
+     "termo": "FGTS",
+     "explicacao": "Fundo de Garantia do Tempo de Serviço, obrigação patronal de depósito em favor dos empregados."
+    },
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, enquadramento simplificado para pequenos negócios."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f683293b7ecf2d71",
+   "titulo": "Reforma Tributária exige certificação OEA para suspender IBS e CBS de exportadoras",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME1Sc0xfdFhEa0x6Nkx3RXVrTm9icWtzZXRuV3QzNncxVjhzbEJTOWxvRXFlakN4SlRvbWlwUWVwNzZtSk9QQWxQTUlzSWVyZDB4bmt3LW9Qa1ItUEF1WTBUMl9SMm9KRi1fenpYbmlkWUNreFBKakFUSVNWbklOU2N3TjVIYVh1WG8zUG9jSm81dVM0X1BkOGZNNHNHSUcwUkpQeDEtVnRsdnFHMXNoYnlSNkJyVnBBX01rRg?oc=5",
+   "veiculo": "Comex do Brasil",
+   "trecho": "",
+   "data": "2026-11-20T13:27-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Reforma Tributária passa a exigir a certificação OEA para que empresas exportadoras possam suspender o IBS e a CBS. A medida conecta o cumprimento aduaneiro aos novos tributos decorrentes da reforma sobre o consumo.",
+   "pratica": "Na prática, as empresas exportadoras precisarão buscar a certificação OEA para garantir a suspensão desses tributos, exigindo maior rigor nos processos de compliance aduaneiro e tributário.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços criado pela Reforma Tributária para substituir ICMS e ISS."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para unificar PIS e Cofins no novo sistema."
+    },
+    {
+     "termo": "Certificação OEA",
+     "explicacao": "Selo de Operador Econômico Autorizado concedido a empresas consideradas seguras e confiáveis em suas operações aduaneiras."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b1fb043cad6587c0",
+   "titulo": "Receita Federal vai perdoar dívidas de 3,6 milhões de MEIs a partir de 2027; veja quem tem direito",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU29tMXNDRFBOdlhQalgtbi1kdXowNmNXV3V2eDc3aEVmTFZHUmpZRVc5c0FQNWRNazYyR0xPajFtSDFlTktpaE56ZV9aZ2RkemQ2MGhZQVQtVWhzc2hvTzBqcmVJX0NINnJ1OTVOMWZTVjAzY1ZWQWhsNUhnWTZNdnVrQlZaRGpCZ21fUUpFdU1uVzdFT2p2dEtXZEc5Z0RDVjYwSE4yMmF3WmZvVl9DbmJpb21kYjlOMHlMdk1mUnR2U0ZPcFVidWJZTnpnRDBqSjhHaV9GLTU2VnlVMDFGcHZJbEFaY1R2?oc=5",
+   "veiculo": "Portal Ponto PB",
+   "trecho": "",
+   "data": "2026-11-20T12:42-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal informou que vai perdoar dívidas de 3,6 milhões de MEIs a partir de 2027. A notícia detalha ainda que será preciso verificar quem preenche os requisitos para ter direito ao benefício.",
+   "pratica": "Na prática, a medida poderá aliviar o passivo tributário de milhões de microempreendedores individuais a partir de 2027, exigindo atenção dos profissionais para os critérios de elegibilidade.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Sigla para Microempreendedor Individual, regime tributário simplificado voltado para pequenos empreendedores."
+    },
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do Ministério da Fazenda responsável pela administração dos tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "af4fc21c2ba2c9da",
+   "titulo": "O vale-transporte pago em pecúnia integra, via de regra, a base de cálculo do Fundo de Garantia por Tempo de Serviço (FGTS)",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUzRDdkVBMVNmeGJNclRvMTh3aUpScE12blpLMGhxR3FqRUZjcEJPQ1FZZkQzZlMtUzRFN09LVVRfMmJHNC1lbF9EVGFsaTJ5aVZjdGNiMDJNSHNiS3BYRXdqa0pYS1luSW0tbjY3TlUxX0Zhb2pjc1pFVHljTmEwbExpaHJabTR4U0E5eDVFZE9rX1A2dGlkZ3pJX1cyNGpNU1NBa1l0NXB4ZzNyMXo1SUtwTmROblBlTzU3eTNvaFlRU0h5TThvVjBBSEtqLTRPa0pPYUp6SWo0cjFYTGE1all1U1o2LW9BZDJOYm9CVmY?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-20T12:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o pagamento de vale-transporte em dinheiro (pecúnia) integra, via de regra, a base de cálculo do Fundo de Garantia por Tempo de Serviço (FGTS). A orientação impacta a forma como os empregadores calculam os encargos trabalhistas sobre essa verba.",
+   "pratica": "Na prática, as empresas devem revisar a folha de pagamento para verificar se o vale-transporte pago em dinheiro está sendo computado corretamente no cálculo dos recolhimentos do FGTS, prevenindo passivos trabalhistas e tributários.",
+   "termos": [
+    {
+     "termo": "Pecúnia",
+     "explicacao": "Pagamento efetuado em dinheiro."
+    },
+    {
+     "termo": "FGTS",
+     "explicacao": "Fundo de Garantia do Tempo de Serviço, encargo trabalhista calculado sobre a remuneração."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "93d0cce80837f0c6",
+   "titulo": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXdWTUluM1V3dE9wMENrQm9DcWRtaUo4Ti1va2JWRTZuUnZVMzdDdlA1VEgyYks4eVpFSzhfWDl5SjYxR3dZbnRuVUZUR0JWWWpyZHBybUMwYllpNF9EbU1TLWowbTNmcHZtT25zNUczUWlzLUtCb3pEZ1hoc3Y4NGZJZ2Z6Z2xFUmlaU3c0MWVxc25Tc1BQWGVNM1g5ZmctbzM5VDB6cW1JMXpuOE5DUnpnVGFmWlVhNlVSOTVreUs4QTR0ZnVTb2UtRDJ3RWNmd2VjUmpFdElnQ2YzOEVpd0FOWXNndw?oc=5",
+   "veiculo": "Governo Federal",
+   "trecho": "",
+   "data": "2026-11-20T11:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal ampliou o acesso ao Ambiente de Produção Restrita do Piloto da CBS. A medida envolve o contexto de testes e implantação da nova contribuição federal prevista na reforma tributária.",
+   "pratica": "Na prática, a iniciativa amplia a possibilidade de testes e adaptação tecnológica por parte dos contribuintes e profissionais envolvidos com o novo sistema da CBS.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços, tributo federal instituído no contexto da reforma tributária para unificar PIS e Cofins."
+    },
+    {
+     "termo": "Ambiente de Produção Restrita",
+     "explicacao": "Ambiente virtual controlado disponibilizado pelo Fisco para testes e homologação de sistemas antes da entrada definitiva em vigor."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f8ea81658744b0e3",
+   "titulo": "EFD Contribuições 2027: do fechamento de 2026 á apuração da CBS em 2027",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVk5BVXREMy1QeHJWYkFXX0thZnp4Njd5eXE3YWYtQ2JkVkhhZDFCMFMtU2FHc3ZlS3F5Y1lBVHhNS2l5N1RVbVdCTXBISDBIU2Izd3hwdUhLbUIzemNiVFdoZDEzMnVzS3ZQcWhId3EwRE9wUW5BZWUzUXpKbGN3bkRyQ3JsQ2lXc3ppQXhic3FyTng3aWFsMVFRaHZYX3BfaWdTS0c0c0lDMGkyN0czX29HaG5Vdw?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-20T10:29-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o tema aborda a transição da EFD Contribuições em 2027, englobando o fechamento do exercício de 2026 e a posterior apuração da CBS. A discussão sinaliza as futuras adequações nas obrigações acessórias decorrentes da nova arquitetura tributária.",
+   "pratica": "Na prática, os profissionais contábeis e jurídicos devem se preparar antecipadamente para as adaptações sistêmicas e procedimentais exigidas pela apuração da CBS a partir de 2027.",
+   "termos": [
+    {
+     "termo": "EFD Contribuições",
+     "explicacao": "Escrituração Fiscal Digital utilizada para o recolhimento e apuração de tributos federais."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6c9886d245962aef",
+   "titulo": "Capacitação orienta empresários sobre precificação na Reforma Tributária",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXJZVEhmaklQX09WeEhkcld4UGcteEtJQjVlQXhQOFZCUEotZjhwdEtydEVHY0dMMXZnZ1NQbjRjX2dBYkZnVkwxUzZBU2FYQnRCMEtyM3ZzYndBSExWdWprN3dZLWdvQnVWQ0ZmZEdLY0VURnpTSkQxd2dQYmM2NDg4YkRteElIQWZVMWt2UTF0cEpjc0kwOVdSWFp2U2RMSk5ycmNHakdCZWlxc3VqM0lVZXrSAbQBQVVfeXFMUEFyWVRIZmpJUF9PVnhIZHJXeFBnLXhLSUI1ZUF4UDhWQlBKLWY4cHRLcnRFR2NHTDF2Z2dTUG40Y19nQWJGZ1ZMMVM2QVNhWEJ0QjBLcjN2c2J3QUhMVnVqazd3WS1nb0J1VkNGZmRHS2NFVEZ6U0pEMXdnUGJjNjQ4OGJEbXhJSEFmVTFrdlExdHBKY3NJMDlXUlhadlNkTEpOcnJjR2pHQmVpcXN1ajNJVWV6?oc=5",
+   "veiculo": "diariodigital.com.br",
+   "trecho": "",
+   "data": "2026-11-20T09:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foi realizada uma capacitação voltada para orientar empresários sobre estratégias de precificação diante das mudanças trazidas pela Reforma Tributária. A iniciativa busca preparar o setor produtivo para o novo cenário fiscal.",
+   "pratica": "Na prática, ajuda contribuintes e profissionais a recalcularem seus preços considerando as novas regras tributárias, evitando perdas de margem e problemas de conformidade.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que remodela a tributação sobre o consumo no Brasil."
+    },
+    {
+     "termo": "Precificação",
+     "explicacao": "Processo de definição do preço de venda de produtos ou serviços considerando custos e tributos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1c8354972c182012",
+   "titulo": "STJ avalia barrar recursos sobre extinção de execuções fiscais em lote",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZndabF82bVpSNnJKczd0ZHp5MDhKYlY4emhxQ1lPV3RpZldYRzZnMFRhNVhhNEZzZVJKZkNoTFcxZ0QyaTd4ZDRlbGpkU19NZzhhdGNYN3IwLUMySGlOYUs3aGgzS1JVeFVmYm1mc2x5anc0MDczTmc1SHA1ZGFNYlE1X1JMRFJCRGtTbUJNNnlnNlR3ZFN3ZXVyQU1Jb1hFYnpuTFRlcl8?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-20T08:54-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça avalia barrar recursos que tratam da extinção de execuções fiscais em lote. A discussão envolve o trâmite processual de cobranças massivas pelo Poder Judiciário.",
+   "pratica": "Na prática, a medida pode impactar a estratégia de defesa de contribuintes e a tramitação de processos volumosos de cobrança de tributos, exigindo atenção dos profissionais da área quanto ao cabimento de recursos.",
+   "termos": [
+    {
+     "termo": "Execuções fiscais",
+     "explicacao": "Ações judiciais utilizadas pelo Estado para cobrar dívidas de tributos não pagas pelos contribuintes."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4a1d4edff239e6e1",
+   "titulo": "Bancos terão que enviar dados de impostos ao Banco Central todo mês a partir de 2028",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTDBMY2xNM1NKOXZKTWM1M0hvNGZmVy1ldm1hT2VKZ0Y0SWNxbnJxQ2pidnFISWd4c0lyemlpcjFncXp4T1pfUEt2WG5sUGRqYmU5aWpDejNlMnh1b0RoY1o4cE9GOFZGZGk0d0ZlMmgxbDBQTDdmYnFSaDQtczlrWmg0UlZmLXZDTmF1XzI0ZmVRcmNZMF9fWkVIaVlwM1otU3lfTHZzSWNVR29Ua201eUI4VnFzVXQzcXhqN2p4NW5FMm9fOUE?oc=5",
+   "veiculo": "bra1.com.br",
+   "trecho": "",
+   "data": "2026-11-20T08:13-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Banco Central",
+   "resumo": "Segundo a manchete, os bancos terão a obrigação de enviar dados de impostos ao Banco Central em periodicidade mensal. A medida passa a vigorar a partir do ano de 2028.",
+   "pratica": "Na prática, a determinação exigirá que as instituições financeiras ajustem seus sistemas de conformidade e prestação de informações fiscais para atender ao novo padrão de exigência do Banco Central.",
+   "termos": [
+    {
+     "termo": "Banco Central",
+     "explicacao": "Autarquia federal que regula e fiscaliza o sistema financeiro nacional."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "09dd6a20557a521e",
    "titulo": "Reforma Tributária – III",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFU05KbE5ER1VnQ3QtWTUwdGdNUEowdFpGeXNXalFuTFBBQ2FKS3FoYnNOcHg2ZnJ1N2xvcmNoWEJfZ3hvOXVyemFxQk4weGJKNGpHOUFBY2pYWm94NzRKRVgwZUhtcUV5YWl3N2xzbURCUmZOMFBZ?oc=5",
@@ -19705,7 +20340,8 @@
   "2026-11-17": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário: as discussões sobre a Reforma Tributária, que envolvem a avaliação no Senado de alternativas para reduzir a alíquota de 11,3% da CBS com a presença do ministro da Fazenda, e a manutenção, pela Justiça, do IBS e da CBS na base de cálculo do ICMS na maioria das ações. Além disso, no âmbito dos tributos estaduais e federais, destaca-se o anúncio de regras sobre o perdão automático de dívidas para os Microempreendedores Individuais (MEI) com previsão para 2027. Esses temas importam porque impactam diretamente a carga tributária, a conformidade fiscal dos contribuintes e a segurança jurídica durante o período de transição das normativas vigentes.",
   "2026-11-18": "Bem-vindo ao boletim diário de direito tributário. Entre os destaques de hoje, o Superior Tribunal de Justiça definiu em recurso repetitivo que o uso da caderneta de poupança como conta-corrente não afasta a sua impenhorabilidade, uniformizando a proteção desse ativo. No âmbito da Reforma Tributária, o debate sobre a alíquota da CBS gerou impasses no Senado entre o governo e o setor produtivo, enquanto a Receita Federal garantiu o aproveitamento de créditos de PIS e Cofins para quitar a nova contribuição. Esses temas importam porque moldam a segurança jurídica na proteção patrimonial dos contribuintes e impactam diretamente a transição para o novo modelo de tributação sobre o consumo.",
   "2026-11-19": "Nesta edição, destacam-se três temas fundamentais para o direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça (STJ), no Tema 1.228 sob o rito dos recursos repetitivos, fixou o entendimento de que a existência de CNPJ não transforma o titular de cartório em empresa, desobrigando-os do recolhimento do salário-educação. Em segundo lugar, o Senado aprovou um ajuste fiscal com uma emenda bilionária que altera diretamente o fluxo de caixa das agroindústrias exportadoras. Por fim, o STJ determinou a suspensão dos processos sobre o fim antecipado do benefício fiscal do Perse, exigindo atenção do setor hoteleiro. Esses tópicos são de extrema importância por impactarem diretamente a exigibilidade de contribuições, a estrutura financeira de setores produtivos e a gestão de litígios fiscais.",
-  "2026-11-20": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário. Primeiramente, entrou em vigor a nova lei que obriga a Receita Federal a seguir decisões do STF e do STJ, medida que busca alinhar o entendimento do Fisco aos precedentes das cortes superiores e traz maior segurança jurídica para as empresas. No âmbito do contencioso, o STF e o STJ fecharam três teses favoráveis aos contribuintes em 2026, validando também o limite à compensação de créditos tributários. Por fim, os debates sobre a Reforma Tributária ganham força com a discussão em torno da alíquota e dos impactos da CBS de 11,3% para as empresas em 2027, tema que afeta diretamente o fluxo de caixa corporativo e a transição do novo modelo de consumo."
+  "2026-11-20": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário. Primeiramente, entrou em vigor a nova lei que obriga a Receita Federal a seguir decisões do STF e do STJ, medida que busca alinhar o entendimento do Fisco aos precedentes das cortes superiores e traz maior segurança jurídica para as empresas. No âmbito do contencioso, o STF e o STJ fecharam três teses favoráveis aos contribuintes em 2026, validando também o limite à compensação de créditos tributários. Por fim, os debates sobre a Reforma Tributária ganham força com a discussão em torno da alíquota e dos impactos da CBS de 11,3% para as empresas em 2027, tema que afeta diretamente o fluxo de caixa corporativo e a transição do novo modelo de consumo.",
+  "2026-11-21": "Nesta edição, destacam-se três importantes temas do cenário fiscal. Primeiramente, o Supremo Tribunal Federal derrubou a cobrança da alíquota de 27% de ICMS sobre a energia elétrica no Maranhão, atacando diretamente essa exação estadual sobre um insumo essencial. Em segundo lugar, a Reforma Tributária gera forte preocupação institucional, evidenciada pela indefinição sobre a Justiça competente para julgar questões relativas ao IBS e à CBS, além da antecipação de contratos previstos para 2027 antes da nova incidência. Por fim, na seara das dívidas, a Receita Federal anunciou que irá perdoar e cancelar débitos previdenciários de 3,6 milhões de MEIs a partir de 2027, impactando diretamente o passivo tributário dessa categoria."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -20163,9 +20799,25 @@
   "interposição fraudulenta": "Utilização de um laranja ou testa-de-ferro para ocultar o verdadeiro adquirente, proprietário ou responsável por uma operação mercadual ou fiscal.",
   "STF e STJ": "Tribunais superiores que dão a palavra final sobre a interpretação das leis e da Constituição no país.",
   "Imposto de Renda": "Tributo federal incidente sobre a renda e os proventos de contribuintes.",
-  "Apuração Assistida": "Mecanismo associado ao cálculo e controle de tributos no âmbito das novas regras da Reforma Tributária."
+  "Apuração Assistida": "Mecanismo associado ao cálculo e controle de tributos no âmbito das novas regras da Reforma Tributária.",
+  "Lei Rouanet": "Mecanismo federal de incentivo fiscal que permite a dedução de valores do Imposto de Renda para o apoio a projetos culturais.",
+  "negociação de dívidas": "Processo de acordo entre o contribuinte e o Fisco para a quitação de débitos tributários.",
+  "Competência judicial": "Indicação legal sobre qual órgão do Poder Judiciário tem o poder de julgar determinadas causas.",
+  "intimação": "Ato pelo qual se dá conhecimento a alguém dos atos e termos de um processo.",
+  "portal eletrônico": "Ambiente digital oficial utilizado pelos órgãos judiciais ou administrativos para a prática de atos processuais.",
+  "Repasses": "Transferências de recursos financeiros entre diferentes entes da federação.",
+  "Dívida previdenciária": "Débitos relativos às contribuições destinadas à Seguridade Social.",
+  "ultrarricos": "Indivíduos que possuem patrimônio financeiro extremamente elevado.",
+  "VAF": "Indicador econômico utilizado para calcular a participação dos municípios na arrecadação do ICMS.",
+  "Certificação OEA": "Selo de Operador Econômico Autorizado concedido a empresas consideradas seguras e confiáveis em suas operações aduaneiras.",
+  "Pecúnia": "Pagamento efetuado em dinheiro.",
+  "Ambiente de Produção Restrita": "Ambiente virtual controlado disponibilizado pelo Fisco para testes e homologação de sistemas antes da entrada definitiva em vigor.",
+  "EFD Contribuições": "Escrituração Fiscal Digital utilizada para o recolhimento e apuração de tributos federais.",
+  "Precificação": "Processo de definição do preço de venda de produtos ou serviços considerando custos e tributos.",
+  "Execuções fiscais": "Ações judiciais utilizadas pelo Estado para cobrar dívidas de tributos não pagas pelos contribuintes.",
+  "Banco Central": "Autarquia federal que regula e fiscaliza o sistema financeiro nacional."
  },
- "atualizado_em": "2026-11-20T06:48-03:00",
+ "atualizado_em": "2026-11-21T06:39-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
