@@ -1,6 +1,620 @@
 {
  "itens": [
   {
+   "id": "af1b67b200486af4",
+   "titulo": "Carf valida IRPJ e CSLL contra a Caixa por ganho em troca de ações da Bolsa",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjNLcTNadjhrNGM1YVdHdGJLYjF2YUZMR1lTeUg5OC11UDBvWVl3OUJ5dWtoa2NISnk4a1ZuRks2SjFpZGx0QjlBWlhrd19EMTJUYk1HMXR6RUd1RXBMV2FZNGdTemhsbl9qaDZFT0t0M0lVdXV0YzFwT0k2MzJpc1NqaHRjRjlkRUdnckJLZ1hnU0VvWXVOc25jb3JwX0hZUWJRTG5IcHFwZw?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-22T06:27-03:00",
+   "tipo": "Julgamento",
+   "tema": "Imposto de Renda",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o Carf validou a cobrança de IRPJ e CSLL contra a Caixa Econômica Federal decorrente de ganho obtido em troca de ações da Bolsa. A decisão administrativa confirma a incidência dos tributos sobre essa operação financeira específica.",
+   "pratica": "Na prática, o entendimento reforça a fiscalização e a tributação de ganhos corporativos atrelados a trocas acionárias, servindo de alerta para empresas com operações semelhantes.",
+   "termos": [
+    {
+     "termo": "IRPJ",
+     "explicacao": "Imposto sobre a Renda da Pessoa Jurídica incidente sobre os lucros das empresas."
+    },
+    {
+     "termo": "CSLL",
+     "explicacao": "Contribuição Social sobre o Lucro Líquido destinada ao financiamento da seguridade social."
+    },
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações da Receita Federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5e8a7cf7f349b593",
+   "titulo": "Agenda de política: Câmara deve votar ajuste fiscal e Lula discute nome para STF",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTI1bDlHUm85U2FxOHRHblpleEFFN2Q4STZTaWg2NHVlaGYzaEU4cVg0SDZSV0pMTzc1c2Q5S2VOcUR5dktVRUd2WnpnY1d3UjRzaXZkd2VGRGJpaGExNS0yd0tZZmJINVFtVGpTc3drNllGYjdBeVpISTZPSVB3VE9IQ2V3N3FZY0x3QUtVeTAzbC1BaXZJY01faXVrTks5WGV0ZU9fdEJlMnhyd21uaHhfLURRSnZOY1NkZG41Z0JzYy1qSzh1UXc4UFR2c1ZxTE9v0gHiAUFVX3lxTE1sNTNGbkhDOFpUUlhlNmwwZHlMNVlsWWxmdWRiQ3pxb0x4ZFJ2TnJvZEVSVGdIaGRVUnVtYTFsOUxBNVh3cjVqWUhpWTU0WC1JRHJnRExZT3ZnN1Izelh2akhHYUlFTTM5ZU1tSTc2YmttMXJrSF9BNXNVX2RKczg0dGI1Y1ZOZWQ5b3NtaUpVLWJkS25TZ0V2eWxZeDVLY3ZuOFVkei02cS0tYy1UN2ZNRmFIeUY4SnpOUzJTb18xRkZxX1RYd043OWczcGh0amhDd3BYdUJoR3ZRNktsaUFOeHc?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-22T06:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a agenda política prevê que a Câmara deve votar medidas de ajuste fiscal. Além disso, o Presidente Lula discute a indicação de um novo nome para o STF.",
+   "pratica": "A votação de um ajuste fiscal pode trazer impactos relevantes para as finanças públicas e o ambiente tributário, exigindo acompanhamento por parte dos profissionais da área.",
+   "termos": [
+    {
+     "termo": "ajuste fiscal",
+     "explicacao": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ef5ebf2645eb9544",
+   "titulo": "Uma decisão de setembro do Carf colocou em xeque uma prática de grandes grupos empresariais, não só do Brasil, de utilizar o caixa que sobra em uma subsidiária para cobrir a necessidade da outra sem ter que pagar altos juros ao banco. A súmula do tri",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMMmM3X25NMXc1dWNuWlAzUUp4R1FJLTVGLVkwNHVyRVVGdFFERTgyOHdzZjdsNFdUSVJDUHE5WFhCZG5CMk0xcHl0NnhXTDFEWEE?oc=5",
+   "veiculo": "Instagram",
+   "trecho": "",
+   "data": "2026-11-22T06:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Planejamento e compliance",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, uma decisão do Carf proferida em setembro colocou em dúvida a prática adotada por grandes grupos empresariais de utilizar o caixa excedente de uma subsidiária para suprir necessidades de outra. Essa movimentação interna evita o recurso a empréstimos bancários com taxas elevadas. Contudo, a situação gerou questionamentos no âmbito administrativo.",
+   "pratica": "Na prática, grandes grupos empresariais devem redobrar a cautela ao realizar o remanejamento financeiro entre subsidiárias para evitar riscos fiscais apontados pela fiscalização e pelo Carf. Os profissionais da área devem monitorar o desdobramento dessa discussão para proteger o planejamento de caixa das companhias.",
+   "termos": [
+    {
+     "termo": "Carf",
+     "explicacao": "Órgão administrativo que julga recursos de autuações fiscais federais."
+    },
+    {
+     "termo": "Subsidiária",
+     "explicacao": "Empresa controlada por outra maior dentro de um grupo corporativo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "503495301a40b76b",
+   "titulo": "Decisão do STJ define que impugnação administrativa não interrompe prescrição tributária",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0JIazNpRHBkbHhXbkRGY3N6bXIzX01lOWRpMF9SLU5sUGpvVTBiUmxKTTJpa2UyX2F2UnJSMUNYMVY3Q3JiRHVrczJSaC1MUHhpS0QwcmVmVElXVThjZ3FSS1Jjdlh3VlNYNXBlUU1zdUhqUUJBekMxejJKY3dDS2FDUVJQLUlSdWM4ZzJuOUF5UWhW?oc=5",
+   "veiculo": "Imprensa 24h",
+   "trecho": "",
+   "data": "2026-11-22T05:16-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça definiu que a apresentação de impugnação administrativa não tem o condão de interromper a prescrição tributária. A decisão traz importante baliza para a contagem dos prazos prescricionais na relação Fisco-contribuinte.",
+   "pratica": "Na prática, advogados e contadores devem redobrar a atenção com os prazos de cobrança do crédito tributário, pois a discussão administrativa passa a não reiniciar a contagem da prescrição conforme o entendimento veiculado.",
+   "termos": [
+    {
+     "termo": "Prescrição tributária",
+     "explicacao": "Perda do direito do Estado de cobrar judicialmente o tributo devido após o decurso do prazo legal."
+    },
+    {
+     "termo": "Impugnação administrativa",
+     "explicacao": "Defesa apresentada pelo contribuinte ainda dentro do órgão fiscal para contestar a cobrança."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3efaa25c7da2f9b2",
+   "titulo": "Impugnação administrativa não interrompe prescrição para repetição de indébito",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckJRVlVQTFZSZExqcW5wbXlFRG1yWTZ0R24tV29MVHFWaXJ0a3BOeDBDdTBwQUN1U2Y2YmlISGk2dEhyWUFkUWZmLWxuc3FWbGN2MWo0am5IMnh6TXI1WXltV3NzeFpPX19POUlseHl4TzF2YVVUVGk5bnUwcmo3NTluS05mc1RtcnFFV3ItanFzaTRMNlh1XzI1dFd3TEpTcTlhM21DTjQ4RjFvQXN4WmpCYmVRdVE4Q0NVTnc2VnlRUWdD?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-22T05:11-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, a impugnação administrativa não tem o condão de interromper o prazo prescricional para a repetição de indébito tributário. Trata-se de uma orientação relevante sobre a contagem do prazo que o contribuinte possui para reaver valores pagos indevidamente ao Fisco.",
+   "pratica": "Na prática, os contribuintes e profissionais da área devem redobrar a atenção aos prazos prescricionais para evitar a perda do direito de restituição, não podendo contar com a impugnação administrativa para essa interrupção, conforme indica a publicação.",
+   "termos": [
+    {
+     "termo": "Repetição de indébito",
+     "explicacao": "Ação judicial ou administrativa para recuperar tributos pagos indevidamente ou a maior."
+    },
+    {
+     "termo": "Prescrição",
+     "explicacao": "Perda do direito de cobrar ou pleitear algo na justiça devido ao decurso do tempo."
+    },
+    {
+     "termo": "Impugnação administrativa",
+     "explicacao": "Defesa apresentada pelo contribuinte contra uma exigência fiscal dentro do próprio órgão público."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7f633bfbbf15b828",
+   "titulo": "Observância do art. 166 do CTN na repetição do indébito da CBS/IBS",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWlzdnhOWnZ1Q0FDak50dFQ5NUZPX1ZtNGVLZkYzTmZNYmNHeThrOUEzZnFUNEZneE43SWZscXRIRDVKVE0tcEhobVFiWEpFeXplM3ZhT3Y5TXlabmt3U1o1R3ozUUIxYmY4RDI4RWRTWl80clJZOFNCanNJdUktR2dHaklvNDAteWlHeWo3di0tVEJkRGlJaXRaam9mQXdqRlVtaFpQWEt4NEh1RFVNUVVPSklGWlF3ZWxCOWRjWlppMTgy?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-22T03:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, discute-se a observância do artigo 166 do Código Tributário Nacional no contexto da repetição do indébito referente à CBS e ao IBS. A questão envolve a exigência de comprovação de que o encargo financeiro não foi transferido a terceiros para a restituição de tributos. Como o trecho original não foi fornecido, o panorama baseia-se estritamente na diretriz indicada pelo título.",
+   "pratica": "Na prática, profissionais da área tributária devem ficar atentos aos debates sobre a aplicação das regras tradicionais de restituição de indébito aos novos tributos da Reforma Tributária. Isso impacta diretamente a estratégia de recuperação de créditos pelas empresas.",
+   "termos": [
+    {
+     "termo": "Art. 166 do CTN",
+     "explicacao": "Dispositivo legal que exige a comprovação de não transferência do encargo financeiro para a restituição de tributos que comportem repetição."
+    },
+    {
+     "termo": "Repetição do indébito",
+     "explicacao": "Ação judicial ou administrativa para recuperar valores pagos indevidamente a título de tributo."
+    },
+    {
+     "termo": "CBS/IBS",
+     "explicacao": "Novos tributos sobre o consumo instituídos no âmbito da Reforma Tributária brasileira."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a9a40af1a2fcb3e8",
+   "titulo": "Senado mantém limite à compensação tributária",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45djdudXZCaXJvWHpsdFFPdng2TFdObmRkZUo5ejJWaHNyTHhaSVQ2dzVONUZFRVYzT1l4R1Bib0UyRE81M0hMaThlbjB6TklXOC1CWnV2TkxZSmxkRzk0RmZvaWJOOUN2bkRDUk9YQ0JOZ0Q0c3R4RVVR?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-22T02:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Senado manteve o limite estabelecido para a compensação tributária. A medida repercute diretamente nas regras de aproveitamento de créditos pelos contribuintes.",
+   "pratica": "Na prática, as empresas e profissionais devem continuar observando as restrições impostas pelo Senado ao utilizarem créditos para a quitação de tributos.",
+   "termos": [
+    {
+     "termo": "compensação tributária",
+     "explicacao": "Forma de extinção do crédito tributário em que o contribuinte utiliza créditos próprios contra o Fisco para quitar tributos devidos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "86a61abeb04cb6f7",
+   "titulo": "\"Gigante das carnes\" questiona transição tributária em MT e aciona TJ",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVJRXQ2a1gtTFJwbXdUaWlzZFEteG12eXhpbnNNRnJFaGt5RWNaS3BIQldpVGJ6eUlxS3pMVHBDZm1kd05zR3lQZVFvM0JHak5NVUNfYTdaZ3FTX1hRWTVpMGVWNWRabUJaaUJKbmdsaXU3Q3ZzeEZBcEU3VTVnNU4zSHN6eVBiOGlOUHltQVFqTU5oQWlIY042ZGtNdHQ2ZUhfR2VIdmtCNjdy?oc=5",
+   "veiculo": "FOLHAMAX",
+   "trecho": "",
+   "data": "2026-11-21T23:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "TJ",
+   "resumo": "Segundo a manchete, uma grande empresa do setor de carnes acionou o Tribunal de Justiça para questionar a transição tributária no Estado de Mato Grosso. O caso envolve contestações jurídicas sobre as regras de transição aplicadas à tributação estadual.",
+   "pratica": "Na prática, a movimentação sinaliza que empresas do setor produtivo estão recorrendo ao Judiciário para debater os impactos e a legalidade das regras de transição tributária em âmbito estadual.",
+   "termos": [
+    {
+     "termo": "transição tributária",
+     "explicacao": "Período de mudança de regras de tributação que costuma gerar contestações jurídicas por parte dos contribuintes."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f2eb08ab3472dd2a",
+   "titulo": "STF derrubou a idade mínima para aposentadoria especial. O que muda para você?",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR20zQWJLTDVsSEFnYWxDTElvWlh4cHdvVVpSeVpNalppaWtrYVdyOXE5YXdqMWdET3Y5UDRLa0hXV1dBU3RtajZONjlCTlp4UHNyTUNSUDBJemttZkNQRE5vZlNLQlRNZWZzZ19xZXVLOUE1bXBWaDQ0d0dCdzNCcGVOZHhRZVJNNFdBX2Z1a09Vc25MTEdMRUxZeUNyaDhWcVRQQ2dYUnUxamUzRmp2MEk2ZVZWcDA4V0E?oc=5",
+   "veiculo": "vtvnews.com.br",
+   "trecho": "",
+   "data": "2026-11-21T23:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal derrubou a exigência de idade mínima para a concessão da aposentadoria especial. A decisão impacta diretamente as regras previdenciárias aplicadas aos segurados que exercem atividades especiais.",
+   "pratica": "Na prática, a remoção da idade mínima pode alterar o planejamento previdenciário de contribuintes e empresas, além de repercutir no cálculo e recolhimento de contribuições sociais.",
+   "termos": [
+    {
+     "termo": "Aposentadoria especial",
+     "explicacao": "Benefício previdenciário concedido a trabalhadores expostos a agentes nocivos à saúde."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3b3387c2765b821d",
+   "titulo": "A possibilidade de complementação de cumprimento de sentença contra a Fazenda Pública depende do estágio em que se encontrar o feito executivo",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQaVhZdU5oc2kzZVBKeThFNGpZQUlaREtZaEJ5RUV3Mkg2Mk1rbUwxZVhzSHMwZjlqSTRfb3dWRGZObUJYSjZDU3QzcnF3WV9hcUltenpFd3NWSk9GRmtnSEIzNkhrZkg2OWxLTDExaUFiRDZyMGR1YVAyVDFqbk9NZnFyckZkOERsajBkVUN1Vkw0SmdNSmhmdlZjLU9KV3d3RzQ5b2VxZEdCeVRiUDRVRlpfR3BGZmNYRS1sUWI5aFNrY2ItVUNfUGZPTTdZMzItZHNCN2dla2VmRmVXQ1FEOVRwUzVPanJMbEVxUF94LVR6QUJuREpWSXpHajJvV3laYlNQOXhjeW9EbHc2S2o0?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-21T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a possibilidade de complementação de cumprimento de sentença contra a Fazenda Pública depende do estágio em que se encontrar o feito executivo. Trata-se de uma diretriz processual importante para a gestão de execuções em face do erário.",
+   "pratica": "Na prática, os profissionais devem verificar o momento processual exato da execução antes de postular a complementação de valores devidos pela Fazenda Pública.",
+   "termos": [
+    {
+     "termo": "Cumprimento de sentença",
+     "explicacao": "Fase processual em que se cobra judicialmente o pagamento de uma quantia reconhecida em decisão judicial definitiva."
+    },
+    {
+     "termo": "Fazenda Pública",
+     "explicacao": "Termo genérico que designa a União, os Estados, o Distrito Federal e os Municípios quando atuam em juízo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "80dc1572229d8df2",
+   "titulo": "Goiás prorroga benefícios fiscais de ICMS por mais dois anos",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGZTUWJWRmhRLWozRlFkQzE3UHhQMEdnVndicXFMc2dmYzVQbEJSQWJuUlV0MFBpZnljaEk0N1hMMTZBOWZISko1SUJuY0R3MXp1RUlKVnhTQThKR0ZKNGp3NjM5d0pmU1BKdTY3N255WW5jbmJhalotREhJTXptd1RzWi1USmRPSnQ4V3FuWlM?oc=5",
+   "veiculo": "BOMBA BOMBA",
+   "trecho": "",
+   "data": "2026-11-21T17:44-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Goiás",
+   "resumo": "Segundo a manchete, o Estado de Goiás prorrogou a vigência de seus benefícios fiscais de ICMS por mais dois anos. A medida impacta o planejamento tributário das empresas que atuam na região e dependem desses incentivos.",
+   "pratica": "Na prática, os contribuintes com operações no estado ganham mais tempo de segurança jurídica para usufruir dos incentivos de ICMS previamente concedidos.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "Benefícios fiscais",
+     "explicacao": "Vantagens legais que reduzem ou eliminam o pagamento de tributos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "554834cb8921a925",
+   "titulo": "STF vai julgar divisor mínimo na aposentadoria",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDdaN3F6emNWaHhmSFRyYWVUSlFOLW83QWxCOC01cjFtVGJDc05BMnkxLTU5N0VsSEZKMUtyeE5ncWxRN0tlSzFod2F2RmV2eU51cEtaR0xYeWUxbmFtdTNYOThuNGtfandQZmxsZWR6MnJpM2NFLS1uMElkR1I2NVBaSzFPRDYwTGRwYQ?oc=5",
+   "veiculo": "Tribuna do Norte",
+   "trecho": "",
+   "data": "2026-11-21T17:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal vai julgar a questão do divisor mínimo na apuração de benefícios previdenciários. Trata-se de tema relevante que impacta o cálculo de aposentadorias no âmbito da previdência social.",
+   "pratica": "Na prática, a definição pelo STF poderá orientar a revisão de cálculos de benefícios e impactar o contencioso previdenciário e financeiro.",
+   "termos": [
+    {
+     "termo": "divisor mínimo",
+     "explicacao": "Regra utilizada no cálculo da média dos salários de contribuição para a concessão de aposentadorias."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "347de600bf7e8743",
+   "titulo": "Reforma tributária muda regras para aluguel de imóveis e exige adaptação a partir de dezembro",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVThvWTVfZ3JidFZSWVU0Y3BJQVQxX1dXbEUwS1FwdE9YWmU2QktERl9ZVWVlbXFQb05zdzdyT0tJZFpBaVhudzIwRU0xTlQxYS1ra1JKUndMQ0N5c1RURWxndFB3ZjYzVUZLRXZjV25kd1pLM3NHLUFMOC1QaE5iaURkeG4wRWlzdU85b0ZhaG5XaDBidll0SG5OdlN1eTltQm5oVS1XcUFEeVQwa2JMRzliY3gxZTcwN3pzQQ?oc=5",
+   "veiculo": "Click Xaxim",
+   "trecho": "",
+   "data": "2026-11-21T16:42-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a reforma tributária trará mudanças nas regras aplicadas ao aluguel de imóveis. A publicação indica que os contribuintes e o mercado imobiliário precisarão iniciar a adaptação a essas novas diretrizes a partir do mês de dezembro.",
+   "pratica": "Na prática, profissionais e administradores de imóveis devem revisar os contratos de locação e os procedimentos de gestão tributária para se adequarem às novas exigências da reforma.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0e833fa74e0c2fb1",
+   "titulo": "Reforma tributária: CBS começa em 2027 e atinge MS",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdiZkROaXZSVTJJOEoycTJ1ckc5eWQ1Q05DLXl1NVJIZHR1QV9tQ1BhWDRYclRYc1hXQldLeVYyQ3pOaG1HUVNOWHNnZ0p2UW96SFpjV2ZaR0FVOFZaVzV6OFV1OW1hYmxCTVhqeE9qUVZnRUZOTDBHREtXSjdkLWFNR2JaNVYzUHFkUHU2MnRZYk5VLV9LUjlkZWZRN2FKRjVJc0hoQmlLR2tucHlLRtIBsAFBVV95cUxPenJuWVZzOVlfOUlSWFYta0g2dDl2VXVRSTFoUmNTcUNPYzRCMHFHODROSnd1b2thODV2NmhvR0FvenlNalpvd0ZiZDJPTnpTeEw1RE9CLVlxRm9WZkVobGpybjVvbnZoRWQ4RGJBeElzU2N3eUh1VlRKUzIyRDFDOG84Slg2akVXeEdqNjdxVmJFdGNMZ3B0aFRIeGtQTTc3TWhjWldVX2pUZUMtazljSw?oc=5",
+   "veiculo": "Campo Grande News",
+   "trecho": "",
+   "data": "2026-11-21T16:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Reforma Tributária trará o início da cobrança da CBS a partir do ano de 2027, gerando impactos diretos no Estado de Mato Grosso do Sul. A notícia destaca o avanço do novo marco regulatório dos tributos sobre o consumo na agenda nacional.",
+   "pratica": "Na prática, empresas e profissionais contábeis no Mato Grosso do Sul devem antecipar o planejamento estratégico e a adaptação de seus sistemas para a nova Contribuição sobre Bens e Serviços.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da Reforma Tributária para unificar tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "225ed5c4d6e9c55e",
+   "titulo": "Reforma Tributária: o que muda para o consumidor em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0tPdUhKUGY5QmZZRU43R1NaOXY4R3JZQTFZSlRmUjd5aVJNalhwZkUxOEJWdEpERHFqbzF4cTdUZHp4N0ZXN000T2dRZS1UVlV3N2FSSTlJRFROWnQwY0h4NXE5VmN1YjRVdDc3NVhla3VZbnJoNU8zeVNPLXZSdHYwOU5sZWhvdW5HNTlRcXh6djdYWjJKYks3dkJoS09ndVlF0gGjAUFVX3lxTE1XQnhDLWlNTGRLMkJvazBUc0RlWjJ6NzFDdzJiTXp3REJTNmNfTWE2TVh2clpFQzJIUEhmaXR3dW9XeEtJYU9fcUY3aHBEalJPMks1MHgtQ3FpZk1XTklUUlotek5acW5DVjRHS2hJVE9BLUFhbkM5Q1I5c2NWV0kyZzVWVkh4NzhTV21yZ1c3T0NlcUQxWTlXdmxGVlV0emFieWc?oc=5",
+   "veiculo": "Campo Grande News",
+   "trecho": "",
+   "data": "2026-11-21T16:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Campo Grande News, discute-se as mudanças trazidas pela Reforma Tributária para o consumidor a partir do ano de 2027. O tema aborda os impactos das novas regras tributárias na economia e no bolso dos contribuintes.",
+   "pratica": "Na prática, profissionais e empresas devem se atentar às futuras alterações na carga tributária e nas obrigações acessórias que impactarão os preços ao consumidor final em 2027.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8a0b926b47b88c87",
+   "titulo": "Reforma tributária muda fluxo de caixa das empresas e prevê devolver tributos sobre luz, gás e internet",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlRWUUxMVnlwS0hPYUZteHdybGh0eXY0MUJLT3FPRV82bWtIOGF4MDF2dUo2elN3Z3hmY19yUDZhUk5tOEZleEF0MGNHQV9iWnMyUVplSjh6VWwxb0E4QWFxY2NJVkx5YV84V2ZlMFJnM09CR0NEVEljcGJNZXRBQ0U4Qlo5RFZJc0R2THFWc0VFSzQ0dmxTdTBZUFF5b3JwTmpmd25UREsyUnprazg1YzFjZFFTMzhpdHc?oc=5",
+   "veiculo": "JBNEWS",
+   "trecho": "",
+   "data": "2026-11-21T15:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária traz alterações no fluxo de caixa das companhias e estabelece a previsão de devolução de tributos incidentes sobre luz, gás e internet. A medida impacta diretamente a dinâmica financeira e a apuração de encargos essenciais para o setor empresarial.",
+   "pratica": "Na prática, as empresas precisarão ajustar seus controles financeiros para lidar com a nova dinâmica no fluxo de caixa e acompanhar as regras de devolução dos tributos sobre serviços e insumos básicos.",
+   "termos": [
+    {
+     "termo": "fluxo de caixa",
+     "explicacao": "Movimentação de entradas e saídas de recursos financeiros da empresa."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f28f674fba0e228b",
+   "titulo": "Descontos e bonificações de fornecedores aos varejistas não entram na base de cálculo do PIS e da Cofins",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPblZTYWtGd0x6eHZvNGgzakNYYzV0MDNYTUs1THMyVTRDNlN0c1dqNzExNkNqZVREaVp3aDFxVE9GcVF4NFI2M0tPdllBT3lHY3JobENIUHVzYUhsQ09NX0VsX0MwaVVrTHVwaGdkeDF2YTl3Mmk5REZXUjFTQmN3XzlhQ1BHa1o0Ykw0SkR6cXlSVV9SWkZUWnZuc2hTNWtOTEFnSFVwd092MEtHUEt3Ty1UekRDd2FycW53VkxSWUJJUjI1c3NZZkNKN01kM3cyMFI0d0tNTXdSMTdw?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-21T14:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário de Justiça de 2026-11-21, descontos e bonificações concedidos por fornecedores aos varejistas ficam excluídos da base de cálculo do PIS e da Cofins. A informação veiculada aponta para a desoneração dessas verbas no faturamento das empresas do setor varejista.",
+   "pratica": "Na prática, os varejistas podem revisar seus cálculos e procedimentos para deixar de recolher o PIS e a Cofins sobre os valores recebidos como descontos e bonificações de fornecedores, reduzindo a carga tributária.",
+   "termos": [
+    {
+     "termo": "PIS e da Cofins",
+     "explicacao": "Contribuições federais incidentes sobre o faturamento das empresas."
+    },
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Montante sobre o qual se aplica a alíquota para calcular o tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b3bbf935fcbb5470",
+   "titulo": "Reforma tributária desafia sistemas das empresas de pagamento",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2p4Tk1lQU9teTF5YVdjZ0liV0JGTGppZFlrcU1KMEpjSTA3M1JaUVVwbE5TU1FuOHVoOU4yVWlOV0tJazI5SEFXdXlPMTlhSFAyc0lhUU5iZWlIMFpldVRIUjdpQXY4UUpQckxndnhieEJIZDhLN0wxRlFRLV9OaHI4eGdtUUtnd0xfZjF0YXlQZ3YwTjVhaXFGdG9nRzAyQkRqLXVqZ2pfUHNyYXJJ?oc=5",
+   "veiculo": "Monitor do Mercado",
+   "trecho": "",
+   "data": "2026-11-21T14:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Monitor do Mercado, datada de 21 de novembro de 2026, a reforma tributária está desafiando os sistemas operacionais das empresas de pagamento. A notícia aponta para a necessidade de adaptação tecnológica do setor diante das novas regras fiscais.",
+   "pratica": "Na prática, empresas do setor de pagamentos devem revisar e atualizar seus sistemas para garantir a conformidade com as exigências da reforma tributária. Isso exige investimentos em tecnologia e planejamento para evitar falhas operacionais e fiscais.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    },
+    {
+     "termo": "Empresas de pagamento",
+     "explicacao": "Instituições que realizam serviços de transações financeiras e de pagamento."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4f86df292a789072",
+   "titulo": "TRF-5 determina remessa de débitos à PGFN após prazo de 90 dias",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXVuVmgzdDNzN2Z2RS1DdGx1YkUwaW10LTdIdml1OUdMQ1hWcGR1cWpkc08telVnMTQyWG5xZ2VoX2s5NjdkczZ2OWI3QVgtUmNOdFAwdGxJV2NNQ2psWkgwSGpnS0pHMVhWYXRtYy01azN2NDlzWHlpR25weXdQQy1Oa3VoWmQyNWJRV29MTGdxVjFtWTFMejFpajRDV0RoOGdpVlVlNGlkUQ?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-21T13:02-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "TRF-5",
+   "resumo": "Segundo a manchete, o TRF-5 determinou a remessa de débitos à PGFN após o decurso do prazo de 90 dias. A medida impacta o fluxo de encaminhamento de cobranças fiscais para a esfera federal.",
+   "pratica": "Na prática, a decisão orienta profissionais sobre o prazo limite de 90 dias para o envio de débitos à Procuradoria-Geral da Fazenda Nacional, influenciando a gestão do contencioso fiscal.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Órgão responsável por representar a União em causas fiscais e cobrar a dívida ativa federal."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1f5e5d6c4836acc7",
+   "titulo": "Reforma Tributária: escritórios de contabilidade se preparam para 2027",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3p2YWlqbGhLVkNrTW5YM2xURTlWcVh1c3IySFJqaEZOdV9FRWtyVEJySHphZEpaZXB2MERja0dQczZscHdaVy1rRGw5dnYtZFRjWDdLd3BVa0ROSDBTUUkzUnpfcVlZNmFSVl9nY2RwVVQ5eXg2WTdrZXgxbFVvNVgzNTdSVV9Jczktdk96OUdwWjNScWlFS29WTG9HZjU2NU5RcXZLQzVaU0pR?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-21T12:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, escritórios de contabilidade já estão se preparando para as mudanças trazidas pela Reforma Tributária com foco no ano de 2027. O movimento indica a antecipação dos profissionais para adaptação às novas regras do sistema tributário.",
+   "pratica": "Na prática, contadores e empresas devem revisar seus processos e sistemas para garantir conformidade com o novo cenário normativo que se aproxima. É o momento de investir em capacitação e atualização tecnológica para evitar riscos futuros.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a estrutura dos impostos no Brasil."
+    },
+    {
+     "termo": "Escritórios de contabilidade",
+     "explicacao": "Empresas e profissionais responsáveis por apurar tributos e orientar contribuintes sobre obrigações fiscais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "428cd62fbdb1c5ab",
+   "titulo": "Entenda como a reforma tributária vai mudar regras para aluguéis em 2027",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU09MdUZfbzZ3WmhDY0JPTGk4dDFCOTRtUFl5Q1ptTmtmanlJODIybUh6ckxMc3drdXc3WnlPS09KYkFOa1Q3bVlFVTd6QnpSM1k1c3hQdUsxTVVLaFNQZl9hUGpnQUhRV1piX0Z5VjRJMExEb2U2Ti0tQ2g0MHZkM0J5Vy1yU0c5TjcxWDlvX29EYUdjdnVHWkR3ZXA?oc=5",
+   "veiculo": "oacreagora.com",
+   "trecho": "",
+   "data": "2026-11-21T12:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária trará alterações nas regras aplicáveis aos aluguéis a partir do ano de 2027. O tema desperta grande interesse prático, exigindo acompanhamento das futuras regulamentações legais.",
+   "pratica": "Profissionais e contribuintes devem monitorar a tramitação e a regulamentação da reforma para adequar os contratos de locação e a gestão patrimonial às novas exigências fiscais.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reescrevem o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "aef0c9af7026a30c",
+   "titulo": "Estado deve pagar honorários no período em que consumidor foi dispensado de recolher Tust e Tusd no ICMS",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmMyU3A1bC1zVWxBQ2swU2dDdHlGcFpMMUdINVQ5V2VYZTNvd2JnRjFXV0V1VzY2Rzg2RkZQbkNqY2NCMzBWU2hzUlJ3aGE0N2FhMHctQUVTM1FrY3FYT3RKMGdwdDRvdHlRRDh2bWItX0NCMXJCLWVBWVlySHZLSnVXWkllaDF3U1RfeDJtVXp6WE4wcnF6V0k1RmVrb0dhUEkxM242aVlXVHh2enV2TXV6dVVNR1VEY1lNa19ObEU5SlN4dG1SMzkzTjdUN0ZKMFBNOTQxRXByUnBURzU3enpfMNIB4wFBVV95cUxQZlk2Zi1oV1dSX054ZVNrVVZjdWVaclJLUGJDMV9iaHBlelJKVUZNbWxfOXhOSzBtMVRlRGhIY0pqOHExWG1CTDRXd3BUcUJ0eGlZeVpHZS1sSnpxMHFZbjFCZlFralNIV1dZNkxzbHpwYThWLXdvZVd0d2dzZ0hRYWZMLVZrNGJHLWhLVjNIY3dXLUZzbF9jRVdVUUVyUFlNVkhzMmVIanhpSGlENlcxOVFKc1RHVHZnbjB2UXI1MFdLdm44dFNERUIzdFRYYmJkQ0NRN016YVZLY290N2VZZ29zQQ?oc=5",
+   "veiculo": "Cassilândia Notícias",
+   "trecho": "",
+   "data": "2026-11-21T12:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Estado foi condenado ao pagamento de honorários advocatícios referentes ao período em que o consumidor esteve dispensado do recolhimento da Tust e da Tusd na base de cálculo do ICMS. Trata-se de uma definição sobre a verba sucumbencial relacionada a essa específica controvérsia tributária.",
+   "pratica": "Na prática, a decisão orienta advogados e contribuintes sobre o direito ao recebimento de honorários advocatícios relativos ao período de desoneração da Tust e Tusd no ICMS.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual incidente sobre a circulação de mercadorias e prestação de serviços de transporte e comunicação."
+    },
+    {
+     "termo": "Honorários",
+     "explicacao": "Valor pago aos advogados em decorrência da atuação em processos judiciais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b24b1ef0fc0b61b0",
+   "titulo": "Lula rebate fake news sobre ajuste fiscal e defende controle do orçamento",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lFSC0yWEtOYmloZnFNeDNfWlFZUjc2WXBjVTZfVmJRUll4d0xlWXc2ZWtGb2g3T2NmMXVEMHVfRThpTEk4d09QWFU0eXFJcnJUMzk4azhqcVJ6T0R5S3FtbzhOU0xXelU5Z1ZQY3pYZW0yZ1ZGMUJwVnZzb2ZNU0hYN2NERXNuSkI1Q3o0SmpNekVfRDExWFVnR3kyakwxWmVJUUJGZmdKbnByTVBSRldCZERYbnpGSkxV?oc=5",
+   "veiculo": "Plantão Brasil",
+   "trecho": "",
+   "data": "2026-11-21T11:54-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Executivo",
+   "resumo": "Segundo a manchete, o presidente Lula rebateu notícias falsas sobre o ajuste fiscal e defendeu o controle do orçamento público. A discussão envolve diretamente o planejamento e a gestão das finanças do Estado.",
+   "pratica": "Na prática, o debate sobre o controle orçamentário sinaliza as diretrizes econômicas do governo, o que pode impactar futuras medidas fiscais e a estabilidade das contas públicas para os contribuintes.",
+   "termos": [
+    {
+     "termo": "ajuste fiscal",
+     "explicacao": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas entre receitas e despesas."
+    },
+    {
+     "termo": "orçamento",
+     "explicacao": "Instrumento de planejamento que estima as receitas e fixa as despesas públicas para um determinado período."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "25296db6b16f6500",
+   "titulo": "Petros: contribuição extraordinária pode ser deduzida",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yQ2otN2E4Q1RRTUd0TEVEbDNvOHRZbXBud0FXeGpPX3NzaGFSRUVmR1NFSVpsQUcwX2twNHdpUEpiWWNQY2ljYm9faGZxcHI4WlBvejk2QTU0ankwZnRYTnc0YUdtMkNtVTNhbFVTaUFncUZKRFpObEpVOWU4dw?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-21T11:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo Seu Crédito Digital, foi veiculado que a contribuição extraordinária da Petros pode ser deduzida. Como o trecho não foi fornecido, trata-se de um resumo prudente baseado exclusivamente no título da notícia.",
+   "pratica": "Na prática, profissionais e contribuintes devem aguardar mais detalhes sobre a dedutibilidade para avaliar eventuais reflexos na apuração de tributos, conforme a orientação divulgada.",
+   "termos": [
+    {
+     "termo": "contribuição extraordinária",
+     "explicacao": "Pagamento adicional realizado para cobrir déficits em planos de previdência complementar."
+    },
+    {
+     "termo": "deduzida",
+     "explicacao": "Subtraída da base de cálculo de um imposto, reduzindo o valor devido."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5c88d76782626b09",
+   "titulo": "Reforma Tributária: o imposto muda de destino e o Tocantins pode ganhar novos caminhos para crescer",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUR3RzZKT0RxV19sMmZBbzMxQXZ3Z3p2UThWMkVRcmJCWHZVRENXb2RWb2hCVVlNNU0wRjRuWDFGWmJ1S1duSFZGanZBSnJ2bjJoaXF4OG5RUkxpckd1RGMxekpCbUVPY25tZWszbkZGUlcwM2NOOEJNTWhFRzA2eFM3OWtXd2tqYk9yQnNpN3dUYXp1bW1Vb2JxYzBOaDBxUGgxMkRIYm4zeUdTamNxanhhc3RpMXNqbkhFSk1iUDV1bnl4dktRRzExd2xIVFRhOUI1NHZjWU5WSXdlV3NRY1V3?oc=5",
+   "veiculo": "Luiz Armando Costa",
+   "trecho": "",
+   "data": "2026-11-21T10:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a Reforma Tributária altera a lógica da arrecadação com a mudança do imposto para o destino. A discussão aponta que o estado do Tocantins pode encontrar novos caminhos para o crescimento econômico diante desse novo cenário.",
+   "pratica": "Na prática, profissionais e empresas devem acompanhar a transição para o princípio do destino, que altera a dinâmica de recolhimento e repartição das receitas entre os entes federados.",
+   "termos": [
+    {
+     "termo": "Imposto de destino",
+     "explicacao": "Critério de tributação em que a arrecadação é direcionada ao local onde ocorre o consumo do bem ou serviço."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "369d69bf09f52a0d",
+   "titulo": "Antecipação à Reforma Tributária é oportunidade para fortalecimento do setor logístico brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU1cwaGZMZjRYQXZuX0RhY1ZHOUFSME00dm45SnVWWXZkT1Y5TTkwNFQ5STZuQ2tZWUticm1JbmFPeXRsWFFHbS05WnRUSnhncnFMaVJJOF9zclFDdU0wY0V2V00tc3oycnkyV1JDQkhkcnVucmFiaDkxaFh6SmdiVUxyMnNDZnVvWDNGbWNscVZQMDVWWXBjOXFEcnh6N1p2MWtIeXBXWF84WXh4ZkF1ZE9udFpFUVQxbmFJMEVnQU5mUzBVa2lxMU9DN3dvRkRXN1dKNzVnUldFbWhMRkR5Mg?oc=5",
+   "veiculo": "Portogente",
+   "trecho": "",
+   "data": "2026-11-21T09:43-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo Portogente, a antecipação à Reforma Tributária surge como uma oportunidade estratégica para o fortalecimento do setor logístico brasileiro. A discussão envolve os reflexos das novas regras tributárias na dinâmica e competitividade das atividades logísticas no país.",
+   "pratica": "Empresas do setor logístico devem avaliar o planejamento tributário para identificar vantagens na adaptação antecipada ao novo modelo da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de mudanças constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    },
+    {
+     "termo": "Setor logístico",
+     "explicacao": "Atividades econômicas voltadas ao transporte, armazenamento e distribuição de mercadorias."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
    "id": "cdf31e98d56ea32b",
    "titulo": "Isenção de ICMS pode ampliar investimentos das GCMs do Alto Tietê",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXBiRXN2akl5eUZSbEFsUHVfN1h6bFNjM3ZLS1VwSUZpc3RNN0p5Rm1XLXVNbXEyai1lSkhMR3V4U1lWVTJDSjFySmJfUlRTTmF2ODNOSUdEQ21MaE11b25IWFhSQjRyMy1BMWNmUzNla2lMVE52V2luWmV1bi1OSXBDOFhFTXBmNmRDb0R6bHhERzl1bVdxbXZzYWM0YXhqYk5wbU9tSjFlRXFoczBYck04ZFIyX3p3N0JzbmNvaw?oc=5",
@@ -20341,7 +20955,8 @@
   "2026-11-18": "Bem-vindo ao boletim diário de direito tributário. Entre os destaques de hoje, o Superior Tribunal de Justiça definiu em recurso repetitivo que o uso da caderneta de poupança como conta-corrente não afasta a sua impenhorabilidade, uniformizando a proteção desse ativo. No âmbito da Reforma Tributária, o debate sobre a alíquota da CBS gerou impasses no Senado entre o governo e o setor produtivo, enquanto a Receita Federal garantiu o aproveitamento de créditos de PIS e Cofins para quitar a nova contribuição. Esses temas importam porque moldam a segurança jurídica na proteção patrimonial dos contribuintes e impactam diretamente a transição para o novo modelo de tributação sobre o consumo.",
   "2026-11-19": "Nesta edição, destacam-se três temas fundamentais para o direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça (STJ), no Tema 1.228 sob o rito dos recursos repetitivos, fixou o entendimento de que a existência de CNPJ não transforma o titular de cartório em empresa, desobrigando-os do recolhimento do salário-educação. Em segundo lugar, o Senado aprovou um ajuste fiscal com uma emenda bilionária que altera diretamente o fluxo de caixa das agroindústrias exportadoras. Por fim, o STJ determinou a suspensão dos processos sobre o fim antecipado do benefício fiscal do Perse, exigindo atenção do setor hoteleiro. Esses tópicos são de extrema importância por impactarem diretamente a exigibilidade de contribuições, a estrutura financeira de setores produtivos e a gestão de litígios fiscais.",
   "2026-11-20": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário. Primeiramente, entrou em vigor a nova lei que obriga a Receita Federal a seguir decisões do STF e do STJ, medida que busca alinhar o entendimento do Fisco aos precedentes das cortes superiores e traz maior segurança jurídica para as empresas. No âmbito do contencioso, o STF e o STJ fecharam três teses favoráveis aos contribuintes em 2026, validando também o limite à compensação de créditos tributários. Por fim, os debates sobre a Reforma Tributária ganham força com a discussão em torno da alíquota e dos impactos da CBS de 11,3% para as empresas em 2027, tema que afeta diretamente o fluxo de caixa corporativo e a transição do novo modelo de consumo.",
-  "2026-11-21": "Nesta edição, destacam-se três importantes temas do cenário fiscal. Primeiramente, o Supremo Tribunal Federal derrubou a cobrança da alíquota de 27% de ICMS sobre a energia elétrica no Maranhão, atacando diretamente essa exação estadual sobre um insumo essencial. Em segundo lugar, a Reforma Tributária gera forte preocupação institucional, evidenciada pela indefinição sobre a Justiça competente para julgar questões relativas ao IBS e à CBS, além da antecipação de contratos previstos para 2027 antes da nova incidência. Por fim, na seara das dívidas, a Receita Federal anunciou que irá perdoar e cancelar débitos previdenciários de 3,6 milhões de MEIs a partir de 2027, impactando diretamente o passivo tributário dessa categoria."
+  "2026-11-21": "Nesta edição, destacam-se três importantes temas do cenário fiscal. Primeiramente, o Supremo Tribunal Federal derrubou a cobrança da alíquota de 27% de ICMS sobre a energia elétrica no Maranhão, atacando diretamente essa exação estadual sobre um insumo essencial. Em segundo lugar, a Reforma Tributária gera forte preocupação institucional, evidenciada pela indefinição sobre a Justiça competente para julgar questões relativas ao IBS e à CBS, além da antecipação de contratos previstos para 2027 antes da nova incidência. Por fim, na seara das dívidas, a Receita Federal anunciou que irá perdoar e cancelar débitos previdenciários de 3,6 milhões de MEIs a partir de 2027, impactando diretamente o passivo tributário dessa categoria.",
+  "2026-11-22": "Nesta edição, destacam-se três importantes movimentações no cenário tributário. Primeiramente, o STJ definiu que a impugnação administrativa não interrompe a prescrição tributária, estabelecendo uma baliza essencial para a contagem de prazos na relação Fisco-contribuinte. No âmbito do STF, a Corte derrubou a exigência de idade mínima para a concessão da aposentadoria especial, impactando diretamente os segurados. Por fim, a Reforma Tributária continua gerando debates cruciais ao alterar o fluxo de caixa das empresas, prever a devolução de tributos sobre luz, gás e internet, e exigir adaptações operacionais urgentes para 2027, impactando fortemente o setor empresarial e o mercado imobiliário."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -20815,9 +21430,28 @@
   "EFD Contribuições": "Escrituração Fiscal Digital utilizada para o recolhimento e apuração de tributos federais.",
   "Precificação": "Processo de definição do preço de venda de produtos ou serviços considerando custos e tributos.",
   "Execuções fiscais": "Ações judiciais utilizadas pelo Estado para cobrar dívidas de tributos não pagas pelos contribuintes.",
-  "Banco Central": "Autarquia federal que regula e fiscaliza o sistema financeiro nacional."
+  "Banco Central": "Autarquia federal que regula e fiscaliza o sistema financeiro nacional.",
+  "Subsidiária": "Empresa controlada por outra maior dentro de um grupo corporativo.",
+  "Prescrição tributária": "Perda do direito do Estado de cobrar judicialmente o tributo devido após o decurso do prazo legal.",
+  "Impugnação administrativa": "Defesa apresentada pelo contribuinte ainda dentro do órgão fiscal para contestar a cobrança.",
+  "Repetição de indébito": "Ação judicial ou administrativa para recuperar tributos pagos indevidamente ou a maior.",
+  "Art. 166 do CTN": "Dispositivo legal que exige a comprovação de não transferência do encargo financeiro para a restituição de tributos que comportem repetição.",
+  "Repetição do indébito": "Ação judicial ou administrativa para recuperar valores pagos indevidamente a título de tributo.",
+  "CBS/IBS": "Novos tributos sobre o consumo instituídos no âmbito da Reforma Tributária brasileira.",
+  "transição tributária": "Período de mudança de regras de tributação que costuma gerar contestações jurídicas por parte dos contribuintes.",
+  "Cumprimento de sentença": "Fase processual em que se cobra judicialmente o pagamento de uma quantia reconhecida em decisão judicial definitiva.",
+  "Fazenda Pública": "Termo genérico que designa a União, os Estados, o Distrito Federal e os Municípios quando atuam em juízo.",
+  "divisor mínimo": "Regra utilizada no cálculo da média dos salários de contribuição para a concessão de aposentadorias.",
+  "fluxo de caixa": "Movimentação de entradas e saídas de recursos financeiros da empresa.",
+  "Empresas de pagamento": "Instituições que realizam serviços de transações financeiras e de pagamento.",
+  "Escritórios de contabilidade": "Empresas e profissionais responsáveis por apurar tributos e orientar contribuintes sobre obrigações fiscais.",
+  "orçamento": "Instrumento de planejamento que estima as receitas e fixa as despesas públicas para um determinado período.",
+  "contribuição extraordinária": "Pagamento adicional realizado para cobrir déficits em planos de previdência complementar.",
+  "deduzida": "Subtraída da base de cálculo de um imposto, reduzindo o valor devido.",
+  "Imposto de destino": "Critério de tributação em que a arrecadação é direcionada ao local onde ocorre o consumo do bem ou serviço.",
+  "Setor logístico": "Atividades econômicas voltadas ao transporte, armazenamento e distribuição de mercadorias."
  },
- "atualizado_em": "2026-11-21T06:39-03:00",
+ "atualizado_em": "2026-11-22T06:45-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
