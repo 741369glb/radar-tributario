@@ -1,6 +1,755 @@
 {
  "itens": [
   {
+   "id": "8382ea1cd2fa9b27",
+   "titulo": "Mudanças no Imposto de Renda podem aumentar valor do 13º salário",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREw1OWhqbnRNSnd3UlNXbHVBRW5ENVE0Z2hhMlA3RE1MSTF0ZkRoZmF3SmlIbzJxMEtSTlVYNF9mV2RwVXlzTzJpdDB4aC1tRDBreDUxMFA3bzludWVUUmp3M3lWV3JYRTFjY3ByeHpEaVM5TXk3eXFMX0RMZW4wZ3pzVERKTXBoNVU3cVVMcXNCVHRDS2Ffbkh2c2dqM0lRT29pbV9jdw?oc=5",
+   "veiculo": "Três Passos News",
+   "trecho": "",
+   "data": "2026-11-23T06:48-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete, potenciais mudanças no Imposto de Renda têm o potencial de gerar um aumento no valor líquido do 13º salário. A discussão aponta para reflexos diretos da tributação da renda sobre gratificações natalinas dos trabalhadores.",
+   "pratica": "Na prática, caso as alterações se confirmem, profissionais de DP e contadores deverão recalcular a retenção de Imposto de Renda sobre a gratificação natalina, impactando o planejamento financeiro dos empregados.",
+   "termos": [
+    {
+     "termo": "Imposto de Renda",
+     "explicacao": "Tributo federal incidente sobre a renda e os proventos de contribuintes."
+    },
+    {
+     "termo": "13º salário",
+     "explicacao": "Gratificação salarial paga anualmente aos trabalhadores formais brasileiros."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1e426f95c6a11d6c",
+   "titulo": "MG pede modulação de tese que manteve créditos de ICMS sobre combustíveis no STF",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUFWS2dtUHVpTTkyeWRkaHJacTFUY1YxamExR3F2ZjNxSUJwNTZGbnRENE51SWxiWDJGY3hnb3BYLTZtYVdfSHBFM3NoODZFY1FySTRJZUdDUmx1ZTdzU0FJTU95MVZPRmk3WjU5WlNrYXl5MmE1SzZyME9fajhwd3QtLXVYSjhIZ3hTOUJONlppZXEyVi1vTHFJT25PYVdmM21CT2E5bnpMZTJoQkM2Tg?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-23T06:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Estado de Minas Gerais pediu a modulação de efeitos de tese fixada pelo Supremo Tribunal Federal que manteve créditos de ICMS sobre combustíveis. A discussão envolve a delimitação temporal dos efeitos práticos e financeiros dessa decisão para os contribuintes e o fisco estadual.",
+   "pratica": "Na prática, o acolhimento do pedido de modulação poderá definir os limites temporais para a recuperação ou o aproveitamento desses créditos tributários pelas empresas. Aguarda-se a análise do STF para orientar procedimentos contábeis e jurídicos sobre o tema.",
+   "termos": [
+    {
+     "termo": "modulação de tese",
+     "explicacao": "Instrumento jurídico utilizado para limitar os efeitos temporais de uma decisão do STF, garantindo segurança jurídica."
+    },
+    {
+     "termo": "créditos de ICMS",
+     "explicacao": "Valores que o contribuinte pode aproveitar para abater o imposto devido em etapas posteriores da cadeia circulatória."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2b0b2e7e54e66b80",
+   "titulo": "ICMS do diesel sobe em fevereiro e acrescenta R$ 65 de imposto a cada 500 litros",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43SDIyU1N5dlFSTE5SQm9pcGpXUUdsNGdnT3pGUzZmMVVUXzlKaDNlZUg3VG5XR2N6TU9lSjBHVzhKNWFDb3BESkhuYTNRbnlUaDg0b2x3OW9QMFFLZXU2RWczMUZKZw?oc=5",
+   "veiculo": "Brasil do Trecho",
+   "trecho": "",
+   "data": "2026-11-23T06:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o valor do ICMS incidente sobre o óleo diesel sofrerá um reajuste a partir de fevereiro. A medida resultará em um acréscimo de R$ 65 no valor do imposto a cada 500 litros do combustível.",
+   "pratica": "Na prática, transportadoras e empresas com frotas de veículos pesados devem recalcular seus custos logísticos e orçamentos mensais para absorver o aumento da carga tributária.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre circulação de mercadorias e prestação de serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4dbb437fd86dfdfb",
+   "titulo": "Receita deve enviar débitos à PGFN após 90 dias",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RclZ2emx4TE5LLVByTThYOWJLMkNST3ZKV3d2eXFFYWt1a1Y5UGs4RkEyUG9VOEZVSW1ERHlWZV9MZW9hUGg2WlBiT1hlbUN1V2I4TXNnS0duaFVhZW5Xb2hHTTd5UGI5TjBjNzVhTXFIaXNiMFBKSElB?oc=5",
+   "veiculo": "Seu Crédito Digital",
+   "trecho": "",
+   "data": "2026-11-23T06:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal deve enviar débitos para a PGFN após o prazo de 90 dias. A notícia aponta uma movimentação no fluxo de cobrança e encaminhamento de valores devidos.",
+   "pratica": "Na prática, contribuintes e profissionais devem redobrar a atenção aos prazos para regularização de débitos junto à Receita antes que sejam inscritos e cobrados pela PGFN.",
+   "termos": [
+    {
+     "termo": "PGFN",
+     "explicacao": "Procuradoria-Geral da Fazenda Nacional, órgão responsável por cobrar a dívida ativa da União."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3a9308f47df6f93f",
+   "titulo": "Ajuste fiscal abre semana que terá alíquota da CBS e Orçamento de 2027 na pauta do Congresso",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1lxU0xjekZmcHVFNzdrMHYyX3pnd1ZXMm1BM0JRSlg2Qkwwb1RUR3VSQVpHeXFlb285VTVZREY5UzNhczFfZGNTelNNM3dwazlRbzNzLVMyTlZRXy1BMmliTUx6UE9PVmtDM1diblRzdUNwanMzTzVrYXlIeGRsWDd5UVExOWI3bzZmRXFsaTJiZVdKZlpuM011M3VsLWVZYzI3cGw5dkVfSERzUV90LWl0dFpldHhPT2lPSW1CUVNBYzdSYnfSAcsBQVVfeXFMUGtuSXBkbUdkYl80OGR0UHNhcS1KNklheWFkWTRDZ19lT2xzTEx1YWtnemFzckFUQVhaa3hBWE4xU3Jtb2FybTZ4NnB6MUlmWjhtLXRKOUNqeThMTVVBRF8zWEN0T3Y4RWNyUmRoMFRfV01zclE2dUZrRC1wZHhuNVl0d0ZMd2lwdjBVTzc5QV9OUDJHcFVWVk1HeklRX2NMQ0hLbnMzUVhBYThGV214OTYyMHZlaHR2cm1KY25sdlNJUGFMb0gzVGlDMGs?oc=5",
+   "veiculo": "Brasil 61",
+   "trecho": "",
+   "data": "2026-11-23T06:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a semana no Congresso Nacional terá como foco o ajuste fiscal, incluindo a discussão sobre a alíquota da CBS e a elaboração do Orçamento de 2027. A pauta legislativa movimenta temas centrais das finanças públicas e da nova tributação sobre o consumo.",
+   "pratica": "Profissionais e empresas devem acompanhar os debates legislativos, pois a definição da alíquota da CBS impactará diretamente o planejamento tributário e a carga de novos tributos.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços prevista no contexto da reforma tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "13241a5f083adf40",
+   "titulo": "Fazenda estuda transação tributária sobre PIS/Cofins",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcF9uSFFoYUU2R0dpRnE3a3hOSUtfNHNiUG1NVVBvUVppXzJ4NE9vczJ5QXNUdW4tUVF6eEVmZmZDYkw4SEpIYjVyWXRTczh0Y0IxSC1mT0dIY0hOM1VUdkRGcDB4bERtY2hGcmxQT0FNX1hpcXRGbnhqU2RGdDRUcC1QMGRiSXV3cjBBWURHamd4SVBtQzUySzRvcjZ5ZVRXTjNyUGdxX2l3OTB5SERUeVpR?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-23T05:25-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "Fazenda",
+   "resumo": "Segundo a manchete, a Fazenda estuda a possibilidade de realizar transação tributária envolvendo as contribuições para o PIS e a Cofins. Trata-se de uma iniciativa em estudo pelo governo federal no âmbito da gestão de litígios e créditos tributários.",
+   "pratica": "Na prática, caso a medida avance, poderá abrir novas oportunidades para empresas negociarem débitos de PIS e Cofins diretamente com o Fisco. No entanto, como a informação é preliminar, os profissionais devem aguardar a regulamentação oficial.",
+   "termos": [
+    {
+     "termo": "transação tributária",
+     "explicacao": "Acordo entre o contribuinte e o Fisco para facilitar a quitação de débitos mediante concessões mútuas."
+    },
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "457030c61f3093e4",
+   "titulo": "MANOEL ALONSO – 2027, O ANO DA DUPLA VIRADA TRIBUTÁRIA",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEtqazM4VXFnc0lBUnlpSGRUU0hPc0UxWU52VEJfdDBNaWdfZ2FyY1RpZld0VDFNNE9HSTBUOTg2Und0UDV0MVNZOFJmYV9QMmkzd0VxNTFNRjI4ejVtbW5FcFdiRHFubThteV9seWE3YkI0RHFOLTF5WHlsZXdHcUxiRHF5TG1DSm00TWNValJRV3RuVjJ3dHcxMGVsSDBHNEE?oc=5",
+   "veiculo": "Bahia Econômica",
+   "trecho": "",
+   "data": "2026-11-23T05:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o ano de 2027 é apontado como o momento da dupla virada tributária, conforme análise de Manoel Alonso publicada no Bahia Econômica. A expressão indica uma perspectiva de transformações relevantes no cenário fiscal brasileiro para o período.",
+   "pratica": "Na prática, a expectativa em torno de 2027 exige que advogados, contadores e empresas acompanhem os debates sobre as futuras mudanças estruturais na tributação para antecipar estratégias de adaptação.",
+   "termos": [
+    {
+     "termo": "Virada tributária",
+     "explicacao": "Expressão utilizada para indicar um momento de grande transformação ou transição nas regras de tributação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c0232ab2315b53ff",
+   "titulo": "Armas da Receita 2.0: o Fisco assume a calculadora",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGcxMlc3ODl6aTg3SXFiN3ZiQWdUaHRJUkZjM2RYLVVJcktKcmJVUjQ0ZFEzWm0xanNVTlZCUUZ3emJvcWE0aThULU5iMGotZE8tX0YzR2ZjaFA4Q1IzYWg1ZEdnVExTQ3B0UmN2NjNSMFllT3FsMFBjaFFfckd4QnRVbHVlSGFMYXc?oc=5",
+   "veiculo": "Notícia Já",
+   "trecho": "",
+   "data": "2026-11-23T03:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal assume um novo papel operacional com a iniciativa chamada 'Armas da Receita 2.0'. A notícia indica uma atuação mais direta e tecnológica do Fisco no cálculo e controle das obrigações dos contribuintes.",
+   "pratica": "Na prática, a medida exige maior rigor e atenção dos profissionais na apuração de tributos e na conformidade fiscal, diante de ferramentas mais incisivas da Receita Federal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão do Ministério da Fazenda responsável pela administração dos tributos federais."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "be6ab915e1409891",
+   "titulo": "Reforma Tributária pelo Brasil reúne profissionais e debate novas oportunidades em Belém",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTJfUWRocWZaZTVBSUVocU1hRGpHb0hPcVdXdzhEUWR6d3Rremd2OE0xM0N5ejJid2I1ZUhXY1BweDNxc0liaTNuQ3NkS0dLeGJ1NTB2cU05dERRZ0xMemktZzFpWmM4OG4yVllmNXk0emI3ODNuTTZkX1ZYZzdGdTQ3dWxYejNXWUs4ZlYxMUdCRFFMcF9pVzVMREZ1RGs1MnNSempNSGVSM0k5c2E0d0p0bDRzbVZxMC0yTzB3?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-23T02:46-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Sistema FENACON",
+   "resumo": "Segundo a manchete, o evento Reforma Tributária pelo Brasil reuniu profissionais na cidade de Belém. O encontro teve como objetivo debater as novas oportunidades trazidas pelo novo cenário tributário.",
+   "pratica": "Na prática, o evento serve como espaço de capacitação e atualização para advogados, contadores e estudantes diante das mudanças normativas.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de impostos do país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "40cf2ac8736ec94b",
+   "titulo": "Reforma Tributária pelo Brasil reúne 200 profissionais em Natal",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkw0b2RhWDVEVGtLREpmT1FWdl9TNWdES0ozemRyYzQ4X1VEbDZrNHRBR28xbldOMWRhSGM0VnJQYUZUeXpNVmxPdi1vbFZ6ZmNnSmRwajlZX0t4dndfNE53MzUxOW9NNm1YVVV0SXB2aXlEb3NfVElYdng5QXBTc3JVX01kOU91SUQ2cnJ3YzQwUjhUR1dFeG85RV8?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-23T02:38-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o evento Reforma Tributária pelo Brasil reuniu duzentos profissionais na cidade de Natal para debater o tema. A iniciativa foi veiculada pelo Sistema FENACON.",
+   "pratica": "Fomenta o debate técnico e a troca de conhecimentos entre profissionais da área sobre as mudanças decorrentes da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações legislativas na estrutura de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8f03703bb74e4801",
+   "titulo": "Reforma Tributária pelo Brasil reúne 250 profissionais em Porto Alegre",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklDTElwTU1JaUZjSE9mcjJ2X2JMX3lLUENqMUVWZC1oYUJxZUZjaGZyNExNcTI4eHZ0X0hnTkNoMklzNFdzckdlMnZ3S1U5eHVDSXRTOENHd3RWdmpaQ0lXRjlONTVZRmNxVlpSX3pmMUJleWtPUWRERkJpN3ZKdzAteEY1LTVWREtHRm1CdmdVOFIybVUxM1VPZVZ6SUhsal9oNFJB?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-23T02:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o evento Reforma Tributária pelo Brasil reuniu 250 profissionais em Porto Alegre. A iniciativa, promovida pelo Sistema FENACON, debateu temas centrais relacionados às mudanças na tributação nacional.",
+   "pratica": "O evento fomenta o debate técnico e a capacitação de advogados, contadores e estudantes para a adaptação às novas regras do sistema tributário.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o modelo de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dd1b07ab684ba1a0",
+   "titulo": "Nova tecnologia de split payment na reforma tributária altera capital de giro das empresas no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkh6Y3dQd01hMzl0Q2hiS0k4cE1JZlJZOEZXczNVRnc5WTZzZmltdzhVM25Xd2RJWmEyZkg1STc3Y0RBbzZMekFVWFNfNVIyQWI0bXgxRnRuazBsM0pYcW4wbHdDMUJsbmV0ektIOGdQLWJ1Z3hLQ2tQMkZKRzMyRQ?oc=5",
+   "veiculo": "Imprensa 24h",
+   "trecho": "",
+   "data": "2026-11-23T02:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Imprensa 24h de 23 de novembro de 2026, a nova tecnologia de split payment introduzida pela reforma tributária altera o capital de giro das empresas no Brasil. Trata-se de uma discussão atual sobre os impactos financeiros decorrentes da automação do recolhimento de tributos.",
+   "pratica": "Na prática, as empresas brasileiras devem monitorar os reflexos dessa nova tecnologia em seus fluxos de caixa e na gestão do capital de giro, conforme indicado pela notícia.",
+   "termos": [
+    {
+     "termo": "split payment",
+     "explicacao": "Mecanismo tecnológico de pagamento dividido que recolhe o tributo automaticamente no momento da liquidação da transação."
+    },
+    {
+     "termo": "capital de giro",
+     "explicacao": "Recursos financeiros necessários para manter a operação diária e regular da empresa."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5f02542f3b0d4fbe",
+   "titulo": "Split payment e os impactos da reforma tributária no fluxo de caixa das empresas",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN09nSGJhTlNCZXpfQWhjMjA0QTZ6dkNHQzM1bmNneVdmZUZZclZOeHFKZU5pVnpjaTRnZ2RPN0hjOXhIUDVNRlh4Mmo5MS01amphRHFkQjN2a3JFaGtJOXNGWVdwdG5QUnJWNXQzVWI2VU1hc0lyTGg0M25ZM0xRc0ZGb3BxMWpmMTQ5X1JIS2hvdG5wT3NoN0JyZmJIVi02bG01NUZnamRmZmhyRE9CcGpERHpFd0Jzc2pmZE9GNHVEWV9HY21v?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-23T01:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, o mecanismo de split payment gerará impactos na gestão do fluxo de caixa das empresas em decorrência da reforma tributária. O assunto aborda as novidades normativas e operacionais trazidas pelo novo sistema de recolhimento de tributos.",
+   "pratica": "Na prática, as empresas precisarão reavaliar suas projeções financeiras e a gestão do capital de giro para se adequarem às novas regras de recolhimento trazidas pelo split payment.",
+   "termos": [
+    {
+     "termo": "Split payment",
+     "explicacao": "Mecanismo tecnológico que realiza a retenção e o recolhimento automático dos tributos no momento da liquidação financeira da transação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c69b9d27a18b0447",
+   "titulo": "O IBS, a CBS e os salvados de sinistro",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGd3eElYbVRvalc1aDMxRGZzOWlLc3pPSi1iYVVhV1JTdWZSdU9YdG5CMGNrUDVqQUtpZWFxVFlLdlJFbUpJekdSMXpmSGU5NXF3ZlMyTWNwQUM1Sk42ZDgyUnFNZDJFSGZUaU8xVGg0eXhIX3ladnV3c2sxWjNQTlpyMHFVd1VsOXFrM1BDSlY1dmJBbVZickozNDhmeWQ5aEE?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-23T01:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, há debates em andamento sobre o tratamento tributário aplicável ao IBS, à CBS e aos salvados de sinistro. Trata-se de uma discussão relevante sobre a incidência dos novos tributos da reforma sobre bens recuperados de sinistros.",
+   "pratica": "Na prática, profissionais e empresas do setor devem monitorar como a regulamentação da reforma tributária definirá a tributação sobre salvados de sinistro pelo IBS e pela CBS. Vazio de maiores detalhes devido à ausência de trecho detalhado.",
+   "termos": [
+    {
+     "termo": "IBS",
+     "explicacao": "Imposto sobre Bens e Serviços instituído pela Reforma Tributária para substituir o ICMS e o ISS."
+    },
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada para substituir o PIS e a Cofins."
+    },
+    {
+     "termo": "Salvados de sinistro",
+     "explicacao": "Bens recuperados após o pagamento de indenização por seguradoras."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8dbfa2660af5f012",
+   "titulo": "Senado aprova PLP nº 299/2026 e CNC mantém atuação para aperfeiçoar texto na Câmara",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHdScUNvQTJtWUtPWGpaRTZWUDNpVUNSTlBrSXNvZjZCaEZKWFFnUGtwWi1qelpFMkJaR0hLZkpfVVZRQlh4M2ZKc1EwTEhhOVhNa0lFUG5vMGNacXBYWXRQSEt3eWgwOHVvUmc5ejZ4RXZYVlVNMi1JSllHWXFISlFubFFIdFRXRklnV0NKUktubThJVWlRWkxRRy1JVGd0QlRCU0wwckpwQU4xRUFXd2VjTjNNLVk?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-23T00:17-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Senado aprovou o PLP nº 299/2026. A notícia aponta ainda que a CNC mantém sua atuação para aperfeiçoar o texto durante a tramitação na Câmara.",
+   "pratica": "Na prática, o avanço da proposta exige monitoramento contínuo por profissionais e empresas, já que o texto ainda passará por ajustes e votação na Câmara dos Deputados.",
+   "termos": [
+    {
+     "termo": "PLP nº 299/2026",
+     "explicacao": "Projeto de Lei Complementar em tramitação no Congresso Nacional."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "585e3a1fc6fbf81d",
+   "titulo": "Nota orientativa simplifica recolhimento do FGTS sobre o 13º salário nas rescisões",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2Vla1BhVGN0dkVjZVdSYzJZZ2k0Ylc2b3VIV0tBR3RubTZRZE0xd0R4ZllVZ0RYS1FxVU90dDBwZ2h1NXhhSUw2MGNTSU1sazFqVDJFcXNtSDcta3RUWnlSdGNfRGNOclFWb0gxd3Q3VTAzelhnUkt5Z0FvQVlDR3FVdHIwa3RzYWhvT3lHb29hcHZReUd3WW5OQld1SjRQS29CbklkVGtkNl9GWnl3a0JHWHVsZw?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-23T00:07-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "",
+   "resumo": "Segundo a manchete, foi divulgada uma nota orientativa com o objetivo de simplificar o recolhimento do FGTS incidente sobre o 13º salário nas rescisões contratuais. A publicação busca trazer maior clareza operacional para o cumprimento dessa obrigação trabalhista e tributária.",
+   "pratica": "Na prática, a medida orienta empresas e profissionais da área a realizarem os cálculos e recolhimentos do FGTS rescisório sobre o 13º salário de forma mais simplificada, reduzindo dúvidas na rotina do departamento pessoal.",
+   "termos": [
+    {
+     "termo": "FGTS",
+     "explicacao": "Fundo de Garantia do Tempo de Serviço, obrigação patronal de depósito vinculado ao contrato de trabalho."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d149883d60bb2785",
+   "titulo": "Além do pacote fiscal que Câmara vota hoje, veja outras pautas econômicas que governo tenta aprovar até dezembro",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWUhybVExTVFOLVl6bjhKWHdobnB1dVlQU0IwMDhsTndkQncwQmJ3cnJzTHpxbTM2Z1phTlhGczFSY0FVNXRNRFJoRkJROE5OODR2ZUVfZHdXWncyS1NtV2dQOWRCVXY2c2ZvbXJHVTVYdUlHZFoyWWJaa1ZUS0ozVU1ZYXVXdFViRVc5b3FLNlU3UXR5QzlJMFdIYklmS2I0NmtKeXRWdVRNN3V4M2pIUkY5WUdiRkZ4U0xEcW1EbWNrTDh1LVY3RjVuWmJRX2k5aGJ6MHNXMkdKZTlCbGhWcFpETWtnd1NXUWMycU1Ya3dfVE1xd0NQNjJIQ19ON2tlV1lWV3NZc3NINC05clHSAY4CQVVfeXFMTllIcm1RMU1RTi1Zem44Slh3aG5wdXVZUFNCMDA4bE53ZEJ3MEJid3Jyc0x6cW0zNmdaYU5YRnMxUmNBVTV0TURSaEZCUThOTjg0dmVFX2R3V1p3MktTbVdnUDlkQlV2NnNmb21yR1U1WHVJR2RaMlliWmtWVEtKM1VNWWF1V3RVYkVXOW9xSzZVN1F0eUM5STBXSGJJZktiNDZrSnl0VnVUTTd1eDNqSFJGOVlHYkZGeFNMRHFtRG1ja0w4dS1WN0Y1blpiUV9pOWhiejBzVzJHSmU5QmxoVnBaRE1rZ3dTV1FjMnFNWGt3X1RNcXdDUDYySENfTjdrZVdZVldzWXNzSDQtOXJR?oc=5",
+   "veiculo": "O GLOBO",
+   "trecho": "",
+   "data": "2026-11-23T00:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o governo busca aprovar até dezembro um pacote fiscal e outras pautas econômicas na Câmara dos Deputados. A notícia destaca a movimentação legislativa em torno de pautas de interesse econômico e fiscal do Poder Executivo.",
+   "pratica": "Na prática, os profissionais da área tributária e econômica devem monitorar a agenda de votações no Congresso, pois as novas medidas podem impactar diretamente o planejamento fiscal das empresas.",
+   "termos": [
+    {
+     "termo": "pacote fiscal",
+     "explicacao": "Conjunto de medidas econômicas e tributárias propostas pelo governo para ajuste das contas públicas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "104b5d00c8580cf4",
+   "titulo": "Alívio no bolso: 13º salário terá isenção de IR para quem ganha até R$ 5 mil em 2026",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEJmbS04ZjNSdjFWS09hMndlai1Yc0VmbHVrZFRGVGNvd1R6ZlEybll6Q21vZklzdHNJS2hqSnBqWlJWRDc5b2xSQUs2MXNBS25MRElYd1BiUjE0MVpFOUMxeDdmZk11c0lsS3dMRlV2NVBEMW5YYmJqNXh1WlJtV3RaUWxLeW9iZjlIdzdKZm0wckVCZEx4d1VRVF9ZbjZ2RF9Eb0NrUnlRVFM3WVR3SnNvTVNYYUFpcW5IWmJuRDVMU3QtVlE?oc=5",
+   "veiculo": "Plantão Brasil",
+   "trecho": "",
+   "data": "2026-11-22T23:59-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o 13º salário contará com isenção de Imposto de Renda para contribuintes que recebem até R$ 5 mil no ano de 2026. A medida traz alívio financeiro para a faixa de renda especificada, conforme divulgado pelo veículo Plantão Brasil.",
+   "pratica": "Na prática, trabalhadores que se enquadram no limite salarial indicado deverão observar a desoneração do tributo sobre a gratificação natalina em 2026, exigindo atenção de profissionais contábeis na retenção e cálculo da folha.",
+   "termos": [
+    {
+     "termo": "13º salário",
+     "explicacao": "Gratificação salarial paga anualmente aos empregados no Brasil."
+    },
+    {
+     "termo": "isenção de IR",
+     "explicacao": "Dispensa legal do pagamento do Imposto de Renda sobre determinados rendimentos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "62f24c025fc33445",
+   "titulo": "A imunidade do ITBI na integralização de imóveis e o Tema 1.348 do STF",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNW5HZVNJZWZ0bHB4Z29zRjBmR2tnNkNDOVMyclIyQjl1VFIzUDlxYnc2SzZBSmRDTmJkZUpLZTM0ekhLNUhYMkdyeXhrNTl4ek1RMDN5UEl4MkNLT0hQVEp4bE1vLU1LMDYwenFIUWxwZzRoc01Xckloa29qMnJnLUM2Um9CelhRa3BQZHhCMXlLWHM3QXhJLUM4MDZRZW50dkU4MHJSTW5Eb2RfNERXeXJHTkxaQV9RNU9yc0FjVXFfZktDaTM4Y0l3VE5zT1dCS1RSX0UwSGxyUFlIRGc?oc=5",
+   "veiculo": "Capital Aberto",
+   "trecho": "",
+   "data": "2026-11-22T20:34-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal está analisando a imunidade do ITBI na integralização de imóveis por meio do Tema 1.348. Trata-se de uma discussão de grande relevância sobre a incidência ou não deste imposto municipal em operações societárias.",
+   "pratica": "Na prática, o acompanhamento deste tema pelo STF orienta empresas e profissionais sobre a segurança jurídica na transferência de bens imóveis para o capital social de pessoas jurídicas.",
+   "termos": [
+    {
+     "termo": "ITBI",
+     "explicacao": "Imposto municipal incidente sobre a transmissão de bens imóveis."
+    },
+    {
+     "termo": "Integralização de imóveis",
+     "explicacao": "Ato de transferir imóveis para compor o capital social de uma empresa."
+    },
+    {
+     "termo": "Tema 1.348 do STF",
+     "explicacao": "Código que identifica a repercussão geral de um recurso extraordinário em julgamento no Supremo."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a2385c4b15e13775",
+   "titulo": "Reforma tributária é positiva para nanoempreendedores, diz associação",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ3lRSVJOQ3VlQXczVlFkS1pCSHBseElDNTFjT2F0emVGRHg1M3AteDFFNGFZWjBBWjRITU9PVnRNNkRBaDZFOTI0WjZFY2tNX0Z3LWVpQzR1OS1vTW5GWW1jTGZpRk5PUl95dGdNN25NNEdhVDRhVFYxV2pjcFdXQjEwbUc0NmhfakthZ2p0M2VxbGwwM0hUVkNuTDQtMHlrcWVJNFJCOHhJbWxXaXktMnpn?oc=5",
+   "veiculo": "Poder360",
+   "trecho": "",
+   "data": "2026-11-22T18:14-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, uma associação afirmou que a reforma tributária é positiva para os nanoempreendedores. A notícia aborda os impactos das discussões da reforma para os contribuintes de menor porte.",
+   "pratica": "Na prática, a avaliação sinaliza expectativas positivas para o segmento de menor faturamento com as novas regras da tributação, embora seja prudente aguardar o detalhamento normativo.",
+   "termos": [
+    {
+     "termo": "nanoempreendedores",
+     "explicacao": "Empreendedores de micro e pequeníssimo porte com faturamento extremamente reduzido."
+    },
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais no sistema de tributos do país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a35edb2636167e2c",
+   "titulo": "Reforma tributária muda regras para aluguel de imóveis a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHdhZjBZOFkzWjhsOVgyNmlKYW5LYnBNcVZCaFhHTHRfTU9icmVuNlVHLWQwelZPc1BFTzdBNkF0SW9FNTZMNVprcjJhNVctOUJtbDNrMzd3UTl5cmtXajlKbHFjN296WjhiM3lEV0NEMWtkMWRDejRSc2tJUm1EWU9PczUteGt1YTlhWVNnM3NVWjZBSzM3QWFKMFdsT3daMzBNMnJ0NlV1VEhnWG1ydWd4VdIBuwFBVV95cUxObi1fLXFlZjJjc0t1bExBWTMyd1NtVFlHbWlFTFU3ekRpbFd2TWlETnZvYXhZWmI3dzdTdVpRc0ZndHlyQkFfbE9SUmNaRktaVzVuUVFvTE9zVHpoNlFkNWNObXg3cXNTaW5FdGs3al9RQmVvSkh4b2kxVDFoejdHdEVuLUFKb2c1bWtGY296d0QtaGVBQzJnc1R2aVV2SWpOb0FIUU1CVDg0Z0hhTkN0T3QxTGdLTlpNTTNz?oc=5",
+   "veiculo": "DOL",
+   "trecho": "",
+   "data": "2026-11-22T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete veiculada pelo DOL, a reforma tributária trará alterações nas regras aplicáveis ao aluguel de imóveis a partir do ano de 2027. Como não há texto detalhado disponível, a informação baseia-se exclusivamente no anúncio da mudança normativa futura.",
+   "pratica": "Na prática, profissionais e contribuintes do setor imobiliário devem monitorar a regulamentação da reforma para se adequarem às novas diretrizes de tributação sobre locações a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dbdbf96640c79f87",
+   "titulo": "MT ameaça ir ao STF contra adiamento de R$ 1,2 bilhão em repasses da União",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2l6bjNIYnNoS0lJU05UbmtzeHVtYjN5MV9Xc1NoSXF3N1FEWmY2WlBHLWFiV2xBSktVUG9aZUUtUVl2RE5Nd3BsZXhGS3UyQmdjMTA0RWZ0UWFEcDY1UmdxTmt6UzhiMjQxbU9oS2pzTkpTOFlfS1JoNTVMTS02N3lXT1ljd0hpRk1HaE5NUVZ3Z3VybzRPam0zYTg?oc=5",
+   "veiculo": "JBNEWS",
+   "trecho": "",
+   "data": "2026-11-22T17:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Estado de Mato Grosso ameaça acionar o Supremo Tribunal Federal contra o adiamento de R$ 1,2 bilhão em repasses da União. A disputa envolve a gestão de recursos financeiros públicos e a relação federativa entre o ente estadual e o governo federal.",
+   "pratica": "Na prática, a movimentação indica potenciais conflitos federativos sobre o fluxo de caixa e o cumprimento de obrigações financeiras da União com os estados, exigindo monitoramento por profissionais que atuam com finanças públicas.",
+   "termos": [
+    {
+     "termo": "Repasses da União",
+     "explicacao": "Transferências de recursos financeiros do governo federal para estados e municípios."
+    },
+    {
+     "termo": "STF",
+     "explicacao": "Supremo Tribunal Federal, corte máxima do Judiciário brasileiro competente para julgar conflitos entre entes federados."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f3859c27ff80b88c",
+   "titulo": "ICMS do diesel sobe 735,7% na série da EPE e terá reajuste em fevereiro",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1UlVxTS1KTU16NmVFWFVmb0txajZ4cWRiZG9raVFSZkJRX3YxYS1Od0MzWERRaGNRVE1UOWNSUWdTUEZLNmdZaTNzLVdNdw?oc=5",
+   "veiculo": "CompreRural",
+   "trecho": "",
+   "data": "2026-11-22T17:39-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o ICMS do diesel apresentou alta de 735,7% na série histórica da EPE e passará por novo reajuste em fevereiro. A informação aponta para uma elevação expressiva na carga tributária incidente sobre o combustível.",
+   "pratica": "Na prática, a alta do imposto afeta diretamente os custos logísticos das empresas e o planejamento financeiro de transportadoras e contribuintes do setor. É prudente que os profissionais revisem os cálculos de formação de preço e o impacto nos créditos do tributo.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual queincide sobre a circulação de mercadorias e serviços, incluindo combustíveis."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ce2e0a27b5358772",
+   "titulo": "ICMS do diesel sobe 735% em 24 anos, aponta estudo da EPE",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3VmSTFZcjBOd245cVlaS0p0OWxoTWlXUzQyR2RhM0IxTF9zaFYwOHhjNkI3S0JESENOZS1hdWN5WUphV3F2cHcyN2xiWmk3aU5KTFBRWkVjdTU3NkpuM1JrZzNfWEM1aDE3NzlDcWNOWU9BTVlxVXF5SzQtb2FmRDZJLThJaG0zSklUXzF0ZFA?oc=5",
+   "veiculo": "Paraíba Business",
+   "trecho": "",
+   "data": "2026-11-22T17:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, um estudo da EPE aponta que o ICMS do diesel subiu 735% em um período de 24 anos. A informação evidencia a expressiva variação histórica da carga tributária incidente sobre esse combustível no Brasil.",
+   "pratica": "Na prática, a alta histórica da tributação impacta diretamente os custos logísticos das empresas e o planejamento financeiro de contribuintes do setor de transporte.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e a prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c1b541727c53add9",
+   "titulo": "ICMS do diesel dispara 735% em 24 anos e terá novo aumento em 2027",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEx0dzRCY0dyYVFBeFJmQlpwUWxfdmgzblAwLU52bkcyMHUwcFd2Wk1weFFGRW5xcUpBb0hnRUlBaHE1RThwNWVnWDlOSXdUMEdGS1pESFZzMjdQdHNsOVFJc2VRLXNJcEhSMUdKTWhyLUx4VU5CYlFJMl9QY3JEUEhNMDFzT2pvSE9JWERqTFgzNDJ3blZ6OS1hTdIBoAFBVV95cUxPVkQ0RzJuX2k0VzdiTmc0WDBqZ3pQM2ZwQ05TS1ZOeTJUaU41VkdHQXdrR1Fwcmp3anRyODFyd0JLQU9qRkVITTA2UHdqclAyejIxZHdfdHlXR2JSUFNaV3UyRUFTRHliLVJhbGZZLUg0Y0xXVS1EZUpvYkFaWG5EaHQ0cXE0WlhKV3cweGNWanpSTC01U2FPZFVoNjhDOTJi?oc=5",
+   "veiculo": "Enfoque MS",
+   "trecho": "",
+   "data": "2026-11-22T17:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o ICMS incidente sobre o diesel disparou 735% ao longo de 24 anos. A notícia aponta ainda que o tributo passará por um novo aumento no ano de 2027.",
+   "pratica": "Na prática, a alta expressiva e o anúncio de novo reajuste exigem redobrada atenção de empresas transportadoras e contribuintes na gestão de custos e planejamento orçamentário.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6e62e9a917787766",
+   "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXVaTjRxVHZaVkdwaTdVa1ZVZjRJZGF6N0xFQk5EZjVfRkNkb2hnd29rVU9lODdISG90U0lwbVcxYkVBdmdGT0pWZmdFeDVEQ3Ezd3NIZ1JxY25XTGFXS0F5aldiUmx5SUZ2SDdUcVVtSWRid1pKNnNHazhvTDk0OEQzMnpOamlqbzJlc0Q4Vm5seS1NeUE?oc=5",
+   "veiculo": "Hoje no Centro Sul",
+   "trecho": "",
+   "data": "2026-11-22T16:40-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal descartou a aplicação de punições para erros cometidos de boa-fé no contexto da reforma tributária. A medida busca trazer segurança jurídica aos contribuintes durante a transição do novo sistema de tributação.",
+   "pratica": "Na prática, a orientação traz alívio para empresas e profissionais na adaptação às novas regras, reduzindo o temor de autuações severas por falhas involuntárias.",
+   "termos": [
+    {
+     "termo": "boa-fé",
+     "explicacao": "Atuação do contribuinte sem intenção de fraudar ou burlar o fisco."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d8bc6688db71d7b9",
+   "titulo": "Compensação tributária e os limites do ajuste fiscal",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2RsUVZEYmNzUkFqTjZaOG1uWkJadDlZSHZMcUVOOW1UeFhWbkJGZXM5LW9DQTJZZkYtOFd0bjVtcWhVNlJRWjhLR2NrVlRONWlCdlNFanpSeTJxOFFGY1A3ZnRJU2lvY3FOdzFGZ0F4d2VmLVd6cGJNSm5BNVZYMmpVV0ljTWJnMUlhcnZkMGJPdkJuMEt4akNIbENnUQ?oc=5",
+   "veiculo": "MT HOJE",
+   "trecho": "",
+   "data": "2026-11-22T16:16-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate gira em torno da compensação tributária e dos limites impostos pelo ajuste fiscal. Trata-se de uma discussão relevante sobre a gestão de créditos tributários e as restrições financeiras do Estado.",
+   "pratica": "Na prática, o tema exige atenção de advogados e contadores na análise de estratégias de compensação diante de possíveis limitações fiscais impostas pelo governo.",
+   "termos": [
+    {
+     "termo": "Compensação tributária",
+     "explicacao": "Forma de extinção do crédito tributário em que o contribuinte utiliza créditos próprios contra o Fisco para quitar tributos devidos."
+    },
+    {
+     "termo": "Ajuste fiscal",
+     "explicacao": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "72c0b55d82105f7c",
+   "titulo": "Segurado do INSS mantém direito a período de graça ampliado após pagar mais de 120 contribuições sem interrupção",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY2pOQTFxb24xdWhMeGxvZGpISzJVQlFZLUV4UHdfeWRVMTNSRmIyZ3J4Mm5uVEpqbXpTOWRHdnBFaTBrak52eEw5R1RCYVBKSkJOWFc0U21ucDA1SXFXMjFTSXVWeld3dV9fSnVZSDhNRXY2ZE1LcTRCWTJYemRtQmpTZ3BmRWpxLV9XbDB0eUVVNE1ubzdtYVBHaHhfU1dXZGtDYUJoTlVJWHFYc2cxbDRCc3VaVnJlWU9QbXZGLXJEaTJTakZlODlmLTFmNEh2b3RxcWRNUHZOZXhIMkluUlBhWWpCTHM?oc=5",
+   "veiculo": "Diário de Justiça",
+   "trecho": "",
+   "data": "2026-11-22T16:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Contribuições previdenciárias",
+   "orgao": "INSS",
+   "resumo": "Segundo a manchete, um segurado do INSS garantiu o direito de manter o período de graça ampliado. A decisão foi assegurada após o pagamento de mais de 120 contribuições previdenciárias sem nenhuma interrupção.",
+   "pratica": "Na prática, a decisão reforça a segurança jurídica para contribuintes que mantêm um longo histórico de recolhimentos previdenciários ininterruptos. Profissionais da área podem utilizar o entendimento para orientar segurados sobre a extensão do período de manutenção da qualidade de previdência.",
+   "termos": [
+    {
+     "termo": "período de graça",
+     "explicacao": "Tempo em que o segurado mantém os direitos previdenciários mesmo sem estar contribuindo."
+    },
+    {
+     "termo": "contribuições",
+     "explicacao": "Pagamentos mensais realizados para a Previdência Social."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "828a7c59b0f1fba1",
+   "titulo": "Pequenos empresários podem ganhar fôlego no caixa com suspensão de ICMS antecipado",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2RqdXBnLTRQeXRfbkd6UkhPQ3FmR0xKcWw5U1dUYjFXcmNPNEZYdFIxVW1zY2dxNDFrTkJKWmlMTzZNRDJ6QkxGN0FiVjVQVlo4Tl90LXg2UFlfWFRCWWwwd2doTVR3SVEwWWlnS3ZNazZjTUdnQnZCUVU1UTliNDhDODJLeWY2eUI0ZS1VQzdULU1IUlhSc1A1SEJlbWlRVEQzZUI2M1V4VFBHdzljSldVUkNHaFVsaTA0YTBBc9IBxwFBVV95cUxQMExONTVNdko1TGNRUHgwMzFiOEZ0ZW5FNUNRN1JYWmhPYzY4b2Rsckh4aU81Ml9oTm01cXhaaTRtU3h2bnJMa2p4Vk1rTGVmVDYyYzVqU3VnLVR4aUV4c3lfdnhvMG56NDctZ29NZURlQ20zRzJPdGVYOE5la1JCWTNOc1lWcFFJam8xb3o3U2R1OF83S0N0SDlSYkRkazVRYl9KVGNZZkVpX0xSdllNWFcwWk9sZVpHcVZRQmdTOG54QjhWZlUw?oc=5",
+   "veiculo": "JM Online",
+   "trecho": "",
+   "data": "2026-11-22T15:52-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, pequenos empresários podem ganhar fôlego no caixa com a suspensão de ICMS antecipado. A medida indica um potencial alívio financeiro para o fluxo de caixa dessas empresas.",
+   "pratica": "Na prática, a suspensão do ICMS antecipado pode postergar o desembolso de tributos, melhorando a liquidez de curto prazo para os pequenos negócios.",
+   "termos": [
+    {
+     "termo": "ICMS antecipado",
+     "explicacao": "Cobrança do imposto estadual realizada antes da ocorrência do fato gerador ou da circulação da mercadoria."
+    },
+    {
+     "termo": "Fluxo de caixa",
+     "explicacao": "Controle das entradas e saídas de recursos financeiros da empresa."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3fbb8e36ce09ac35",
+   "titulo": "Reforma tributária muda regras do aluguel em 2027; entenda",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZktnSmxtMTZRYzY0RkNoSUJjLWczYkgwc3gwNVZ5TEVtVTBVOTZmR290bmxsbUxObWFEYnpsS3BDTnlsV1BmNGljVUh6ZHpzb0xNT1VNaVhwTG5ybm9HNkRnSG15M3NrVF9leTRjT0xYT2dPdEtXclJ2TXpETTgwVVV5ZE1LSVFOd3hPN09HSDktYjRaenMwelhNaXRjUXplVTFDdlJPbjlNSFlVdndXY1l0Q0w3TWxrN2E1YzluRXFnWmxBRVQ2U09lSHF2eE5aTnNZ?oc=5",
+   "veiculo": "Terra",
+   "trecho": "",
+   "data": "2026-11-22T15:35-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete veiculada pelo portal Terra, a Reforma Tributária trará mudanças nas regras aplicáveis ao aluguel a partir do ano de 2027. O título antecipa que haverá novidades normativas para esse setor imobiliário com a implementação da nova legislação tributária.",
+   "pratica": "Na prática, advogados, contadores e administradores de imóveis devem acompanhar a regulamentação da reforma para preparar os contratos de locação e orientar os contribuintes sobre os impactos futuros. Como o trecho não traz detalhes, é prudente aguardar a publicação das normas específicas.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f5e968fd5232f7ff",
+   "titulo": "O que as empresas precisam revisar ainda em 2026 para evitar prejuízos em 2027",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ25zLS1kc2ctcENDVnpDdENhbUh3a1RXczJxd09qdWhzbkhxcGhvT2dkTXJQYTZRSEFYUGdzX3pFWUdmRFJtcnpfb0dXWmpidUZ3aVhsbGs4cFVBNUUybE0wMjFZTV9UdXpGRUFFNUZWZmpuY0EyQ0g5dDFlemxmT1FwdWp1N3N3ei1BMGxfZlB0di1CSVF4OFNDSEJQanAyRmJrcDJNeE1RV3Y3SFE?oc=5",
+   "veiculo": "Debate Jurídico",
+   "trecho": "",
+   "data": "2026-11-22T15:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Debate Jurídico, de 22 de novembro de 2026, as empresas precisam realizar revisões estratégicas ainda em 2026 para evitar prejuízos financeiros no exercício de 2027. O alerta reforça a necessidade de antecipação e análise preventiva por parte dos contribuintes.",
+   "pratica": "Na prática, advogados, contadores e gestores devem antecipar auditorias e revisões de procedimentos para blindar o caixa da empresa contra riscos fiscais no ano seguinte.",
+   "termos": [
+    {
+     "termo": "planejamento tributário",
+     "explicacao": "Conjunto de ações legais para reduzir ou otimizar a carga tributária da empresa."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b8688c0aa0800904",
+   "titulo": "ICMS do diesel avança 735,7% e supera inflação desde 2002",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcnlsVGpFNmFha0NLV2ppSFE1Q1BZUm1acHdNSlNzTlhDTzFGQXlSbTNuejFCMDV5RF9kT1VSeXl1V1dOSFdRTUh0b2s4cXVBaFJHY1gxQ1gtWkR5QnQ1djV2S2hzNGlROG5EQWhnSXRROGJjWUxyb1R6M2E?oc=5",
+   "veiculo": "SpaceMoney",
+   "trecho": "",
+   "data": "2026-11-22T14:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o ICMS incidente sobre o diesel registrou um avanço de 735,7%, conseguindo superar a inflação acumulada desde o ano de 2002. Trata-se de um dado relevante sobre a evolução histórica da carga tributária estadual que recai sobre esse combustível.",
+   "pratica": "Na prática, o aumento expressivo da carga tributária sobre o diesel impacta diretamente os custos de logística, transporte e formação de preços para diversas empresas e contribuintes.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ccbbe4c9956b3c3e",
+   "titulo": "Estados avaliam reduzir aumento aprovado do ICMS do diesel",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LTFURV96MlQ0ZDBGN2lNcjVhdl9HbE8tcjFmRk93M0hpaHVoY1JQNkFMNFIyUFFfck16TENvTU9ldnJzSmpDWXIyaW1vRlBxX2U5NVREam1QWUcyMkdqenVPc1F5LVlRamNiSmtocVZNdk5Zc1E?oc=5",
+   "veiculo": "Agronews",
+   "trecho": "",
+   "data": "2026-11-22T14:07-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, os Estados estão avaliando a possibilidade de reduzir o aumento que havia sido aprovado para a alíquota do ICMS incidentes sobre o diesel. Como o trecho da notícia não foi fornecido, o resumo restringe-se estritamente à informação de que há uma discussão em curso pelos entes estaduais sobre essa carga tributária.",
+   "pratica": "Na prática, caso a redução seja efetivada, poderá haver uma diminuição nos custos com combustíveis para empresas e transportadores, exigindo acompanhamento das legislações estaduais que venham a ser alteradas.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
    "id": "af1b67b200486af4",
    "titulo": "Carf valida IRPJ e CSLL contra a Caixa por ganho em troca de ações da Bolsa",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjNLcTNadjhrNGM1YVdHdGJLYjF2YUZMR1lTeUg5OC11UDBvWVl3OUJ5dWtoa2NISnk4a1ZuRks2SjFpZGx0QjlBWlhrd19EMTJUYk1HMXR6RUd1RXBMV2FZNGdTemhsbl9qaDZFT0t0M0lVdXV0YzFwT0k2MzJpc1NqaHRjRjlkRUdnckJLZ1hnU0VvWXVOc25jb3JwX0hZUWJRTG5IcHFwZw?oc=5",
@@ -20956,7 +21705,8 @@
   "2026-11-19": "Nesta edição, destacam-se três temas fundamentais para o direito tributário brasileiro. Primeiramente, o Superior Tribunal de Justiça (STJ), no Tema 1.228 sob o rito dos recursos repetitivos, fixou o entendimento de que a existência de CNPJ não transforma o titular de cartório em empresa, desobrigando-os do recolhimento do salário-educação. Em segundo lugar, o Senado aprovou um ajuste fiscal com uma emenda bilionária que altera diretamente o fluxo de caixa das agroindústrias exportadoras. Por fim, o STJ determinou a suspensão dos processos sobre o fim antecipado do benefício fiscal do Perse, exigindo atenção do setor hoteleiro. Esses tópicos são de extrema importância por impactarem diretamente a exigibilidade de contribuições, a estrutura financeira de setores produtivos e a gestão de litígios fiscais.",
   "2026-11-20": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário. Primeiramente, entrou em vigor a nova lei que obriga a Receita Federal a seguir decisões do STF e do STJ, medida que busca alinhar o entendimento do Fisco aos precedentes das cortes superiores e traz maior segurança jurídica para as empresas. No âmbito do contencioso, o STF e o STJ fecharam três teses favoráveis aos contribuintes em 2026, validando também o limite à compensação de créditos tributários. Por fim, os debates sobre a Reforma Tributária ganham força com a discussão em torno da alíquota e dos impactos da CBS de 11,3% para as empresas em 2027, tema que afeta diretamente o fluxo de caixa corporativo e a transição do novo modelo de consumo.",
   "2026-11-21": "Nesta edição, destacam-se três importantes temas do cenário fiscal. Primeiramente, o Supremo Tribunal Federal derrubou a cobrança da alíquota de 27% de ICMS sobre a energia elétrica no Maranhão, atacando diretamente essa exação estadual sobre um insumo essencial. Em segundo lugar, a Reforma Tributária gera forte preocupação institucional, evidenciada pela indefinição sobre a Justiça competente para julgar questões relativas ao IBS e à CBS, além da antecipação de contratos previstos para 2027 antes da nova incidência. Por fim, na seara das dívidas, a Receita Federal anunciou que irá perdoar e cancelar débitos previdenciários de 3,6 milhões de MEIs a partir de 2027, impactando diretamente o passivo tributário dessa categoria.",
-  "2026-11-22": "Nesta edição, destacam-se três importantes movimentações no cenário tributário. Primeiramente, o STJ definiu que a impugnação administrativa não interrompe a prescrição tributária, estabelecendo uma baliza essencial para a contagem de prazos na relação Fisco-contribuinte. No âmbito do STF, a Corte derrubou a exigência de idade mínima para a concessão da aposentadoria especial, impactando diretamente os segurados. Por fim, a Reforma Tributária continua gerando debates cruciais ao alterar o fluxo de caixa das empresas, prever a devolução de tributos sobre luz, gás e internet, e exigir adaptações operacionais urgentes para 2027, impactando fortemente o setor empresarial e o mercado imobiliário."
+  "2026-11-22": "Nesta edição, destacam-se três importantes movimentações no cenário tributário. Primeiramente, o STJ definiu que a impugnação administrativa não interrompe a prescrição tributária, estabelecendo uma baliza essencial para a contagem de prazos na relação Fisco-contribuinte. No âmbito do STF, a Corte derrubou a exigência de idade mínima para a concessão da aposentadoria especial, impactando diretamente os segurados. Por fim, a Reforma Tributária continua gerando debates cruciais ao alterar o fluxo de caixa das empresas, prever a devolução de tributos sobre luz, gás e internet, e exigir adaptações operacionais urgentes para 2027, impactando fortemente o setor empresarial e o mercado imobiliário.",
+  "2026-11-23": "O noticiário de direito tributário brasileiro destaca importantes movimentações legislativas e jurisprudenciais. No Supremo Tribunal Federal, analisa-se a imunidade do ITBI na integralização de imóveis por meio do Tema 1.348, enquanto Minas Gerais pede a modulação de tese sobre créditos de ICMS de combustíveis, impactando contribuintes e o fisco. Paralelamente, o Congresso avança com pautas cruciais do ajuste fiscal, como a discussão da alíquota da CBS e o Orçamento de 2027. Além disso, a Reforma Tributária ganha destaque com debates operacionais sobre o impacto do split payment no fluxo de caixa das empresas, a aprovação do PLP nº 299/2026 no Senado e a garantia da Receita Federal de que não aplicará punições a erros cometidos de boa-fé, visando à segurança jurídica."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -21449,9 +22199,25 @@
   "contribuição extraordinária": "Pagamento adicional realizado para cobrir déficits em planos de previdência complementar.",
   "deduzida": "Subtraída da base de cálculo de um imposto, reduzindo o valor devido.",
   "Imposto de destino": "Critério de tributação em que a arrecadação é direcionada ao local onde ocorre o consumo do bem ou serviço.",
-  "Setor logístico": "Atividades econômicas voltadas ao transporte, armazenamento e distribuição de mercadorias."
+  "Setor logístico": "Atividades econômicas voltadas ao transporte, armazenamento e distribuição de mercadorias.",
+  "13º salário": "Gratificação salarial paga anualmente aos trabalhadores formais brasileiros.",
+  "modulação de tese": "Instrumento jurídico utilizado para limitar os efeitos temporais de uma decisão do STF, garantindo segurança jurídica.",
+  "créditos de ICMS": "Valores que o contribuinte pode aproveitar para abater o imposto devido em etapas posteriores da cadeia circulatória.",
+  "Virada tributária": "Expressão utilizada para indicar um momento de grande transformação ou transição nas regras de tributação.",
+  "Salvados de sinistro": "Bens recuperados após o pagamento de indenização por seguradoras.",
+  "PLP nº 299/2026": "Projeto de Lei Complementar em tramitação no Congresso Nacional.",
+  "pacote fiscal": "Conjunto de medidas econômicas e tributárias propostas pelo governo para ajuste das contas públicas.",
+  "isenção de IR": "Dispensa legal do pagamento do Imposto de Renda sobre determinados rendimentos.",
+  "Integralização de imóveis": "Ato de transferir imóveis para compor o capital social de uma empresa.",
+  "Tema 1.348 do STF": "Código que identifica a repercussão geral de um recurso extraordinário em julgamento no Supremo.",
+  "nanoempreendedores": "Empreendedores de micro e pequeníssimo porte com faturamento extremamente reduzido.",
+  "Repasses da União": "Transferências de recursos financeiros do governo federal para estados e municípios.",
+  "boa-fé": "Atuação do contribuinte sem intenção de fraudar ou burlar o fisco.",
+  "período de graça": "Tempo em que o segurado mantém os direitos previdenciários mesmo sem estar contribuindo.",
+  "contribuições": "Pagamentos mensais realizados para a Previdência Social.",
+  "Fluxo de caixa": "Controle das entradas e saídas de recursos financeiros da empresa."
  },
- "atualizado_em": "2026-11-22T06:45-03:00",
+ "atualizado_em": "2026-11-23T07:04-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
