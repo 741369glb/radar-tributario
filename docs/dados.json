@@ -1,6 +1,775 @@
 {
  "itens": [
   {
+   "id": "bf6773584efe130a",
+   "titulo": "Alagoas perdoa créditos de ICMS sobre remessas interestaduais de gado para industrialização",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQUxpSmFoa09GTV91WjZCWmVzb1NKSngtajUtN2w4VXNMUVZaeFRBemxCVzV4MG9BZmFXZkk2akJuRmNrZnJLdzh4NEdnQTYyaDJGSXN2b1pENW0tbU9nOGRxRGFwVl9EbXNEQWxhZFNaTFh2Z25ocWhkTHJVd2EwblZFSXJScFJ5YldmOGUzUFV0dTJDTENXUnRPcF9ZQWk4RTZuSWFXR2NvWFNkQ2pFRUtJd3J5ZlhQbUZBaVE2dnhTWmZUYU5EWENOZmc0WFJ2OHF3R2dZSQ?oc=5",
+   "veiculo": "Francês News",
+   "trecho": "",
+   "data": "2026-11-24T06:45-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Sefaz-AL",
+   "resumo": "Segundo a manchete, o estado de Alagoas concedeu perdão de créditos tributários relativos ao ICMS incidentes sobre remessas interestaduais de gado destinadas à industrialização. A medida impacta diretamente as operações do setor pecuário e frigorífico que envolvem o trânsito do gado para outros estados.",
+   "pratica": "Na prática, a decisão elimina cobranças pendentes de ICMS sobre essas operações específicas, reduzindo o passivo fiscal e os litígios para os contribuintes do setor envolvidos nessas remessas.",
+   "termos": [
+    {
+     "termo": "Créditos de ICMS",
+     "explicacao": "Montantes de imposto discutidos ou registrados em razão de operações anteriores."
+    },
+    {
+     "termo": "Remessas interestaduais",
+     "explicacao": "Envio de mercadorias entre estabelecimentos localizados em estados diferentes."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "741ef9fb4b142b3d",
+   "titulo": "Carf decide que receitas de ativos garantidores entram na base de PIS e Cofins",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nNmRONEhOMk96WXFHZ3BwSkQ1aEpjRm9WVU43Q0RFb3V1TDFsMVlrb0NsOXd3Ni1hdXRzbWhEd2cyRE9OLUFfampJSmd3ODhtUXhpUW5jUnNnYVdTVEhPcHZ4ZjdWS3Fjb0N0dEd2by1lX3NQeUpMR0JGaC0?oc=5",
+   "veiculo": "Imprensa 24h",
+   "trecho": "",
+   "data": "2026-11-24T06:39-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o Conselho Administrativo de Recursos Fiscais (Carf) decidiu que as receitas de ativos garantidores devem integrar a base de cálculo do PIS e da Cofins. A discussão envolve a tributação dessas receitas no âmbito administrativo federal.",
+   "pratica": "Na prática, a decisão indica que empresas que possuem ativos garantidores podem enfrentar cobranças adicionais dessas contribuições, exigindo atenção de advogados e contadores na gestão desse passivo.",
+   "termos": [
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou o faturamento das empresas."
+    },
+    {
+     "termo": "Ativos garantidores",
+     "explicacao": "Bens ou direitos mantidos por entidades para assegurar o cumprimento de obrigações específicas."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dfdab1a063085945",
+   "titulo": "Receitas com ativos garantidores integram base do PIS/Cofins, decide Carf",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVKbDkzV0ZCMEdaZ2Z4eGhkQktPQkVzNjVJRlRKc2dNTVZuS1pjMENDV0ttSkpYSU9teGgtTjVfTHB6UDhfdFFDUXdFMlczeUlvZ1dEVFN3RVhTSENrR1FRbWZmd0QtMU50VExKWHVPaThaRG12N0E4VzNTMGJIaGxpdHpNV3lGUzduaGdHWHF1d0I0RWJ5dW9BTjZ5cHpXcjRRWWpn?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-24T06:28-03:00",
+   "tipo": "Julgamento",
+   "tema": "PIS/Cofins",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o Conselho Administrativo de Recursos Fiscais (Carf) decidiu que as receitas com ativos garantidores integram a base de cálculo do PIS e da Cofins. A discussão envolve a apuração dessas contribuições sociais sobre receitas específicas vinculadas a garantias.",
+   "pratica": "Na prática, empresas e contribuintes que mantêm ativos garantidores devem revisar seus procedimentos de apuração, pois a decisão do Carf valida a inclusão dessas receitas na base de cálculo do PIS e da Cofins, gerando potencial impacto financeiro e contencioso.",
+   "termos": [
+    {
+     "termo": "Ativos garantidores",
+     "explicacao": "Bens ou direitos mantidos por empresas para garantir o cumprimento de obrigações regulatórias ou financeiras."
+    },
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita bruta das pessoas jurídicas."
+    },
+    {
+     "termo": "Carf",
+     "explicacao": "Órgão administrativo que julga, em segunda instância, litígios fiscais entre contribuintes e a Receita Federal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "8f2fd238bfe46f48",
+   "titulo": "Novo Congresso tem 94 parlamentares com R$ 311 milhões de dívida irregular",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFVXNFRjWi1Gank3MFdfQ0YyMmRZR2pWZFlTaFRxYXVBVTgtWjVaNVd5dDNtZGhCUkIzeTZER2pfYWNOMkEtSGtXMnN2VnBHZ2s1dFVlTjRKMVJpMk5FMDNEVFFmbF9qMTQ0MWRGTG9rOEY3MGNvNHZwb1haUU9EZHRKalpDZENTN1F0V29zUF91OHdtVVMwY05nUXNLYndoUDEzUHJJRlNUc29lRFBHS0pXSHN3SWJaaW40M015VVBkRFVRQW16TzRYaThfaVJGN3AzejV3em11UQ?oc=5",
+   "veiculo": "UOL Notícias",
+   "trecho": "",
+   "data": "2026-11-24T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o novo Congresso conta com 94 parlamentares que possuem um total de R$ 311 milhões em dívidas irregulares. A notícia aborda o perfil fiscal de membros do Poder Legislativo federal.",
+   "pratica": "A informação traz alerta sobre a regularidade fiscal de agentes públicos, mas não altera diretamente normas ou procedimentos para contribuintes em geral.",
+   "termos": [
+    {
+     "termo": "dívida irregular",
+     "explicacao": "Débitos fiscais ou de outra natureza que não estão com a situação regularizada perante os órgãos competentes."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3a6f564fe699b97a",
+   "titulo": "Congressistas contestam na Justiça dívidas irregulares com a União",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHR6VVB1Mkl4bUVUblFVSkFoY2dacUNNT0lzd0xsbGptMENCSXVSZEFibkk5b3RkcW5IWFNsODhBd1JGOWVlYnBWTEZ5VW1sMHBBLThaWUtENF9DcTN6eG5kMVZJdGxlWW9RR1ZZREpUSkx3cnlFU19MVEUtd0Ntb0s2WHIzWTNlbVF1M0RCZE5TS1ZhNUpCVjYzU3FOZWdFVEMtcGZvUmxOVFp1UTRZanVxQUZHM3ZWeFYxWG9scTM?oc=5",
+   "veiculo": "UOL Notícias",
+   "trecho": "",
+   "data": "2026-11-24T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, congressistas contestam na Justiça dívidas tidas como irregulares perante a União. A notícia envolve discussões sobre créditos e débitos fiscais federais.",
+   "pratica": "Para profissionais e contribuintes, a medida sinaliza o uso do Poder Judiciário para questionar a regularidade de cobranças e débitos inscritos em dívida ativa.",
+   "termos": [
+    {
+     "termo": "Dívidas com a União",
+     "explicacao": "Valores devidos por contribuintes aos cofres públicos federais que podem ser objeto de cobrança ou contestação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e5e9c5312bf4b4b3",
+   "titulo": "Cinemark obtém no Carf direito ao uso de créditos de PIS/Cofins dos custos com IPTU",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2h5bHhTMWFKc1lud0ZKdHVHVnFHeG4wMzVPVURPTXVIenB6X2RKYTRzcmRTMDdxV182aUV6WjkwU3h5VWhzSWhpckZPT1VYbXZOZlhGd29JbGdoeGxia2c1SnFSd2I2SFFLR1A5Q283eHF3Wmx3SVlvVHNycXpMX3hDazB3NlJPSi1NUHpjUjEtNHlqYzljOVN5M0Z6Tnc1UnBzcjVITFNJMnFFOTNuV3NqOTBwZjlXVkczVC1zVkswM3d3MWlaamlBcWtGT1pyTzRWTHZ4dEthY1nSAeoBQVVfeXFMT01seXpqbzZjMWFQdmtZWTR3LTh4TXVJeXN6Qk16UzM5TXA4SlBLS3RGR1A1ajhaT0RGRi1WVmVUZ0dHZW95bFJFakx1VEdkempXR0pYYnhEZFNVTmt3MkxaMW5Ed1hoX0xmMmF4Q3p4WTBHdFo3RF9IeFdnT202dE5qSmhSVjMwUmFTdW5WYkM4SUMxVThWOUZTN2I2Q2d3ZXZoLVBGbXI3ZnI1LThoM1JORGgzZE5ra2N6VnNiZnpXb3NxOU16TWJYNmdhdFdtMEVEdmdvUEdKdk44RXNKSUdLR0J2UFZDZk9R?oc=5",
+   "veiculo": "Valor Econômico",
+   "trecho": "",
+   "data": "2026-11-24T05:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "PIS/Cofins",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, a rede Cinemark obteve no Carf o direito de utilizar créditos de PIS e Cofins sobre os custos relacionados ao pagamento de IPTU. A decisão aborda a tomada de créditos dessas contribuições em relação a despesas imobiliárias da empresa.",
+   "pratica": "Na prática, a decisão pode servir de precedente para que outras empresas do setor pleiteiem o aproveitamento de créditos de PIS e Cofins sobre gastos com IPTU, embora seja necessário avaliar os reflexos caso a caso. Como o trecho original não foi fornecido, a aplicação prudente recomenda acompanhar o entendimento do órgão.",
+   "termos": [
+    {
+     "termo": "PIS/Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "29a4cd0ba346dec2",
+   "titulo": "Estados sobem ICMS do diesel 735,7% desde 2002 enquanto União corta tributos",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTBmN2xYVy1TR29ueVlPbmdjeEVTeFdnWHFFcXY0Y0Y3cVFqV2txempZR0h2enQ5MlBCVUxnUjZNb3QwVW8wd3ZfZ2R5cEZleWN2ZU0wREhsUXVfOVlqYm04TzZvY1pZYk5QaWdXMTN1SzNxTDhOa3VOUHFrQmRTLWNYWnNNN1NUeFJGVFhNQlN0TWRqclhYMzhjLWZFTzdlNGpPc2lmUk81UFRUdDVwV25FLVh4amRhRUR2Vl8wV1NHN1IyR2VqN1dZblpLdDg?oc=5",
+   "veiculo": "Movimento Econômico",
+   "trecho": "",
+   "data": "2026-11-24T04:29-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, os estados aumentaram o ICMS do diesel em 735,7% desde 2002. Em contrapartida, a mesma publicação aponta que a União realizou cortes de tributos no mesmo período.",
+   "pratica": "Na prática, o aumento expressivo do imposto estadual ao longo dos anos impacta diretamente a formação de preços do combustível e o custo logístico das empresas.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a4331934312e849b",
+   "titulo": "Concurso Receita Federal: banca escolhida; confira detalhes",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZFhoNjMxVldjYV9wdWpCcmFPcmYxT1pwTzJxelZQNExSU2RRQnJsOXQ3aTgzUDRqLUR4eVhuN0tJUGV3ZVRoR0hSeTVrLUNRMmVONkZsOFdVTU5tYlVMY0JsRWs3Mnl6SXJUQ0Rn?oc=5",
+   "veiculo": "Magistrar",
+   "trecho": "",
+   "data": "2026-11-24T03:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foi escolhida a banca organizadora para o próximo concurso da Receita Federal. O anúncio traz os detalhes preliminares sobre a realização do certame para o órgão fiscal.",
+   "pratica": "A movimentação indica a preparação para o provimento de cargos no Fisco, o que futuramente impactará a estrutura de fiscalização e atendimento aos contribuintes.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2ed93f838d53c4fb",
+   "titulo": "Receita Federal diz que subvenção para investimento, inclusive crédito presumido de ICMS, não sai da base do PIS/Pasep e da Cofins",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2tveTZLZ2xLd1ctQ1k0by1rQ2F5THlLem1iWFhVWWd3SUFLVWJGOHlDZDQ2N0hPTF9wQWNVdERpZXhGYzlhQ19lS2xCQTMzRTlnTTZ2Nm1MVUdseGkteTc0NkNMWWR2cW4yaG9DZGIyZVhEbDZCWklfY3pFTHYzQlNvd0dLeFRoaWl3ZzVHdkRZNTl2VkZhN2Zfbw?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-24T03:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "PIS/Cofins",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal afirmou que a subvenção para investimento, o que inclui o crédito presumido de ICMS, não deve ser excluída da base de cálculo do PIS/Pasep e da Cofins. A posição do Fisco afeta diretamente a apuração dessas contribuições por parte das empresas.",
+   "pratica": "Na prática, os contribuintes que utilizam subvenções e créditos presumidos de ICMS devem redobrar a cautela na apuração do PIS e da Cofins, pois a orientação da Receita Federal contraria a expectativa de exclusão desses valores.",
+   "termos": [
+    {
+     "termo": "Subvenção para investimento",
+     "explicacao": "Incentivo concedido pelo Estado para apoiar a implantação ou expansão de empreendimentos econômicos."
+    },
+    {
+     "termo": "Crédito presumido de ICMS",
+     "explicacao": "Benefício fiscal que reduz o imposto a pagar sobre a circulação de mercadorias e serviços."
+    },
+    {
+     "termo": "Base de cálculo",
+     "explicacao": "Montante sobre o qual se aplica a alíquota para calcular o valor do tributo devido."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3fbaad51313f5192",
+   "titulo": "Confaz publica protocolos de ICMS sobre aves no PR e SC, carne bovina entre AL e PE e sorvetes no ES",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1dVRHFCcWFOVmgzTUxkMDVoUGdBcHRVRS0zNmY5TEItMjllWlc1QzNFMkRVU0k4UmFyTTJud05PeFB5UHZXdjUtOTQyMDAxU2psNjFESXdCSXZnRDBjNnNraWVORGtyeURRSEpGZUI1dDZxNUNwV3d6UFRqT2E0NGVLZFc3MURhajhfR1M0VGoxdkpwNEoxWWY5dlY0N3pn?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-24T03:05-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "ICMS",
+   "orgao": "Confaz",
+   "resumo": "Segundo a manchete, o Confaz publicou novos protocolos de ICMS que tratam de operações com aves no Paraná e em Santa Catarina, carne bovina entre Alagoas e Pernambuco, e sorvetes no Espírito Santo. A medida envolve a regulação e o tratamento tributário aplicável a esses setores e Estados específicos.",
+   "pratica": "Na prática, empresas e profissionais que atuam nos setores e Estados mencionados devem revisar suas operações e procedimentos fiscais para se adequar às novas regras dos protocolos do ICMS.",
+   "termos": [
+    {
+     "termo": "Confaz",
+     "explicacao": "Conselho Nacional de Política Fazendária, órgão que reúne representantes da União e dos Estados para deliberar sobre normas de ICMS."
+    },
+    {
+     "termo": "Protocolos de ICMS",
+     "explicacao": "Acordos celebrados entre Estados para uniformizar procedimentos ou estabelecer regras de substituição tributária e tributação conjunta."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bc0c61cd3ee24e3b",
+   "titulo": "Stablecoins e IOF: Receita Federal, operações de câmbio e as diferenças conceituais entre os perímetros regulatório e tributário",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdk51THNYaG96Z3pGYkpUdGJManZuZ0NwbUN3MnhoUU1sbGpkaHh2X0Z4QTJhMUxadFVjd3FRbkQ5bFRmVUtlT1BkTWlISTEtY0dCc25XbFU0dVBVaEhPa1JXeDlWSDhITUFjWndCVHpBOFJ2cEYzZTBfVHRGM0NZekVESkpFbVpkX2E4cGE0Q0l0QVlQbl8yaFBrX2c2OHhreGJob3k0TnpLbFY4NVFzU3JOWkR4Z2o1amdac0xNS2NndXpMNDFwb2x0NjJUSlpuVlFJOXQ4X3NMWjA2UGdRRGh1Q0FIcEY4LWpRVlU4MlVRTG8tNjZBc3pNMkVzZlYwY0RTUQ?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-24T02:43-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete do JOTA Info de 24 de novembro de 2026, debate-se a incidência de IOF sobre operações de câmbio envolvendo stablecoins. A discussão aborda as diferenças conceituais entre os perímetros regulatório e tributário adotados pela Receita Federal.",
+   "pratica": "Na prática, a discussão exige que advogados e contribuintes fiquem atentos à postura da Receita Federal sobre a tributação de ativos digitais, que pode divergir do enquadramento regulatório. Isso impacta o planejamento e a gestão de riscos em operações envolvendo criptoativos.",
+   "termos": [
+    {
+     "termo": "Stablecoins",
+     "explicacao": "Criptoativos cujos valores buscam atrelamento a moedas fiduciárias tradicionais."
+    },
+    {
+     "termo": "IOF",
+     "explicacao": "Imposto sobre Operações Financeiras, incidente sobre créditos, câmbio, seguros e títulos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "080e40ee278ffa20",
+   "titulo": "Reforma tributária afeta aluguéis? Entenda o que muda a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNTZPYnlObE1hTWtmLWlfbnBxOE9EU0RZa19GeTVhM3FyNVNEWC1GdVlRd0I0NG81WWRKb1lVX0ZYcTBMMXhkaTFjaDZjN1M2MEp0WkdZazNwYlp6VUstS3Y1dnQ3cm1MeXk4TjVrcjhBSG55SmszU2d3NTN5U09QZU5VN056a25iRE9Ed2xtTkllV1VEV3JCTTBseTh5N080TGh3dUJ2Rk9ZZ1BFZ0pBQkl3cm5WUFE2Z0dLTE9Db3BCMlczZnBRQjdNQQ?oc=5",
+   "veiculo": "CNN Brasil",
+   "trecho": "",
+   "data": "2026-11-24T02:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da CNN Brasil de 24 de novembro de 2026, discute-se o impacto da Reforma Tributária sobre os aluguéis. O levantamento busca entender o que efetivamente muda para o setor a partir de 2027.",
+   "pratica": "Profissionais da área imobiliária e tributária devem acompanhar as regulamentações da reforma para antecipar os reflexos na tributação de locações a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "29ad83e24bb92153",
+   "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção presidencial",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmpFZEJHNDJ0Uk0yX3gzU0tQMG9LSGV3cksxVFNiZUY5ekRscUUyT095NEJmRTBHdmR2X3VtUkxBeE9saG5WVEdWUUNrWDZQbDU1QmFZZmlpaVpJcTlYY093N2F3aUR1bGFDLXBUYmExNlJ6YkpheXFzZGloLTJVZzVpNnE1dnRlbVJuaFlfNVJBQXRGSHN0SzBkQzUwclNPRTAyb0tfQ2p3UnM3NXRjb0VxWnJka3VfT1dwT3BjVjN0VWZKOWVjTkUtMUFNMUNadlE?oc=5",
+   "veiculo": "Agência Tocantins",
+   "trecho": "",
+   "data": "2026-11-24T01:08-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Outros temas",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a Câmara dos Deputados aprovou o projeto de ajuste fiscal sem alterações. Com isso, a proposta segue agora para a sanção presidencial.",
+   "pratica": "Na prática, a medida caminha para a fase final de aprovação e publicação, exigindo atenção de profissionais e empresas para os impactos nas contas públicas e possíveis reflexos na legislação tributária e financeira.",
+   "termos": [
+    {
+     "termo": "ajuste fiscal",
+     "explicacao": "Conjunto de medidas adotadas pelo governo para equilibrar as contas públicas entre receitas e despesas."
+    },
+    {
+     "termo": "sanção presidencial",
+     "explicacao": "Ato pelo qual o Presidente da República aprova um projeto de lei aprovado pelo Congresso, transformando-o em lei."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9b3d549e55655eaa",
+   "titulo": "Prorrogação de porto seco exige pedido com 24 meses de antecedência",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkpITzN4QlFwU29KcjFLdG1odDJTcDR1QmxSNlF0RXFuazdvb0I1dkJnemY2ZWNQaGo2ZE1DcXZxREg0b0xEWkpSMGI3UlBnWVpBZzJ0WFVrMmVvYzBtLVZweFphOUVfMlg2Z0IweXo5SVRXMzhTNmZSODlkN3AxUTFIb2FuNTZjUUlLNWRuNzF1aUxqOTE1U0hpMFlJSWpHeEdBTEt0Qy0tUQ?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-23T23:06-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a prorrogação de porto seco passou a exigir um pedido formal com 24 meses de antecedência. A regra impõe um prazo dilatado para que os operadores alfandegários solicitem a extensão de seus contratos ou autorizações.",
+   "pratica": "Na prática, operadores de portos secos devem redobrar a atenção aos prazos de planejamento regulatório e logístico para evitar a perda da vigência de suas instalações, protocolando o pedido com dois anos de antecedência.",
+   "termos": [
+    {
+     "termo": "Porto seco",
+     "explicacao": "Estação aduaneira do interior que facilita operações de importação e exportação sob controle fiscal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c0d98b0dde1cfa40",
+   "titulo": "Presidente da Fenacon participa do 8º Congresso de Direito Tributário do Codecon",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnFtREVSUnJmeldsVU1GVlB6X09hSFR4UHVJRlhVcDFpNjNqTDU4eUo2WHo3b1BTR1QtbUI4LUR3TEZVQzNiN3REOC1yODhnaGhRMkF3VGV4RENrek96c3A2TUxlVXNBSFh6R0ZBa1FRRXE5RlczbkpDZzVRRWc3WGlDWTQ5RXFiR3A1TlROZDlEWUhTQ3JTeXFvM05wVDZnWG9Jb0dTRmdkR0NVZnlXekpPcw?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-23T22:52-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Codecon",
+   "resumo": "Segundo a manchete, o presidente da Fenacon participou do 8º Congresso de Direito Tributário do Codecon. O evento reúne especialistas para debater temas relevantes da área tributária.",
+   "pratica": "",
+   "termos": [
+    {
+     "termo": "Fenacon",
+     "explicacao": "Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícia, Informações e Pesquisas."
+    },
+    {
+     "termo": "Direito Tributário",
+     "explicacao": "Ramo do direito que disciplina a arrecadação e a fiscalização dos tributos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a5427060911d5076",
+   "titulo": "Reforma tributária desafia cadeia fria da saúde com alíquota estimada de 11,3% da CBS",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzN6SkxPLVZPZk1za1ZFdC1hY00zM05rLWpfeElYTHNUcjFKYXctdFVKYV9fQi1VOEpNLTY5SUxrOVZEcm4wd1M2d0xKU1hnTkRicVlSQ0lXd1FDbWZBMWFDa1VjcEJsb0VibWpJeHZKc2VGMkt4MVZoSm90YzdvWVNzRU5GelI2T0VrRWpyb3N1OW5ybWxEZTlZNEQ4SjB5MFp4RHBqWEpyalFaaUVJZHMwVUo?oc=5",
+   "veiculo": "Brasil Inovador",
+   "trecho": "",
+   "data": "2026-11-23T22:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Brasil Inovador de 23 de novembro de 2026, a reforma tributária representa um desafio para a cadeia fria da saúde devido à alíquota estimada de 11,3% da CBS. A discussão envolve o impacto econômico e operacional dessa nova carga tributária no setor de saúde.",
+   "pratica": "Na prática, empresas e profissionais da cadeia fria da saúde devem reavaliar seus cálculos de custos e planejamento estratégico diante da projeção dessa alíquota da CBS.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    },
+    {
+     "termo": "Cadeia fria da saúde",
+     "explicacao": "Logística especializada na conservação de produtos de saúde que exigem controle de temperatura."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9ff7c5ca294d9986",
+   "titulo": "STF veta cobrança antecipada de ICMS-difal do Simples Nacional baseada em decreto e lei estadual genérica no Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnduM0pmUzdVOGNnQWpoSlN2bnJSdXZra3J4bENLU0xEeDVvRzc4eXNuWDY2eVFxR3pCUldmOEQ5aThTT1JqZEJHUXlSWVlTSGlvZXJDbXphcDZrcGhocFlETUVxRmJkOTJtOXJWeE5oaGxkbUJNR2FXVlN2d3Q5VVJPRUtWbGpBdUlzRGRBODU1RHpaTUc3am5rdTJqY0FkUzN3?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-23T22:01-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal vetou a cobrança antecipada do ICMS-difal para empresas do Simples Nacional no Paraná. A decisão considerou inválida a cobrança baseada em decreto e em lei estadual genérica.",
+   "pratica": "Na prática, a decisão traz alívio para contribuintes do Simples Nacional no estado, impedindo exigências de antecipação do tributo fundamentadas em normas genéricas.",
+   "termos": [
+    {
+     "termo": "ICMS-difal",
+     "explicacao": "Diferencial de alíquota do ICMS devido em operações interestaduais."
+    },
+    {
+     "termo": "Simples Nacional",
+     "explicacao": "Regime compartilhado de arrecadação, cobrança e fiscalização de tributos para micro e pequenas empresas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a952062009cba1f1",
+   "titulo": "STJ define regras para herdeiros pagarem dívidas tributárias de falecidos",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjlhQW9NT19IYmpTRGJfeF9vN1ZTQm5VRDBZV0JTcWZaX2RKN0FHZkR5aFZxMHZkOUNlNWpQN3ZwdHNQRzZ0N2dSeEtDR1B0R3hMcE4wSnpYeWZGZE1mdklhamlWb2pzdjJRaGs5VFdPbTAxOV9ydFRnVTA2SFZEMktvMmJKOVM4OUNLNks2cl8wUlZrLUJQOEFoa3BIZUNrMUF6c05zZlgwQS0tWlFV?oc=5",
+   "veiculo": "Gazeta do Povo",
+   "trecho": "",
+   "data": "2026-11-23T21:42-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça definiu regras para que herdeiros paguem dívidas tributárias deixadas por pessoas falecidas. A definição estabelece os parâmetros de responsabilidade sucessória no âmbito do direito tributário.",
+   "pratica": "Na prática, a decisão orienta advogados e contadores sobre como proceder na sucessão patrimonial e na quitação de débitos fiscais do espólio.",
+   "termos": [
+    {
+     "termo": "dívidas tributárias",
+     "explicacao": "Obrigações de pagamento de tributos devidas ao Estado que podem ser transmitidas aos herdeiros até o limite da herança."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e0f1073454909485",
+   "titulo": "Procuradoria da Fazenda suspende atendimento presencial em Maceió após incêndio",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYW1FLU1QTGRralBLTXFrUG5CZWFWRDFfRHE2VFYxbVdhbzZMRE5zNVBMUVZZNE5LUExMaXpENXRaX1JvUFFid2lJMjd3aDN2cHk0S25Zb2g0RTh4Z090UnFEV3ljUEEtWUlHQVhWajZaekpkLVJvVzFEcGxocHEwbFBRUkpyOFB6NlMzRWFLRWdtSVlCWF9fVGZsRjFSZlhBeGJqRUpkTGItUW0wdlAyaE10OWxYMkNGTGJDSFFhZEVvX3kwQmh1WFhxYVZsbWFFOEVqenlTSC0?oc=5",
+   "veiculo": "Tribuna do Sertão",
+   "trecho": "",
+   "data": "2026-11-23T21:24-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "PGFN",
+   "resumo": "Segundo a manchete, a Procuradoria da Fazenda suspendeu o atendimento presencial em Maceió em decorrência de um incêndio. A medida afeta temporariamente a modalidade física de prestação de serviços e atendimento ao público na unidade.",
+   "pratica": "Advogados e contribuintes que utilizam a unidade de Maceió devem buscar canais digitais de atendimento, uma vez que o atendimento presencial foi temporariamente interrompido.",
+   "termos": [
+    {
+     "termo": "Procuradoria da Fazenda",
+     "explicacao": "Órgão responsável pela representação judicial e extrajudicial da Fazenda Nacional e cobrança da dívida ativa da União."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dd1684891b014a47",
+   "titulo": "TJMS julga ação de 64 municípios por ICMS da Petrobras",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejRCMm1NWjNRX2tKbXlGdHJXYVp4VkJKcWduS2xWZXYycHhPN0dkMzZXNUQteDV4b0dqZV90QXVoaGdCRjdycXFLZW1jdXhtbE5rclVwOTRNWDl2OXppN1ZTRmdGVi1YNjVJUmRrVUJYc1FCM2VFd0ZqemV5UlBESkMtOVVFSVFKM2FHNUwwVUVJY1Z6WUpmVDNXdlJIanVyNUpFTUx6ZDBhTHJid29CMGtRdkNSWEXSAbcBQVVfeXFMTmlyZG85UDBYUHRRSWxIemdzaW5TcU45X1RIVEIxMVd6ZElXZVVJNF9JV2lJUnhjYUUxSm54eHZKNzB4SGY1WUVwckduTnR2MXhETDVMXzUwY1VzT21lbThEV0h0YUpfRHFQY2xtVDVZVlZRSVlBTWtJQURoWEN0SmZOdUJXT2U5QXdPM0tPWmRDV2dFYlRTeW41VGRKb05BUzEzTDlpNUp3cHZfSnRFSFFOUWotYzh3?oc=5",
+   "veiculo": "Campo Grande News",
+   "trecho": "",
+   "data": "2026-11-23T21:09-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "TJMS",
+   "resumo": "Segundo a manchete, o Tribunal de Justiça de Mato Grosso do Sul (TJMS) julgou uma ação envolvendo 64 municípios a respeito do ICMS da Petrobras. Como o trecho não foi fornecido, restam ocultos os detalhes específicos sobre o objeto da demanda, os fundamentos adotados e o resultado do julgamento.",
+   "pratica": "Na prática, a decisão pode impactar a arrecadação e a distribuição de receitas de ICMS entre os municípios envolvidos, exigindo acompanhamento por gestores públicos e profissionais da área tributária.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4fa66c4adac2475b",
+   "titulo": "Reforma tributária vai zerar impostos de carnes, arroz e café; veja a lista de 22 alimentos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmFLSklXSkdOeEdGZmFuWnRZNHRyYUc2c180NTJiQW0td3BPN21ZeHBWdnRwRHpJeExMa3MzWXJTSG41NEJZRUhGNHRYeVlmUlcwMmJuaTRtNC1tNGNuaTJNUTVoRk8wRjNDQWhSdjF5NTAtV19EeTFEQkpTaElDX0hBMUJWYjZHQl9LUUVaNFZZTU96SzM2ZXVTMWxORmpQU1BkZUNjbFJGemg0cnRmWWFUdkF3ZGotWUlZOXBHQ1hRTmk2Y2lxQl930gHPAUFVX3lxTE5iQTh4MU9aSmN4RjRROEF4UU16NDBoeVVsMmlZWk01X0l3RUI0cHUzRW9OVEhjMDVod09BSF9fQ0E2aG14a3NUMDVwMTFUWXdXUUZ5U3BCX2U4NUthTlNVWXZrQTdhSFN5RFV5YUpIb3FOdDNoOWctbG1pOWdqVUxmVXV3ckxTc0p3ZjBWZmZ2NUtXTm13ODJQT1FjYTBwTW5rcXNWZEZxaFlIeENTRlFIa1RXUElZdzFBRkRJU1BrVTFHc3BpdE9lOTZlWXNUWQ?oc=5",
+   "veiculo": "GMC Online",
+   "trecho": "",
+   "data": "2026-11-23T20:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a reforma tributária prevê a zeragem de impostos para uma lista de 22 alimentos, incluindo carnes, arroz e café. A medida impacta diretamente a tributação sobre itens essenciais do consumo básico da população.",
+   "pratica": "Na prática, profissionais e empresas do setor de alimentos devem acompanhar a regulamentação da lista para ajustar a precificação e a apuração tributária dos produtos beneficiados.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "eec02e4ff5e75514",
+   "titulo": "Magistratura articula manobra para elevar salários acima do teto e escapar do Imposto de Renda",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSUllcTB6RVM4c2lEdUpQbVJ0aUNHRldNMVNZZ25pTFlURzlNa05ZU3NSNnJEWDFFNUhNaHM4eF9udDQwNjFDeERmYUFrNUR6TTBMWjExSEk2YzF5UURwdjRCbFpaRjRkVTE4bkt5WXBWbnMxWVZrZ3Joc1M5WGxyekRFVXVPVFdZZWNtVkZNRkN4VTY2QW1NM0h3NXdrQWp4alNhdS1MMFEzMFJUcXhQTkhvbk1HXzl6cG1qbWpNcDYwdkFhRkZBWU1ERmZIdEhQUzd6QlJSUQ?oc=5",
+   "veiculo": "Plantão Brasil",
+   "trecho": "",
+   "data": "2026-11-23T20:14-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "Magistratura",
+   "resumo": "Segundo a manchete, há uma articulação na magistratura para viabilizar o aumento de salários acima do teto constitucional e escapar da incidência do Imposto de Renda. A movimentação envolve estratégias remuneratórias que buscam afastar a tributação sobre esses ganhos.",
+   "pratica": "Acompanhar o desdobramento dessas articulações é importante para profissionais da área tributária que monitoram tratamentos diferenciados de tributação e remuneração no setor público.",
+   "termos": [
+    {
+     "termo": "Imposto de Renda",
+     "explicacao": "Tributo federal incidente sobre acréscimos patrimoniais e rendimentos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "64d9c7327a975e67",
+   "titulo": "Associações de juízes querem adicional de até 45% acima do teto e sem imposto de renda",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HUE9HV0NMazAzZWNGSGhNMk81ZWJFMFA0NXp3T1dueUo3YllJbkUwaTV5dnhvWnZQcTJJWWRyQ1h1SS1mR2RsLTVXUFphSFk3amlOdU9sU00tZVJsaEstNnlnRGtYN3h1aHBkeGU4UkhQYXFfSUN3RUxR?oc=5",
+   "veiculo": "ICL Notícias",
+   "trecho": "",
+   "data": "2026-11-23T19:54-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Imposto de Renda",
+   "orgao": "",
+   "resumo": "Segundo a manchete, associações de juízes estão pleiteando um adicional de até 45% acima do teto remuneratório que seja isento de imposto de renda. A discussão envolve diretamente regras de tributação sobre rendimentos e limites remuneratórios no âmbito público.",
+   "pratica": "Na prática, o tema repercute no debate sobre benefícios fiscais e a incidência de tributos sobre verbas remuneratórias de agentes públicos, servindo de alerta para profissionais que acompanham a pauta tributária e constitucional.",
+   "termos": [
+    {
+     "termo": "Imposto de Renda",
+     "explicacao": "Tributo federal incidente sobre a renda e os proventos de contribuintes."
+    },
+    {
+     "termo": "Teto",
+     "explicacao": "Limite máximo remuneratório aplicável ao funcionalismo público."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "030879869f4376d8",
+   "titulo": "Alíquota da CBS: Senado pede estudos ao TCU",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVU1NS16Nzg5akZUTEJmTm95SUVTWmRwV1duQ3dyMHJ2TXJBQks4LU03SlgtVHRRMGhFbEtBYndNTEp2bDFZOXlNV1o3bXF3bVNzNGRxdGlrcjFrQVZ2T3JLUGFkaU14QU5kZ19nWEh0bjNJVzhzejhiNlM5aHhEQlE0TDhpaEtPbW1zWlYzSzM?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-23T18:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Senado",
+   "resumo": "Segundo a manchete, o Senado solicitou ao Tribunal de Contas da União (TCU) a realização de estudos referentes à alíquota da Contribuição sobre Bens e Serviços (CBS). A movimentação indica discussões em curso no Poder Legislativo sobre os impactos e a calibragem dessa nova exação instituída no contexto da reforma dos tributos sobre o consumo.",
+   "pratica": "Para profissionais e empresas, a notícia sinaliza atenção contínua do Congresso sobre a carga tributária projetada da CBS, embora ainda não haja alteração normativa definitiva aplicável de imediato.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços criada no âmbito da Reforma Tributária para unificar tributos federais sobre o consumo."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "146129e3edecc61c",
+   "titulo": "CLP propõe alterações no Imposto Seletivo para bebidas açucaradas, álcool, tabaco e veículos",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmJRX1dqWnpwbklpMGFvVTdxVGduVWJHMTJrYlVvUlJaeThhS0V0WkpvaFZWaldPdmUzSVU5NndobGplQ0R0cm9LLVF1SGx4ZnRyNGlvbm9kR2IxZ0xiZlFCS3dvUDJIM2FydmR3U1pXM3k0b045OWFQNDJWc05jcE9vWGE5Z29TeURGVE8zVVJzNW1DUHBGSlU5c1E5YTh6ejVKM0JIQllhNDZIekHSAbIBQVVfeXFMTkhtTlpKc3FnQXBsUmp3TWpQcmx2WWEta0xMQi1YMFFTZlZ3WnNhUGtISVhLRjNlQVlYU3hjcmZHQnNOd3AzcFZxa1ZGTDFHZllyeVJ2U05pOWh0ZzNzemVlQktnS3hPb1VodEZEcXJMbC1qVFFZczZUTU9mbjF3VjNXaUlvZXMzekRaMnJMeW8xbi00Z2xCMGZkZWlENGh2SV9QN2lmQlJxclZGTEJER1FKdw?oc=5",
+   "veiculo": "Folha PE",
+   "trecho": "",
+   "data": "2026-11-23T18:41-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o Centro de Liderança Pública (CLP) propôs alterações no Imposto Seletivo incidente sobre bebidas açucaradas, álcool, tabaco e veículos. A iniciativa busca debater modificações nas regras de tributação desses produtos específicos.",
+   "pratica": "Acompanhar a tramitação e o debate dessas propostas pode antecipar mudanças no regime de tributação setorial para empresas dos segmentos afetados.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo federal previsto na Reforma Tributária para desestimular o consumo de produtos prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e7170d270dc614d9",
+   "titulo": "CLP propõe Imposto Seletivo atrelado a açúcar e CO2",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM3NMNGRZSUhDUHh2ZjhBUXZjMVJzb0lrTjJ2dTgwWnI4R29VUmhiWnp1U3dDLV85aWZxajdsSnEtbUlobWJfX1ZKWE40cWdkODlBZVpjYUdaclo3VTR6WGJCMF9pSjY4S2U4QkwyWDBwRUp2ekVVN3JsR20tQ1RtX2NtdXk?oc=5",
+   "veiculo": "SpaceMoney",
+   "trecho": "",
+   "data": "2026-11-23T18:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da SpaceMoney de 23/11/2026, o Centro de Liderança Pública (CLP) propõe a vinculação do Imposto Seletivo a produtos contendo açúcar e à emissão de dióxido de carbono (CO2). A proposta insere-se no debate sobre a regulamentação ou incidência do tributo extrafiscal previsto na Reforma Tributária.",
+   "pratica": "Para empresas dos setores de bebidas, alimentos e indústrias emissoras de CO2, a discussão sinaliza a possibilidade de maior carga tributária caso a proposta ganhe tração no debate legislativo.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo extrafiscal destinado a desestimular o consumo de bens e serviços prejudiciais à saúde ou ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a40c34a42780e1e3",
+   "titulo": "Restrição à distribuição de lucro na ADI 5.161 tem finalidade legítima",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcENZMm5kNEphSlVvaFpLZkFyV2NpcTg1amEwS0lVNFE2N29veTVqQTlOX2lpSUFjang4bkNwVHZVQnRIcmg0MjJNLTJNRGdxMU51S1FDcGlrYmloY2pIX2FXWDB3aGwzTUEyb3EzUkxZamRmbTU1RG1sNUlEMUl6VFBPRG9ScC1PaE03S0Zsb1U1WWpQVDE1MXBDLTBYeVh3WndBQjg3RDk?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-23T18:20-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete do Consultor Jurídico de 23/11/2026, a restrição à distribuição de lucro discutida na ADI 5.161 possui finalidade legítima. Trata-se de uma análise sobre a validade constitucional de travas à distribuição de lucros por empresas.",
+   "pratica": "Na prática, a validação da norma pelo STF reforça a segurança jurídica para a aplicação de restrições legais à distribuição de lucros, exigindo atenção redobrada das empresas em seu planejamento.",
+   "termos": [
+    {
+     "termo": "ADI 5.161",
+     "explicacao": "Ação Direta de Inconstitucionalidade em controle concentrado perante o Supremo Tribunal Federal."
+    },
+    {
+     "termo": "Distribuição de lucro",
+     "explicacao": "Repasse de resultados positivos apurados pela empresa aos seus sócios ou acionistas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3343f3824df6550d",
+   "titulo": "STJ define regras para cobrança de dívidas tributárias de herdeiros",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOWE4YjBaRlFZSkpYeWJmVEU1THJPbjdQWTAxSWVETVhrOTZRMnQzZXgyemxzRk9wNGFrdmQ5bllVQUl5Q2xNN25Cb01WdDJqUXdJMzhVRzRQUlllNkZQOGtsaVJraWt1NFVoaUktS1FiNDdXRU1vbXYwWTBLd3AtQUN3SDVxcG5pajVoaDJjdGcyMm1MTzVfVU8zcS1KR2VJX21Qa29ESHZzZ3BZTTdpcm0zRXFrQdIBuwFBVV95cUxNNjA3eXRjdWxmMzdDNTNqaEJJSFk1WEMxTER1NmttT282TEE0dmM2M2J3TTQzLVlZN3VNU09QeWFFa1VJc1AybzZYSjloc25Ic3l4YWM4ZGJMdVBNZ0xlLS1ySDR2NlpTYXpVSnpVb2xOWlNhcnJXSXVnQkowSFlnN0UxMmF1ZGVNcDFFOFpBWEZncWhEbS1za2dfVy1RTTd5b3MwQ0ZMbkdyelRyNUR2VVFIQVl4U0F6bmVv?oc=5",
+   "veiculo": "Tribuna do Paraná",
+   "trecho": "",
+   "data": "2026-11-23T18:07-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça definiu regras aplicáveis à cobrança de dívidas tributárias direcionadas aos herdeiros. A definição traz diretrizes aguardadas por operadores do direito que lidam com a responsabilidade patrimonial no âmbito sucessório.",
+   "pratica": "Na prática, a orientação oferece maior segurança jurídica para advogados e contadores na condução de inventários e na defesa de herdeiros frente a execuções fiscais. Permite dimensionar adequadamente a responsabilidade tributária limitada às forças da herança.",
+   "termos": [
+    {
+     "termo": "Dívidas tributárias",
+     "explicacao": "Obrigações fiscais pendentes deixadas pelo contribuinte falecido."
+    },
+    {
+     "termo": "Herdeiros",
+     "explicacao": "Pessoas que sucedem nos direitos e obrigações do de cujus dentro dos limites da herança."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2d55d625b35bb746",
+   "titulo": "Eduardo Diamantino participa de simpósio tributário da Sociedade Rural Brasileira",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1pZT1ZCbVJFeFdXYVNOdnlZQTNQeHNEV0FJSVNyT3FzZDVkUUZvQ1hkZ2tQejJVOUFtVlFKSC1MZVZLeUIwclQxaldEeENBWU5Za2lfdGdYakpfazF6bG5IcjR5UzNhaFdLdTV3ZnpwcGl1ckxRLVdtQmtFaHNZZTgtRzdDU0RiOHhWNnl5NjZTd252Z0h0MjhLamFGanlhekxWWGZ1NWw2RldBaTZHXzQ0cW1GVTg?oc=5",
+   "veiculo": "Consultor Jurídico",
+   "trecho": "",
+   "data": "2026-11-23T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete, Eduardo Diamantino participa de simpósio tributário promovido pela Sociedade Rural Brasileira. O evento aborda debates relevantes para o setor agropecuário no âmbito do direito tributário.",
+   "pratica": "O evento serve como espaço de discussão para profissionais e acadêmicos acompanharem tendências e debates jurídicos voltados ao setor rural.",
+   "termos": [
+    {
+     "termo": "Simpósio tributário",
+     "explicacao": "Evento de debates e palestras focado em discussões sobre a legislação e a aplicação do direito tributário."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "841fc1cb580f5952",
+   "titulo": "Imposto sobre grandes fortunas: entenda em cinco pontos por que a conta não fecha",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjlrVFpwYmw1aEh3dnpnaF9kVU9QbGNpR3JrS2p2Y0FNYWZ4dlcxWllWOGx3U0JFVUloaktuNTBkOXpyVXV1cHg2MG9KX0JhMFRmRzhraDg5amRpMzRMRlYzTU4tMm1BazJqLWotTnk5Vkh4a2pNM1lCdzktUjhDVER5T3ptV19pcHZNbFpLdFhnaW1taVFFcjVKR2JTRVZoU0VhM2dZWUh5VEt2S3J5Vjdn?oc=5",
+   "veiculo": "ND Mais",
+   "trecho": "",
+   "data": "2026-11-23T17:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "",
+   "resumo": "Segundo a manchete do veículo ND Mais de 23 de novembro de 2026, discute-se o Imposto sobre grandes fortunas e os motivos pelos quais a conta não fecha em cinco pontos. A análise aborda os desafios e percalços relacionados à implementação e viabilidade desse tributo.",
+   "pratica": "Na prática, a discussão serve para orientar advogados, contadores e estudantes sobre os debates econômicos e jurídicos em torno da tributação do patrimônio.",
+   "termos": [
+    {
+     "termo": "Imposto sobre grandes fortunas",
+     "explicacao": "Tributo previsto na Constituição Federal, mas que depende de lei complementar para ser instituído e cobrado no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d4fe52ea388eea96",
+   "titulo": "Concurso Receita Federal define FGV como banca para auditor e analista",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXp5RG00WUpCbnlnVXV1SHBiNGVqeTZ4dDJaWk1saXNwVnNuWTJWZmNyX3I4Wk9ZWUs1VWw3SUlPSjFjajZCNW1aMUk4WDhMZ2NOUGNpWFQ2bDRNdjVpT3dRdTBQX3VKWGF1Y1RsSzBIVEh2cEZhWXhQdFk0TVpDRk1ONFBIclRBVU9obERXamZiWWEyRExSOVNCZ2IxNHdwWEZuU1ZVUzhIYmti?oc=5",
+   "veiculo": "Degrau Cultural",
+   "trecho": "",
+   "data": "2026-11-23T17:49-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foi definida a Fundação Getulio Vargas (FGV) como a banca organizadora do novo concurso público para os cargos de auditor e analista da Receita Federal. A notícia indica que os preparativos para o provimento de vagas no órgão fiscalizador avançam.",
+   "pratica": "Na prática, a definição da banca organizadora sinaliza que o edital do concurso público para a Receita Federal está iminente, atraindo a atenção de profissionais que desejam ingressar na carreira fiscal.",
+   "termos": [
+    {
+     "termo": "Auditor-Fiscal",
+     "explicacao": "Cargo da Receita Federal responsável por fiscalizar o cumprimento das obrigações tributárias e aduaneiras."
+    },
+    {
+     "termo": "Analista-Tributário",
+     "explicacao": "Cargo da Receita Federal que atua no apoio às atividades de fiscalização, tributação e arrecadação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f8760885fbcf75ea",
+   "titulo": "Presidente da CARF debaterá os impactos da reforma tributária em encontro jurídico em Fortaleza - Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IWDBnTEZSdWoxWFlFTkNVbmVtR1BSbUpkNkRBWnFJYzFONHNwaXUyWXdJWkRMRjBoV3UtanBnUUQ2d2lVRTNvdk5aVjFaUQ?oc=5",
+   "veiculo": "Portal IN - Pompeu Vasconcelos",
+   "trecho": "",
+   "data": "2026-11-23T17:45-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o presidente do CARF participará de um encontro jurídico em Fortaleza para debater os impactos da reforma tributária. O evento discutirá as mudanças e os reflexos que a nova arquitetura fiscal trará para o cenário nacional.",
+   "pratica": "Na prática, o debate antecipa entendimentos institucionais importantes para profissionais que lidam com a adaptação de empresas e contriuintes às novas regras da reforma tributária.",
+   "termos": [
+    {
+     "termo": "CARF",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações da Receita Federal."
+    },
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações legislativas estruturais no sistema de impostos e contribuições do país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a32b05c56177a3e9",
+   "titulo": "Herdeiros respondem por dívida tributária? A nova decisão do STJ",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHRrWkRGRHlVVTR5U1NCLTN2dnhvR3FKQi1GUzJjc3ozZlQzS0hTeVNBdmtpc0ZjNV94anM2dlBnMzZsaVFoLTF3MDRXOU1lVXBEaDkwdW5GWlJuR0FPOTJMVkVYYVQyR2Zma1dxR183MHFPN2RWTEpJcVBiSmRXUk5VNEVRcktQRkNGN0JXVDZyN2g0VTd5TmtYXzd1dHpfTlpVakpfSWx2N3VK?oc=5",
+   "veiculo": "Gazeta do Povo",
+   "trecho": "",
+   "data": "2026-11-23T17:40-03:00",
+   "tipo": "Julgamento",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete da Gazeta do Povo publicada em 23 de novembro de 2026, o Superior Tribunal de Justiça proferiu uma nova decisão sobre a responsabilidade dos herdeiros em relação ao pagamento de dívidas tributárias. A questão envolve a delimitação de como e até que limite o patrimônio herdado responde pelos débitos fiscais do autor da herança.",
+   "pratica": "Na prática, a definição do STJ orienta advogados, contadores e herdeiros sobre os riscos patrimoniais e os limites da responsabilidade fiscal em processos de inventário.",
+   "termos": [
+    {
+     "termo": "Dívida tributária",
+     "explicacao": "Obligação financeira devida ao Estado decorrente de tributos não pagos."
+    },
+    {
+     "termo": "Herdeiros",
+     "explicacao": "Pessoas que recebem o patrimônio de alguém que faleceu."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
    "id": "8382ea1cd2fa9b27",
    "titulo": "Mudanças no Imposto de Renda podem aumentar valor do 13º salário",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREw1OWhqbnRNSnd3UlNXbHVBRW5ENVE0Z2hhMlA3RE1MSTF0ZkRoZmF3SmlIbzJxMEtSTlVYNF9mV2RwVXlzTzJpdDB4aC1tRDBreDUxMFA3bzludWVUUmp3M3lWV3JYRTFjY3ByeHpEaVM5TXk3eXFMX0RMZW4wZ3pzVERKTXBoNVU3cVVMcXNCVHRDS2Ffbkh2c2dqM0lRT29pbV9jdw?oc=5",
@@ -21706,7 +22475,8 @@
   "2026-11-20": "Nesta edição, destacam-se três assuntos fundamentais para o cenário tributário. Primeiramente, entrou em vigor a nova lei que obriga a Receita Federal a seguir decisões do STF e do STJ, medida que busca alinhar o entendimento do Fisco aos precedentes das cortes superiores e traz maior segurança jurídica para as empresas. No âmbito do contencioso, o STF e o STJ fecharam três teses favoráveis aos contribuintes em 2026, validando também o limite à compensação de créditos tributários. Por fim, os debates sobre a Reforma Tributária ganham força com a discussão em torno da alíquota e dos impactos da CBS de 11,3% para as empresas em 2027, tema que afeta diretamente o fluxo de caixa corporativo e a transição do novo modelo de consumo.",
   "2026-11-21": "Nesta edição, destacam-se três importantes temas do cenário fiscal. Primeiramente, o Supremo Tribunal Federal derrubou a cobrança da alíquota de 27% de ICMS sobre a energia elétrica no Maranhão, atacando diretamente essa exação estadual sobre um insumo essencial. Em segundo lugar, a Reforma Tributária gera forte preocupação institucional, evidenciada pela indefinição sobre a Justiça competente para julgar questões relativas ao IBS e à CBS, além da antecipação de contratos previstos para 2027 antes da nova incidência. Por fim, na seara das dívidas, a Receita Federal anunciou que irá perdoar e cancelar débitos previdenciários de 3,6 milhões de MEIs a partir de 2027, impactando diretamente o passivo tributário dessa categoria.",
   "2026-11-22": "Nesta edição, destacam-se três importantes movimentações no cenário tributário. Primeiramente, o STJ definiu que a impugnação administrativa não interrompe a prescrição tributária, estabelecendo uma baliza essencial para a contagem de prazos na relação Fisco-contribuinte. No âmbito do STF, a Corte derrubou a exigência de idade mínima para a concessão da aposentadoria especial, impactando diretamente os segurados. Por fim, a Reforma Tributária continua gerando debates cruciais ao alterar o fluxo de caixa das empresas, prever a devolução de tributos sobre luz, gás e internet, e exigir adaptações operacionais urgentes para 2027, impactando fortemente o setor empresarial e o mercado imobiliário.",
-  "2026-11-23": "O noticiário de direito tributário brasileiro destaca importantes movimentações legislativas e jurisprudenciais. No Supremo Tribunal Federal, analisa-se a imunidade do ITBI na integralização de imóveis por meio do Tema 1.348, enquanto Minas Gerais pede a modulação de tese sobre créditos de ICMS de combustíveis, impactando contribuintes e o fisco. Paralelamente, o Congresso avança com pautas cruciais do ajuste fiscal, como a discussão da alíquota da CBS e o Orçamento de 2027. Além disso, a Reforma Tributária ganha destaque com debates operacionais sobre o impacto do split payment no fluxo de caixa das empresas, a aprovação do PLP nº 299/2026 no Senado e a garantia da Receita Federal de que não aplicará punições a erros cometidos de boa-fé, visando à segurança jurídica."
+  "2026-11-23": "O noticiário de direito tributário brasileiro destaca importantes movimentações legislativas e jurisprudenciais. No Supremo Tribunal Federal, analisa-se a imunidade do ITBI na integralização de imóveis por meio do Tema 1.348, enquanto Minas Gerais pede a modulação de tese sobre créditos de ICMS de combustíveis, impactando contribuintes e o fisco. Paralelamente, o Congresso avança com pautas cruciais do ajuste fiscal, como a discussão da alíquota da CBS e o Orçamento de 2027. Além disso, a Reforma Tributária ganha destaque com debates operacionais sobre o impacto do split payment no fluxo de caixa das empresas, a aprovação do PLP nº 299/2026 no Senado e a garantia da Receita Federal de que não aplicará punições a erros cometidos de boa-fé, visando à segurança jurídica.",
+  "2026-11-24": "Nesta edição, destacam-se decisões judiciais e normativas de grande relevância para a segurança jurídica. No âmbito do Supremo Tribunal Federal, foi vetada a cobrança antecipada do ICMS-difal para o Simples Nacional no Paraná com base em decreto e lei genérica. Já o Superior Tribunal de Justiça definiu parâmetros fundamentais de responsabilidade sucessória sobre as regras para herdeiros pagarem dívidas tributárias de falecidos. Por fim, a Reforma Tributária segue no centro dos debates econômicos e legislativos, evidenciando medidas como a zeragem de impostos para uma lista de 22 alimentos — incluindo carnes, arroz e café — e discussões sobre a calibragem de alíquotas da CBS e do Imposto Seletivo."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -22215,9 +22985,33 @@
   "boa-fé": "Atuação do contribuinte sem intenção de fraudar ou burlar o fisco.",
   "período de graça": "Tempo em que o segurado mantém os direitos previdenciários mesmo sem estar contribuindo.",
   "contribuições": "Pagamentos mensais realizados para a Previdência Social.",
-  "Fluxo de caixa": "Controle das entradas e saídas de recursos financeiros da empresa."
+  "Fluxo de caixa": "Controle das entradas e saídas de recursos financeiros da empresa.",
+  "Créditos de ICMS": "Montantes de imposto discutidos ou registrados em razão de operações anteriores.",
+  "Remessas interestaduais": "Envio de mercadorias entre estabelecimentos localizados em estados diferentes.",
+  "Ativos garantidores": "Bens ou direitos mantidos por entidades para assegurar o cumprimento de obrigações específicas.",
+  "dívida irregular": "Débitos fiscais ou de outra natureza que não estão com a situação regularizada perante os órgãos competentes.",
+  "Dívidas com a União": "Valores devidos por contribuintes aos cofres públicos federais que podem ser objeto de cobrança ou contestação.",
+  "Subvenção para investimento": "Incentivo concedido pelo Estado para apoiar a implantação ou expansão de empreendimentos econômicos.",
+  "Crédito presumido de ICMS": "Benefício fiscal que reduz o imposto a pagar sobre a circulação de mercadorias e serviços.",
+  "Protocolos de ICMS": "Acordos celebrados entre Estados para uniformizar procedimentos ou estabelecer regras de substituição tributária e tributação conjunta.",
+  "Stablecoins": "Criptoativos cujos valores buscam atrelamento a moedas fiduciárias tradicionais.",
+  "sanção presidencial": "Ato pelo qual o Presidente da República aprova um projeto de lei aprovado pelo Congresso, transformando-o em lei.",
+  "Porto seco": "Estação aduaneira do interior que facilita operações de importação e exportação sob controle fiscal.",
+  "Fenacon": "Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícia, Informações e Pesquisas.",
+  "Cadeia fria da saúde": "Logística especializada na conservação de produtos de saúde que exigem controle de temperatura.",
+  "ICMS-difal": "Diferencial de alíquota do ICMS devido em operações interestaduais.",
+  "dívidas tributárias": "Obrigações de pagamento de tributos devidas ao Estado que podem ser transmitidas aos herdeiros até o limite da herança.",
+  "Procuradoria da Fazenda": "Órgão responsável pela representação judicial e extrajudicial da Fazenda Nacional e cobrança da dívida ativa da União.",
+  "Teto": "Limite máximo remuneratório aplicável ao funcionalismo público.",
+  "ADI 5.161": "Ação Direta de Inconstitucionalidade em controle concentrado perante o Supremo Tribunal Federal.",
+  "Distribuição de lucro": "Repasse de resultados positivos apurados pela empresa aos seus sócios ou acionistas.",
+  "Dívidas tributárias": "Obrigações fiscais pendentes deixadas pelo contribuinte falecido.",
+  "Herdeiros": "Pessoas que sucedem nos direitos e obrigações do de cujus dentro dos limites da herança.",
+  "Simpósio tributário": "Evento de debates e palestras focado em discussões sobre a legislação e a aplicação do direito tributário.",
+  "Auditor-Fiscal": "Cargo da Receita Federal responsável por fiscalizar o cumprimento das obrigações tributárias e aduaneiras.",
+  "Analista-Tributário": "Cargo da Receita Federal que atua no apoio às atividades de fiscalização, tributação e arrecadação."
  },
- "atualizado_em": "2026-11-23T07:04-03:00",
+ "atualizado_em": "2026-11-24T06:57-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
