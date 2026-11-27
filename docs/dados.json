@@ -1,6 +1,680 @@
 {
  "itens": [
   {
+   "id": "32f24156edef3d6d",
+   "titulo": "Sinprofaz realiza congresso sobre segurança jurídica e reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEVWZng3aHE5cHpfMnR3UkdhZkFiZjNaeGZEWk9vR1o1eC1zYjIyZDA0R1k3U2dZSkRWMmZPZGRzVWxrVWpuRS1TblRFcjlENFktRUlEQy0xNUV4NnNGY014MUFLdlNmbGRXeTdJaUhRNXRsd19pY3dmUk1zZHdUMk01anQ1cF9HUlZmZjZldFYtaDBwZzJrRHRHaWVfYXVYQ0tWQTZtQQ?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-27T15:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Sinprofaz",
+   "resumo": "Segundo a manchete, o Sinprofaz realizou um congresso para debater temas centrais como a segurança jurídica e a reforma tributária. O evento reuniu especialistas para discutir os impactos das mudanças no sistema tributário brasileiro.",
+   "pratica": "Na prática, o acompanhamento de debates institucionais auxilia profissionais da área a anteciparem tendências de interpretação e aplicação das novas regras da reforma.",
+   "termos": [
+    {
+     "termo": "Segurança jurídica",
+     "explicacao": "Princípio que garante previsibilidade e estabilidade às leis e às relações com o Fisco."
+    },
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que redesenham o sistema de cobrança de impostos no país."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "35f6b04cba2babbd",
+   "titulo": "CNA, CNT e CNC pedem adiamento da reforma tributária ao STF",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnRXTkpLWXllOXJPeEpCelNvdDFRZmxoTWJjZlZEWGRkc2JoTEsxQjRFakNmTGkyamFIYWZkUDNtU3V2TUVqam4yQnA3dk9KbHR3QU9VUFFtRlFkUDJvWEREbERtcnF4UFFHMFF0OExPN1U0eVhJc2dVdU1zWmxmLVNyRmZOaXB0RVdScnN1VDhHY01yc2N1dVRDUW04eFVXczV6c01BNG1FYjlyc3JlZ2VEdXVCX1FYZ1dRUW5MaXhkZDIyTTNN?oc=5",
+   "veiculo": "MilkPoint",
+   "trecho": "",
+   "data": "2026-11-27T15:14-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, entidades setoriais (CNA, CNT e CNC) protocolaram pedido junto ao Supremo Tribunal Federal buscando o adiamento da reforma tributária. A movimentação reflete a preocupação de setores econômicos relevantes com o cronograma e os impactos da transição normativa.",
+   "pratica": "Na prática, a movimentação indica que há resistência e tentativa de postergar os prazos da reforma, embora ainda não haja alteração definitiva no calendário oficial.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de impostos do país."
+    },
+    {
+     "termo": "STF",
+     "explicacao": "Supremo Tribunal Federal, corte máxima do Poder Judiciário brasileiro."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "63d3e712fc54e32b",
+   "titulo": "STJ cria observatório para monitorar efeitos da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWFpMVVWc3ZMYlVncUdST2Fwd2ZwbUlZZElmZDhRbS1uaXcxYnluZmxVOUZ4SDRlWURTajU5dnZOQ1J2LVJ0S2dTdFVnREY2QVVjUy1tZk1qa2xvbVJPWUJvTV9wbW9zaldFY2NDcjR2a19vcGJfMGVFWUdkUGY5bG5ycmFrOGhyX2Nra3dZWDg4UHhUU2FTc1ZaaHhLN1J4S2I2XzBkZS14WU9henc?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-27T15:01-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça criou um observatório voltado para monitorar os efeitos da reforma tributária. A iniciativa busca acompanhar os impactos jurídicos e operacionais decorrentes das novas regras instituídas pela reforma no cenário nacional.",
+   "pratica": "Na prática, a medida sinaliza que o tribunal se antecipa à enxurrada de litígios esperados com a transição do novo sistema, o que pode indicar maior previsibilidade nos futuros entendimentos jurisprudenciais sobre o tema.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que remodelam o sistema de tributação sobre o consumo no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "43453db835496e49",
+   "titulo": "Presidente da Fenacon debate split payment e os desafios da Reforma Tributária no 8º Congresso de Direito Tributário do Codecon/SP",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NUnZQU1N4STFreFpSQ0hDX3Fzb2stOEJQSk10X0VNUEI0UWJjYTctUTFERVlNNHhkdDFiZXcwX25HaUJqSXBMRW9hUXN5MUU?oc=5",
+   "veiculo": "Sistema FENACON",
+   "trecho": "",
+   "data": "2026-11-27T14:32-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, o presidente da Fenacon debateu o split payment e os desafios da Reforma Tributária durante o 8º Congresso de Direito Tributário do Codecon/SP. O evento ocorreu em 27 de novembro de 2026 e focou nas discussões sobre as novas regras fiscais.",
+   "pratica": "Na prática, o debate sinaliza que profissionais e empresas devem se atentar às discussões em torno do split payment e às mudanças trazidas pela Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "split payment",
+     "explicacao": "Mecanismo de pagamento dividido que recolhe o tributo automaticamente no momento da liquidação da transação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "03568945d910777a",
+   "titulo": "Receita Federal veta uso de crédito da sócia para quitar SCP",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3drVW5IQ09paXlLRGpFdnkybVVaTHBvOGQ3ZkFZd0pXa0lxWnUxZjlwRDJBRXpWQm9UWllaOWgwMFpYMV9DWnhHdHZZNk9aZ2tNZC1NMXFlOUR2WU54bmRPbXBoTERKbWY0TklSWWE5REVmUVRUQkg3WXJSdkRUaEkyeHlySmlWU1h2ODF0WTBiYWFLSGNDN1Q4Zm9wV0Fk?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-27T14:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal vetou a utilização de créditos fiscais pertencentes a uma sócia para a quitação de débitos de uma Sociedade em Conta de Participação (SCP). A medida restringe a compensação cruzada entre patrimônios de pessoas jurídicas distintas.",
+   "pratica": "Na prática, empresas estruturadas como SCP e seus sócios devem redobrar a cautela e evitar o uso de créditos da sócia para pagar tributos da sociedade, pois a conduta tende a ser rechaçada pelo Fisco.",
+   "termos": [
+    {
+     "termo": "SCP",
+     "explicacao": "Sociedade em Conta de Participação, um tipo societário sem personalidade jurídica própria onde a atividade é exercida pelo sócio ostensivo."
+    },
+    {
+     "termo": "Crédito da sócia",
+     "explicacao": "Valores que a empresa sócia possui perante a Receita Federal e que pretendia usar para pagar tributos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "11550d053fbb7633",
+   "titulo": "Receita diz que compra de stablecoins sem câmbio não gera IOF",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3hpbnd6U1hRUml3RmhONEVoSWNMcC1xUUJ0WWZiLXotcGRnTFp1bjVuT3pycVBmcDFYOFhXYkhqNXdBZVlfYS1STmtpZWlMZ0hMcmE0Z2tQQXhvamRtbHNCTVFvc0t6bHZTSWpxRk9Oa0JYMkh0dk1xcWl4YkFyZ1FRNkxUekxweXRYWGE1RWNtRjhudmJfTFJYMEI0STZLa3c?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-27T14:18-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal afirmou que a compra de stablecoins realizada sem a intermediação de câmbio não gera a incidência do IOF. A informação traz um esclarecimento importante sobre a tributação aplicável a essas criptomoedas no cenário atual.",
+   "pratica": "Na prática, a orientação traz maior segurança jurídica para operações com criptoativos que não envolvam o mercado de câmbio tradicional, afastando a cobrança do imposto nessas circunstâncias.",
+   "termos": [
+    {
+     "termo": "stablecoins",
+     "explicacao": "Criptomoedas cujos valores são atrelados a um ativo de referência, como o dólar."
+    },
+    {
+     "termo": "IOF",
+     "explicacao": "Imposto sobre Operações Financeiras incidente sobre créditos, câmbio, seguros e títulos."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "bd2818cd4e676b44",
+   "titulo": "STJ reconhece relevância de crédito de ICMS em frota própria",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJsOTQzMGVNWEhoTnp6aGFYemtZSzVKOVI5Z1IzZnlOMWl4SkE4dDMwRV9vVEc2WFhzNXJ5dUY4Z2pqbGRxa3NSTmppalY5SW5TNmpIX3VvMm9OZWlwV005V01Iblp6aS12bXUzY0NHU294NXAwdVJEM3p2QzNKbEdrR0ZiZjZXcVFfV1J1d0ljZHZ3VnBhR3Btd0dWcE1v?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-27T14:16-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça reconheceu a relevância de crédito de ICMS relacionado à frota própria. Como não há trecho detalhado, trata-se de um indicativo de posicionamento favorável aos contribuintes nessa matéria.",
+   "pratica": "Na prática, a decisão sinaliza que empresas com frota própria devem ficar atentas à possibilidade de aproveitamento desses créditos tributários, aguardando o teor completo do entendimento para eventuais ajustes na apuração.",
+   "termos": [
+    {
+     "termo": "crédito de ICMS",
+     "explicacao": "Valor que o contribuinte pode abater do imposto a pagar, referente a insumos e custos da atividade."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3c4bea80de3f0e57",
+   "titulo": "Receita divulga conteúdo provisório para auditor fiscal",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnZ2SWZucTRXUklmdTcwTGhGY2tSSE1ETUZTRV8tazRhcWpvRm92cHVweE1fNnp0TVRXZlpEcW5rVnE3dTZoOGFuNWNrZ1N4a2hKeS1TOEFHaVltYzdVX1pRbkd0MmNYUm11RmFNV3ZtSW1wRGN6QjNSWWpsWGtaUFFIR0tfcWs4b1JjSERsRnZkOF9RSmdzeml6SFI?oc=5",
+   "veiculo": "Terra Brasil Notícias",
+   "trecho": "",
+   "data": "2026-11-27T14:00-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Planejamento e compliance",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Receita Federal divulgou conteúdo provisório voltado para a atuação do auditor fiscal. A medida indica movimentações internas na administração tributária sobre diretrizes de fiscalização.",
+   "pratica": "Na prática, profissionais e contribuintes devem monitorar a consolidação dessas diretrizes provisórias, que podem antecipar o foco das futuras fiscalizações da Receita Federal.",
+   "termos": [
+    {
+     "termo": "auditor fiscal",
+     "explicacao": "Agente público responsável por fiscalizar o cumprimento das obrigações tributárias pelos contribuintes."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "664f08a8c6796b2f",
+   "titulo": "Carf reconhece direito a créditos de PIS/Cofins sobre IPTU e condomínio",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlgzS1RqQ2FXZDJRalFvaXVmZTllRnl2d3RUV0tORjlEQUJpM29YQmlxTHdxVmJwT2ZGRTlmWXpwTFZzaUFsd3FBcTR4ZWI3MV9MVFYwZER3VXZrVzFBNzBoZmNUQkZ5VnBNMzNiN3ZtVDlGUDlEUEgyZ0hzbThyc1p6d1JCcTl0N0FKVUNfVUhzYXFiUURYaEl4cnF5SGtBVHNDOXJBOWp5QVYtYm9HbEdPWVVMazA?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-27T14:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "PIS/Cofins",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o Carf reconheceu o direito de empresas ao aproveitamento de créditos de PIS/Cofins sobre despesas com IPTU e condomínio. Como o trecho original não foi fornecido, trata-se de um resumo prudente baseado exclusivamente no título da publicação.",
+   "pratica": "Na prática, a decisão abre perspectiva para que contribuintes avaliem a tomada de créditos dessas despesas na apuração das contribuições, embora seja recomendável cautela e análise do caso concreto até a verificação do acórdão completo.",
+   "termos": [
+    {
+     "termo": "Créditos de PIS/Cofins",
+     "explicacao": "Valores que os contribuintes podem descontar do montante a pagar dessas contribuições."
+    },
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, tribunal administrativo que julga recursos de tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "92cb5c52f94b8afd",
+   "titulo": "Reforma tributária em 2027: contratos com preço fixo podem pressionar margens com a chegada da CBS",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQV2hTTkttbHg3bUQ2WFZWWEtLeEQ3T1hWaVhGS2ZHT2g2M2lEQW0xRDdhU2pRODZWWHozRGlYY3JqS1J4V2JtOXpPSEdDZ29sc3VOeE9zVWxMaWVDVnd4YVJscFh6T0VZRWhKUmdrTkZudFVzVjJSbFdpZ2JxSWpaTDQ2Umh2Vm5MTHhnbzgxc3VhQVlJNFpzNGVicHZsWFJlUWhTU29iNlVMYl9jX0VJdTh0NHlWMzZVdWpkMjk5QlBXWjBodi1xQnZONnVndVlPbk9KQXRDTUtjZHdRY2hPX0lIcWdYXzROMHJmS19STFpWX01vU0Y0bmRVS0o3bWZoSHhESERhWEF0eFU?oc=5",
+   "veiculo": "Portal do Agronegócio",
+   "trecho": "",
+   "data": "2026-11-27T14:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a chegada da CBS a partir de 2027 e a existência de contratos com preço fixo podem gerar pressão sobre as margens das empresas. O tema aborda os impactos práticos da transição do novo modelo tributário sobre obrigações negociais de longo prazo.",
+   "pratica": "Na prática, advogados e contadores devem alertar seus clientes sobre a necessidade de revisar contratos de longo prazo com preço fixo para mitigar potenciais impactos da nova tributação sobre as margens de lucro.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no contexto da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dd8047acd42e90a9",
+   "titulo": "Regina Helena Costa, ministra do STJ, lança 6ª edição de obra sobre Código Tributário e Reforma",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNV9GS2JSSzBhanhJYXlteHd2Wi1DWWNCNWNVWnppRFltR3FlNlE3REpfVTdlV1o0WW1TSXliME4tN3BXODRlV2xaUl93NnEtYUk5VmhaYy12ZFV3V0R0cUEtb0lYcnUyanpWYTJSb1dKM05iRVQ2TmlrSGxiMXNySU1SQU9sTXZHbXF3QWhJcF9Cb3R5YlBRZGxxdw?oc=5",
+   "veiculo": "Imprensa 24h",
+   "trecho": "",
+   "data": "2026-11-27T13:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, a ministra do STJ Regina Helena Costa lançou a sexta edição de sua obra jurídica voltada ao Código Tributário e à Reforma. O livro aborda temas fundamentais do direito tributário nacional diante do atual cenário normativo.",
+   "pratica": "A publicação serve como obra de consulta para advogados, contadores e estudantes que buscam compreender aprofundadamente as regras do Código Tributário e as novidades da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Código Tributário",
+     "explicacao": "Conjunto de leis que estabelece as normas gerais de direito tributário aplicáveis à União, Estados e Municípios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7a3cf49268846c3f",
+   "titulo": "Ministra Regina Helena Costa, do STJ, lança livro sobre Código Tributário Nacional",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWR4UTQ2ak12S2VpM3otQXlZRGZKUWo2VzZoa2ltV0JPOXExVFlXZV9vcThJYTJwQXBjUHNsUGRGdlJWN1c5S24yMUoxSnBVVVpnNFFIOFZhTzY0a0c0ZjAtRHNZLUlHZEw2MlRfbDU5MkFYdldSTWJfcGdCbFVueDJJUldIbTNfcUVxY1hxUUlyR085Z3dPejk4OC13Vm9OQ19jTkFXZDlxb05hVFhz?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-27T13:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, a Ministra Regina Helena Costa, do Superior Tribunal de Justiça (STJ), lançou um livro sobre o Código Tributário Nacional. A obra aborda a legislação tributária federal de referência para operadores do direito e da contabilidade.",
+   "pratica": "Na prática, a obra serve como obra de consulta e doutrina para profissionais da área tributária compreenderem a visão de magistrada do STJ sobre o Código Tributário Nacional.",
+   "termos": [
+    {
+     "termo": "Código Tributário Nacional",
+     "explicacao": "Lei que estabelece as normas gerais de direito tributário aplicáveis à União, Estados e Municípios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "6163fab65770f782",
+   "titulo": "Reforma Tributária: veja o que muda para consumidores e empresas a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT094SFRwbjI5WkJoa21ySFZaaVRTTlUzeWx6WDhiQm9oa2xCbGZpVXE2WU5qeXBpTmdUZlRhMFJvR19YUFpKb3VYb3czV2JZWm54TDBxWXRaZy1zYjUtVDMyN1RWTWp3b3BwejlDR2FzeUlxSXdoMDRHXzhwRS03Q214eVdTYklRTWFkRERqWVJuc0pmQ0RrVGtwMzJTSDBBLXhudjhSbUpRTDhFVEF4ZXhR?oc=5",
+   "veiculo": "Notícia Toda Hora",
+   "trecho": "",
+   "data": "2026-11-27T13:12-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, a Reforma Tributária trará mudanças significativas para consumidores e empresas a partir do ano de 2027. O anúncio detalha o impacto das novas regras no cenário tributário brasileiro.",
+   "pratica": "Na prática, empresas e consumidores devem se preparar para as novas regras e adaptações operacionais que passarão a valer a partir de 2027.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações legislativas na estrutura de cobrança de impostos do país."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "501fbbc3b2a28bb6",
+   "titulo": "CGIBS participa do Congresso de Direito Tributário do CODECON/SP e discute impactos da Reforma",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTczQnhRdFRjVnJLQXhhaDdlcXNYbE9QOFhjWWExeGMzZDBmYzdqMDJlY0V0TGRTbUlUeUZ3UXBVU296aU9xZEZ0d2FBUVJaZ3ROZ0dZY0FiUW9NMFRiRkprRzBsaW1nV0t1TXZmX0dlejJsWm5vakk5bFRNRVJPS3AzRzZYT0FzX0tWNjk5UVBTcTA?oc=5",
+   "veiculo": "Comitê Gestor do IBS",
+   "trecho": "",
+   "data": "2026-11-27T13:03-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "CGIBS",
+   "resumo": "Segundo a manchete, o Comitê Gestor do IBS participou do Congresso de Direito Tributário do CODECON/SP para discutir os impactos da Reforma Tributária. O evento promoveu debates sobre as mudanças trazidas pelas novas regras de tributação.",
+   "pratica": "Na prática, o acompanhamento dessas discussões ajuda profissionais e contribuintes a anteciparem os reflexos da Reforma Tributária na rotina das empresas.",
+   "termos": [
+    {
+     "termo": "CGIBS",
+     "explicacao": "Comitê Gestor do Imposto sobre Bens e Serviços."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "13fda3a7b334de18",
+   "titulo": "Concurso Receita Federal: conteúdos programáticos provisórios são divulgados; confira",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeE9jVnBLelliOXVVc2VqU19QOXJGaEdvY2l0cG9ia0xYTHdjZlhnakQ3LUVFamFQa1JpcF9jSC1aOFN5S2o2M3I5ZTNxXzlTck1hRnF0eGpCeTJ0RDBsSUM5aXVLNXQ0R0tDUUlBaF9JTkJ1NWJnV1lIUGFzVGd4Z1Z5clpqYmktTGkzRGFJRS1yNWZYb2V6dThKR3NWZm1BMzBiRDlxUjZodDY0STV5S3Z5ZW1NZ1JzSXFERA?oc=5",
+   "veiculo": "Magistrar",
+   "trecho": "",
+   "data": "2026-11-27T12:56-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foram divulgados os conteúdos programáticos provisórios para o concurso da Receita Federal. A publicação traz as diretrizes iniciais das matérias exigidas para os futuros candidatos ao órgão tributário.",
+   "pratica": "Na prática, a divulgação orienta a preparação antecipada de advogados, contadores e estudantes que desejam ingressar na carreira fiscal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "24f920fb1cfdf596",
+   "titulo": "STJ: Repetitivo definirá se incide IRRF sobre hora repouso alimentação após reforma trabalhista",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnAzWXdEZnhBX0phc3g1TUYweUluVjgta3l2akRNLXFhNkg2NzdBQUI1eUFNQmdmOGpLaEJkRVN6ek0tM21nX18wRk9oZU4tNjY2emY0VVNrOG5TVXFueHpsUzc5cjYyc3c0MXY1eUl1b0h6WjNWMHFPSUhCdk1xamdKYlVrR3NLTUdnN1c5ZDBBeDJyUmVPTUtPcGZENUVaUnRQQ2xneDhCQm5UYlE?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-27T12:38-03:00",
+   "tipo": "Julgamento",
+   "tema": "Imposto de Renda",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o STJ afetou a matéria para definir em regime de recursos repetitivos a incidência de Imposto de Renda Retido na Fonte (IRRF) sobre as horas de repouso e alimentação após a reforma trabalhista. O julgamento servirá para pacificar o entendimento jurídico sobre a natureza tributária dessa verba.",
+   "pratica": "Na prática, a definição pelo rito dos repetitivos padronizará o procedimento para empresas e contribuintes, que deverão aguardar a tese vinculante para ajustar seus recolhimentos ou buscar a restituição de valores retidos.",
+   "termos": [
+    {
+     "termo": "IRRF",
+     "explicacao": "Imposto de Renda Retido na Fonte, descontado diretamente do pagamento feito ao beneficiário."
+    },
+    {
+     "termo": "Recursos repetitivos",
+     "explicacao": "Mecanismo processual em que o STJ julga um caso representativo para fixar tese jurídica a ser aplicada em todos os processos iguais."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "42840923b18f9266",
+   "titulo": "Reforma Tributária: empresas no Lucro Real poderão recuperar créditos acumulados?",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSldkQkdxVzNzS0lEWTdTOWpBX2JyZWc3LThmdVRSeEhwTUo2X2dqWHhYZjJ0cnR4a1ZxUk1nMV9Bb2xmZkZWVFNqbVhEbUFpWTh2SU1DRmEwa0VBRENkWWlGUVVBckFGbWVqQXNIYThpc2VvSmtFMFgyeFN4TTZXcUFsY1FyN3l4Q1p2Q0syOGE1dDFwOFczNUZn?oc=5",
+   "veiculo": "Serasa Experian",
+   "trecho": "",
+   "data": "2026-11-27T12:29-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete da Serasa Experian de 27 de novembro de 2026, debate-se no âmbito da Reforma Tributária se as empresas submetidas ao regime do Lucro Real poderão recuperar créditos acumulados. O questionamento envolve a transição para o novo modelo tributário e a apuração desses saldos credores pelas companhias.",
+   "pratica": "Na prática, a definição sobre a recuperação desses créditos impacta diretamente o planejamento financeiro e a gestão tributária das empresas no Lucro Real durante a transição da Reforma.",
+   "termos": [
+    {
+     "termo": "Lucro Real",
+     "explicacao": "Regime de apuração do Imposto de Renda e da CSLL baseado no lucro efetivo da empresa."
+    },
+    {
+     "termo": "Créditos acumulados",
+     "explicacao": "Saldos de tributos não utilizados que ficam acumulados na contabilidade da empresa."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "eb7ea2930a01e471",
+   "titulo": "Fazenda participa do Congresso de Direito Tributário do CODECON/SP",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zeUlhNWpDTXc3dGVYNEFneldfWm9Ba3FuWFExcFF0ZGNqYjNvdjJXb1JrM2dQNzJiTXRFM0NFSnZnaVF2OVJoUW5lYmJndWxiS3N1Y0ZUNmdzM2xZeGdaVXp5Q0hsSWxQdWJ1dQ?oc=5",
+   "veiculo": "Prefeitura de São Paulo",
+   "trecho": "",
+   "data": "2026-11-27T12:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Prefeitura de São Paulo",
+   "resumo": "Segundo a manchete, representantes da Fazenda participaram do Congresso de Direito Tributário promovido pelo CODECON/SP. O evento reuniu autoridades e especialistas para debater temas relacionados ao direito tributário.",
+   "pratica": "Na prática, a participação da administração fazendária em congressos indica o debate institucional sobre diretrizes e temas fiscais, embora os impactos específicos dependam de desdobramentos futuros.",
+   "termos": [
+    {
+     "termo": "Direito Tributário",
+     "explicacao": "Ramo do direito que regula a arrecadação e a fiscalização dos tributos."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "74c4e9f3c09f3770",
+   "titulo": "Concurso Receita Federal: veja prévia do conteúdo programático",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0NBVHBsZFVPTmdaNWVGbFdpRU13VDFiSXpiVmFlWU9RLU1UOG5SYkZNTVl2cmFMMk05NlVrSHEtemtFeEJpdU1ETldfZGUxcUJETUI4SWRZYW11dm53d3ctdk03TTY0bExpcmZNaUg5TlUyVExJYjRnSFJ6QVZxUTBHYzdlUkZyRXBYRkREZnJHczNDZWpjMnB4TkVsT0Q1QUVzbjZB0gGmAUFVX3lxTE1zQ0FUcGxkVU9OZ1o1ZUZsV2lFTXdUMWJJemJWYWVZT1EtTVQ4blJiRk1NWXZyYUwyTTk2VWtIcS16a0V4Qml1TUROV19kZTFxQkRNQjhJZFlhbXV2bnd3dy12TTdNNjRsTGlyZk1pSDlOVTJUTEliNGdIUnpBVnFRMEdjN2VSRnJFcFhGRERmckdzM0NlamMycHhORWxPRDVBRXNuNkE?oc=5",
+   "veiculo": "Estratégia Concursos",
+   "trecho": "",
+   "data": "2026-11-27T12:01-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foi divulgada uma prévia do conteúdo programático para o concurso da Receita Federal. O anúncio antecipa os tópicos de estudo para os candidatos que pretendem ingressar no órgão.",
+   "pratica": "Na prática, a divulgação da prévia orienta a preparação antecipada de futuros candidatos e profissionais interessados na carreira fiscal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "ebd2464f60861b06",
+   "titulo": "ICMS sobre combustíveis sobe em 2027",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4aWd2b3hsQjlFOWZFUzgwVWFPTHV4Y0xGWXNycnpSd2h3SjlDejBuUGE5N0szS0lkRmhSUUJtLW1RdW9TREVDUjBMeUNPaEJhc013WU5TNmV2SWZ4aGNyMlAzX0cxemdZdjFHa0JIamNhWVB4MHhRVHFn?oc=5",
+   "veiculo": "n3news.com.br",
+   "trecho": "",
+   "data": "2026-11-27T11:56-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, haverá um aumento na cobrança de ICMS incidente sobre combustíveis a partir do ano de 2027. A informação aponta para uma futura alteração na carga tributária desse setor energético.",
+   "pratica": "Na prática, empresas e contribuintes do setor de combustíveis devem monitorar a medida para planejar o impacto financeiro e o repasse de custos a partir de 2027.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre a Circulação de Mercadorias e Serviços, de competência estadual."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a2d8a9a6594fea00",
+   "titulo": "JUSTIÇA ICMS do petróleo: TJ anula mudança de limites entre municípios do RN",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzRHX3ROSFloLUF4dEpubHA0UFhYVzYzSURFa2YzRF9QNVpHNlY5MDZ4eEJSYkxIaWlQVVM1anNHVUNCbFFKbzhOMGpiQ3ZtUUVlLUV4NTgtbGZVVEt6aUd0XzNKWHY1Y2pBcnpkdTZSNElwYlplSmFVeHc4YkNkMC13Zm4tME5peTJlaTJLeG9ORHpDRjhWME50S1I?oc=5",
+   "veiculo": "NOVO Notícias",
+   "trecho": "",
+   "data": "2026-11-27T11:49-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "TJ",
+   "resumo": "Segundo a manchete, o Tribunal de Justiça anulou a mudança de limites entre municípios do Rio Grande do Norte que impactava a distribuição do ICMS do petróleo. A decisão judicial restabelece o cenário anterior sobre a divisão das receitas tributárias entre as localidades envolvidas.",
+   "pratica": "Na prática, a decisão altera os repasses de ICMS do petróleo para os municípios potiguares afetados, exigindo atenção de gestores públicos e profissionais da área financeira quanto aos cálculos e às receitas municipais.",
+   "termos": [
+    {
+     "termo": "ICMS do petróleo",
+     "explicacao": "Parcela da arrecadação do ICMS gerada pela atividade petrolífera e distribuída entre os municípios conforme critérios legais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c9068fe522306f7c",
+   "titulo": "CGSN oficializa novas regras do MEI no DOU: limite de R$ 110 mil e contratação de até dois empregados vale em janeiro de 2027",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZEY0aUxpeGRQZ2NrNHl5MGNYanVnSDZCYnlkeDZnX21mVzdNal9JUWJIcDRRems1Yy00dmFQcU1hT2pyS0tZWTRUM2l4MUs1dDVxcFBsOFFXdWFybEpjeUlrQlFleXpsYlEyMDF5VHFHWUJPdUZOLWJIWnBwYjlaMWRZbWtQejBzaTduUlEtcUl4dkplWHR6elJDUG5LbDFoM1R1eU5DWFVaMHhzY0UwTksyTVI4M2lsbUppdS10bW81dUxjNEtnWE0wX3VuMEJIdzJsdldJTzdCYXd4Y1J0SUpyVXFPWXlDOF9zMXI5ZjNxWGc?oc=5",
+   "veiculo": "Sincovaga Notícias",
+   "trecho": "",
+   "data": "2026-11-27T11:35-03:00",
+   "tipo": "Norma e legislação",
+   "tema": "Outros temas",
+   "orgao": "CGSN",
+   "resumo": "Segundo a manchete, o Comitê Gestor do Simples Nacional oficializou no Diário Oficial da União novas regras para o Microempreendedor Individual. A partir de janeiro de 2027, o novo limite de faturamento passará a ser de R$ 110 mil e será permitida a contratação de até dois empregados.",
+   "pratica": "Na prática, a medida altera os parâmetros de enquadramento do MEI com vigência futura, exigindo planejamento dos pequenos empresários para a adaptação ao novo teto de receita e à ampliação do quadro de funcionários.",
+   "termos": [
+    {
+     "termo": "CGSN",
+     "explicacao": "Órgão regulador responsável por definir as normas do regime do Simples Nacional."
+    },
+    {
+     "termo": "MEI",
+     "explicacao": "Regime tributário simplificado voltado para pequenos empreendedores individuais."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d96d924a6736e919",
+   "titulo": "Reforma tributária vai retirar 12 centavos do litro do leite, calcula sindicato",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSmJRZXdab2Z6SFA4WlA2X2RMdWVEdlQ0aGFNY1pnQzd1b05oS1gwRGdnVC1takc0eUhkSTNMUmJQZUM3VzhSb3dHMkp6TmFhTTlZRVpvRkhjMzFOOU5pR2JRaVdHN0RfME9JOG9CdDlrb1lOTU9mY0R6Y0FNdGVjSVdEZC1DZ3lZaFJNamdWSjlxVE8tZjRRWXRmZ3k4YXkwamhqYUYyVzdVcVB4N0dWb1pnYzBOd0dCaTZ4ODY4U3MtRlVoSnQyMF9DcFhRVTV0UWd2aFhRd2Y?oc=5",
+   "veiculo": "Correio do Povo",
+   "trecho": "",
+   "data": "2026-11-27T11:28-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete, cálculos do sindicato indicam que a reforma tributária resultará na redução de 12 centavos no preço do litro do leite. A notícia repercute estimativas setoriais sobre os impactos econômicos das novas regras de tributação na cadeia de consumo.",
+   "pratica": "Na prática, a informação auxilia profissionais e empresas do setor a monitorarem as projeções de impacto dos novos tributos nos preços finais e na competitividade do produto.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "1da192ba2a0e5c0c",
+   "titulo": "GPA (PCAR3) negocia transação tributária com Receita e PGFN, mas descarta acordo fechado",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaEJKVWl5UGpJZmtQbGJnUXRva2dDNThTa3luS0p2RGpEYmlVUnhUbk5idXBKNzJpZWhPUnk5R2hId1ZoWnlobHB0d09tMnh4X2V0ZDFELWxTeGpkZTF4bXB3U2syT3Vvb2pQNUctNUJJX1NpdWl5SFhhVVRkbTZsRmVkWG5YSWRhQzlsSFRqZ0EtR0FPcEtoYWZhYWNXV1k2VmpWY0d2STZYSFVMTHBFRjVXZ3VVdEplQlo5eFlNSXYyQQ?oc=5",
+   "veiculo": "BPMoney",
+   "trecho": "",
+   "data": "2026-11-27T11:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a empresa GPA (PCAR3) está em negociações para uma transação tributária envolvendo a Receita Federal e a PGFN. No entanto, apesar das tratativas em curso, a companhia descartou que haja um acordo já fechado.",
+   "pratica": "Na prática, a notícia ilustra a utilização de institutos de resolução negociada de litígios por grandes contribuintes, reforçando que conversas iniciais não garantem a efetivação imediata da transação.",
+   "termos": [
+    {
+     "termo": "transação tributária",
+     "explicacao": "Acordo entre o contribuinte e o Fisco para a quitação de débitos mediante concessões mútuas."
+    },
+    {
+     "termo": "PGFN",
+     "explicacao": "Procuradoria-Geral da Fazenda Nacional, órgão responsável por representar a União em matéria fiscal e cobrar a dívida ativa."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "192b6ae8f9bafd72",
+   "titulo": "Imposto Seletivo: sobretaxação de bebidas pode punir setor",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGR1R3dPa2VhVi00d3VadFZPM1dKTHByTVJoOWRHSk53SmF4aUpCZnd0Y2pOSTFKQXFGR3AxMkRZeDlOLXBSQ0FNMFZzSDVwTEQ4dGdTeFlSeWZPR09wWDI0SXVlR3VhU29DQTNPNktDWWlkb29idDJjX2EtQk83QmZiY0VVM2FOQlNxNUZFWnpZR2ZENXpv?oc=5",
+   "veiculo": "economiasp.com",
+   "trecho": "",
+   "data": "2026-11-27T11:21-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o debate sobre a instituição do Imposto Seletivo traz preocupações quanto à sobretaxação de bebidas. O assunto discute o impacto econômico e punitivo dessa exação sobre o setor produtivo.",
+   "pratica": "Na prática, a discussão acende o sinal amarelo para empresas e profissionais do setor de bebidas, que devem acompanhar os desdobramentos legislativos do Imposto Seletivo para antecipar impactos nos custos.",
+   "termos": [
+    {
+     "termo": "Imposto Seletivo",
+     "explicacao": "Tributo previsto na reforma tributária com foco desestimular o consumo de produtos prejudiciais à saúde e ao meio ambiente."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "50a5d420a59ed005",
+   "titulo": "MT tem terceiro menor preço de referência do etanol para cálculo do ICMS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSzUzd3B3cklOeVJzMWoxTjd4M0VHWHZDb1NaREN0djNGT2psb0NaRHVJdGg2NnlnbDlLUGhidmhSYXF0d3FTdzVQN2lLVDIyVTIwbHRRQUZBMnU3VzlpTmtfQ1lGSlNOUnRYY1pEOTNhN1gtXzBFc0FWazJaWDEwdGdSankwMnktQ2FUNW9Sa3p4cTVNOU5EdFBqakJFa29qWWcwRkxiNUpVMkRnZ0dlUk9mYTc0UXN0?oc=5",
+   "veiculo": "MT Econômico",
+   "trecho": "",
+   "data": "2026-11-27T10:58-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o estado de Mato Grosso apresenta o terceiro menor preço de referência do etanol para fins de cálculo do ICMS. O dado reflete a dinâmica de precificação do biocombustível adotada no âmbito estadual para a apuração do imposto.",
+   "pratica": "Para empresas e profissionais da área, o monitoramento dos preços de referência é essencial para a correta apuração e recolhimento do ICMS sobre combustíveis.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual que incide sobre a circulação de mercadorias e prestação de serviços de transporte e comunicação."
+    },
+    {
+     "termo": "Preço de referência",
+     "explicacao": "Valor médio estipulado pelo fisco para servir de base de cálculo do imposto em substituição ao preço real da operação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d4fdfc73cdb2b299",
+   "titulo": "Sindilat/RS fala sobre possível redução do valor compra do leite com a reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHBWdV9rcWlPTUctLTQ5UEZYenpWOVREd0R0ZGh3RVM2WWh6Rl9BbUs2MDJKS241YWlKQ2o1TW1palkxMTMyTjNiUU5IY2t6aVBHZ0lhbnY2TlVVT2Y5eUVGMmttTkVXWXEyNHMzVmdOTVl1WW5jdy1PeERMTUN0OFRqUEZiYjFURVBxSmVVRzZ5dVVXQTFCR1FRSHN5c0xSeHB2Vng2UWRHZXVmeDhDUmNyWWhEMnUzelpQUXhjU0lkS19vWFdEbFdDTUZpbWx2WXVJNVhUdnBzckhiLXptdTJVRXFxME56WDY3SGFaa3JWSFk?oc=5",
+   "veiculo": "MilkPoint",
+   "trecho": "",
+   "data": "2026-11-27T10:33-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Sindilat/RS debateu sobre uma possível redução no valor de compra do leite em decorrência da reforma tributária. A discussão envolve os impactos econômicos e tributários das novas regras para o setor leiteiro no Rio Grande do Sul.",
+   "pratica": "Na prática, a notícia alerta profissionais do setor lácteo a acompanharem os reflexos da reforma tributária nos custos de aquisição e na cadeia de suprimentos.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais no sistema de impostos do Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "038a6cf6046a37f5",
+   "titulo": "Reforma Tributária: veja o que muda a partir de 2027",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmtQSFJKQXhGTmM0UDFBVEJMdlJHT0hMSmNVdldQd3lTNEs5UDkxR1haWmlMMnJDN0h1NTd4LTlMc2pGNUpOdVo4RF9ZbFhrUTA5ZkgwbFRpWkpjQWdVakRRajladkZMZXp5THRrUE85RnAzbDBSaUViSDlWT05JWXMzZ2lLck9STHBfeEZIQ0lDSUlJVHRkUmtXT2o?oc=5",
+   "veiculo": "Portal Contabeis",
+   "trecho": "",
+   "data": "2026-11-27T10:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Portal Contábeis destacou as mudanças trazidas pela Reforma Tributária que passam a valer a partir de 2027. O conteúdo aborda as novidades normativas que impactarão o cenário fiscal brasileiro.",
+   "pratica": "Na prática, advogados, contadores e empresas devem se atentar às novas regras e prazos previstos para o ano de 2027, preparando seus planejamentos e sistemas de compliance.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a estrutura dos tributos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "88741dd3270069a5",
+   "titulo": "Entidades entram com ação no STF para postergar disposições da Reforma Tributária",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTFfQlJhYWhFU2x0Z2xRbTFHTFNwWWlfMlBjVzRTc2EyRU9FZlFDNENtNFdrS1Y3TUV6aTVsaDVremxJRnM2Y1J4Q1FqU0ItZDlBOVVqMXY3cy1jTjRvLU9ibXpNZFhnNFZxRTlGT3dXNGUzUVA0WEZELUxFNHVKVzNpVU5pS3BqT0tuN01jNzdwREZHUUZLV2pHQ3lndEZPMXJDeg?oc=5",
+   "veiculo": "Expansão",
+   "trecho": "",
+   "data": "2026-11-27T10:29-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, entidades ajuizaram uma ação no Supremo Tribunal Federal com o objetivo de postergar as disposições da Reforma Tributária. A discussão envolve o cronograma de implementação das novas regras do sistema tributário nacional.",
+   "pratica": "Na prática, caso a ação seja acolhida pelo STF, as empresas e profissionais poderão ter mais tempo para se adequar às exigências da Reforma Tributária.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a estrutura dos tributos no Brasil."
+    },
+    {
+     "termo": "STF",
+     "explicacao": "Supremo Tribunal Federal, corte máxima do Judiciário brasileiro responsável por decidir questões constitucionais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "65097bc926bf57b0",
+   "titulo": "Reforma Tributária muda impostos sobre consumo a partir de 2027; veja o que muda",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGZvcVhxLU0xeFZSaE9XdFhxQTcwQlFIR2xkdjRVbGpxSUhSYUF0Q0tKbkczOU9QbzBpWHpEdlliMUNXNXFXMmFRbHNNM2NySEZGbDRmbk9EaGMwNjZLTlFCS293LVhvLTN4SVRDQ1ZLRmU1RHJ0dUtUYkwwSnhYRFRnTjFGX0RKVEZvaUdjZjhVQldWUVhHTEEzOWpmN0RqeDhZRzd2MkZYdEhsdmswSzNRdE1Fc2xaaS1Sa1hEUkg?oc=5",
+   "veiculo": "Impactto News",
+   "trecho": "",
+   "data": "2026-11-27T10:20-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete da Impactto News de 27 de novembro de 2026, a Reforma Tributária trará alterações nos impostos sobre o consumo com vigência a partir de 2027. A notícia indica que haverá mudanças significativas na estrutura tributária aplicada ao consumo no país.",
+   "pratica": "Empresas e profissionais da área devem se preparar para as novas regras de tributação sobre o consumo que entram em vigor a partir de 2027, exigindo adaptação operacional e estratégica.",
+   "termos": [
+    {
+     "termo": "Impostos sobre consumo",
+     "explicacao": "Tributos incidentes sobre a circulação de mercadorias e prestação de serviços, alvo principal das mudanças da reforma."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
    "id": "0ef6581ee956127e",
    "titulo": "Reforma tributária pode encarecer produtos em 2027, alerta especialista",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWR6aVc1R3Bvd2F4ZlBZYmt2NXFNaHUwLTZ6RWZkZmpvdnFZbVJQbWhCWkFXNzNkWDhYcWhsbEw1ZHltRkF4M3RPVEs0Nlp6R0dyRHhpNGVWWVFCN2VhbzZoNkMtN3hKZ1ZpYXBaMXVTdGl3VEh0TUFmdzRXcDFKQkF6NlBGTDJmMFJWdzdJS2pzaC0wOFp1azVXOER2U3JhTjNiSE9hVjc2SEE0RHZTcTRlNXpablk?oc=5",
@@ -24079,7 +24753,8 @@
   "2026-11-23": "O noticiário de direito tributário brasileiro destaca importantes movimentações legislativas e jurisprudenciais. No Supremo Tribunal Federal, analisa-se a imunidade do ITBI na integralização de imóveis por meio do Tema 1.348, enquanto Minas Gerais pede a modulação de tese sobre créditos de ICMS de combustíveis, impactando contribuintes e o fisco. Paralelamente, o Congresso avança com pautas cruciais do ajuste fiscal, como a discussão da alíquota da CBS e o Orçamento de 2027. Além disso, a Reforma Tributária ganha destaque com debates operacionais sobre o impacto do split payment no fluxo de caixa das empresas, a aprovação do PLP nº 299/2026 no Senado e a garantia da Receita Federal de que não aplicará punições a erros cometidos de boa-fé, visando à segurança jurídica.",
   "2026-11-24": "Nesta edição, destacam-se decisões judiciais e normativas de grande relevância para a segurança jurídica. No âmbito do Supremo Tribunal Federal, foi vetada a cobrança antecipada do ICMS-difal para o Simples Nacional no Paraná com base em decreto e lei genérica. Já o Superior Tribunal de Justiça definiu parâmetros fundamentais de responsabilidade sucessória sobre as regras para herdeiros pagarem dívidas tributárias de falecidos. Por fim, a Reforma Tributária segue no centro dos debates econômicos e legislativos, evidenciando medidas como a zeragem de impostos para uma lista de 22 alimentos — incluindo carnes, arroz e café — e discussões sobre a calibragem de alíquotas da CBS e do Imposto Seletivo.",
   "2026-11-25": "Nesta edição, destacam-se as novas regras do Simples Nacional e do Imposto Seletivo decorrentes da Reforma Tributária, que exigem adaptações normativas, revisão de preços, contratos e sistemas pelas empresas a partir de 2027. Além disso, a sanção da lei do ajuste fiscal sem vetos estabelece novas normas para gastos e finanças públicas, entrando em vigor imediatamente. Por fim, o Senado debateu a redução da sonegação para diminuir a alíquota da CBS para menos de 10%, enquanto estudos apontam que o desconto de 60% no IBS e na CBS não garante, isoladamente, uma carga tributária menor, exigindo atenção redobrada do contribuinte no planejamento tributário.",
-  "2026-11-26": "Nesta edição, destacam-se os avanças e debates em torno da Reforma Tributária, com o Congresso iniciando a discussão sobre as regras e a Medida Provisória do Imposto Seletivo, além das avaliações sobre os impactos macroeconômicos e a pressão na inflação e nos preços de produtos a partir de 2027. Importam também as movimentações do setor produtivo, como o pedido de adiamento da reforma ao STF por confederações empresariais e os alertas da CNA e da CNC sobre os reflexos da alíquota da CBS. Por fim, na seara jurisprudencial e normativa, o STJ definiu temas cruciais sobre contribuições previdenciárias e sucessão de dívidas por fundações extintas, e o Confaz atualizou a pauta fiscal do PMPF para o ICMS sobre combustíveis."
+  "2026-11-26": "Nesta edição, destacam-se os avanças e debates em torno da Reforma Tributária, com o Congresso iniciando a discussão sobre as regras e a Medida Provisória do Imposto Seletivo, além das avaliações sobre os impactos macroeconômicos e a pressão na inflação e nos preços de produtos a partir de 2027. Importam também as movimentações do setor produtivo, como o pedido de adiamento da reforma ao STF por confederações empresariais e os alertas da CNA e da CNC sobre os reflexos da alíquota da CBS. Por fim, na seara jurisprudencial e normativa, o STJ definiu temas cruciais sobre contribuições previdenciárias e sucessão de dívidas por fundações extintas, e o Confaz atualizou a pauta fiscal do PMPF para o ICMS sobre combustíveis.",
+  "2026-11-27": "O boletim de hoje destaca os desdobramentos da Reforma Tributária, com forte repercussão econômica e institucional: entidades setoriais como CNA, CNT e CNC protocolaram pedido no STF buscando o adiamento das novas regras de transição, enquanto o STJ criou um observatório para monitorar os impactos e efeitos práticos das mudanças. No âmbito jurisprudencial, o STJ afetou tema em recursos repetitivos para definir a incidência de IRRF sobre horas de repouso e alimentação após a reforma trabalhista, buscando pacificar a natureza tributária da verba. Por fim, o CGSN oficializou no DOU as novas regras do MEI para janeiro de 2027, elevando o limite de faturamento para R$ 110 mil e permitindo a contratação de até dois empregados."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -24640,9 +25315,22 @@
   "dívidas renegociadas": "Débitos fiscais que tiveram suas condições de pagamento alteradas por meio de acordo com o Fisco.",
   "Contribuinte": "Aquele que tem obrigação de pagar tributo conforme a lei.",
   "imposto do seu produto": "Tributo incidente sobre a circulação ou comercialização de mercadorias, como o ICMS.",
-  "Intervalo suprimido": "Período de descanso intrajornada não concedido ao empregador, pago com acréscimo indenizatório ou remuneratório."
+  "Intervalo suprimido": "Período de descanso intrajornada não concedido ao empregador, pago com acréscimo indenizatório ou remuneratório.",
+  "SCP": "Sociedade em Conta de Participação, um tipo societário sem personalidade jurídica própria onde a atividade é exercida pelo sócio ostensivo.",
+  "Crédito da sócia": "Valores que a empresa sócia possui perante a Receita Federal e que pretendia usar para pagar tributos.",
+  "crédito de ICMS": "Valor que o contribuinte pode abater do imposto a pagar, referente a insumos e custos da atividade.",
+  "auditor fiscal": "Agente público responsável por fiscalizar o cumprimento das obrigações tributárias pelos contribuintes.",
+  "Código Tributário": "Conjunto de leis que estabelece as normas gerais de direito tributário aplicáveis à União, Estados e Municípios.",
+  "Código Tributário Nacional": "Lei que estabelece as normas gerais de direito tributário aplicáveis à União, Estados e Municípios.",
+  "Recursos repetitivos": "Mecanismo processual em que o STJ julga um caso representativo para fixar tese jurídica a ser aplicada em todos os processos iguais.",
+  "Lucro Real": "Regime de apuração do Imposto de Renda e da CSLL baseado no lucro efetivo da empresa.",
+  "Créditos acumulados": "Saldos de tributos não utilizados que ficam acumulados na contabilidade da empresa.",
+  "ICMS do petróleo": "Parcela da arrecadação do ICMS gerada pela atividade petrolífera e distribuída entre os municípios conforme critérios legais.",
+  "CGSN": "Órgão regulador responsável por definir as normas do regime do Simples Nacional.",
+  "Preço de referência": "Valor médio estipulado pelo fisco para servir de base de cálculo do imposto em substituição ao preço real da operação.",
+  "Impostos sobre consumo": "Tributos incidentes sobre a circulação de mercadorias e prestação de serviços, alvo principal das mudanças da reforma."
  },
- "atualizado_em": "2026-11-26T07:00-03:00",
+ "atualizado_em": "2026-11-27T15:36-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
