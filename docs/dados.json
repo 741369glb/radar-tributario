@@ -1,6 +1,651 @@
 {
  "itens": [
   {
+   "id": "46993e780275b99e",
+   "titulo": "Em defesa de Parintins e dos municípios, Prefeito Mateus Assayag cobra revisão na divisão do ICMS",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWndtX2VnU040RnBETmVmclpHLVAwcHZIZHUtd0dKWFJoRXNBX3FiOWlidkZZajluTWtwcWZPTnVxaC1pYkFRVjVkWFRrRlNzeXJYMnhkdUdHU2xURUFxU2UzcHJiZzFUaDVuMlRlQnVfTTFhd19HZFotOGMtbVJhbnduX3p1aWpkb3Nlck5wcmh0UWVhVDJXd3NLeDY0THg1bktBWlphOHJsU0VBR3pFMkUwRGZNdXBpSWprMzkyOHJ1M0YxZmFpMU9tSUw?oc=5",
+   "veiculo": "Prefeitura de Parintins",
+   "trecho": "",
+   "data": "2026-11-28T13:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Prefeito Mateus Assayag cobrou a revisão na divisão do ICMS em defesa do município de Parintins e de outras cidades. A discussão envolve os critérios de distribuição da receita tributária estadual entre os municípios.",
+   "pratica": "A movimentação política sinaliza debates futuros sobre os índices de participação municipal na repartição de receitas do ICMS, o que pode impactar o repasse de verbas para as prefeituras.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual, cuja arrecadação é parcialmente compartilhada com os municípios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "fd37df81b1db88a9",
+   "titulo": "Concurso da Receita Federal prevê 146 vagas e salários acima de R$ 22 mil; veja o que estudar",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcEV3Q29JMkFVa1lmdnUtUkJuYXdsWE9EOWgzOWpWZU1CY29LX2pNM3FXeUxqMVdueDB1SFBBb09FRW1VdWFSYWludnFCOUU1aEZYRjZpTlFwTzhNZFQxdmRDd0dhc1A3QUN6a3ZNeFRiamNhNTRDeXQ3TkhDZldJWURRLVRYTS16U1VaNG0zMEhBbTYzc21sWEktTXNhOFB6emx3LTNscmpGSXh0eUIzZW53aTFWdzBDWm1hV2RhS2F4TE5TS0MxV0lKVUPSAdIBQVVfeXFMTkhTM1pST1gzWGg1Zm9mbTJVQjgxMzRnQ2JqUnlKaEtMaXpYaUhod3ZRVFp5dENzWDJRYzFqc0JHZmxGakg1NWxmQkMxYWNiSnlleC1RdnVleGpSamhqNHZLbU8tdkpqOTFDdlV5RGZXbE8tVGhvbGRCMWg3cEVJdW4xQUhPU3VWNTZ2Q0E0aDBiUFE2bm1Zc0NDeUEtc2ZkZzF5YldwangybVg2elBSU0Y4NWFzMGtmX3NPcEpreWpXeFJrNFJaU1p1SUxiZlROLWt3?oc=5",
+   "veiculo": "GMC Online",
+   "trecho": "",
+   "data": "2026-11-28T11:52-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foi previsto um concurso da Receita Federal com 146 vagas e remunerações superiores a R$ 22 mil. A publicação também indica que há diretrizes sobre o que estudar para a seleção.",
+   "pratica": "A abertura de concurso para o Fisco representa uma oportunidade de preparação para profissionais que desejam atuar na administração tributária federal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "9d9b6dc3c164a0a4",
+   "titulo": "Novos capítulos na briga judicial de duas cidades do RS pelo imposto pago pela Heineken",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQzdQc0dhaTFrTE9HQmkxcjBKNkszd0pwdDkzbU1qYjNScWdBQnN0TDlTMlE3LUFlNUhqaU5KbzZhUlJMRVp5R05yTXZ5eDRSaFY2V1NJOW1uUkxMZUZsRUVnMmszVW1yam52Y0ZMS2ppNnE1UmlmMkU3SG12TFVGMWxaU3g3clFjamxoOUhIMVk1Tm9yOU02bWNySzVhODZXbjZibFpZM1pFLUlBLUFidC12dEM2cmpIUlhwZUJDd25BOTBrM3ZiWFJWQXh1aWxoWTBuYmxOZkZsZ3huY0FfOEtPTGpIWEdpZW9LLUhaTkNiRzlJdS16S2ZpVXZEaG1YajFFbmVtZjZ4UVZ0ZFlqODJTd2hGUWdyX3c?oc=5",
+   "veiculo": "GZH",
+   "trecho": "",
+   "data": "2026-11-28T11:17-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, há novos capítulos na briga judicial envolvendo duas cidades do Rio Grande do Sul pela arrecadação de imposto pago pela empresa Heineken. A disputa evidencia conflitos de competência ou de repartição de receitas tributárias entre municípios.",
+   "pratica": "Na prática, a situação serve de alerta para empresas com grande capacidade contributiva sobre os impactos de disputas intermunicipais de arrecadação.",
+   "termos": [
+    {
+     "termo": "imposto",
+     "explicacao": "Tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "3ac2323a8d7d3ea4",
+   "titulo": "STJ suspende recurso do Tocantins sobre honorários em cobrança de R$ 29,4 milhões contra a Energisa",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamFxbWpydWM3UzBZREZKQXVZVWZwTWdYSkVpZGFqTWRzbnktempBdzhYZUtNX0tNdUdiQlZCTjB5OGlseE1Id2d3bU9uck4wekozdmN1cEx1NjdwLWE0SnFhUlVkVWVpeWNVMjZvei1ZRFY5TktHU09lZlk0QUl6UDJhNy14NC1DSkhfR0h2dmFvZkFKOW9GcXBUdkozSjQ0a3lIVGIwM3p4NUhJUTgweDRBQkVQSjhLbk5ZSkdBSFFLTmx4X2IwZUR2SEJ0c2phZWhKcW1MZjhibEV6T2U1V1ZnUktUREE?oc=5",
+   "veiculo": "Jornal Opção | Tocantins",
+   "trecho": "",
+   "data": "2026-11-28T11:16-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Transação e dívida ativa",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça suspendeu um recurso do Estado do Tocantins que versava sobre honorários advocatícios em um processo de cobrança fiscal de grande valor. A controvérsia envolve os custos de sucumbência devidos no âmbito de uma execução contra a concessionária Energisa.",
+   "pratica": "Na prática, a decisão sinaliza cautela para advogados e procuradorias que acompanham a definição de honorários em execuções fiscais de alto valor, mantendo o litígio temporariamente paralisado no tribunal superior.",
+   "termos": [
+    {
+     "termo": "Honorários",
+     "explicacao": "Valores devidos aos advogados ou procuradores pela atuação na causa judicial."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2a9393f7486e3187",
+   "titulo": "Reforma tributária pode elevar custos de condomínios em 2027",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckpfa3B1MTFRT0hIZ0hLUV9BajZ0V1R1M2N0cjI2RHk3MllFaXBnMHNkTUlsOXdzM2VMS2pXWG0wSVZZaVF3SlQ0T2JJb1J0VDNMOWc0b2RNSV9MSjEzanFka1ZIMVZLUVgyQ3c5WWkzLXV6UnRidXYteWZUQzQwQ1ZiWHhncFY5WF9kaEtyVjdpQVE2Zk9V?oc=5",
+   "veiculo": "Diário da Manhã",
+   "trecho": "",
+   "data": "2026-11-28T10:55-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, a reforma tributária tem potencial para elevar os custos de condomínios a partir do ano de 2027. A notícia aponta para reflexos financeiros futuros decorrentes das mudanças no sistema tributário brasileiro.",
+   "pratica": "Na prática, gestores, administradores de condomínios e condôminos devem monitorar o avanço da regulamentação da reforma tributária para antecipar possíveis impactos no orçamento condominial.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e1c7b299a035ab91",
+   "titulo": "Confederações pedem ao STF adiamento de nova etapa da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmZCOXQyenhTMjNwSEZiT29fdnFLSFBHUU1PUTVWcGZDZjQxQUp4czM1OTdfWmFEeTdNcnJsVkk3bEI1MWd5Y1lxZGFlSjdyUmQzNTg5ZVg3a0p3YjQ2NDFXckJWdS1EcTFZOTFyQnYxWFpJc1hBN1k5RVREZmZ3Vjk0eUVqX3pOVU9JQ3pUYVgzb2tJT09PWHBSTjBWNkhWZGgtaUU3RzBldGYwOXNF?oc=5",
+   "veiculo": "Migalhas",
+   "trecho": "",
+   "data": "2026-11-28T10:44-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, confederações apresentaram um pedido ao Supremo Tribunal Federal para que seja adiada uma nova etapa da reforma tributária. A notícia reflete a movimentação de entidades representativas diante do cronograma de implementação das mudanças no sistema de tributação nacional.",
+   "pratica": "Na prática, a movimentação indica a incerteza jurídica e a resistência setorial quanto aos prazos da transição, exigindo que empresas e profissionais acompanhem eventuais decisões cautelares que possam alterar o calendário.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reescrevem as regras de tributação no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "f1544a8c6540cab5",
+   "titulo": "Justiça decide que retorno do ICMS da Heineken deve ficar integralmente com Igrejinha; Três Coroas avalia recurso",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVkwtSlBTWHBxN0wtTTVJZmxVaklhQ2trT25oY1Bid3F6UHhKbElGN2lSdVd6cEJ6VWg0SEN5b3VDaVdNZE9pYjBqSFVSNGlBQlV5amhXOXZHMTJDNnZ6MkZEbzdVVzJKZ3dkUzZQRXBXYTlKdWZMd3Y1TE9SWVItbUtlNjFkeEtpUUtReW1YRnNCbzRNa1pYVVF3MUlILUFwYkFDNzllOElNR1FuR3NDYXFMNWc5a2hDbkVwQkRpaHlSQ1IwNmFlTnlaSkR6Q0hpTzR5UnUxNjBacHNVNmhqNncwcEw?oc=5",
+   "veiculo": "Rádio Taquara FM 105.9",
+   "trecho": "",
+   "data": "2026-11-28T10:38-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "Justiça",
+   "resumo": "Segundo a manchete, a Justiça decidiu que o retorno do ICMS referente à Heineken deve ficar integralmente com o município de Igrejinha. A decisão ainda gera desdobramentos locais, com Três Coroas avaliando a interposição de recurso.",
+   "pratica": "O caso ilustra disputas municipais sobre a arrecadação e repartição de receitas de ICMS decorrentes da instalação de grandes empresas, exigindo atenção de profissionais que atuam com planejamento tributário territorial e participações fiscais.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre a circulação de mercadorias e serviços cuja arrecadação é parcialmente repartida com os municípios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5ffe5aa5db823ab1",
+   "titulo": "Infográfico: Calendário para definição da alíquota da CBS",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczk5T3dFaXdtVGNhcHFJc042cjVmUFB0c3U5LWlzTmVFbXBQTlRYMmVlV3Y2dVh0T09rUkl5ZktJaEVSN1FpUkVER191WlQ5S3UwcjQ4QllfNHdLdU5nQ2syZi1tNjZJQndsdURtYjdleVVhWkJBZ3B3c1lEcWczemRIYjJVV1U3czgxVVA0cG5hWU5NcWNLRlRJSGNYWTZYY2ItLUhhcDdkYWZjcjJOSmtqU084d1E?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-28T10:12-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do JOTA Info, foi publicado um infográfico que apresenta o calendário para a definição da alíquota da CBS. O material detalha as etapas e prazos previstos para o estabelecimento dessa exação no contexto tributário.",
+   "pratica": "Na prática, o acompanhamento do cronograma auxilia advogados, contadores e empresas no planejamento e na adaptação às novas regras decorrentes da reforma.",
+   "termos": [
+    {
+     "termo": "CBS",
+     "explicacao": "Contribuição sobre Bens e Serviços instituída no âmbito da reforma tributária."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b59d3d1fb877474c",
+   "titulo": "Dívida dos MEIs disparou 142% desde a posse de Lula",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVh5LV9YY2xkR3hoR1UzUzNoMi1WYlBTSzUxdUdmQjRqS2xyeXc2OVBKVUhNZWtyaXpOVDhRWXk3NDNIU2psbjEyVG9FSFRqS0hvX3N3WHQzaVhfdlBwUklwQS1scFg5TmE2NTJTUzJYYzJKWktnVzJRNUVmNUR0eU55dzhXYWtwYVliZ2pkOA?oc=5",
+   "veiculo": "Poder360",
+   "trecho": "",
+   "data": "2026-11-28T10:02-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Poder360, a dívida dos Microempreendedores Individuais (MEIs) registrou um salto expressivo de 142% desde o início da atual gestão presidencial em 2026. Como o trecho original não foi fornecido, restam limitadas as informações detalhadas sobre a composição exata desses débitos ou as causas específicas do crescimento.",
+   "pratica": "Na prática, o dado serve de alerta para profissionais contábeis e advogados orientarem clientes MEIs sobre a regularização fiscal e o risco de inadimplência. Também indica potencial demanda por futuros programas de refinanciamento ou parcelamento desses débitos.",
+   "termos": [
+    {
+     "termo": "MEI",
+     "explicacao": "Microempreendedor Individual, regime tributário simplificado voltado para pequenos empreendedores."
+    },
+    {
+     "termo": "Dívida",
+     "explicacao": "Valores devidos pelo contribuinte ao Fisco que deixaram de ser pagos no prazo legal."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "a9b6c7c7472e9f9b",
+   "titulo": "Patrimônio no exterior: novas regras de sucessão e transparência exigem atenção às estruturas internacionais",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTRTY1lDMU9neHFCT0g2S0wwTmFBNHR2T21CV2lfRW1DQWZvNk5QUXNUOUJaWVM0eU96Vlc3RHY2cG5iMllWbnAtWkVpdks0RXFZcFhKNHN5dDdnUVl2THF3Y3JPSzVYZFp4dnVpdk1JY1RVeWZTaXk4ZC1wN0V0SEhUYWRzZjN3NDkxRXNZY1Bxa0lCODJaT21LUEZ2bHZYSEdMejhjbUhLbVp2dzJael82aDB5MU5ZbDZoaGZ1ZDV3MXpDRjA4clI0RnlIa3FlZ0hlcHNtejJMeG02dmM3WHhR?oc=5",
+   "veiculo": "Rota Jurídica",
+   "trecho": "",
+   "data": "2026-11-28T09:23-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Planejamento e compliance",
+   "orgao": "",
+   "resumo": "Segundo a manchete, novas regras de sucessão e transparência aplicadas ao patrimônio no exterior exigem maior atenção por parte dos contribuintes às estruturas internacionais. A discussão envolve a adaptação a um novo cenário normativo para ativos mantidos fora do país.",
+   "pratica": "Na prática, advogados, contadores e planejadores patrimoniais devem revisar as estruturas internacionais de seus clientes para garantir conformidade com as exigências de transparência e sucessão.",
+   "termos": [
+    {
+     "termo": "patrimônio no exterior",
+     "explicacao": "Bens e investimentos mantidos por residentes no Brasil em outros países."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "7d5721f5aeea3ca0",
+   "titulo": "Concurso Receita Federal: conteúdo divulgado é retificado",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1J1bHJiSTZGM1FZdHl4ZTdfLXFSTk50bklXNUlnbU4zbFFBVWUwa2NzZXE5TUs5bjFvSWNMR0VOMy1HNk5JYkh4SWoySmVJbnREZjNCLUI5bUNianRCakNFNVFxMkYxaXBGLVJLVmVuR1BCZW9PNmJxQmVlMC1Ja18tWi13SVBXaTFOb1hsRk5Tc2l3QnFLYktrMko1dlEzaDNDNG9UN1hBRW9ydDllctIBtgFBVV95cUxPZXBtZjJyeVFDOXYta2ZDbUdXNTRKYlFGNjBXejlMUEhEZWVpa1RIeF9CMEI1UjF2Q2hqNk9remU4bER5VGRaWlNadEJkQWFsRVBUTUdEVGRkUjRfUzktTmhuMUJDdnZ6WkphclZhVlpmZFlCLUw0RE1NeFdDS3k1dkh3aGtOLWkycmhpLXNZVnE1UHZMMThZMThBZHZmNGlHeVh2MzB4NFhaRmNxNkdraDZPamd1dw?oc=5",
+   "veiculo": "Estratégia Concursos",
+   "trecho": "",
+   "data": "2026-11-28T08:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, o conteúdo divulgado para o concurso da Receita Federal foi retificado. A informação indica uma alteração no programa ou nas regras do certame que selecionará futuros profissionais para o órgão.",
+   "pratica": "Candidatos que se preparem para o concurso devem atualizar seus cronogramas e materiais de estudo conforme as novas diretrizes divulgadas.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4445b9c7f88aeb56",
+   "titulo": "Concurso Receita Federal: conteúdos provisórios divulgados!",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGVXeXdIZ01tRnpjRWk2LV9nMVNNUUJyTmRSNFBVWmRuWVhXeDRkVWdkZWU3d3k5YTQ3a040MkNON1I0anEyWHoyQXlFWEhjRTh4VWUydHAtR0NfQ0Q5Qlg5RTRqWnBUMnRTQUNkWFU1S21DdENEQXRtQzBzYl9sM0ZuYjhpYk9wenpjR2d1S2FXQVdUcGxvaUJaZw?oc=5",
+   "veiculo": "Blog Gran Cursos Online",
+   "trecho": "",
+   "data": "2026-11-28T08:23-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, foram divulgados os conteúdos provisórios para o concurso da Receita Federal. A notícia adianta as matérias que devem ser cobradas na seleção pública para o órgão fiscalizador.",
+   "pratica": "Isso orienta a preparação inicial de candidatos e profissionais que desejam ingressar na carreira fiscal da Receita Federal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira no Brasil."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "0ed085d9a94cfe57",
+   "titulo": "Fato relevante Grupo Pão de Açúcar (PCAR3): o que está em jogo na negociação tributária",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWm1Ec1dqVWJ5Rm0tSWFuVVBXV3J0YTJEWG85VnRTNWlVendqbGxkZ0hiaVVtVVpJQV8xNmJyeW0zRENlRVBObGM4dk0xWERNdzFpTER4WmdxNDRQUTVCamdjSEJSbXdUdEhmT0dadGx6MVNpSEJiZHlzaWh5Y1B6QjZsSW5zUzRzLWw3YlhaN1ZpN25fYVJpMXZ2c05DdElPWEg2LVdQQTRIY1dxTElTQk8tOUs2anVraGFrNDl6dU9xUVRBV1VRc2JOaw?oc=5",
+   "veiculo": "ativovirtual.com.br",
+   "trecho": "",
+   "data": "2026-11-28T07:31-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Transação e dívida ativa",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o Grupo Pão de Açúcar (PCAR3) está envolvido em uma negociação tributária relevante. Trata-se de um fato relevante corporativo que aborda a resolução de pendências fiscais da empresa.",
+   "pratica": "Na prática, acompanha-se como grandes empresas buscam regularizar sua situação fiscal por meio de acordos ou transações. Pode indicar oportunidades ou impactos financeiros relevantes para o grupo e seu mercado.",
+   "termos": [
+    {
+     "termo": "negociação tributária",
+     "explicacao": "Acordo ou entendimentos entre o contribuinte e o Fisco para a quitação de débitos fiscais."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e44b94c1a27c86ba",
+   "titulo": "Acordos internacionais da OMC não impedem Cide sobre direitos autorais, decide Carf",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGc1V25sc05ndkRHeWZwX1hKd2c4a1lqcV9mWFh6RHEwUEZ4TS1sTU90MmJhNTJVWWZ0U3hZcjl5cHNNSWxVRmo3RG50TlZuYzV2dTFCZFVyLXBGVkMyeHVYSDVHNlVHUHJ0azFwcUk4TjlFOHdmcWh6XzFxMWxMWGJIa1Q4TkM2cXRfWEFiQU52cnpEOUhkTkVVME5FTVZQVTU2cVpaYjFoRHljQTBPNlp5OA?oc=5",
+   "veiculo": "JOTA Info",
+   "trecho": "",
+   "data": "2026-11-28T07:11-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "Outros temas",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, o CARF decidiu que os acordos internacionais da OMC não impedem a cobrança da Cide incidente sobre direitos autorais. A discussão envolve a compatibilidade de obrigações internacionais do Brasil com a tributação interna sobre remessas ao exterior.",
+   "pratica": "Na prática, a decisão sinaliza que o Fisco mantém a legitimidade da cobrança da Cide sobre remessas de direitos autorais, o que pode impactar o contencioso tributário de empresas que utilizam propriedade intelectual estrangeira.",
+   "termos": [
+    {
+     "termo": "Cide",
+     "explicacao": "Contribuição de Intervenção no Domínio Econômico incidente sobre remessas ao exterior."
+    },
+    {
+     "termo": "CARF",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de tributos federais."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "2cfb80b9ddeb85f1",
+   "titulo": "Reforma tributária: varejo deve revisar estoques e preços antes de 2027",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTXhubnlCcHkzWmZvVTdXMHFtWjBVcS1FN0Z0VUN6RHZJTDFWbm9MVUJCZ2ozNmt4TGs3SXlmVmtsZlhRLUQyd0RXTUd5M3pLMjA2UWd5cmJYeHQySEpJT1RyX3kwektuMVFackVKUWNyalN6bGRkNmptNnBkRmc5dW9jeTczM3AxcFVVdlkwNG5jNUNrYTYyRGR5WjJRV2NoeEsyMjk4N0h2bDdlSG1EVk5TZDhsdFQwYzk0R2J3a2Fib2JOQnl4dUtMNjN3THBnSU5xUFd4T2NxZ1pDQ1M1Vkc4Um9NWl8tY0Y2Zmx2VQ?oc=5",
+   "veiculo": "Diário do Nordeste",
+   "trecho": "",
+   "data": "2026-11-28T07:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete do Diário do Nordeste, o setor varejista deve realizar a revisão de seus estoques e de sua tabela de preços antes da chegada do ano de 2027. A orientação decorre das mudanças estruturais trazidas pela Reforma Tributária no cenário fiscal brasileiro.",
+   "pratica": "Na prática, empresas do setor varejista precisam antecipar o planejamento estratégico e operacional para adequar seus custos, margens e sistemas de precificação às novas regras tributárias.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que modificam a cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e02f094de5c73a2f",
+   "titulo": "Setor imobiliário reivindica adiamento da reforma tributária: ‘É inaplicável neste momento’",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1lXVjBKV0tQTm52TVhtRXJxSVhCNGI0Q0d1U2Fxa2VuNVpxSE9CblRBV2E2d2NHSEFEWU9RRTg4Q2xRdzVZSGxRN0FpdFp3WGUxdmtyVjkwZlhZc21SQUtscHM0WmJhSG9JaDU5NU9KUWZqcTVNSlIyd1EwWEtTdzVtdXN5M1NmUzRBOG15MnJwelkyc094d1h6Z1VxX1JDSFVqRG5GY1NwOUxxREt2WkFtLUJ3RzdfNGJLY09YRzQ4QngxeGluSFVBd0NFWk3SAdQBQVVfeXFMTzdudTdMeVRjMm5VZ2lTd3JTZExmYTkzaVJ4eDZHTmh3YWRVT0I3SUxlRHBGNHNNU0tfRi1ZOGthYW11ZGhyN0p1TGNEN3FvWnZuRy1NOU1Ccmd2REpSdllmaWI0Mnp3T2tEREdWblhOTDZ2aXJWazBid3U1ZUZwTE14U2dNb2RrWUxkWmxQXzV1Y2d4YXphUWJqbnYwSDBZT1VnQ2o3eW9yTVhXMjNjZWtvWGd6NVNVc0dudE03d2xzeVlodkRsc0dzLWRPMFhPdWg4d0U?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-11-28T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o setor imobiliário reivindicou o adiamento da reforma tributária. A justificativa apresentada é que a medida seria inaplicável no momento atual.",
+   "pratica": "Na prática, a movimentação sinaliza a resistência de setores específicos e a possibilidade de debates contínuos sobre a implementação das novas regras tributárias.",
+   "termos": [
+    {
+     "termo": "reforma tributária",
+     "explicacao": "Alteração nas regras de arrecadação de impostos no país."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "e8d8fdbbf290f3f8",
+   "titulo": "Reforma tributária muda dinâmica do mercado imobiliário, pode pressionar margens e encarecer imóveis",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFVjM3dyV0VTYTBjbzFHUjJVTktfNUwtWmRRdHNKc1BoMlNjMnRhOWlZV3RzcUJ0UE9HLTR5Uzdxb29YZWlRU20zQXJOX2NxT0VmbmlRWmtmSFA1czhsLWt2d3k0WVQ5Z0xwRWdBblB2ZDFzcWJmaVpSRF9OWVVOOXFIbGFDMjJCSm5HRkFxcW1JMFBXdnVHa2JnOHR0UVdvOWxfQmdkRHJEeUdsbTNEams1UTBvdDkwYW9jbnBfenlnSmh1WWU5cjBRcmlXQlp1b1NHV0F1UmR4NGh5TEHSAeMBQVVfeXFMUE12SzhzSzhBVG9MZFJReHVQQWRYY0pVR0RiNFBrLUw2SW44WGZjSEZIdkVybFpCZHFrSlhkdmN6NmF2MmhteFZxekJITzJhV1VVWmdVM0RvRTFyRk9RRVRtdG9EclVYZUFQR0FFdkJ0alRWbV9CZmlYdHZ1bk84QVhVZHBCTFlJcEJlRmJOMHdjaUxMSEZJOUlrX21LSzl4Z0JKOTRlTVZUMlJtYmxRa3hKekJzdG9udzdBUk5HU01ZN0w5R2RCYm5NV05kSkFVWlo5aVkzRWcyc2toaFd4OUZaN2M?oc=5",
+   "veiculo": "Estadão",
+   "trecho": "",
+   "data": "2026-11-28T05:30-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "Congresso",
+   "resumo": "Segundo a manchete do Estadão, a reforma tributária altera a dinâmica do mercado imobiliário brasileiro. A publicação aponta que as mudanças podem pressionar as margens do setor e encarecer os imóveis.",
+   "pratica": "Na prática, advogados e contadores que atuam com o setor imobiliário devem redobrar a atenção no planejamento e na precificação de novos empreendimentos devido aos reflexos da reforma. Com base exclusivamente no título, não é possível detalhar quais tributos específicos motivaram o encarecimento.",
+   "termos": [
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais no sistema de impostos do país."
+    },
+    {
+     "termo": "Mercado imobiliário",
+     "explicacao": "Setor econômico voltado à compra, venda e locação de bens imóveis."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "55643de7ff28ccbf",
+   "titulo": "Decisão do Carf dá créditos de PIS e Cofins à Cinemark, dona de 640 salas",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajhjZzZ5bEJzRTVwN0FXTmxyaFJ4YmsydjBTVklnSl9ici1MQ2t5WG8weWlhbWdIV21IQlRQcUJ1M3RpZl81Z296dG9MZG9pbzFQVnEwMG9kV3JuOWF1eFVMdEwxTC1aTDFaS0NQTHhoaHd5VTVBdk1TVHZxdjEybTk3bEk4UHpqb2ZQdlpHU2V5VHAzQlJFbEd5TGtQc0VGMVZINk42SU5QQUppMVU4dQ?oc=5",
+   "veiculo": "Mix Vale",
+   "trecho": "",
+   "data": "2026-11-28T05:00-03:00",
+   "tipo": "Decisão administrativa",
+   "tema": "PIS/Cofins",
+   "orgao": "CARF",
+   "resumo": "Segundo a manchete, uma decisão do Carf garantiu créditos de PIS e Cofins à rede de cinemas Cinemark. A informação veiculada destaca o entendimento do órgão em favor da empresa proprietária de centenas de salas.",
+   "pratica": "Na prática, o caso indica um precedente favorável no âmbito administrativo para empresas do setor exibidor que buscam o aproveitamento de créditos dessas contribuições.",
+   "termos": [
+    {
+     "termo": "Carf",
+     "explicacao": "Conselho Administrativo de Recursos Fiscais, órgão que julga recursos de autuações fiscais federais."
+    },
+    {
+     "termo": "PIS e Cofins",
+     "explicacao": "Contribuições federais incidentes sobre a receita ou faturamento das empresas."
+    },
+    {
+     "termo": "Créditos",
+     "explicacao": "Valores que o contribuinte pode abater do montante a pagar dessas contribuições."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "90da57015d1baf6f",
+   "titulo": "Concurso Receita Federal: FGV é a banca; edital iminente!",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Qd1dQT1VRdDZzWWNYUnRpSHIxYnNHNWk3QWNLZC1udTBiM0Z3V2lyNW16eW9qcGMtUjFlYThpckNfanF5NHVFSTc2NFE0Q3BpS2hlTVpZQUR5b3JJUGhCcmUtclBGUzFzQUJLQjdmM0FPT2vSAXhBVV95cUxOTWUyelVuN084MHE3M0FIZERudW1SRFJheU9LQjdORkpXQmcwdmQyQlhGeklxRlhOS2MyaDJ4Y3kzMXBQZHc0c1lqakNScW00ZS1JRHE2UHhuRzUwa2ZXeVlhREFvaU12RXNUbE9SVDlHeFVwSVE2SWw?oc=5",
+   "veiculo": "Estratégia Concursos",
+   "trecho": "",
+   "data": "2026-11-28T04:09-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Outros temas",
+   "orgao": "Receita Federal",
+   "resumo": "Segundo a manchete, a Fundação Getulio Vargas (FGV) foi definida como a banca organizadora do novo concurso da Receita Federal. Além disso, a publicação indica que a publicação do edital é iminente.",
+   "pratica": "Para profissionais e estudantes da área, a notícia sinaliza a necessidade de intensificar os estudos e a preparação voltada ao perfil de cobrança da banca FGV para o Fisco federal.",
+   "termos": [
+    {
+     "termo": "Receita Federal",
+     "explicacao": "Órgão responsável pela administração dos tributos federais e fiscalização aduaneira no Brasil."
+    },
+    {
+     "termo": "Edital",
+     "explicacao": "Documento oficial que rege as regras, conteúdo programático e etapas de um concurso público."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "782ec869d48c7a1e",
+   "titulo": "Prefeitura de Três Coroas se manifesta após decisão da Justiça que restabelece direito de Igrejinha ao ICMS da Heineken",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaHJ2Ml9xRllvUFVTZDItTXJHOUJIeVRzRm1PTUN1ZERQdVlQVHJMZ1JyWnlXQi1ldnktM2ZsQ2M3c01CTURTS2xFVjJxNjBieWtvdlJXSkJ2bXNQMXRKNFpFUTEtZFJUemFick1MOWRWeVhzdnVtajNZanNPNHpLVDhsLTRJMDJkU29MZDFUdlprMGx4aUtjR3ptZHVBZnlLVEFCSGctUGVZdXJYX0J5QmZFVTdRWmEtX0dSNjRfSWNHTHdOUGUyYzZFcUF4LVYydm1xVW1jaXJsMWwtRVZkcl9nNFBYdw?oc=5",
+   "veiculo": "abc+",
+   "trecho": "",
+   "data": "2026-11-27T22:05-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "ICMS",
+   "orgao": "Justiça",
+   "resumo": "Segundo a manchete, a Prefeitura de Três Coroas manifestou-se após uma decisão da Justiça que restabeleceu o direito do município de Igrejinha ao ICMS da Heineken. A controvérsia envolve a repartição de receitas tributárias estaduais entre os municípios envolvidos.",
+   "pratica": "Na prática, a disputa evidencia a relevância da comprovação do valor adicionado fiscal para a correta distribuição das receitas de ICMS entre os entes municipais.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto estadual sobre circulação de mercadorias e prestação de serviços de transporte e comunicação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "81ba60edfdd454b4",
+   "titulo": "STF declara inconstitucional revogação, por São Paulo, de isenção de ICMS para Áreas de Livre Comércio",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjg2a3NnS3cycWVueEZ6aDhoUjRFU0JsXzZ4R2ItNERwRmN6QjlFY1BMRS1TUnpSWmM5WHlpaURVNldURUhodFFOcTQ3TW9Rd0stVmIzT3F6dTg2ckpwZFpvYzR4R2FXWkpqcmV1Wk1lejloZWU1dFUtUGx5emRoZWw2eDFYMGxKbmpjMmRDUTlTejJtY0VOeTAyZmRleEVEeFFuYW5R?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-27T22:01-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal declarou a inconstitucionalidade da revogação, realizada pelo Estado de São Paulo, de isenção de ICMS destinada a Áreas de Livre Comércio. A decisão restabelece o benefício fiscal que havia sido cancelado pelo fisco paulista.",
+   "pratica": "Na prática, empresas e contribuintes que operam nas Áreas de Livre Comércio afetadas pela medida poderão retomar a aplicação da isenção de ICMS nas suas operações, aguardando a publicação oficial para orientar seus procedimentos de compliance fiscal.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual."
+    },
+    {
+     "termo": "Áreas de Livre Comércio",
+     "explicacao": "Regiões geográficas que possuem benefícios fiscais e aduaneiros especiais para fomentar o desenvolvimento regional."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "d0f2b1d5758b5c3d",
+   "titulo": "STF condiciona multa por distribuição de lucros por empresas devedoras da União a três requisitos cumulativos",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzV3TW1FVzd0Skh2bzF3MmFUcHdTSkxfRkgxYnVnOEN3d1B5UUNVWU12M1g1UEpvWUdFQnVnRlFJU3NMQlFYU3RZRUFhcEgyRDV0Rk9xSnFLZkc0NFhLaXk3VW45dHR0RGNkcl9iNFdzNW1SUi03X3otQkIwelVCN1Exaldna19MUGFRZXE3THFtQ2dlOEZnR2FNdnk5bGF0?oc=5",
+   "veiculo": "atlaspublico.com.br",
+   "trecho": "",
+   "data": "2026-11-27T22:01-03:00",
+   "tipo": "Julgamento",
+   "tema": "Planejamento e compliance",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, o Supremo Tribunal Federal condicionou a aplicação de multa por distribuição de lucros por empresas devedoras da União à observância de três requisitos cumulativos. A decisão traz contornos específicos para a responsabilização de companhias que possuem débitos fiscais federais e realizam a distribuição de proventos.",
+   "pratica": "Na prática, empresas com débitos perante a União devem redobrar a atenção aos requisitos estabelecidos pelo STF antes de realizar a distribuição de lucros, mitigando riscos de autuações e sanções.",
+   "termos": [
+    {
+     "termo": "distribuição de lucros",
+     "explicacao": "Repasse de ganhos da empresa aos seus sócios ou acionistas."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "b5276bd8d43b9633",
+   "titulo": "Agro, comércio e transporte acionam STF para adiar cobrança de novos tributos em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEdKcmFBT2NXZkpfcWk2SDhMQVZhdDdpSnVSN0gyeFFtcTB5dlVwODhBWEh5cXk2ODNlSXQtWnZ6RlprNVdXa1FKYnIydFY5Yjk1S2Z5SUx1TV9sQmxNZ0JrbENUNnZkQ19yNDFpbEhqaU5wRVBpMDR6WUNuTFBHSFZlTXdGcWo0OTVJaGpkS2JlbDlJeHJQQ1NfSE83TFQwcDhncU1RUGZOWEJUNWRiZGIyRndUUGlRLS1oTDNJNzlQQW12dlpZTTdMbElNeDVIOXc?oc=5",
+   "veiculo": "Fatos de Mato Grosso",
+   "trecho": "",
+   "data": "2026-11-27T21:52-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, setores do agro, comércio e transporte acionaram o STF para tentar adiar a cobrança de novos tributos prevista para o ano de 2027. A movimentação jurídica busca contestar o cronograma de implementação das exações tributárias para esses segmentos econômicos.",
+   "pratica": "Na prática, a iniciativa indica que os contribuintes desses setores estão buscando via Poder Judiciário maior tempo de adaptação às novas exigências fiscais. Profissionais da área devem monitorar o andamento da ação no Supremo para antecipar possíveis impactos no planejamento tributário para 2027.",
+   "termos": [
+    {
+     "termo": "novos tributos",
+     "explicacao": "Cobranças fiscais instituídas recentemente que passam a integrar o sistema tributário brasileiro."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "5a746d7afea0a1fe",
+   "titulo": "Entidades empresariais pedem ao Supremo o adiamento da reforma tributária",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjFjaVBhU3IyaG5rRV9YamQ0U2VKckt2M1d3eHZ0Vm1GUWZyai1PY19sNGxsVXJTN0g2QUt5c1M2RmVwSmF5TXhER0JiU1FuWDNpR1VsUEgxeno3TmI2OFdBRVdoWEJOUTl4VHdyYnpLQzVRZDNXaVhheXJMMTZSdktVVTFPQTkxekFyMkRUTDVCZDdvZjJRcTJDOE85VDDSAaQBQVVfeXFMT0QxLXctNjd3czlhUTNEUld6Z05KSy04VGJRa2hnZnliWVlES2FzLTZrWWoyR3NmYlN6TzRzc211TDhOekV5Y3JRLUM3T2JjS2N5TkpJbTFDNjFFNmVzVTF4WjdQNnloV0hLbS15TG9VOXZCV0xyYmlPQVQ0S040a1lkVkc0UTN5X1Q5MVlrcHVSTnVJVHVGZU45MHp1U3ktU0QybUY?oc=5",
+   "veiculo": "Jornal O Sul",
+   "trecho": "",
+   "data": "2026-11-27T21:19-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STF",
+   "resumo": "Segundo a manchete, entidades empresariais fizeram um pedido ao Supremo Tribunal Federal solicitando o adiamento da reforma tributária. A notícia reflete a movimentação do setor produtivo em relação aos prazos e à implementação das novas regras tributárias.",
+   "pratica": "Na prática, a movimentação sinaliza que empresas e entidades continuam buscando alternativas judiciais ou políticas para flexibilizar o cronograma e a adaptação às mudanças da reforma tributária.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais na estrutura de cobrança de impostos no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "dc571df86f39722f",
+   "titulo": "Igrejinha vence disputa pelo ICMS da cervejaria Heineken por 6 a 0; Três Coroas recorrerá - Portal da Cidade - Igrejinha / RS",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGw0dWlIZUJVMmFMZ2tWV3pUb0Rxb3pHYzgwaDdJOXFCaG5YUGFDWWJEaGJ6cy1aWFkwUjFWUG40cmgzSW10aHViUDNZT1dvQTlpTV9aZnQ4N3V6Y2w3NlR4aV9kLTZvSXBaMnNqSU1iU2tHSVlpYmN1VXUtQVUwUGdmZ25mS0Qzb0lqMldMaVRMTUFhdEZfVHpvTFRjVmhCQTFpRFZTVjc2NGVfUENfNjFXOTk0MlJjYWRuVC1wQ3I3Z0JFRlVXTFJPSUZFVEhPWEhPU05XZE0zaWliVjVV?oc=5",
+   "veiculo": "Portal da Cidade - Igrejinha / RS",
+   "trecho": "",
+   "data": "2026-11-27T20:00-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "",
+   "resumo": "Segundo a manchete, o município de Igrejinha venceu por 6 a 0 uma disputa relacionada ao ICMS da cervejaria Heineken. A publicação informa ainda que o município de Três Coroas pretende recorrer da decisão.",
+   "pratica": "O caso ilustra disputas municipais envolvendo a arrecadação e a repartição de receitas de ICMS geradas por grandes indústrias, impactando o contencioso fiscal local.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Circulação de Mercadorias e Serviços, de competência estadual, cuja arrecadação é parcialmente repassada aos municípios."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "c4ce4588149d1dfb",
+   "titulo": "Justiça restabelece direito de Igrejinha ao ICMS da Heineken após julgamento unânime",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNalBpTkZoTmQ2TnhDMFYzX3hvc2prUDV6dHpJQVM3OHBCYV9VdEt4bnl5QWRybk1QQXB2dTU4dkp1V3g5TGRfQmZPa1ZNSGpYdkVmMFhZcURzOHRQV2JsallSSllXUXB2aVRxQUhfZGF2c1VFRjhwOTdkLUVHaWtyM1dZVTFqWkgzamxscy1ZRDJLaW83UW8ybXlxZ2xvYUNjeUhFbzdKU1pvWGV0cnVQWHdhMnRXdUk?oc=5",
+   "veiculo": "abc+",
+   "trecho": "",
+   "data": "2026-11-27T19:22-03:00",
+   "tipo": "Julgamento",
+   "tema": "ICMS",
+   "orgao": "Judiciário",
+   "resumo": "Segundo a manchete, a Justiça restabeleceu por unanimidade o direito do município de Igrejinha ao ICMS relacionado à Heineken. A decisão reformou um entendimento anterior, garantindo novamente a receita tributária ao ente municipal envolvido.",
+   "pratica": "Na prática, a decisão assegura o repasse de recursos de ICMS para o município de Igrejinha, reforçando a importância de acompanhar litígios sobre a arrecadação e repartição desse imposto.",
+   "termos": [
+    {
+     "termo": "ICMS",
+     "explicacao": "Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "14ead48b87d234ef",
+   "titulo": "STJ decide que o adquirente de imóvel na planta não deve arcar com o IPTU antes da posse",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGRKcTdtQWxnTnNXU3ZSaENackJCa3dBNGUxUUhfY1lxWk96aFhMRkREcm42SzBBVFc3T2ZzX3V1T3JGV0Y4VjVUZDY2dmpVUDNnWm9RVmZTUUZsVTNCeWpSN3lLU0p0UzJ0QW4xZW44X0xIY2VBOXQ1NE53SFFtb3ZRejVaNDM5dzJmazh2SzhROVVWVHB0MTREZktQTDd6SUFTU0hVQmFJVC1nb2VrclUxSVNscUE?oc=5",
+   "veiculo": "Torreão Braz Advogados",
+   "trecho": "",
+   "data": "2026-11-27T18:35-03:00",
+   "tipo": "Julgamento",
+   "tema": "Outros temas",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça decidiu que o comprador de imóvel na planta não tem a obrigação de arcar com o IPTU antes de receber a posse efetiva do bem. A definição afeta a responsabilidade tributária pelo imposto municipal em empreendimentos imobiliários.",
+   "pratica": "Na prática, compradores de imóveis na planta podem questionar a cobrança de IPTU realizada pelas construtoras antes da entrega das chaves, evitando pagamentos indevidos.",
+   "termos": [
+    {
+     "termo": "IPTU",
+     "explicacao": "Imposto predial e territorial urbano cobrado pelos municípios sobre a propriedade de imóveis."
+    },
+    {
+     "termo": "Adquirente",
+     "explicacao": "A pessoa que compra ou adquire o imóvel."
+    }
+   ],
+   "importancia": 3,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "4d660406d2503510",
+   "titulo": "STJ cria observatório para monitorar reforma tributária e frear ações",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1hiV1Uxa002UU5KandZVzg2UG1ENnZIUHJkbGdwUnllb0s4Y0YyYlFKRWp2VlVXaV84NzhZbmhCR0NsbktJZXE4MVBtN0hZNk5OUzVDRDVhSFdzckxVYUFaRlZGRXpOck5EMjROWHQzUUtSajQ2QUlzYUNadTMxV2NlcWFybzZSTkdQQTdUQjZOYkR1VXhsWm5SbHg5Y0FRbWc?oc=5",
+   "veiculo": "Debate Jurídico",
+   "trecho": "",
+   "data": "2026-11-27T18:00-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "STJ",
+   "resumo": "Segundo a manchete, o Superior Tribunal de Justiça criou um observatório com o objetivo de monitorar a reforma tributária e frear a propositura de novas ações judiciais. A medida busca acompanhar os reflexos das mudanças constitucionais e legais na litigiosidade.",
+   "pratica": "Na prática, a criação do observatório sinaliza uma postura preventiva do Judiciário frente à enxurrada de conflitos esperada com a transição do novo sistema tributário, o que pode influenciar a estratégia de contencioso das empresas.",
+   "termos": [
+    {
+     "termo": "Reforma Tributária",
+     "explicacao": "Conjunto de alterações constitucionais e legais que reescrevem o sistema de tributação sobre o consumo no Brasil."
+    }
+   ],
+   "importancia": 2,
+   "analisado_por_ia": true
+  },
+  {
+   "id": "31c9ebb19ca0cf5e",
+   "titulo": "Conselho Tributário da FIEMG debate ajuste fiscal e reforma",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWhCMmpIZTFLdnMxWFd1SmNYZDd6V0RmVWx6T0cybHZaN1RnQ05jOXhkUXZISWJiU0szTEdaZ1RQRkJmMzViZzNSUF9mYjlPUXdQZVo1SmtHcmUtZThFRlI0aC1CRUxrRFZuLVhCaDNSTUQ0ZTRHRTdoaFhFekFubThyNXMzS01OaE90ZDVXVDdrRFdMOGVObVRR?oc=5",
+   "veiculo": "FIEMG",
+   "trecho": "",
+   "data": "2026-11-27T17:22-03:00",
+   "tipo": "Notícia e debate",
+   "tema": "Reforma Tributária",
+   "orgao": "FIEMG",
+   "resumo": "Segundo a manchete, o Conselho Tributário da FIEMG promoveu um debate focado em temas cruciais como ajuste fiscal e reforma tributária. A discussão reuniu especialistas para analisar os impactos dessas mudanças no cenário econômico e empresarial.",
+   "pratica": "Na prática, o acompanhamento desses debates ajuda empresas e profissionais a anteciparem tendências e prepararem suas estratégias diante de futuros ajustes fiscais e da reforma tributária.",
+   "termos": [
+    {
+     "termo": "Ajuste fiscal",
+     "explicacao": "Conjunto de medidas econômicas adotadas para equilibrar as contas públicas."
+    },
+    {
+     "termo": "Reforma tributária",
+     "explicacao": "Mudança estrutural na legislação de impostos para simplificar o sistema de arrecadação."
+    }
+   ],
+   "importancia": 1,
+   "analisado_por_ia": true
+  },
+  {
    "id": "32f24156edef3d6d",
    "titulo": "Sinprofaz realiza congresso sobre segurança jurídica e reforma tributária",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEVWZng3aHE5cHpfMnR3UkdhZkFiZjNaeGZEWk9vR1o1eC1zYjIyZDA0R1k3U2dZSkRWMmZPZGRzVWxrVWpuRS1TblRFcjlENFktRUlEQy0xNUV4NnNGY014MUFLdlNmbGRXeTdJaUhRNXRsd19pY3dmUk1zZHdUMk01anQ1cF9HUlZmZjZldFYtaDBwZzJrRHRHaWVfYXVYQ0tWQTZtQQ?oc=5",
@@ -24754,7 +25399,8 @@
   "2026-11-24": "Nesta edição, destacam-se decisões judiciais e normativas de grande relevância para a segurança jurídica. No âmbito do Supremo Tribunal Federal, foi vetada a cobrança antecipada do ICMS-difal para o Simples Nacional no Paraná com base em decreto e lei genérica. Já o Superior Tribunal de Justiça definiu parâmetros fundamentais de responsabilidade sucessória sobre as regras para herdeiros pagarem dívidas tributárias de falecidos. Por fim, a Reforma Tributária segue no centro dos debates econômicos e legislativos, evidenciando medidas como a zeragem de impostos para uma lista de 22 alimentos — incluindo carnes, arroz e café — e discussões sobre a calibragem de alíquotas da CBS e do Imposto Seletivo.",
   "2026-11-25": "Nesta edição, destacam-se as novas regras do Simples Nacional e do Imposto Seletivo decorrentes da Reforma Tributária, que exigem adaptações normativas, revisão de preços, contratos e sistemas pelas empresas a partir de 2027. Além disso, a sanção da lei do ajuste fiscal sem vetos estabelece novas normas para gastos e finanças públicas, entrando em vigor imediatamente. Por fim, o Senado debateu a redução da sonegação para diminuir a alíquota da CBS para menos de 10%, enquanto estudos apontam que o desconto de 60% no IBS e na CBS não garante, isoladamente, uma carga tributária menor, exigindo atenção redobrada do contribuinte no planejamento tributário.",
   "2026-11-26": "Nesta edição, destacam-se os avanças e debates em torno da Reforma Tributária, com o Congresso iniciando a discussão sobre as regras e a Medida Provisória do Imposto Seletivo, além das avaliações sobre os impactos macroeconômicos e a pressão na inflação e nos preços de produtos a partir de 2027. Importam também as movimentações do setor produtivo, como o pedido de adiamento da reforma ao STF por confederações empresariais e os alertas da CNA e da CNC sobre os reflexos da alíquota da CBS. Por fim, na seara jurisprudencial e normativa, o STJ definiu temas cruciais sobre contribuições previdenciárias e sucessão de dívidas por fundações extintas, e o Confaz atualizou a pauta fiscal do PMPF para o ICMS sobre combustíveis.",
-  "2026-11-27": "O boletim de hoje destaca os desdobramentos da Reforma Tributária, com forte repercussão econômica e institucional: entidades setoriais como CNA, CNT e CNC protocolaram pedido no STF buscando o adiamento das novas regras de transição, enquanto o STJ criou um observatório para monitorar os impactos e efeitos práticos das mudanças. No âmbito jurisprudencial, o STJ afetou tema em recursos repetitivos para definir a incidência de IRRF sobre horas de repouso e alimentação após a reforma trabalhista, buscando pacificar a natureza tributária da verba. Por fim, o CGSN oficializou no DOU as novas regras do MEI para janeiro de 2027, elevando o limite de faturamento para R$ 110 mil e permitindo a contratação de até dois empregados."
+  "2026-11-27": "O boletim de hoje destaca os desdobramentos da Reforma Tributária, com forte repercussão econômica e institucional: entidades setoriais como CNA, CNT e CNC protocolaram pedido no STF buscando o adiamento das novas regras de transição, enquanto o STJ criou um observatório para monitorar os impactos e efeitos práticos das mudanças. No âmbito jurisprudencial, o STJ afetou tema em recursos repetitivos para definir a incidência de IRRF sobre horas de repouso e alimentação após a reforma trabalhista, buscando pacificar a natureza tributária da verba. Por fim, o CGSN oficializou no DOU as novas regras do MEI para janeiro de 2027, elevando o limite de faturamento para R$ 110 mil e permitindo a contratação de até dois empregados.",
+  "2026-11-28": "O destaque do dia concentra-se nas decisões do Supremo Tribunal Federal sobre o ICMS em Áreas de Livre Comércio e sobre os requisitos para multa na distribuição de lucros por devedores federais, além da movimentação de entidades que pedem ao STF o adiamento da reforma tributária. Esses temas importam porque impactam diretamente benefícios fiscais estaduais, estabelecem critérios para a responsabilização tributária de companhias e refletem a intensa reação do setor produtivo quanto à implementação e aos prazos das novas regras do sistema fiscal nacional."
  },
  "glossario": {
   "tributos": "Valores cobrados pelo Estado que, neste caso, incidem sobre o fornecimento de energia elétrica.",
@@ -25328,9 +25974,18 @@
   "ICMS do petróleo": "Parcela da arrecadação do ICMS gerada pela atividade petrolífera e distribuída entre os municípios conforme critérios legais.",
   "CGSN": "Órgão regulador responsável por definir as normas do regime do Simples Nacional.",
   "Preço de referência": "Valor médio estipulado pelo fisco para servir de base de cálculo do imposto em substituição ao preço real da operação.",
-  "Impostos sobre consumo": "Tributos incidentes sobre a circulação de mercadorias e prestação de serviços, alvo principal das mudanças da reforma."
+  "Impostos sobre consumo": "Tributos incidentes sobre a circulação de mercadorias e prestação de serviços, alvo principal das mudanças da reforma.",
+  "imposto": "Tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica.",
+  "patrimônio no exterior": "Bens e investimentos mantidos por residentes no Brasil em outros países.",
+  "negociação tributária": "Acordo ou entendimentos entre o contribuinte e o Fisco para a quitação de débitos fiscais.",
+  "Cide": "Contribuição de Intervenção no Domínio Econômico incidente sobre remessas ao exterior.",
+  "Mercado imobiliário": "Setor econômico voltado à compra, venda e locação de bens imóveis.",
+  "Áreas de Livre Comércio": "Regiões geográficas que possuem benefícios fiscais e aduaneiros especiais para fomentar o desenvolvimento regional.",
+  "distribuição de lucros": "Repasse de ganhos da empresa aos seus sócios ou acionistas.",
+  "novos tributos": "Cobranças fiscais instituídas recentemente que passam a integrar o sistema tributário brasileiro.",
+  "Adquirente": "A pessoa que compra ou adquire o imóvel."
  },
- "atualizado_em": "2026-11-27T15:36-03:00",
+ "atualizado_em": "2026-11-28T14:18-03:00",
  "tipos": [
   "Julgamento",
   "Decisão administrativa",
